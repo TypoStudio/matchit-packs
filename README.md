@@ -2,8 +2,26 @@
 
 [Match It](https://github.com/TypoStudio/matchit) 게임의 **학습팩 저장소**입니다. 게임 본체와 분리해 모든 팩을 여기서 관리하고, GitHub Pages로 배포합니다. 게임은 시작할 때 [`packs.json`](packs.json) 카탈로그를 읽어 기본 학습팩 목록을 구성합니다.
 
-- 기본 카탈로그: `https://typostudio.github.io/matchit-packs/packs.json`
+- 🎮 게임: <https://typostudio.github.io/matchit/>
+- 🌐 배포(Pages): <https://typostudio.github.io/matchit-packs/> · 카탈로그 <https://typostudio.github.io/matchit-packs/packs.json>
 - 사용자는 게임의 **추가팩 관리**에서 다른 팩 JSON URL을 더할 수 있습니다(목록은 사용자 기기에만 저장).
+
+## 학습팩 목록
+
+| 학습팩 | 분류 | 레벨 | 폴더 |
+| --- | --- | --- | --- |
+| 한자능력시험 | 어학 | 16 — 8급~특급 (급수별) | [language/hanja-grade](language/hanja-grade/) |
+| 영어단어 | 어학 | 6 — 중1~고3 | [language/english-word](language/english-word/) |
+| 영문법 | 어학 | 10 | [language/english-grammar](language/english-grammar/) |
+| 사자성어 | 국어 | 10 | [korean/korean-idiom](korean/korean-idiom/) |
+| 속담 | 국어 | 6 | [korean/korean-proverb](korean/korean-proverb/) |
+| 화학식 | 과학 | 10 | [science/science-core](science/science-core/) |
+| 수학 공식 | 수학 | 7 — 중등·공통수학·수학Ⅰ·Ⅱ·미적분·기하·확률과통계 | [math/math-formula](math/math-formula/) |
+| 국사 | 역사 | 10 | [history/korean-history](history/korean-history/) |
+| 세계사 | 역사 | 10 | [history/world-history](history/world-history/) |
+| 과일 모으기 | 놀이 | 2 | [arcade/fruit-emoji](arcade/fruit-emoji/) |
+
+전체 목록은 [`packs.json`](packs.json)에 정의됩니다.
 
 ## 사용법 (팩 추가)
 
