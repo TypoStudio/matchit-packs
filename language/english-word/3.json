@@ -1,0 +1,2752 @@
+[
+  {
+    "word": "bay",
+    "meaning": "만",
+    "hint": "바다굽이"
+  },
+  {
+    "word": "bet",
+    "meaning": "내기하다",
+    "hint": "돈걸기"
+  },
+  {
+    "word": "bud",
+    "meaning": "꽃봉오리",
+    "hint": "피기전꽃"
+  },
+  {
+    "word": "dam",
+    "meaning": "댐",
+    "hint": "물막이"
+  },
+  {
+    "word": "dig",
+    "meaning": "파다",
+    "hint": "땅파기"
+  },
+  {
+    "word": "dim",
+    "meaning": "어둑한",
+    "hint": "희미한"
+  },
+  {
+    "word": "dip",
+    "meaning": "담그다",
+    "hint": "적시기"
+  },
+  {
+    "word": "dot",
+    "meaning": "점",
+    "hint": "작은표시"
+  },
+  {
+    "word": "dye",
+    "meaning": "염색하다",
+    "hint": "색물들이기"
+  },
+  {
+    "word": "area",
+    "meaning": "구역",
+    "hint": "범위"
+  },
+  {
+    "word": "atom",
+    "meaning": "원자",
+    "hint": "작은입자"
+  },
+  {
+    "word": "beam",
+    "meaning": "광선",
+    "hint": "빛줄기"
+  },
+  {
+    "word": "bend",
+    "meaning": "구부리다",
+    "hint": "휘게하다"
+  },
+  {
+    "word": "blur",
+    "meaning": "흐릿하다",
+    "hint": "또렷하지않음"
+  },
+  {
+    "word": "bold",
+    "meaning": "대담한",
+    "hint": "용감한"
+  },
+  {
+    "word": "bond",
+    "meaning": "유대",
+    "hint": "연결고리"
+  },
+  {
+    "word": "boom",
+    "meaning": "호황",
+    "hint": "급성장"
+  },
+  {
+    "word": "bull",
+    "meaning": "황소",
+    "hint": "수소"
+  },
+  {
+    "word": "bump",
+    "meaning": "부딪치다",
+    "hint": "충돌"
+  },
+  {
+    "word": "bury",
+    "meaning": "묻다",
+    "hint": "땅에넣다"
+  },
+  {
+    "word": "cage",
+    "meaning": "우리",
+    "hint": "동물가둠"
+  },
+  {
+    "word": "calm",
+    "meaning": "차분한",
+    "hint": "고요한"
+  },
+  {
+    "word": "cash",
+    "meaning": "현금",
+    "hint": "돈"
+  },
+  {
+    "word": "cell",
+    "meaning": "세포",
+    "hint": "생물단위"
+  },
+  {
+    "word": "chat",
+    "meaning": "잡담하다",
+    "hint": "수다"
+  },
+  {
+    "word": "chef",
+    "meaning": "요리사",
+    "hint": "주방장"
+  },
+  {
+    "word": "chew",
+    "meaning": "씹다",
+    "hint": "음식갈기"
+  },
+  {
+    "word": "chip",
+    "meaning": "조각",
+    "hint": "부서진것"
+  },
+  {
+    "word": "chop",
+    "meaning": "썰다",
+    "hint": "잘게자르기"
+  },
+  {
+    "word": "clap",
+    "meaning": "박수치다",
+    "hint": "손뼉"
+  },
+  {
+    "word": "clay",
+    "meaning": "점토",
+    "hint": "진흙"
+  },
+  {
+    "word": "clue",
+    "meaning": "단서",
+    "hint": "실마리"
+  },
+  {
+    "word": "code",
+    "meaning": "암호",
+    "hint": "부호"
+  },
+  {
+    "word": "cope",
+    "meaning": "대처하다",
+    "hint": "맞서다"
+  },
+  {
+    "word": "copy",
+    "meaning": "복사하다",
+    "hint": "베끼다"
+  },
+  {
+    "word": "crew",
+    "meaning": "승무원",
+    "hint": "배비행기직원"
+  },
+  {
+    "word": "crop",
+    "meaning": "농작물",
+    "hint": "기른곡식"
+  },
+  {
+    "word": "cube",
+    "meaning": "정육면체",
+    "hint": "네모덩어리"
+  },
+  {
+    "word": "cure",
+    "meaning": "치료하다",
+    "hint": "병낫게"
+  },
+  {
+    "word": "curl",
+    "meaning": "곱슬거리다",
+    "hint": "말림"
+  },
+  {
+    "word": "dare",
+    "meaning": "감히하다",
+    "hint": "용기내다"
+  },
+  {
+    "word": "data",
+    "meaning": "자료",
+    "hint": "데이터"
+  },
+  {
+    "word": "dawn",
+    "meaning": "새벽",
+    "hint": "동틀무렵"
+  },
+  {
+    "word": "deaf",
+    "meaning": "귀먹은",
+    "hint": "못듣는"
+  },
+  {
+    "word": "debt",
+    "meaning": "빚",
+    "hint": "갚을돈"
+  },
+  {
+    "word": "deck",
+    "meaning": "갑판",
+    "hint": "배바닥"
+  },
+  {
+    "word": "deny",
+    "meaning": "부정하다",
+    "hint": "아니라하기"
+  },
+  {
+    "word": "dice",
+    "meaning": "주사위",
+    "hint": "놀이도구"
+  },
+  {
+    "word": "diet",
+    "meaning": "식단",
+    "hint": "먹거리"
+  },
+  {
+    "word": "dirt",
+    "meaning": "먼지",
+    "hint": "흙때"
+  },
+  {
+    "word": "dive",
+    "meaning": "잠수하다",
+    "hint": "물속들어가기"
+  },
+  {
+    "word": "dock",
+    "meaning": "부두",
+    "hint": "배대는곳"
+  },
+  {
+    "word": "dose",
+    "meaning": "복용량",
+    "hint": "약한번분량"
+  },
+  {
+    "word": "drag",
+    "meaning": "끌다",
+    "hint": "잡아당기기"
+  },
+  {
+    "word": "drip",
+    "meaning": "뚝뚝떨어지다",
+    "hint": "물방울"
+  },
+  {
+    "word": "dump",
+    "meaning": "버리다",
+    "hint": "내던지기"
+  },
+  {
+    "word": "dusk",
+    "meaning": "황혼",
+    "hint": "해질녘"
+  },
+  {
+    "word": "duty",
+    "meaning": "의무",
+    "hint": "해야할일"
+  },
+  {
+    "word": "earn",
+    "meaning": "벌다",
+    "hint": "돈얻기"
+  },
+  {
+    "word": "echo",
+    "meaning": "메아리",
+    "hint": "소리울림"
+  },
+  {
+    "word": "fade",
+    "meaning": "바래다",
+    "hint": "색옅어짐"
+  },
+  {
+    "word": "fare",
+    "meaning": "요금",
+    "hint": "교통비"
+  },
+  {
+    "word": "flap",
+    "meaning": "펄럭이다",
+    "hint": "날개짓"
+  },
+  {
+    "word": "flee",
+    "meaning": "달아나다",
+    "hint": "도망가기"
+  },
+  {
+    "word": "flip",
+    "meaning": "뒤집다",
+    "hint": "뒤집기"
+  },
+  {
+    "word": "foam",
+    "meaning": "거품",
+    "hint": "부글부글"
+  },
+  {
+    "word": "fold",
+    "meaning": "접다",
+    "hint": "종이접기"
+  },
+  {
+    "word": "mark",
+    "meaning": "표",
+    "hint": "흔적"
+  },
+  {
+    "word": "myth",
+    "meaning": "신화",
+    "hint": "옛신이야기"
+  },
+  {
+    "word": "sign",
+    "meaning": "표시",
+    "hint": "기호"
+  },
+  {
+    "word": "unit",
+    "meaning": "단위",
+    "hint": "기준량"
+  },
+  {
+    "word": "vote",
+    "meaning": "투표",
+    "hint": "표던지기"
+  },
+  {
+    "word": "adapt",
+    "meaning": "적응하다",
+    "hint": "맞추다"
+  },
+  {
+    "word": "alarm",
+    "meaning": "경보",
+    "hint": "위험알림"
+  },
+  {
+    "word": "allow",
+    "meaning": "허락하다",
+    "hint": "하게하다"
+  },
+  {
+    "word": "angel",
+    "meaning": "천사",
+    "hint": "하늘의존재"
+  },
+  {
+    "word": "arena",
+    "meaning": "경기장",
+    "hint": "투기장"
+  },
+  {
+    "word": "awake",
+    "meaning": "깨어있는",
+    "hint": "잠안잠"
+  },
+  {
+    "word": "award",
+    "meaning": "상",
+    "hint": "수여물"
+  },
+  {
+    "word": "badge",
+    "meaning": "배지",
+    "hint": "표식"
+  },
+  {
+    "word": "blame",
+    "meaning": "탓하다",
+    "hint": "비난"
+  },
+  {
+    "word": "blank",
+    "meaning": "빈칸",
+    "hint": "비어있음"
+  },
+  {
+    "word": "blend",
+    "meaning": "섞다",
+    "hint": "혼합"
+  },
+  {
+    "word": "blink",
+    "meaning": "깜박이다",
+    "hint": "눈깜빡"
+  },
+  {
+    "word": "bloom",
+    "meaning": "꽃피다",
+    "hint": "개화"
+  },
+  {
+    "word": "boast",
+    "meaning": "자랑하다",
+    "hint": "뽐내다"
+  },
+  {
+    "word": "boost",
+    "meaning": "북돋우다",
+    "hint": "증가시키다"
+  },
+  {
+    "word": "brick",
+    "meaning": "벽돌",
+    "hint": "건축재료"
+  },
+  {
+    "word": "broom",
+    "meaning": "빗자루",
+    "hint": "쓸기도구"
+  },
+  {
+    "word": "bunch",
+    "meaning": "다발",
+    "hint": "한묶음"
+  },
+  {
+    "word": "cabin",
+    "meaning": "오두막",
+    "hint": "작은집"
+  },
+  {
+    "word": "cable",
+    "meaning": "전선",
+    "hint": "굵은선"
+  },
+  {
+    "word": "canal",
+    "meaning": "운하",
+    "hint": "인공물길"
+  },
+  {
+    "word": "cargo",
+    "meaning": "화물",
+    "hint": "실은짐"
+  },
+  {
+    "word": "carve",
+    "meaning": "조각하다",
+    "hint": "새기다"
+  },
+  {
+    "word": "cease",
+    "meaning": "멈추다",
+    "hint": "그만두다"
+  },
+  {
+    "word": "charm",
+    "meaning": "매력",
+    "hint": "끌림"
+  },
+  {
+    "word": "chart",
+    "meaning": "도표",
+    "hint": "표"
+  },
+  {
+    "word": "chase",
+    "meaning": "쫓다",
+    "hint": "추격"
+  },
+  {
+    "word": "cheap",
+    "meaning": "싼",
+    "hint": "값낮은"
+  },
+  {
+    "word": "cheer",
+    "meaning": "응원하다",
+    "hint": "환호"
+  },
+  {
+    "word": "chunk",
+    "meaning": "덩어리",
+    "hint": "큰조각"
+  },
+  {
+    "word": "click",
+    "meaning": "클릭하다",
+    "hint": "누르기"
+  },
+  {
+    "word": "comet",
+    "meaning": "혜성",
+    "hint": "꼬리별"
+  },
+  {
+    "word": "couch",
+    "meaning": "소파",
+    "hint": "긴의자"
+  },
+  {
+    "word": "cough",
+    "meaning": "기침하다",
+    "hint": "콜록"
+  },
+  {
+    "word": "crack",
+    "meaning": "금가다",
+    "hint": "갈라짐"
+  },
+  {
+    "word": "craft",
+    "meaning": "공예",
+    "hint": "손기술"
+  },
+  {
+    "word": "crash",
+    "meaning": "충돌하다",
+    "hint": "세게부딪힘"
+  },
+  {
+    "word": "crawl",
+    "meaning": "기어가다",
+    "hint": "바닥기기"
+  },
+  {
+    "word": "creep",
+    "meaning": "살금기다",
+    "hint": "몰래가기"
+  },
+  {
+    "word": "crime",
+    "meaning": "범죄",
+    "hint": "나쁜짓"
+  },
+  {
+    "word": "crush",
+    "meaning": "으깨다",
+    "hint": "눌러부수기"
+  },
+  {
+    "word": "decay",
+    "meaning": "썩다",
+    "hint": "부패"
+  },
+  {
+    "word": "delay",
+    "meaning": "미루다",
+    "hint": "늦추다"
+  },
+  {
+    "word": "depth",
+    "meaning": "깊이",
+    "hint": "깊은정도"
+  },
+  {
+    "word": "diary",
+    "meaning": "일기",
+    "hint": "매일기록"
+  },
+  {
+    "word": "donor",
+    "meaning": "기증자",
+    "hint": "주는사람"
+  },
+  {
+    "word": "drain",
+    "meaning": "배수하다",
+    "hint": "물빼기"
+  },
+  {
+    "word": "dread",
+    "meaning": "두려워하다",
+    "hint": "무서워하기"
+  },
+  {
+    "word": "drift",
+    "meaning": "떠돌다",
+    "hint": "흘러가기"
+  },
+  {
+    "word": "drown",
+    "meaning": "익사하다",
+    "hint": "물에빠짐"
+  },
+  {
+    "word": "eager",
+    "meaning": "열망하는",
+    "hint": "간절한"
+  },
+  {
+    "word": "empty",
+    "meaning": "빈",
+    "hint": "아무것도없는"
+  },
+  {
+    "word": "essay",
+    "meaning": "수필",
+    "hint": "에세이"
+  },
+  {
+    "word": "faint",
+    "meaning": "기절하다",
+    "hint": "정신잃기"
+  },
+  {
+    "word": "fancy",
+    "meaning": "화려한",
+    "hint": "고급스런"
+  },
+  {
+    "word": "ferry",
+    "meaning": "여객선",
+    "hint": "건너는배"
+  },
+  {
+    "word": "fetch",
+    "meaning": "가져오다",
+    "hint": "가서가져옴"
+  },
+  {
+    "word": "flash",
+    "meaning": "번쩍이다",
+    "hint": "빛번쩍"
+  },
+  {
+    "word": "float",
+    "meaning": "떠다니다",
+    "hint": "물에뜸"
+  },
+  {
+    "word": "flood",
+    "meaning": "홍수",
+    "hint": "물넘침"
+  },
+  {
+    "word": "flush",
+    "meaning": "물내리다",
+    "hint": "씻어내기"
+  },
+  {
+    "word": "graph",
+    "meaning": "그래프",
+    "hint": "도표"
+  },
+  {
+    "word": "image",
+    "meaning": "이미지",
+    "hint": "형상"
+  },
+  {
+    "word": "judge",
+    "meaning": "판사",
+    "hint": "심판자"
+  },
+  {
+    "word": "label",
+    "meaning": "라벨",
+    "hint": "꼬리표"
+  },
+  {
+    "word": "limit",
+    "meaning": "한계",
+    "hint": "끝"
+  },
+  {
+    "word": "proof",
+    "meaning": "증명",
+    "hint": "입증"
+  },
+  {
+    "word": "range",
+    "meaning": "범위",
+    "hint": "폭"
+  },
+  {
+    "word": "robot",
+    "meaning": "로봇",
+    "hint": "기계인간"
+  },
+  {
+    "word": "scale",
+    "meaning": "규모",
+    "hint": "크기"
+  },
+  {
+    "word": "solid",
+    "meaning": "고체",
+    "hint": "단단한것"
+  },
+  {
+    "word": "title",
+    "meaning": "제목",
+    "hint": "표제"
+  },
+  {
+    "word": "vivid",
+    "meaning": "생생한",
+    "hint": "선명한"
+  },
+  {
+    "word": "waste",
+    "meaning": "낭비하다",
+    "hint": "버리다"
+  },
+  {
+    "word": "absorb",
+    "meaning": "흡수하다",
+    "hint": "빨아들이다"
+  },
+  {
+    "word": "accent",
+    "meaning": "억양",
+    "hint": "말투"
+  },
+  {
+    "word": "agency",
+    "meaning": "대행사",
+    "hint": "대리기관"
+  },
+  {
+    "word": "annual",
+    "meaning": "연간의",
+    "hint": "해마다"
+  },
+  {
+    "word": "aspect",
+    "meaning": "측면",
+    "hint": "면"
+  },
+  {
+    "word": "assume",
+    "meaning": "가정하다",
+    "hint": "추측하다"
+  },
+  {
+    "word": "battle",
+    "meaning": "전투",
+    "hint": "싸움"
+  },
+  {
+    "word": "beggar",
+    "meaning": "거지",
+    "hint": "구걸하는사람"
+  },
+  {
+    "word": "behave",
+    "meaning": "행동하다",
+    "hint": "처신"
+  },
+  {
+    "word": "betray",
+    "meaning": "배신하다",
+    "hint": "등돌리다"
+  },
+  {
+    "word": "bitter",
+    "meaning": "쓴",
+    "hint": "맛쓰다"
+  },
+  {
+    "word": "border",
+    "meaning": "국경",
+    "hint": "경계"
+  },
+  {
+    "word": "bounce",
+    "meaning": "튀다",
+    "hint": "공튀김"
+  },
+  {
+    "word": "bucket",
+    "meaning": "양동이",
+    "hint": "물통"
+  },
+  {
+    "word": "budget",
+    "meaning": "예산",
+    "hint": "계획돈"
+  },
+  {
+    "word": "cancel",
+    "meaning": "취소하다",
+    "hint": "없던일로"
+  },
+  {
+    "word": "canvas",
+    "meaning": "캔버스",
+    "hint": "그림천"
+  },
+  {
+    "word": "carbon",
+    "meaning": "탄소",
+    "hint": "원소"
+  },
+  {
+    "word": "carpet",
+    "meaning": "카펫",
+    "hint": "바닥깔개"
+  },
+  {
+    "word": "casual",
+    "meaning": "평상시의",
+    "hint": "격식없는"
+  },
+  {
+    "word": "chorus",
+    "meaning": "합창",
+    "hint": "여럿노래"
+  },
+  {
+    "word": "cinema",
+    "meaning": "영화관",
+    "hint": "영화보는곳"
+  },
+  {
+    "word": "clever",
+    "meaning": "영리한",
+    "hint": "똑똑한"
+  },
+  {
+    "word": "clinic",
+    "meaning": "진료소",
+    "hint": "작은병원"
+  },
+  {
+    "word": "clumsy",
+    "meaning": "서투른",
+    "hint": "어설픈"
+  },
+  {
+    "word": "collar",
+    "meaning": "옷깃",
+    "hint": "목둘레"
+  },
+  {
+    "word": "column",
+    "meaning": "기둥",
+    "hint": "세로기둥"
+  },
+  {
+    "word": "comedy",
+    "meaning": "희극",
+    "hint": "웃긴극"
+  },
+  {
+    "word": "crispy",
+    "meaning": "바삭한",
+    "hint": "바스락"
+  },
+  {
+    "word": "cuddle",
+    "meaning": "껴안다",
+    "hint": "포옹"
+  },
+  {
+    "word": "damage",
+    "meaning": "손상",
+    "hint": "해침"
+  },
+  {
+    "word": "desire",
+    "meaning": "욕구",
+    "hint": "바람"
+  },
+  {
+    "word": "device",
+    "meaning": "장치",
+    "hint": "기기"
+  },
+  {
+    "word": "drowsy",
+    "meaning": "졸린",
+    "hint": "잠오는"
+  },
+  {
+    "word": "empire",
+    "meaning": "제국",
+    "hint": "큰나라"
+  },
+  {
+    "word": "endure",
+    "meaning": "견디다",
+    "hint": "참다"
+  },
+  {
+    "word": "errand",
+    "meaning": "심부름",
+    "hint": "간단한일"
+  },
+  {
+    "word": "escape",
+    "meaning": "탈출하다",
+    "hint": "도망가다"
+  },
+  {
+    "word": "escort",
+    "meaning": "호위하다",
+    "hint": "데려다주기"
+  },
+  {
+    "word": "expert",
+    "meaning": "전문가",
+    "hint": "능숙한이"
+  },
+  {
+    "word": "export",
+    "meaning": "수출",
+    "hint": "밖으로팖"
+  },
+  {
+    "word": "fabric",
+    "meaning": "천",
+    "hint": "옷감"
+  },
+  {
+    "word": "factor",
+    "meaning": "요인",
+    "hint": "원인"
+  },
+  {
+    "word": "fellow",
+    "meaning": "동료",
+    "hint": "같이하는사람"
+  },
+  {
+    "word": "fierce",
+    "meaning": "사나운",
+    "hint": "맹렬한"
+  },
+  {
+    "word": "filter",
+    "meaning": "거르다",
+    "hint": "걸러내기"
+  },
+  {
+    "word": "galaxy",
+    "meaning": "은하",
+    "hint": "별무리"
+  },
+  {
+    "word": "growth",
+    "meaning": "성장",
+    "hint": "자람"
+  },
+  {
+    "word": "humble",
+    "meaning": "겸손한",
+    "hint": "낮추는"
+  },
+  {
+    "word": "ignore",
+    "meaning": "무시하다",
+    "hint": "못본척"
+  },
+  {
+    "word": "import",
+    "meaning": "수입",
+    "hint": "안으로사옴"
+  },
+  {
+    "word": "income",
+    "meaning": "수입",
+    "hint": "버는돈"
+  },
+  {
+    "word": "invest",
+    "meaning": "투자하다",
+    "hint": "돈넣다"
+  },
+  {
+    "word": "liquid",
+    "meaning": "액체",
+    "hint": "흐르는것"
+  },
+  {
+    "word": "magnet",
+    "meaning": "자석",
+    "hint": "끄는쇠"
+  },
+  {
+    "word": "mammal",
+    "meaning": "포유류",
+    "hint": "젖먹이동물"
+  },
+  {
+    "word": "method",
+    "meaning": "방법",
+    "hint": "수단"
+  },
+  {
+    "word": "modest",
+    "meaning": "겸손한",
+    "hint": "수수한"
+  },
+  {
+    "word": "motion",
+    "meaning": "운동",
+    "hint": "움직임"
+  },
+  {
+    "word": "oxygen",
+    "meaning": "산소",
+    "hint": "숨쉬는기체"
+  },
+  {
+    "word": "phrase",
+    "meaning": "구",
+    "hint": "말마디"
+  },
+  {
+    "word": "policy",
+    "meaning": "정책",
+    "hint": "방침"
+  },
+  {
+    "word": "prison",
+    "meaning": "감옥",
+    "hint": "교도소"
+  },
+  {
+    "word": "profit",
+    "meaning": "이익",
+    "hint": "남는돈"
+  },
+  {
+    "word": "pursue",
+    "meaning": "추구하다",
+    "hint": "좇다"
+  },
+  {
+    "word": "radius",
+    "meaning": "반지름",
+    "hint": "원반폭"
+  },
+  {
+    "word": "recipe",
+    "meaning": "조리법",
+    "hint": "요리법"
+  },
+  {
+    "word": "record",
+    "meaning": "기록",
+    "hint": "적음"
+  },
+  {
+    "word": "region",
+    "meaning": "지역",
+    "hint": "구역"
+  },
+  {
+    "word": "remain",
+    "meaning": "남다",
+    "hint": "머무르다"
+  },
+  {
+    "word": "remove",
+    "meaning": "제거하다",
+    "hint": "없애다"
+  },
+  {
+    "word": "repair",
+    "meaning": "수리하다",
+    "hint": "고치다"
+  },
+  {
+    "word": "rescue",
+    "meaning": "구조하다",
+    "hint": "구하다"
+  },
+  {
+    "word": "ritual",
+    "meaning": "의례",
+    "hint": "의식행위"
+  },
+  {
+    "word": "sample",
+    "meaning": "견본",
+    "hint": "표본"
+  },
+  {
+    "word": "signal",
+    "meaning": "신호",
+    "hint": "알림표시"
+  },
+  {
+    "word": "spirit",
+    "meaning": "영혼",
+    "hint": "넋"
+  },
+  {
+    "word": "survey",
+    "meaning": "조사",
+    "hint": "설문"
+  },
+  {
+    "word": "symbol",
+    "meaning": "상징",
+    "hint": "표상"
+  },
+  {
+    "word": "system",
+    "meaning": "체계",
+    "hint": "조직"
+  },
+  {
+    "word": "tactic",
+    "meaning": "전술",
+    "hint": "방책"
+  },
+  {
+    "word": "temple",
+    "meaning": "사원",
+    "hint": "절"
+  },
+  {
+    "word": "theory",
+    "meaning": "이론",
+    "hint": "학설"
+  },
+  {
+    "word": "volume",
+    "meaning": "부피",
+    "hint": "용량"
+  },
+  {
+    "word": "weapon",
+    "meaning": "무기",
+    "hint": "싸움도구"
+  },
+  {
+    "word": "abandon",
+    "meaning": "버리다",
+    "hint": "포기하다"
+  },
+  {
+    "word": "ability",
+    "meaning": "능력",
+    "hint": "할수있음"
+  },
+  {
+    "word": "absence",
+    "meaning": "부재",
+    "hint": "없는상태"
+  },
+  {
+    "word": "account",
+    "meaning": "계좌",
+    "hint": "장부"
+  },
+  {
+    "word": "achieve",
+    "meaning": "성취하다",
+    "hint": "이루다"
+  },
+  {
+    "word": "acquire",
+    "meaning": "습득하다",
+    "hint": "얻다"
+  },
+  {
+    "word": "alcohol",
+    "meaning": "술",
+    "hint": "마시는것"
+  },
+  {
+    "word": "analyst",
+    "meaning": "분석가",
+    "hint": "분석하는사람"
+  },
+  {
+    "word": "analyze",
+    "meaning": "분석하다",
+    "hint": "자세히살핌"
+  },
+  {
+    "word": "ancient",
+    "meaning": "고대의",
+    "hint": "아주오래된"
+  },
+  {
+    "word": "anxiety",
+    "meaning": "불안",
+    "hint": "걱정"
+  },
+  {
+    "word": "applaud",
+    "meaning": "박수치다",
+    "hint": "손뼉"
+  },
+  {
+    "word": "approve",
+    "meaning": "승인하다",
+    "hint": "찬성하다"
+  },
+  {
+    "word": "arrange",
+    "meaning": "배열하다",
+    "hint": "정돈하다"
+  },
+  {
+    "word": "arrival",
+    "meaning": "도착",
+    "hint": "도착함"
+  },
+  {
+    "word": "article",
+    "meaning": "기사",
+    "hint": "글"
+  },
+  {
+    "word": "athlete",
+    "meaning": "운동선수",
+    "hint": "경기자"
+  },
+  {
+    "word": "attempt",
+    "meaning": "시도하다",
+    "hint": "해보다"
+  },
+  {
+    "word": "auction",
+    "meaning": "경매",
+    "hint": "입찰판매"
+  },
+  {
+    "word": "average",
+    "meaning": "평균",
+    "hint": "고른값"
+  },
+  {
+    "word": "balance",
+    "meaning": "균형",
+    "hint": "평형"
+  },
+  {
+    "word": "balcony",
+    "meaning": "발코니",
+    "hint": "건물난간"
+  },
+  {
+    "word": "bandage",
+    "meaning": "붕대",
+    "hint": "상처감싸기"
+  },
+  {
+    "word": "bargain",
+    "meaning": "흥정하다",
+    "hint": "값깎기"
+  },
+  {
+    "word": "barrier",
+    "meaning": "장벽",
+    "hint": "막는것"
+  },
+  {
+    "word": "beneath",
+    "meaning": "아래에",
+    "hint": "밑에"
+  },
+  {
+    "word": "benefit",
+    "meaning": "이익",
+    "hint": "혜택"
+  },
+  {
+    "word": "biscuit",
+    "meaning": "비스킷",
+    "hint": "과자"
+  },
+  {
+    "word": "calorie",
+    "meaning": "칼로리",
+    "hint": "열량"
+  },
+  {
+    "word": "capable",
+    "meaning": "유능한",
+    "hint": "할수있는"
+  },
+  {
+    "word": "cartoon",
+    "meaning": "만화",
+    "hint": "그림이야기"
+  },
+  {
+    "word": "chamber",
+    "meaning": "방",
+    "hint": "실내공간"
+  },
+  {
+    "word": "chapter",
+    "meaning": "장",
+    "hint": "책장"
+  },
+  {
+    "word": "chimney",
+    "meaning": "굴뚝",
+    "hint": "연기통로"
+  },
+  {
+    "word": "circuit",
+    "meaning": "회로",
+    "hint": "전기길"
+  },
+  {
+    "word": "citizen",
+    "meaning": "시민",
+    "hint": "국민"
+  },
+  {
+    "word": "commute",
+    "meaning": "통근하다",
+    "hint": "오가다"
+  },
+  {
+    "word": "conceal",
+    "meaning": "숨기다",
+    "hint": "감추다"
+  },
+  {
+    "word": "concept",
+    "meaning": "개념",
+    "hint": "생각틀"
+  },
+  {
+    "word": "condemn",
+    "meaning": "비난하다",
+    "hint": "꾸짖다"
+  },
+  {
+    "word": "confess",
+    "meaning": "고백하다",
+    "hint": "털어놓다"
+  },
+  {
+    "word": "consent",
+    "meaning": "동의하다",
+    "hint": "허락하다"
+  },
+  {
+    "word": "consume",
+    "meaning": "소비하다",
+    "hint": "쓰다"
+  },
+  {
+    "word": "contest",
+    "meaning": "대회",
+    "hint": "겨루기"
+  },
+  {
+    "word": "convict",
+    "meaning": "유죄선고하다",
+    "hint": "죄판정"
+  },
+  {
+    "word": "costume",
+    "meaning": "의상",
+    "hint": "분장옷"
+  },
+  {
+    "word": "cottage",
+    "meaning": "오두막집",
+    "hint": "시골작은집"
+  },
+  {
+    "word": "cunning",
+    "meaning": "교활한",
+    "hint": "꾀많은"
+  },
+  {
+    "word": "cushion",
+    "meaning": "쿠션",
+    "hint": "푹신한것"
+  },
+  {
+    "word": "deceive",
+    "meaning": "속이다",
+    "hint": "거짓말하다"
+  },
+  {
+    "word": "decimal",
+    "meaning": "소수",
+    "hint": "점수"
+  },
+  {
+    "word": "delight",
+    "meaning": "기쁨",
+    "hint": "큰즐거움"
+  },
+  {
+    "word": "despair",
+    "meaning": "절망",
+    "hint": "희망잃음"
+  },
+  {
+    "word": "dessert",
+    "meaning": "후식",
+    "hint": "식후간식"
+  },
+  {
+    "word": "destroy",
+    "meaning": "파괴하다",
+    "hint": "부수다"
+  },
+  {
+    "word": "diagram",
+    "meaning": "도식",
+    "hint": "그림설명"
+  },
+  {
+    "word": "dialect",
+    "meaning": "방언",
+    "hint": "사투리"
+  },
+  {
+    "word": "discard",
+    "meaning": "버리다",
+    "hint": "내다버림"
+  },
+  {
+    "word": "display",
+    "meaning": "전시",
+    "hint": "진열"
+  },
+  {
+    "word": "elastic",
+    "meaning": "탄력있는",
+    "hint": "늘어나는"
+  },
+  {
+    "word": "elegant",
+    "meaning": "우아한",
+    "hint": "품위있는"
+  },
+  {
+    "word": "element",
+    "meaning": "원소",
+    "hint": "기본물질"
+  },
+  {
+    "word": "engrave",
+    "meaning": "새기다",
+    "hint": "파서새김"
+  },
+  {
+    "word": "enhance",
+    "meaning": "향상시키다",
+    "hint": "높이다"
+  },
+  {
+    "word": "essence",
+    "meaning": "본질",
+    "hint": "핵심"
+  },
+  {
+    "word": "expense",
+    "meaning": "지출",
+    "hint": "쓰는돈"
+  },
+  {
+    "word": "fantasy",
+    "meaning": "환상",
+    "hint": "공상"
+  },
+  {
+    "word": "feature",
+    "meaning": "특징",
+    "hint": "특색"
+  },
+  {
+    "word": "formula",
+    "meaning": "공식",
+    "hint": "식"
+  },
+  {
+    "word": "fragile",
+    "meaning": "깨지기쉬운",
+    "hint": "약한"
+  },
+  {
+    "word": "gallery",
+    "meaning": "미술관",
+    "hint": "화랑"
+  },
+  {
+    "word": "genuine",
+    "meaning": "진짜의",
+    "hint": "진실한"
+  },
+  {
+    "word": "gravity",
+    "meaning": "중력",
+    "hint": "끌어당김"
+  },
+  {
+    "word": "habitat",
+    "meaning": "서식지",
+    "hint": "사는곳"
+  },
+  {
+    "word": "harvest",
+    "meaning": "수확",
+    "hint": "거둠"
+  },
+  {
+    "word": "honesty",
+    "meaning": "정직",
+    "hint": "솔직함"
+  },
+  {
+    "word": "illness",
+    "meaning": "질환",
+    "hint": "아픔"
+  },
+  {
+    "word": "isolate",
+    "meaning": "고립시키다",
+    "hint": "떼어놓다"
+  },
+  {
+    "word": "justice",
+    "meaning": "정의",
+    "hint": "올바름"
+  },
+  {
+    "word": "kingdom",
+    "meaning": "왕국",
+    "hint": "왕의나라"
+  },
+  {
+    "word": "maximum",
+    "meaning": "최대",
+    "hint": "가장큰"
+  },
+  {
+    "word": "mineral",
+    "meaning": "광물",
+    "hint": "돌성분"
+  },
+  {
+    "word": "minimum",
+    "meaning": "최소",
+    "hint": "가장작은"
+  },
+  {
+    "word": "mixture",
+    "meaning": "혼합",
+    "hint": "섞임"
+  },
+  {
+    "word": "mystery",
+    "meaning": "신비",
+    "hint": "수수께끼"
+  },
+  {
+    "word": "neglect",
+    "meaning": "소홀히하다",
+    "hint": "방치하다"
+  },
+  {
+    "word": "network",
+    "meaning": "연결망",
+    "hint": "통신망"
+  },
+  {
+    "word": "officer",
+    "meaning": "장교",
+    "hint": "관리"
+  },
+  {
+    "word": "operate",
+    "meaning": "작동하다",
+    "hint": "움직이다"
+  },
+  {
+    "word": "penalty",
+    "meaning": "벌칙",
+    "hint": "처벌"
+  },
+  {
+    "word": "portion",
+    "meaning": "부분",
+    "hint": "몫"
+  },
+  {
+    "word": "precise",
+    "meaning": "정확한",
+    "hint": "꼭맞는"
+  },
+  {
+    "word": "process",
+    "meaning": "과정",
+    "hint": "진행"
+  },
+  {
+    "word": "program",
+    "meaning": "프로그램",
+    "hint": "계획표"
+  },
+  {
+    "word": "protein",
+    "meaning": "단백질",
+    "hint": "영양소"
+  },
+  {
+    "word": "quality",
+    "meaning": "품질",
+    "hint": "좋고나쁨"
+  },
+  {
+    "word": "recycle",
+    "meaning": "재활용하다",
+    "hint": "다시쓰다"
+  },
+  {
+    "word": "reptile",
+    "meaning": "파충류",
+    "hint": "기는동물"
+  },
+  {
+    "word": "restore",
+    "meaning": "복원하다",
+    "hint": "되돌리다"
+  },
+  {
+    "word": "section",
+    "meaning": "구역",
+    "hint": "부분"
+  },
+  {
+    "word": "sincere",
+    "meaning": "진실한",
+    "hint": "성실한"
+  },
+  {
+    "word": "species",
+    "meaning": "종",
+    "hint": "생물갈래"
+  },
+  {
+    "word": "stadium",
+    "meaning": "경기장",
+    "hint": "운동장"
+  },
+  {
+    "word": "succeed",
+    "meaning": "성공하다",
+    "hint": "이뤄내다"
+  },
+  {
+    "word": "surgery",
+    "meaning": "수술",
+    "hint": "외과치료"
+  },
+  {
+    "word": "suspect",
+    "meaning": "의심하다",
+    "hint": "수상해함"
+  },
+  {
+    "word": "symptom",
+    "meaning": "증상",
+    "hint": "병징후"
+  },
+  {
+    "word": "texture",
+    "meaning": "질감",
+    "hint": "감촉"
+  },
+  {
+    "word": "tremble",
+    "meaning": "떨다",
+    "hint": "몸떨림"
+  },
+  {
+    "word": "vaccine",
+    "meaning": "백신",
+    "hint": "예방약"
+  },
+  {
+    "word": "vitamin",
+    "meaning": "비타민",
+    "hint": "영양소"
+  },
+  {
+    "word": "volcano",
+    "meaning": "화산",
+    "hint": "불산"
+  },
+  {
+    "word": "accident",
+    "meaning": "사고",
+    "hint": "뜻밖일"
+  },
+  {
+    "word": "accuracy",
+    "meaning": "정확성",
+    "hint": "틀림없음"
+  },
+  {
+    "word": "addition",
+    "meaning": "덧셈",
+    "hint": "더하기"
+  },
+  {
+    "word": "alliance",
+    "meaning": "동맹",
+    "hint": "연합"
+  },
+  {
+    "word": "argument",
+    "meaning": "논쟁",
+    "hint": "말다툼"
+  },
+  {
+    "word": "athletic",
+    "meaning": "운동의",
+    "hint": "체육관련"
+  },
+  {
+    "word": "attitude",
+    "meaning": "태도",
+    "hint": "마음가짐"
+  },
+  {
+    "word": "audience",
+    "meaning": "관객",
+    "hint": "듣는이"
+  },
+  {
+    "word": "audition",
+    "meaning": "오디션",
+    "hint": "심사"
+  },
+  {
+    "word": "bacteria",
+    "meaning": "박테리아",
+    "hint": "미생물"
+  },
+  {
+    "word": "barbecue",
+    "meaning": "바비큐",
+    "hint": "고기구이"
+  },
+  {
+    "word": "behavior",
+    "meaning": "행동",
+    "hint": "행실"
+  },
+  {
+    "word": "campaign",
+    "meaning": "캠페인",
+    "hint": "운동"
+  },
+  {
+    "word": "category",
+    "meaning": "범주",
+    "hint": "갈래"
+  },
+  {
+    "word": "ceremony",
+    "meaning": "의식",
+    "hint": "행사"
+  },
+  {
+    "word": "champion",
+    "meaning": "챔피언",
+    "hint": "우승자"
+  },
+  {
+    "word": "chemical",
+    "meaning": "화학물질",
+    "hint": "화학약품"
+  },
+  {
+    "word": "commerce",
+    "meaning": "상업",
+    "hint": "장사"
+  },
+  {
+    "word": "complete",
+    "meaning": "완성하다",
+    "hint": "끝내다"
+  },
+  {
+    "word": "computer",
+    "meaning": "컴퓨터",
+    "hint": "전자기기"
+  },
+  {
+    "word": "conflict",
+    "meaning": "갈등",
+    "hint": "다툼"
+  },
+  {
+    "word": "contempt",
+    "meaning": "경멸",
+    "hint": "무시"
+  },
+  {
+    "word": "continue",
+    "meaning": "계속하다",
+    "hint": "이어가다"
+  },
+  {
+    "word": "contract",
+    "meaning": "계약",
+    "hint": "약정"
+  },
+  {
+    "word": "contrast",
+    "meaning": "대조",
+    "hint": "견줌"
+  },
+  {
+    "word": "convince",
+    "meaning": "설득하다",
+    "hint": "믿게하다"
+  },
+  {
+    "word": "creature",
+    "meaning": "생물",
+    "hint": "살아있는것"
+  },
+  {
+    "word": "criminal",
+    "meaning": "범죄자",
+    "hint": "죄지은이"
+  },
+  {
+    "word": "decrease",
+    "meaning": "감소",
+    "hint": "줄어듦"
+  },
+  {
+    "word": "delicate",
+    "meaning": "섬세한",
+    "hint": "여린"
+  },
+  {
+    "word": "diameter",
+    "meaning": "지름",
+    "hint": "원폭"
+  },
+  {
+    "word": "diligent",
+    "meaning": "부지런한",
+    "hint": "성실한"
+  },
+  {
+    "word": "disaster",
+    "meaning": "재해",
+    "hint": "큰재앙"
+  },
+  {
+    "word": "distinct",
+    "meaning": "뚜렷한",
+    "hint": "분명한"
+  },
+  {
+    "word": "division",
+    "meaning": "나눗셈",
+    "hint": "나누기"
+  },
+  {
+    "word": "document",
+    "meaning": "문서",
+    "hint": "서류"
+  },
+  {
+    "word": "dominate",
+    "meaning": "지배하다",
+    "hint": "우세하다"
+  },
+  {
+    "word": "election",
+    "meaning": "선거",
+    "hint": "뽑기"
+  },
+  {
+    "word": "equation",
+    "meaning": "방정식",
+    "hint": "등식"
+  },
+  {
+    "word": "evidence",
+    "meaning": "증거",
+    "hint": "증명거리"
+  },
+  {
+    "word": "explorer",
+    "meaning": "탐험가",
+    "hint": "탐험하는사람"
+  },
+  {
+    "word": "facility",
+    "meaning": "시설",
+    "hint": "설비"
+  },
+  {
+    "word": "fountain",
+    "meaning": "분수",
+    "hint": "물뿜는장치"
+  },
+  {
+    "word": "fraction",
+    "meaning": "분수",
+    "hint": "나눈수"
+  },
+  {
+    "word": "fragment",
+    "meaning": "조각",
+    "hint": "부스러기"
+  },
+  {
+    "word": "function",
+    "meaning": "기능",
+    "hint": "작용"
+  },
+  {
+    "word": "generous",
+    "meaning": "관대한",
+    "hint": "너그러운"
+  },
+  {
+    "word": "geometry",
+    "meaning": "기하학",
+    "hint": "도형학"
+  },
+  {
+    "word": "guidance",
+    "meaning": "안내",
+    "hint": "지도"
+  },
+  {
+    "word": "hardware",
+    "meaning": "하드웨어",
+    "hint": "기계부품"
+  },
+  {
+    "word": "hesitate",
+    "meaning": "망설이다",
+    "hint": "주저하다"
+  },
+  {
+    "word": "hydrogen",
+    "meaning": "수소",
+    "hint": "가벼운기체"
+  },
+  {
+    "word": "increase",
+    "meaning": "증가",
+    "hint": "늘어남"
+  },
+  {
+    "word": "interest",
+    "meaning": "흥미",
+    "hint": "관심"
+  },
+  {
+    "word": "internet",
+    "meaning": "인터넷",
+    "hint": "온라인망"
+  },
+  {
+    "word": "judgment",
+    "meaning": "판단",
+    "hint": "결정"
+  },
+  {
+    "word": "kindness",
+    "meaning": "친절",
+    "hint": "상냥함"
+  },
+  {
+    "word": "location",
+    "meaning": "장소",
+    "hint": "위치"
+  },
+  {
+    "word": "maintain",
+    "meaning": "유지하다",
+    "hint": "지키다"
+  },
+  {
+    "word": "material",
+    "meaning": "재료",
+    "hint": "물질"
+  },
+  {
+    "word": "minister",
+    "meaning": "장관",
+    "hint": "대신"
+  },
+  {
+    "word": "molecule",
+    "meaning": "분자",
+    "hint": "원자결합"
+  },
+  {
+    "word": "musician",
+    "meaning": "음악가",
+    "hint": "연주자"
+  },
+  {
+    "word": "obstacle",
+    "meaning": "장애물",
+    "hint": "방해물"
+  },
+  {
+    "word": "organize",
+    "meaning": "조직하다",
+    "hint": "정리하다"
+  },
+  {
+    "word": "painting",
+    "meaning": "회화",
+    "hint": "그림"
+  },
+  {
+    "word": "particle",
+    "meaning": "입자",
+    "hint": "작은알갱이"
+  },
+  {
+    "word": "patience",
+    "meaning": "인내",
+    "hint": "참음"
+  },
+  {
+    "word": "persuade",
+    "meaning": "설득하다",
+    "hint": "권하다"
+  },
+  {
+    "word": "position",
+    "meaning": "위치",
+    "hint": "자리"
+  },
+  {
+    "word": "pressure",
+    "meaning": "압력",
+    "hint": "누르는힘"
+  },
+  {
+    "word": "progress",
+    "meaning": "발전",
+    "hint": "나아감"
+  },
+  {
+    "word": "property",
+    "meaning": "속성",
+    "hint": "성질"
+  },
+  {
+    "word": "proposal",
+    "meaning": "제안",
+    "hint": "제의"
+  },
+  {
+    "word": "quantity",
+    "meaning": "양",
+    "hint": "수량"
+  },
+  {
+    "word": "reaction",
+    "meaning": "반응",
+    "hint": "작용"
+  },
+  {
+    "word": "recovery",
+    "meaning": "회복",
+    "hint": "나음"
+  },
+  {
+    "word": "religion",
+    "meaning": "종교",
+    "hint": "믿음체계"
+  },
+  {
+    "word": "republic",
+    "meaning": "공화국",
+    "hint": "주권국"
+  },
+  {
+    "word": "research",
+    "meaning": "연구",
+    "hint": "조사"
+  },
+  {
+    "word": "resource",
+    "meaning": "자원",
+    "hint": "원천"
+  },
+  {
+    "word": "software",
+    "meaning": "소프트웨어",
+    "hint": "프로그램"
+  },
+  {
+    "word": "spelling",
+    "meaning": "철자",
+    "hint": "글자쓰기"
+  },
+  {
+    "word": "standard",
+    "meaning": "기준",
+    "hint": "표준"
+  },
+  {
+    "word": "strategy",
+    "meaning": "전략",
+    "hint": "책략"
+  },
+  {
+    "word": "universe",
+    "meaning": "우주",
+    "hint": "온누리"
+  },
+  {
+    "word": "wildlife",
+    "meaning": "야생동물",
+    "hint": "들짐승"
+  },
+  {
+    "word": "abundance",
+    "meaning": "풍부함",
+    "hint": "많이있음"
+  },
+  {
+    "word": "accompany",
+    "meaning": "동반하다",
+    "hint": "함께가다"
+  },
+  {
+    "word": "advantage",
+    "meaning": "장점",
+    "hint": "유리함"
+  },
+  {
+    "word": "agreement",
+    "meaning": "합의",
+    "hint": "동의"
+  },
+  {
+    "word": "ambulance",
+    "meaning": "구급차",
+    "hint": "응급차량"
+  },
+  {
+    "word": "amusement",
+    "meaning": "즐거움",
+    "hint": "재미"
+  },
+  {
+    "word": "apartment",
+    "meaning": "아파트",
+    "hint": "공동주택"
+  },
+  {
+    "word": "apparatus",
+    "meaning": "기구",
+    "hint": "장치"
+  },
+  {
+    "word": "attention",
+    "meaning": "주의",
+    "hint": "관심"
+  },
+  {
+    "word": "automatic",
+    "meaning": "자동의",
+    "hint": "스스로작동"
+  },
+  {
+    "word": "challenge",
+    "meaning": "도전",
+    "hint": "어려움"
+  },
+  {
+    "word": "committee",
+    "meaning": "위원회",
+    "hint": "협의단"
+  },
+  {
+    "word": "community",
+    "meaning": "공동체",
+    "hint": "마을모임"
+  },
+  {
+    "word": "complaint",
+    "meaning": "불평",
+    "hint": "불만"
+  },
+  {
+    "word": "component",
+    "meaning": "부품",
+    "hint": "구성품"
+  },
+  {
+    "word": "confident",
+    "meaning": "자신있는",
+    "hint": "믿음있는"
+  },
+  {
+    "word": "curiosity",
+    "meaning": "호기심",
+    "hint": "궁금함"
+  },
+  {
+    "word": "democracy",
+    "meaning": "민주주의",
+    "hint": "국민주권"
+  },
+  {
+    "word": "dimension",
+    "meaning": "차원",
+    "hint": "치수"
+  },
+  {
+    "word": "discovery",
+    "meaning": "발견",
+    "hint": "찾아냄"
+  },
+  {
+    "word": "ecosystem",
+    "meaning": "생태계",
+    "hint": "자연체계"
+  },
+  {
+    "word": "education",
+    "meaning": "교육",
+    "hint": "가르침"
+  },
+  {
+    "word": "emergency",
+    "meaning": "비상",
+    "hint": "급함"
+  },
+  {
+    "word": "enjoyable",
+    "meaning": "즐거운",
+    "hint": "재미있는"
+  },
+  {
+    "word": "equipment",
+    "meaning": "장비",
+    "hint": "기구"
+  },
+  {
+    "word": "evaporate",
+    "meaning": "증발하다",
+    "hint": "기체로변함"
+  },
+  {
+    "word": "explosion",
+    "meaning": "폭발",
+    "hint": "터짐"
+  },
+  {
+    "word": "frequency",
+    "meaning": "주파수",
+    "hint": "진동수"
+  },
+  {
+    "word": "infection",
+    "meaning": "감염",
+    "hint": "옮음"
+  },
+  {
+    "word": "interview",
+    "meaning": "면접",
+    "hint": "인터뷰"
+  },
+  {
+    "word": "invention",
+    "meaning": "발명",
+    "hint": "새로만듦"
+  },
+  {
+    "word": "mechanism",
+    "meaning": "기제",
+    "hint": "장치원리"
+  },
+  {
+    "word": "newspaper",
+    "meaning": "신문",
+    "hint": "뉴스지"
+  },
+  {
+    "word": "nutrition",
+    "meaning": "영양",
+    "hint": "양분"
+  },
+  {
+    "word": "paragraph",
+    "meaning": "문단",
+    "hint": "글덩이"
+  },
+  {
+    "word": "pollution",
+    "meaning": "오염",
+    "hint": "더러워짐"
+  },
+  {
+    "word": "president",
+    "meaning": "대통령",
+    "hint": "최고지도자"
+  },
+  {
+    "word": "procedure",
+    "meaning": "절차",
+    "hint": "순서"
+  },
+  {
+    "word": "promotion",
+    "meaning": "홍보",
+    "hint": "승진"
+  },
+  {
+    "word": "radiation",
+    "meaning": "방사선",
+    "hint": "에너지선"
+  },
+  {
+    "word": "rehearsal",
+    "meaning": "리허설",
+    "hint": "예행연습"
+  },
+  {
+    "word": "reluctant",
+    "meaning": "꺼리는",
+    "hint": "내키지않는"
+  },
+  {
+    "word": "satellite",
+    "meaning": "위성",
+    "hint": "우주물체"
+  },
+  {
+    "word": "scientist",
+    "meaning": "과학자",
+    "hint": "연구하는이"
+  },
+  {
+    "word": "sculpture",
+    "meaning": "조각",
+    "hint": "입체작품"
+  },
+  {
+    "word": "selection",
+    "meaning": "선택",
+    "hint": "고름"
+  },
+  {
+    "word": "structure",
+    "meaning": "구조",
+    "hint": "짜임새"
+  },
+  {
+    "word": "substance",
+    "meaning": "물질",
+    "hint": "성분"
+  },
+  {
+    "word": "technique",
+    "meaning": "기법",
+    "hint": "방식"
+  },
+  {
+    "word": "telescope",
+    "meaning": "망원경",
+    "hint": "멀리보는기구"
+  },
+  {
+    "word": "territory",
+    "meaning": "영토",
+    "hint": "땅"
+  },
+  {
+    "word": "treatment",
+    "meaning": "치료",
+    "hint": "고침"
+  },
+  {
+    "word": "viewpoint",
+    "meaning": "견해",
+    "hint": "입장"
+  },
+  {
+    "word": "volunteer",
+    "meaning": "자원봉사자",
+    "hint": "돕는이"
+  },
+  {
+    "word": "adventurer",
+    "meaning": "모험가",
+    "hint": "모험하는사람"
+  },
+  {
+    "word": "affordable",
+    "meaning": "저렴한",
+    "hint": "살수있는"
+  },
+  {
+    "word": "comparison",
+    "meaning": "비교",
+    "hint": "견줌"
+  },
+  {
+    "word": "conference",
+    "meaning": "회의",
+    "hint": "협의회"
+  },
+  {
+    "word": "confidence",
+    "meaning": "자신감",
+    "hint": "당당함"
+  },
+  {
+    "word": "connection",
+    "meaning": "연결",
+    "hint": "이음"
+  },
+  {
+    "word": "creativity",
+    "meaning": "창의력",
+    "hint": "새생각"
+  },
+  {
+    "word": "department",
+    "meaning": "부서",
+    "hint": "과"
+  },
+  {
+    "word": "difference",
+    "meaning": "차이",
+    "hint": "다름"
+  },
+  {
+    "word": "difficulty",
+    "meaning": "어려움",
+    "hint": "힘듦"
+  },
+  {
+    "word": "discussion",
+    "meaning": "토론",
+    "hint": "의논"
+  },
+  {
+    "word": "earthquake",
+    "meaning": "지진",
+    "hint": "땅흔들림"
+  },
+  {
+    "word": "exhibition",
+    "meaning": "전시회",
+    "hint": "전시"
+  },
+  {
+    "word": "experience",
+    "meaning": "경험",
+    "hint": "겪음"
+  },
+  {
+    "word": "experiment",
+    "meaning": "실험",
+    "hint": "시험"
+  },
+  {
+    "word": "foundation",
+    "meaning": "재단",
+    "hint": "토대"
+  },
+  {
+    "word": "friendship",
+    "meaning": "우정",
+    "hint": "친구사이"
+  },
+  {
+    "word": "ingredient",
+    "meaning": "재료",
+    "hint": "원료"
+  },
+  {
+    "word": "instrument",
+    "meaning": "기구",
+    "hint": "악기"
+  },
+  {
+    "word": "literature",
+    "meaning": "문학",
+    "hint": "글예술"
+  },
+  {
+    "word": "microscope",
+    "meaning": "현미경",
+    "hint": "작게보는기구"
+  },
+  {
+    "word": "percentage",
+    "meaning": "백분율",
+    "hint": "퍼센트"
+  },
+  {
+    "word": "politician",
+    "meaning": "정치인",
+    "hint": "정치하는이"
+  },
+  {
+    "word": "population",
+    "meaning": "인구",
+    "hint": "사람수"
+  },
+  {
+    "word": "punishment",
+    "meaning": "처벌",
+    "hint": "벌"
+  },
+  {
+    "word": "similarity",
+    "meaning": "유사성",
+    "hint": "닮음"
+  },
+  {
+    "word": "statistics",
+    "meaning": "통계",
+    "hint": "수치자료"
+  },
+  {
+    "word": "sufficient",
+    "meaning": "충분한",
+    "hint": "넉넉한"
+  },
+  {
+    "word": "technology",
+    "meaning": "기술",
+    "hint": "과학기술"
+  },
+  {
+    "word": "vocabulary",
+    "meaning": "어휘",
+    "hint": "낱말모음"
+  },
+  {
+    "word": "wavelength",
+    "meaning": "파장",
+    "hint": "파의길이"
+  },
+  {
+    "word": "agriculture",
+    "meaning": "농업",
+    "hint": "농사"
+  },
+  {
+    "word": "anniversary",
+    "meaning": "기념일",
+    "hint": "돌이키는날"
+  },
+  {
+    "word": "association",
+    "meaning": "협회",
+    "hint": "연합"
+  },
+  {
+    "word": "calculation",
+    "meaning": "계산",
+    "hint": "셈"
+  },
+  {
+    "word": "celebration",
+    "meaning": "축하",
+    "hint": "기념"
+  },
+  {
+    "word": "combination",
+    "meaning": "조합",
+    "hint": "합침"
+  },
+  {
+    "word": "competition",
+    "meaning": "경쟁",
+    "hint": "겨룸"
+  },
+  {
+    "word": "cooperation",
+    "meaning": "협력",
+    "hint": "함께함"
+  },
+  {
+    "word": "development",
+    "meaning": "개발",
+    "hint": "발전시킴"
+  },
+  {
+    "word": "electricity",
+    "meaning": "전기",
+    "hint": "전류"
+  },
+  {
+    "word": "environment",
+    "meaning": "환경",
+    "hint": "자연주변"
+  },
+  {
+    "word": "imagination",
+    "meaning": "상상",
+    "hint": "머릿그림"
+  },
+  {
+    "word": "institution",
+    "meaning": "기관",
+    "hint": "제도"
+  },
+  {
+    "word": "instruction",
+    "meaning": "지시",
+    "hint": "설명"
+  },
+  {
+    "word": "measurement",
+    "meaning": "측정",
+    "hint": "잼"
+  },
+  {
+    "word": "opportunity",
+    "meaning": "기회",
+    "hint": "좋은때"
+  },
+  {
+    "word": "partnership",
+    "meaning": "제휴",
+    "hint": "협력관계"
+  },
+  {
+    "word": "performance",
+    "meaning": "공연",
+    "hint": "수행"
+  },
+  {
+    "word": "perspective",
+    "meaning": "관점",
+    "hint": "시각"
+  },
+  {
+    "word": "temperature",
+    "meaning": "온도",
+    "hint": "따뜻함정도"
+  },
+  {
+    "word": "translation",
+    "meaning": "번역",
+    "hint": "옮김"
+  },
+  {
+    "word": "congratulate",
+    "meaning": "축하하다",
+    "hint": "기쁨전하기"
+  },
+  {
+    "word": "conversation",
+    "meaning": "대화",
+    "hint": "이야기"
+  },
+  {
+    "word": "disadvantage",
+    "meaning": "단점",
+    "hint": "불리함"
+  },
+  {
+    "word": "headquarters",
+    "meaning": "본부",
+    "hint": "본사"
+  },
+  {
+    "word": "organization",
+    "meaning": "조직",
+    "hint": "단체"
+  },
+  {
+    "word": "presentation",
+    "meaning": "발표",
+    "hint": "제시"
+  },
+  {
+    "word": "relationship",
+    "meaning": "관계",
+    "hint": "사이"
+  },
+  {
+    "word": "advertisement",
+    "meaning": "광고",
+    "hint": "알림"
+  },
+  {
+    "word": "appropriately",
+    "meaning": "적절하게",
+    "hint": "알맞게"
+  },
+  {
+    "word": "communication",
+    "meaning": "의사소통",
+    "hint": "소통"
+  },
+  {
+    "word": "pronunciation",
+    "meaning": "발음",
+    "hint": "소리냄"
+  },
+  {
+    "word": "characteristic",
+    "meaning": "특성",
+    "hint": "성질"
+  },
+  {
+    "word": "classification",
+    "meaning": "분류",
+    "hint": "나눔"
+  },
+  {
+    "word": "responsibility",
+    "meaning": "책임",
+    "hint": "맡은의무"
+  }
+]

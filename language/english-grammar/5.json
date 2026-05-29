@@ -1,0 +1,543 @@
+[
+  {
+    "id": "third-conditional",
+    "label": "가정법 3형식",
+    "prompt": "과거 사실과 반대 가정",
+    "tokens": [
+      "If",
+      "had",
+      "p.p.",
+      "would",
+      "have",
+      "p.p."
+    ],
+    "hint": "If + had + p.p., would have + p.p. 과거 비현실 가정"
+  },
+  {
+    "id": "past-continuous",
+    "label": "과거진행",
+    "prompt": "과거 특정 때 진행 중",
+    "tokens": [
+      "was/were",
+      "~ing"
+    ],
+    "hint": "was/were + 동사ing. 과거 어느 시점에 진행 중이던 일"
+  },
+  {
+    "id": "future-continuous",
+    "label": "미래진행",
+    "prompt": "미래 특정 때 진행 중",
+    "tokens": [
+      "will",
+      "be",
+      "~ing"
+    ],
+    "hint": "will be + 동사ing. 미래 어느 시점에 진행 중일 일"
+  },
+  {
+    "id": "present-perfect-continuous",
+    "label": "현재완료진행",
+    "prompt": "지금까지 계속된 동작",
+    "tokens": [
+      "have/has",
+      "been",
+      "~ing"
+    ],
+    "hint": "have/has been + 동사ing. 과거부터 지금까지 계속"
+  },
+  {
+    "id": "past-perfect-continuous",
+    "label": "과거완료진행",
+    "prompt": "과거 어느 때까지 계속",
+    "tokens": [
+      "had",
+      "been",
+      "~ing"
+    ],
+    "hint": "had been + 동사ing. 과거 한 시점까지 계속되던 동작"
+  },
+  {
+    "id": "future-perfect",
+    "label": "미래완료",
+    "prompt": "미래 어느 때 완료될 일",
+    "tokens": [
+      "will",
+      "have",
+      "p.p."
+    ],
+    "hint": "will have + 과거분사. 미래 한 시점까지 끝날 일"
+  },
+  {
+    "id": "future-perfect-continuous",
+    "label": "미래완료진행",
+    "prompt": "미래까지 계속될 동작",
+    "tokens": [
+      "will",
+      "have",
+      "been",
+      "~ing"
+    ],
+    "hint": "will have been + 동사ing. 미래 시점까지 계속될 일"
+  },
+  {
+    "id": "modal-can",
+    "label": "조동사 can",
+    "prompt": "능력이나 가능성 표현",
+    "tokens": [
+      "can",
+      "V"
+    ],
+    "hint": "can + 동사원형. ~할 수 있다는 능력·가능을 나타냄"
+  },
+  {
+    "id": "modal-may",
+    "label": "조동사 may",
+    "prompt": "추측이나 허가 표현",
+    "tokens": [
+      "may",
+      "V"
+    ],
+    "hint": "may + 동사원형. ~일지 모른다 또는 ~해도 좋다"
+  },
+  {
+    "id": "modal-must",
+    "label": "조동사 must",
+    "prompt": "의무나 강한 추측",
+    "tokens": [
+      "must",
+      "V"
+    ],
+    "hint": "must + 동사원형. ~해야 한다 또는 ~임에 틀림없다"
+  },
+  {
+    "id": "modal-should",
+    "label": "조동사 should",
+    "prompt": "충고나 약한 의무",
+    "tokens": [
+      "should",
+      "V"
+    ],
+    "hint": "should + 동사원형. ~하는 것이 좋다는 충고를 표현"
+  },
+  {
+    "id": "participle",
+    "label": "분사",
+    "prompt": "형용사로 쓰는 분사",
+    "tokens": [
+      "present",
+      "participle",
+      "past",
+      "participle"
+    ],
+    "hint": "현재분사(ing)는 능동·진행, 과거분사(p.p.)는 수동·완료"
+  },
+  {
+    "id": "noun-clause",
+    "label": "명사절",
+    "prompt": "명사 역할을 하는 절",
+    "tokens": [
+      "that",
+      "what",
+      "if/whether"
+    ],
+    "hint": "that/what/if/whether절. 주어·목적어·보어로 쓰임"
+  },
+  {
+    "id": "adjective-clause",
+    "label": "형용사절",
+    "prompt": "명사를 꾸미는 절",
+    "tokens": [
+      "who",
+      "which",
+      "that"
+    ],
+    "hint": "who/which/that절. 앞의 명사를 뒤에서 수식"
+  },
+  {
+    "id": "adverb-clause",
+    "label": "부사절",
+    "prompt": "부사 역할을 하는 절",
+    "tokens": [
+      "when",
+      "because",
+      "although"
+    ],
+    "hint": "when/because/although 등. 시간·이유·양보를 나타냄"
+  },
+  {
+    "id": "modal-could",
+    "label": "조동사 could",
+    "prompt": "과거 능력이나 공손",
+    "tokens": [
+      "could",
+      "V"
+    ],
+    "hint": "could + 동사원형. ~할 수 있었다 또는 공손한 부탁"
+  },
+  {
+    "id": "modal-would",
+    "label": "조동사 would",
+    "prompt": "과거 습관이나 의향",
+    "tokens": [
+      "would",
+      "V"
+    ],
+    "hint": "would + 동사원형. ~하곤 했다 또는 ~하려 한다"
+  },
+  {
+    "id": "modal-might",
+    "label": "조동사 might",
+    "prompt": "약한 추측을 표현",
+    "tokens": [
+      "might",
+      "V"
+    ],
+    "hint": "might + 동사원형. ~일지도 모른다는 약한 추측"
+  },
+  {
+    "id": "modal-shall",
+    "label": "조동사 shall",
+    "prompt": "제안이나 의지 표현",
+    "tokens": [
+      "shall",
+      "V"
+    ],
+    "hint": "shall + 동사원형. ~할까요라는 제안이나 의지"
+  },
+  {
+    "id": "modal-ought-to",
+    "label": "ought to",
+    "prompt": "의무나 충고 표현",
+    "tokens": [
+      "ought",
+      "to",
+      "V"
+    ],
+    "hint": "ought to + 동사원형. ~해야 한다는 의무·충고"
+  },
+  {
+    "id": "had-better",
+    "label": "had better",
+    "prompt": "강한 충고를 표현",
+    "tokens": [
+      "had",
+      "better",
+      "V"
+    ],
+    "hint": "had better + 동사원형. ~하는 게 낫다는 강한 충고"
+  },
+  {
+    "id": "must-not",
+    "label": "must not",
+    "prompt": "강한 금지를 표현",
+    "tokens": [
+      "must",
+      "not",
+      "V"
+    ],
+    "hint": "must not + 동사원형. ~해서는 안 된다는 금지"
+  },
+  {
+    "id": "dont-have-to",
+    "label": "don't have to",
+    "prompt": "할 필요 없음을 표현",
+    "tokens": [
+      "do",
+      "not",
+      "have",
+      "to",
+      "V"
+    ],
+    "hint": "do not have to + 동사원형. ~할 필요 없다는 불필요"
+  },
+  {
+    "id": "cannot-deduction",
+    "label": "can't (추측)",
+    "prompt": "~일 리 없다는 추측",
+    "tokens": [
+      "cannot",
+      "V"
+    ],
+    "hint": "cannot + 동사원형. ~일 리 없다는 강한 부정 추측"
+  },
+  {
+    "id": "may-have-pp",
+    "label": "may have p.p.",
+    "prompt": "과거 일에 대한 추측",
+    "tokens": [
+      "may",
+      "have",
+      "p.p."
+    ],
+    "hint": "may have + 과거분사. ~했을지도 모른다는 과거 추측"
+  },
+  {
+    "id": "must-have-pp",
+    "label": "must have p.p.",
+    "prompt": "과거 강한 추측",
+    "tokens": [
+      "must",
+      "have",
+      "p.p."
+    ],
+    "hint": "must have + 과거분사. ~했음에 틀림없다는 확신"
+  },
+  {
+    "id": "should-have-pp",
+    "label": "should have p.p.",
+    "prompt": "과거 일에 대한 후회",
+    "tokens": [
+      "should",
+      "have",
+      "p.p."
+    ],
+    "hint": "should have + 과거분사. ~했어야 했는데라는 후회"
+  },
+  {
+    "id": "could-have-pp",
+    "label": "could have p.p.",
+    "prompt": "과거 가능성 표현",
+    "tokens": [
+      "could",
+      "have",
+      "p.p."
+    ],
+    "hint": "could have + 과거분사. ~할 수도 있었다는 가능성"
+  },
+  {
+    "id": "cannot-have-pp",
+    "label": "can't have p.p.",
+    "prompt": "과거 부정 추측",
+    "tokens": [
+      "cannot",
+      "have",
+      "p.p."
+    ],
+    "hint": "cannot have + 과거분사. ~했을 리 없다는 부정 추측"
+  },
+  {
+    "id": "would-have-pp",
+    "label": "would have p.p.",
+    "prompt": "과거 가정의 결과",
+    "tokens": [
+      "would",
+      "have",
+      "p.p."
+    ],
+    "hint": "would have + 과거분사. ~했을 텐데라는 가정 결과"
+  },
+  {
+    "id": "present-passive",
+    "label": "현재 수동태",
+    "prompt": "현재 당하는 동작",
+    "tokens": [
+      "am/is/are",
+      "p.p."
+    ],
+    "hint": "am/is/are + 과거분사. 현재 ~되어진다는 수동을 표현"
+  },
+  {
+    "id": "past-passive",
+    "label": "과거 수동태",
+    "prompt": "과거 당한 동작",
+    "tokens": [
+      "was/were",
+      "p.p."
+    ],
+    "hint": "was/were + 과거분사. 과거에 ~되었다는 수동을 표현"
+  },
+  {
+    "id": "future-passive",
+    "label": "미래 수동태",
+    "prompt": "미래 당할 동작",
+    "tokens": [
+      "will",
+      "be",
+      "p.p."
+    ],
+    "hint": "will be + 과거분사. 미래에 ~될 것이라는 수동"
+  },
+  {
+    "id": "present-perfect-passive",
+    "label": "현재완료 수동태",
+    "prompt": "완료된 수동 동작",
+    "tokens": [
+      "have",
+      "been",
+      "p.p."
+    ],
+    "hint": "have/has been + 과거분사. ~되어 왔다는 완료 수동"
+  },
+  {
+    "id": "modal-passive",
+    "label": "조동사 수동태",
+    "prompt": "조동사가 붙은 수동",
+    "tokens": [
+      "modal",
+      "be",
+      "p.p."
+    ],
+    "hint": "조동사 + be + 과거분사. ~될 수 있다 등 조동사 수동"
+  },
+  {
+    "id": "continuous-passive",
+    "label": "진행 수동태",
+    "prompt": "진행 중인 수동",
+    "tokens": [
+      "be",
+      "being",
+      "p.p."
+    ],
+    "hint": "be + being + 과거분사. ~되고 있는 중이라는 진행 수동"
+  },
+  {
+    "id": "passive-by",
+    "label": "수동태 by",
+    "prompt": "행위자를 밝히는 수동",
+    "tokens": [
+      "be",
+      "p.p.",
+      "by"
+    ],
+    "hint": "be + 과거분사 + by + 행위자. ~에 의해 ~되다"
+  },
+  {
+    "id": "get-passive",
+    "label": "get 수동태",
+    "prompt": "get으로 쓰는 수동",
+    "tokens": [
+      "get",
+      "p.p."
+    ],
+    "hint": "get + 과거분사. ~당하다·~되다 (구어체 수동)"
+  },
+  {
+    "id": "relative-who",
+    "label": "관계대명사 who",
+    "prompt": "사람을 꾸미는 관계사",
+    "tokens": [
+      "who",
+      "V"
+    ],
+    "hint": "who + 동사. 사람인 선행사를 주격으로 수식"
+  },
+  {
+    "id": "relative-which",
+    "label": "관계대명사 which",
+    "prompt": "사물을 꾸미는 관계사",
+    "tokens": [
+      "which",
+      "V"
+    ],
+    "hint": "which + 동사. 사물·동물인 선행사를 수식"
+  },
+  {
+    "id": "relative-that",
+    "label": "관계대명사 that",
+    "prompt": "사람·사물 관계사",
+    "tokens": [
+      "that",
+      "V"
+    ],
+    "hint": "that + 동사. 사람·사물 모두를 수식하는 관계대명사"
+  },
+  {
+    "id": "relative-whose",
+    "label": "관계대명사 whose",
+    "prompt": "소유 관계를 잇는 관계사",
+    "tokens": [
+      "whose",
+      "noun"
+    ],
+    "hint": "whose + 명사. 선행사의 소유를 나타내며 수식 (~의)"
+  },
+  {
+    "id": "relative-whom",
+    "label": "관계대명사 whom",
+    "prompt": "목적격 관계사",
+    "tokens": [
+      "whom",
+      "S",
+      "V"
+    ],
+    "hint": "whom + 주어 + 동사. 선행사가 목적어 역할일 때 사용"
+  },
+  {
+    "id": "relative-where",
+    "label": "관계부사 where",
+    "prompt": "장소를 꾸미는 관계부사",
+    "tokens": [
+      "where",
+      "S",
+      "V"
+    ],
+    "hint": "where + 주어 + 동사. 장소 선행사를 수식"
+  },
+  {
+    "id": "relative-when",
+    "label": "관계부사 when",
+    "prompt": "시간을 꾸미는 관계부사",
+    "tokens": [
+      "when",
+      "S",
+      "V"
+    ],
+    "hint": "when + 주어 + 동사. 시간 선행사를 수식"
+  },
+  {
+    "id": "relative-why",
+    "label": "관계부사 why",
+    "prompt": "이유를 꾸미는 관계부사",
+    "tokens": [
+      "why",
+      "S",
+      "V"
+    ],
+    "hint": "why + 주어 + 동사. reason 등 이유 선행사를 수식"
+  },
+  {
+    "id": "relative-how",
+    "label": "관계부사 how",
+    "prompt": "방법을 나타내는 관계부사",
+    "tokens": [
+      "the",
+      "way",
+      "S",
+      "V"
+    ],
+    "hint": "the way + 주어 + 동사. 방법을 나타냄 (the way how 불가)"
+  },
+  {
+    "id": "that-noun-clause",
+    "label": "that 명사절",
+    "prompt": "~라는 사실을 표현",
+    "tokens": [
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "that + 주어 + 동사. ~라는 것이라는 명사절을 이끎"
+  },
+  {
+    "id": "whether-clause",
+    "label": "whether 절",
+    "prompt": "~인지 아닌지 표현",
+    "tokens": [
+      "whether",
+      "S",
+      "V"
+    ],
+    "hint": "whether + 주어 + 동사. ~인지 아닌지의 명사절"
+  },
+  {
+    "id": "if-noun-clause",
+    "label": "if 명사절",
+    "prompt": "~인지를 목적어로",
+    "tokens": [
+      "if",
+      "S",
+      "V"
+    ],
+    "hint": "if + 주어 + 동사. ~인지를 동사의 목적어로 나타냄"
+  }
+]

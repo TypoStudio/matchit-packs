@@ -1,0 +1,439 @@
+[
+  {
+    "id": "present-perfect-experience",
+    "label": "현재완료 경험",
+    "prompt": "지금까지의 경험 표현",
+    "tokens": [
+      "have",
+      "ever",
+      "p.p."
+    ],
+    "hint": "have + ever + 과거분사. ~해 본 적이 있다는 경험"
+  },
+  {
+    "id": "present-perfect-just",
+    "label": "현재완료 완료",
+    "prompt": "방금 막 끝난 일",
+    "tokens": [
+      "have",
+      "just",
+      "p.p."
+    ],
+    "hint": "have + just + 과거분사. 막 ~했다는 완료를 나타냄"
+  },
+  {
+    "id": "present-perfect-already",
+    "label": "현재완료 already",
+    "prompt": "예상보다 일찍 끝남",
+    "tokens": [
+      "have",
+      "already",
+      "p.p."
+    ],
+    "hint": "have + already + 과거분사. 이미 ~했다는 완료"
+  },
+  {
+    "id": "present-perfect-yet",
+    "label": "현재완료 yet",
+    "prompt": "아직 안 끝난 일",
+    "tokens": [
+      "have",
+      "not",
+      "p.p.",
+      "yet"
+    ],
+    "hint": "have not + 과거분사 + yet. 아직 ~하지 않았다"
+  },
+  {
+    "id": "present-perfect-since",
+    "label": "현재완료 since",
+    "prompt": "특정 시점부터 계속",
+    "tokens": [
+      "have",
+      "p.p.",
+      "since"
+    ],
+    "hint": "have + 과거분사 + since. ~한 이래로 계속됨"
+  },
+  {
+    "id": "present-perfect-for",
+    "label": "현재완료 for",
+    "prompt": "일정 기간 동안 계속",
+    "tokens": [
+      "have",
+      "p.p.",
+      "for"
+    ],
+    "hint": "have + 과거분사 + for. ~동안 계속되어 옴"
+  },
+  {
+    "id": "comparative-more",
+    "label": "비교급 more",
+    "prompt": "긴 형용사의 비교급",
+    "tokens": [
+      "more",
+      "adjective",
+      "than"
+    ],
+    "hint": "more + 형용사 + than. 긴 형용사로 더 ~함을 비교"
+  },
+  {
+    "id": "superlative-most",
+    "label": "최상급 most",
+    "prompt": "긴 형용사의 최상급",
+    "tokens": [
+      "the",
+      "most",
+      "adjective"
+    ],
+    "hint": "the most + 형용사. 긴 형용사로 가장 ~함을 표현"
+  },
+  {
+    "id": "as-as",
+    "label": "as ~ as",
+    "prompt": "둘이 같은 정도",
+    "tokens": [
+      "as",
+      "adjective",
+      "as"
+    ],
+    "hint": "as + 형용사 + as. ~만큼 ~한 동등 비교를 나타냄"
+  },
+  {
+    "id": "not-as-as",
+    "label": "not as ~ as",
+    "prompt": "~만큼은 아닌 비교",
+    "tokens": [
+      "not",
+      "as",
+      "adjective",
+      "as"
+    ],
+    "hint": "not as + 형용사 + as. ~만큼 ~하지 않음을 표현"
+  },
+  {
+    "id": "too-to",
+    "label": "too ~ to",
+    "prompt": "너무 ~해 못 하는 상황",
+    "tokens": [
+      "too",
+      "adjective",
+      "to",
+      "V"
+    ],
+    "hint": "too + 형용사 + to + 동사원형. 너무 ~해서 못 ~함"
+  },
+  {
+    "id": "enough-to",
+    "label": "enough to",
+    "prompt": "~할 만큼 충분함",
+    "tokens": [
+      "adjective",
+      "enough",
+      "to",
+      "V"
+    ],
+    "hint": "형용사 + enough + to + 동사원형. ~할 만큼 충분히"
+  },
+  {
+    "id": "so-that",
+    "label": "so that",
+    "prompt": "목적이나 결과 표현",
+    "tokens": [
+      "so",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "so that + 주어 + 동사. ~하기 위해 또는 그 결과로"
+  },
+  {
+    "id": "want-to",
+    "label": "want to",
+    "prompt": "하고 싶음을 표현",
+    "tokens": [
+      "want",
+      "to",
+      "V"
+    ],
+    "hint": "want to + 동사원형. ~하기를 원한다는 바람을 나타냄"
+  },
+  {
+    "id": "like-to",
+    "label": "like to",
+    "prompt": "하기를 좋아함",
+    "tokens": [
+      "like",
+      "to",
+      "V"
+    ],
+    "hint": "like to + 동사원형. ~하기를 좋아한다는 기호를 표현"
+  },
+  {
+    "id": "need-to",
+    "label": "need to",
+    "prompt": "할 필요가 있음",
+    "tokens": [
+      "need",
+      "to",
+      "V"
+    ],
+    "hint": "need to + 동사원형. ~할 필요가 있다는 필요를 표현"
+  },
+  {
+    "id": "start-to",
+    "label": "start to",
+    "prompt": "하기 시작함",
+    "tokens": [
+      "start",
+      "to",
+      "V"
+    ],
+    "hint": "start to + 동사원형. ~하기 시작한다는 시작을 표현"
+  },
+  {
+    "id": "decide-to",
+    "label": "decide to",
+    "prompt": "하기로 결정함",
+    "tokens": [
+      "decide",
+      "to",
+      "V"
+    ],
+    "hint": "decide to + 동사원형. ~하기로 결정했다는 결심"
+  },
+  {
+    "id": "enjoy-ing",
+    "label": "enjoy ~ing",
+    "prompt": "하기를 즐김",
+    "tokens": [
+      "enjoy",
+      "~ing"
+    ],
+    "hint": "enjoy + 동사ing. ~하기를 즐긴다 (목적어로 동명사)"
+  },
+  {
+    "id": "finish-ing",
+    "label": "finish ~ing",
+    "prompt": "하기를 끝냄",
+    "tokens": [
+      "finish",
+      "~ing"
+    ],
+    "hint": "finish + 동사ing. ~하기를 끝낸다 (목적어로 동명사)"
+  },
+  {
+    "id": "keep-ing",
+    "label": "keep ~ing",
+    "prompt": "계속 함을 표현",
+    "tokens": [
+      "keep",
+      "~ing"
+    ],
+    "hint": "keep + 동사ing. 계속 ~한다는 지속을 나타냄"
+  },
+  {
+    "id": "stop-ing",
+    "label": "stop ~ing",
+    "prompt": "하던 것을 멈춤",
+    "tokens": [
+      "stop",
+      "~ing"
+    ],
+    "hint": "stop + 동사ing. ~하던 것을 멈춘다 (동명사 목적어)"
+  },
+  {
+    "id": "go-ing",
+    "label": "go ~ing",
+    "prompt": "~하러 감을 표현",
+    "tokens": [
+      "go",
+      "~ing"
+    ],
+    "hint": "go + 동사ing. go shopping처럼 ~하러 감을 표현"
+  },
+  {
+    "id": "be-good-at",
+    "label": "be good at",
+    "prompt": "~을 잘함을 표현",
+    "tokens": [
+      "be",
+      "good",
+      "at",
+      "~ing"
+    ],
+    "hint": "be good at + 동사ing/명사. ~을 잘한다는 능숙함"
+  },
+  {
+    "id": "be-interested-in",
+    "label": "be interested in",
+    "prompt": "~에 관심이 있음",
+    "tokens": [
+      "be",
+      "interested",
+      "in",
+      "~ing"
+    ],
+    "hint": "be interested in + 동사ing/명사. ~에 흥미가 있음"
+  },
+  {
+    "id": "look-forward-to",
+    "label": "look forward to",
+    "prompt": "~을 기대하며 고대함",
+    "tokens": [
+      "look",
+      "forward",
+      "to",
+      "~ing"
+    ],
+    "hint": "look forward to + 동사ing. ~을 고대한다 (to+ing)"
+  },
+  {
+    "id": "there-was-were",
+    "label": "there was/were",
+    "prompt": "과거에 존재했음",
+    "tokens": [
+      "there",
+      "was",
+      "were"
+    ],
+    "hint": "There was/were + 명사. 과거에 ~이 있었다"
+  },
+  {
+    "id": "some-any",
+    "label": "some / any",
+    "prompt": "약간의 수량 표현",
+    "tokens": [
+      "some",
+      "any"
+    ],
+    "hint": "some은 긍정문, any는 부정·의문문에서 약간을 표현"
+  },
+  {
+    "id": "much-many",
+    "label": "much / many",
+    "prompt": "셀 수 있고 없음 구분",
+    "tokens": [
+      "much",
+      "many"
+    ],
+    "hint": "many는 셀 수 있는 명사, much는 셀 수 없는 명사에"
+  },
+  {
+    "id": "a-few-a-little",
+    "label": "a few / a little",
+    "prompt": "조금 있음을 표현",
+    "tokens": [
+      "a",
+      "few",
+      "little"
+    ],
+    "hint": "a few는 셀 수 있는, a little은 셀 수 없는 명사에"
+  },
+  {
+    "id": "a-lot-of",
+    "label": "a lot of",
+    "prompt": "많은 양이나 수",
+    "tokens": [
+      "a",
+      "lot",
+      "of"
+    ],
+    "hint": "a lot of + 명사. 셀 수 있고 없는 명사에 모두 쓰여 많음"
+  },
+  {
+    "id": "and-then",
+    "label": "and then",
+    "prompt": "그러고 나서 순서",
+    "tokens": [
+      "and",
+      "then"
+    ],
+    "hint": "and then. 앞일 다음에 이어지는 순서를 나타냄"
+  },
+  {
+    "id": "one-of-the",
+    "label": "one of the",
+    "prompt": "여럿 중 하나 표현",
+    "tokens": [
+      "one",
+      "of",
+      "the"
+    ],
+    "hint": "one of the + 복수명사. ~중 하나를 가리킴"
+  },
+  {
+    "id": "between-and",
+    "label": "between A and B",
+    "prompt": "두 대상 사이 표현",
+    "tokens": [
+      "between",
+      "and"
+    ],
+    "hint": "between A and B. 두 대상 사이의 관계·범위를 표현"
+  },
+  {
+    "id": "both-and",
+    "label": "both A and B",
+    "prompt": "둘 다 모두를 표현",
+    "tokens": [
+      "both",
+      "and"
+    ],
+    "hint": "both A and B. A와 B 양쪽 모두를 나타냄"
+  },
+  {
+    "id": "either-or",
+    "label": "either A or B",
+    "prompt": "둘 중 하나를 표현",
+    "tokens": [
+      "either",
+      "or"
+    ],
+    "hint": "either A or B. A 또는 B 둘 중 하나를 나타냄"
+  },
+  {
+    "id": "neither-nor",
+    "label": "neither A nor B",
+    "prompt": "둘 다 아님을 표현",
+    "tokens": [
+      "neither",
+      "nor"
+    ],
+    "hint": "neither A nor B. A도 B도 아니라는 부정을 표현"
+  },
+  {
+    "id": "not-only-but-also",
+    "label": "not only A but also B",
+    "prompt": "A뿐 아니라 B도",
+    "tokens": [
+      "not",
+      "only",
+      "but",
+      "also"
+    ],
+    "hint": "not only A but also B. A뿐 아니라 B도임을 강조"
+  },
+  {
+    "id": "used-to",
+    "label": "used to",
+    "prompt": "과거의 습관을 표현",
+    "tokens": [
+      "used",
+      "to",
+      "V"
+    ],
+    "hint": "used to + 동사원형. 과거에 ~하곤 했다는 습관·상태"
+  },
+  {
+    "id": "would-rather",
+    "label": "would rather",
+    "prompt": "차라리 ~하겠다",
+    "tokens": [
+      "would",
+      "rather",
+      "V"
+    ],
+    "hint": "would rather + 동사원형. 차라리 ~하는 게 낫다는 선호"
+  }
+]

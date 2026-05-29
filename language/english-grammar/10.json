@@ -1,0 +1,1174 @@
+[
+  {
+    "id": "apposition-namely",
+    "label": "namely 동격",
+    "prompt": "즉, 구체적으로 바꿔 말함",
+    "tokens": [
+      "noun",
+      "namely",
+      "noun"
+    ],
+    "hint": "명사 뒤 namely + 명사로 구체적으로 바꿔 말함 ('즉')"
+  },
+  {
+    "id": "parenthetical",
+    "label": "삽입구",
+    "prompt": "문장 중간에 의견 삽입",
+    "tokens": [
+      "S",
+      "I",
+      "think",
+      "V"
+    ],
+    "hint": "I think/of course 등을 문장 중간에 끼워 넣음 (He is, I think, right)"
+  },
+  {
+    "id": "comment-clause",
+    "label": "주석절",
+    "prompt": "말하자면 (태도 표시)",
+    "tokens": [
+      "as",
+      "it",
+      "were"
+    ],
+    "hint": "as it were/so to speak 등으로 '말하자면' 태도를 덧붙이는 절"
+  },
+  {
+    "id": "absolute-construction-formal",
+    "label": "절대구문 (격식)",
+    "prompt": "그렇긴 하지만",
+    "tokens": [
+      "That",
+      "said",
+      "S",
+      "V"
+    ],
+    "hint": "That said로 '그렇긴 하지만' 앞말 일부 인정 후 전환 (격식)"
+  },
+  {
+    "id": "absolute-this-done",
+    "label": "This done",
+    "prompt": "이것이 끝나고 (독립분사)",
+    "tokens": [
+      "This",
+      "done",
+      "S",
+      "V"
+    ],
+    "hint": "This done으로 '이 일이 끝나자' 독립분사구문 (This done, he left)"
+  },
+  {
+    "id": "subjunctive-conditional-implied-but",
+    "label": "but + 가정 함축",
+    "prompt": "but으로 조건 함축",
+    "tokens": [
+      "S",
+      "would",
+      "V",
+      "but"
+    ],
+    "hint": "would V, but ~로 뒤에 못 하는 이유를 들어 조건 함축 (I would, but I'm busy)"
+  },
+  {
+    "id": "conditional-as-it-stands",
+    "label": "as it stands",
+    "prompt": "현재 상태로는",
+    "tokens": [
+      "as",
+      "it",
+      "stands"
+    ],
+    "hint": "as it stands로 '현 상태로는' 함축 조건 (As it stands, we fail)"
+  },
+  {
+    "id": "correlative-whether-clause-subject",
+    "label": "whether 주어절",
+    "prompt": "whether절이 주어 역할",
+    "tokens": [
+      "Whether",
+      "S",
+      "V",
+      "is"
+    ],
+    "hint": "Whether ~ 명사절이 문장 주어 (Whether he comes is unclear)"
+  },
+  {
+    "id": "nominal-relative-subject",
+    "label": "관계사절 주어",
+    "prompt": "what절이 주어 역할",
+    "tokens": [
+      "What",
+      "V",
+      "is"
+    ],
+    "hint": "What ~ 명사절이 문장 주어 (What matters is honesty)"
+  },
+  {
+    "id": "fused-relative",
+    "label": "융합 관계사",
+    "prompt": "선행사 포함 관계사",
+    "tokens": [
+      "Whoever",
+      "V",
+      "V"
+    ],
+    "hint": "whoever/whatever가 선행사를 포함 (Whoever comes is welcome)"
+  },
+  {
+    "id": "cleft-reversed-pseudo",
+    "label": "역의사분열문",
+    "prompt": "That is what ~ 강조",
+    "tokens": [
+      "That",
+      "is",
+      "what",
+      "S",
+      "V"
+    ],
+    "hint": "That is what ~로 앞에 강조어를 두는 역의사분열문 (That is what I want)"
+  },
+  {
+    "id": "it-cleft-adverbial",
+    "label": "부사 강조 분열",
+    "prompt": "It was there that ~",
+    "tokens": [
+      "It",
+      "was",
+      "there",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "It was + 부사구 + that으로 부사 강조 분열문 (It was there that ...)"
+  },
+  {
+    "id": "it-cleft-because",
+    "label": "이유 강조 분열",
+    "prompt": "이유를 강조하는 분열문",
+    "tokens": [
+      "It",
+      "was",
+      "because",
+      "that"
+    ],
+    "hint": "It was because ~ that으로 이유를 강조하는 분열문"
+  },
+  {
+    "id": "mediopassive",
+    "label": "중간태",
+    "prompt": "능동형인데 수동 의미",
+    "tokens": [
+      "S",
+      "V",
+      "well"
+    ],
+    "hint": "능동형이지만 수동 의미 (The book sells well = 잘 팔린다)"
+  },
+  {
+    "id": "ergative",
+    "label": "능격동사",
+    "prompt": "자동·타동 양쪽으로 쓰임",
+    "tokens": [
+      "S",
+      "V"
+    ],
+    "hint": "break/open 등 자동·타동 양용 (The door opened / He opened it)"
+  },
+  {
+    "id": "tough-movement",
+    "label": "tough 구문",
+    "prompt": "주어가 의미상 목적어",
+    "tokens": [
+      "be",
+      "adjective",
+      "to",
+      "V"
+    ],
+    "hint": "주어가 to부정사의 의미상 목적어 (He is hard to please = 그를 만족시키기 어렵다)"
+  },
+  {
+    "id": "raising-seem",
+    "label": "인상 구문 seem",
+    "prompt": "종속절 주어가 주절로 인상",
+    "tokens": [
+      "S",
+      "seem",
+      "to",
+      "V"
+    ],
+    "hint": "that절 주어가 주절 주어로 인상 (S seems to V = It seems that S V)"
+  },
+  {
+    "id": "raising-believe",
+    "label": "인상 구문 believe",
+    "prompt": "종속절 주어가 목적어로 인상",
+    "tokens": [
+      "believe",
+      "S",
+      "to",
+      "V"
+    ],
+    "hint": "that절 주어가 주절 목적어로 인상 (believe him to be honest)"
+  },
+  {
+    "id": "exceptional-case-marking",
+    "label": "ECM 구문",
+    "prompt": "목적어가 부정사의 주어",
+    "tokens": [
+      "expect",
+      "O",
+      "to",
+      "V"
+    ],
+    "hint": "목적어가 to부정사의 의미상 주어로 격 표시 (expect him to win)"
+  },
+  {
+    "id": "small-clause",
+    "label": "소절",
+    "prompt": "동사 없는 주술 관계",
+    "tokens": [
+      "consider",
+      "O",
+      "adjective"
+    ],
+    "hint": "목적어+보어가 주술관계를 이루는 소절 (consider him honest)"
+  },
+  {
+    "id": "resultative",
+    "label": "결과 구문",
+    "prompt": "동작의 결과 상태 표시",
+    "tokens": [
+      "V",
+      "O",
+      "adjective"
+    ],
+    "hint": "동사+목적어+형용사로 결과 상태 (paint it red = 빨갛게 칠하다)"
+  },
+  {
+    "id": "cognate-object",
+    "label": "동족목적어",
+    "prompt": "동사와 같은 어원의 목적어",
+    "tokens": [
+      "V",
+      "a",
+      "adjective",
+      "noun"
+    ],
+    "hint": "자동사가 같은 어원의 목적어를 취함 (live a happy life)"
+  },
+  {
+    "id": "inversion-conditional-should-formal",
+    "label": "Should it ~ 격식 도치",
+    "prompt": "if 생략 격식 조건 도치",
+    "tokens": [
+      "Should",
+      "it",
+      "V"
+    ],
+    "hint": "if 생략 후 Should 문두 격식 조건 도치 (Should it rain, ...)"
+  },
+  {
+    "id": "subjunctive-recommend-that",
+    "label": "recommend that 가정법",
+    "prompt": "권고 동사 뒤 동사원형",
+    "tokens": [
+      "recommend",
+      "that",
+      "S",
+      "V원형"
+    ],
+    "hint": "recommend that + 주어 + 동사원형 (recommend that he go)"
+  },
+  {
+    "id": "subjunctive-imperative-that",
+    "label": "order that 가정법",
+    "prompt": "명령 동사 뒤 동사원형",
+    "tokens": [
+      "order",
+      "that",
+      "S",
+      "V원형"
+    ],
+    "hint": "order/demand that + 주어 + 동사원형 (order that he leave)"
+  },
+  {
+    "id": "subjunctive-it-imperative",
+    "label": "It is imperative that",
+    "prompt": "~이 필수적이다 + 원형",
+    "tokens": [
+      "It",
+      "is",
+      "imperative",
+      "that",
+      "V원형"
+    ],
+    "hint": "It is imperative that + 주어 + 동사원형 (imperative that he be there)"
+  },
+  {
+    "id": "subjunctive-it-vital",
+    "label": "It is vital that",
+    "prompt": "~이 매우 중요하다 + 원형",
+    "tokens": [
+      "It",
+      "is",
+      "vital",
+      "that",
+      "V원형"
+    ],
+    "hint": "It is vital that + 주어 + 동사원형 (vital that she attend)"
+  },
+  {
+    "id": "subjunctive-on-condition",
+    "label": "on condition that",
+    "prompt": "~라는 조건으로",
+    "tokens": [
+      "on",
+      "condition",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "on condition that + 절로 '~라는 조건이면' (on condition that you pay)"
+  },
+  {
+    "id": "relative-clause-stacking",
+    "label": "관계절 중첩",
+    "prompt": "관계절 위에 관계절",
+    "tokens": [
+      "noun",
+      "that",
+      "V",
+      "that",
+      "V"
+    ],
+    "hint": "한 명사를 관계절이 겹겹이 수식 (the man that I met that lives here)"
+  },
+  {
+    "id": "relative-pied-piping",
+    "label": "전치사 동반 이동",
+    "prompt": "전치사+관계사 함께 앞으로",
+    "tokens": [
+      "preposition",
+      "whom",
+      "S",
+      "V"
+    ],
+    "hint": "전치사가 관계사와 함께 앞으로 이동 (the man of whom I spoke)"
+  },
+  {
+    "id": "relative-stranding",
+    "label": "전치사 후치",
+    "prompt": "전치사를 절 끝에 남김",
+    "tokens": [
+      "which",
+      "S",
+      "V",
+      "preposition"
+    ],
+    "hint": "전치사를 관계절 끝에 남김 (the man whom I spoke to)"
+  },
+  {
+    "id": "non-finite-clause-subject",
+    "label": "비정형절 주어",
+    "prompt": "to부정사가 주어 역할",
+    "tokens": [
+      "To",
+      "V",
+      "is",
+      "adjective"
+    ],
+    "hint": "To부정사가 문장 주어 (To err is human = 실수는 인간적이다)"
+  },
+  {
+    "id": "gerund-clause-subject",
+    "label": "동명사절 주어",
+    "prompt": "동명사가 주어 역할",
+    "tokens": [
+      "~ing",
+      "is",
+      "~ing"
+    ],
+    "hint": "동명사가 문장 주어 (Seeing is believing = 보는 것이 믿는 것)"
+  },
+  {
+    "id": "infinitive-of-result",
+    "label": "결과 부정사",
+    "prompt": "~해서 결국 ~하다",
+    "tokens": [
+      "V",
+      "to",
+      "V"
+    ],
+    "hint": "to부정사가 결과를 나타냄 (grew up to be = 자라서 ~가 되었다)"
+  },
+  {
+    "id": "infinitive-only-to",
+    "label": "only to 결과",
+    "prompt": "~했으나 결국 ~하다",
+    "tokens": [
+      "V",
+      "only",
+      "to",
+      "V"
+    ],
+    "hint": "only to V로 예상 밖 실망스러운 결과 (woke up only to find)"
+  },
+  {
+    "id": "infinitive-never-to",
+    "label": "never to 결과",
+    "prompt": "~하여 다시는 ~못하다",
+    "tokens": [
+      "V",
+      "never",
+      "to",
+      "V"
+    ],
+    "hint": "never to V로 '~하여 다시는 못 ~하다' 부정 결과 (left never to return)"
+  },
+  {
+    "id": "infinitive-absolute",
+    "label": "독립부정사",
+    "prompt": "to be honest 등 문장 수식",
+    "tokens": [
+      "to",
+      "be",
+      "honest"
+    ],
+    "hint": "to be honest 등 독립부정사가 문장 전체 수식 (To be honest, ...)"
+  },
+  {
+    "id": "infinitive-so-as-to",
+    "label": "so as to",
+    "prompt": "~하기 위해 (목적)",
+    "tokens": [
+      "so",
+      "as",
+      "to",
+      "V"
+    ],
+    "hint": "so as to + 동사원형으로 '~하기 위해' 목적 (so as to pass)"
+  },
+  {
+    "id": "infinitive-in-order-to",
+    "label": "in order to",
+    "prompt": "~하기 위해 (목적)",
+    "tokens": [
+      "in",
+      "order",
+      "to",
+      "V"
+    ],
+    "hint": "in order to + 동사원형으로 '~하기 위해' 목적 (in order to win)"
+  },
+  {
+    "id": "infinitive-in-order-that",
+    "label": "in order that",
+    "prompt": "~하기 위해 (목적절)",
+    "tokens": [
+      "in",
+      "order",
+      "that",
+      "S",
+      "may"
+    ],
+    "hint": "in order that + 주어 + may/can으로 목적절 (in order that he may pass)"
+  },
+  {
+    "id": "infinitive-too-only-to",
+    "label": "too ~ only to",
+    "prompt": "강조된 예상 밖 결과",
+    "tokens": [
+      "too",
+      "adjective",
+      "only",
+      "to",
+      "V"
+    ],
+    "hint": "too + 형용사 + only to V로 강조된 실망 결과"
+  },
+  {
+    "id": "apposition-or-rather",
+    "label": "or rather 동격",
+    "prompt": "더 정확히는 (정정)",
+    "tokens": [
+      "noun",
+      "or",
+      "rather",
+      "noun"
+    ],
+    "hint": "or rather로 앞말을 '더 정확히는'으로 정정 부연 (a friend, or rather an ally)"
+  },
+  {
+    "id": "hypotactic-subordination",
+    "label": "다중 종속절",
+    "prompt": "종속절이 여러 겹 중첩",
+    "tokens": [
+      "that",
+      "S",
+      "V",
+      "because",
+      "S",
+      "V"
+    ],
+    "hint": "that절 안에 because절 등 종속절이 겹겹이 중첩되는 복합 구조"
+  },
+  {
+    "id": "correlative-such-as-to",
+    "label": "such as to",
+    "prompt": "~할 정도의 (정도·결과)",
+    "tokens": [
+      "such",
+      "as",
+      "to",
+      "V"
+    ],
+    "hint": "such as to + 동사원형으로 '~할 정도의' 정도·결과 (such as to surprise)"
+  },
+  {
+    "id": "correlative-so-as-not-to",
+    "label": "so as not to",
+    "prompt": "~하지 않기 위해",
+    "tokens": [
+      "so",
+      "as",
+      "not",
+      "to",
+      "V"
+    ],
+    "hint": "so as not to + 동사원형으로 '~하지 않으려고' 부정 목적 (so as not to wake)"
+  },
+  {
+    "id": "emphatic-it-is-i-who",
+    "label": "It is I who",
+    "prompt": "~하는 사람은 바로 나",
+    "tokens": [
+      "It",
+      "is",
+      "I",
+      "who",
+      "V"
+    ],
+    "hint": "It is I who + 동사로 주어를 강조하는 분열문 (It is I who am right)"
+  },
+  {
+    "id": "passive-causative-formal",
+    "label": "have it done (격식)",
+    "prompt": "~을 ~되게 하다 (사역수동)",
+    "tokens": [
+      "have",
+      "it",
+      "p.p."
+    ],
+    "hint": "have + 목적어 + p.p.로 '~을 ~되게 하다' 사역 수동 (have it done)"
+  },
+  {
+    "id": "inversion-such-was",
+    "label": "Such was 도치",
+    "prompt": "그토록 ~했다 (정도 강조)",
+    "tokens": [
+      "Such",
+      "was",
+      "S",
+      "that"
+    ],
+    "hint": "Such was + 주어 + that으로 정도 강조 도치 (Such was his joy that ...)"
+  },
+  {
+    "id": "subjunctive-perish-the-thought",
+    "label": "perish the thought",
+    "prompt": "그런 생각은 집어치워",
+    "tokens": [
+      "Perish",
+      "the",
+      "thought"
+    ],
+    "hint": "Perish the thought로 '그런 생각 마' 동사원형 관용 가정법"
+  },
+  {
+    "id": "cleft-what-happened",
+    "label": "What happened was",
+    "prompt": "일어난 일은 ~였다",
+    "tokens": [
+      "What",
+      "happened",
+      "was",
+      "that"
+    ],
+    "hint": "What happened was that ~로 사건을 강조하는 의사분열문"
+  },
+  {
+    "id": "inversion-not-only-had",
+    "label": "Not only had he",
+    "prompt": "~했을 뿐만 아니라 (도치)",
+    "tokens": [
+      "Not",
+      "only",
+      "had",
+      "he"
+    ],
+    "hint": "Not only 뒤 조동사+주어 도치 (Not only had he lied, but ...)"
+  },
+  {
+    "id": "inversion-never-before-had",
+    "label": "Never before had I",
+    "prompt": "이전에 결코 ~한 적 없다",
+    "tokens": [
+      "Never",
+      "before",
+      "had",
+      "I"
+    ],
+    "hint": "Never before 뒤 had+주어 부정부사 도치 (Never before had I seen)"
+  },
+  {
+    "id": "inversion-no-sooner-had",
+    "label": "No sooner had I",
+    "prompt": "~하자마자 (than)",
+    "tokens": [
+      "No",
+      "sooner",
+      "had",
+      "I"
+    ],
+    "hint": "No sooner had 주어 p.p. than ~로 '~하자마자' 도치 (No sooner had I left than ...)"
+  },
+  {
+    "id": "inversion-hardly-had",
+    "label": "Hardly had I",
+    "prompt": "~하자마자 (when)",
+    "tokens": [
+      "Hardly",
+      "had",
+      "I"
+    ],
+    "hint": "Hardly had 주어 p.p. when ~로 '~하자마자' 도치 (Hardly had I sat when ...)"
+  },
+  {
+    "id": "inversion-scarcely-had",
+    "label": "Scarcely had we",
+    "prompt": "~하자마자 (when)",
+    "tokens": [
+      "Scarcely",
+      "had",
+      "we"
+    ],
+    "hint": "Scarcely had 주어 p.p. when ~로 '~하자마자' 도치"
+  },
+  {
+    "id": "inversion-little-did",
+    "label": "Little did she know",
+    "prompt": "거의 알지 못했다 (도치)",
+    "tokens": [
+      "Little",
+      "did",
+      "she",
+      "know"
+    ],
+    "hint": "Little 뒤 did+주어 부정 도치 (Little did she know = 그녀는 몰랐다)"
+  },
+  {
+    "id": "inversion-only-after",
+    "label": "Only after did",
+    "prompt": "~한 후에야 비로소 (도치)",
+    "tokens": [
+      "Only",
+      "after",
+      "did",
+      "S"
+    ],
+    "hint": "Only after ~ 뒤 조동사+주어 도치 (Only after he left did I know)"
+  },
+  {
+    "id": "inversion-not-once",
+    "label": "Not once did he",
+    "prompt": "단 한 번도 ~하지 않았다",
+    "tokens": [
+      "Not",
+      "once",
+      "did",
+      "he"
+    ],
+    "hint": "Not once 뒤 did+주어 부정 도치 (Not once did he complain)"
+  },
+  {
+    "id": "inversion-on-no-occasion",
+    "label": "On no occasion did",
+    "prompt": "어떤 경우에도 ~하지 않았다",
+    "tokens": [
+      "On",
+      "no",
+      "occasion",
+      "did"
+    ],
+    "hint": "On no occasion 뒤 did+주어 부정구 도치"
+  },
+  {
+    "id": "inversion-in-no-circumstances",
+    "label": "In no circumstances will",
+    "prompt": "어떤 상황에서도 ~않을 것",
+    "tokens": [
+      "In",
+      "no",
+      "circumstances",
+      "will"
+    ],
+    "hint": "In no circumstances 뒤 조동사+주어 부정구 도치"
+  },
+  {
+    "id": "inversion-not-for-a-moment",
+    "label": "Not for a moment did",
+    "prompt": "한순간도 ~하지 않았다",
+    "tokens": [
+      "Not",
+      "for",
+      "a",
+      "moment",
+      "did"
+    ],
+    "hint": "Not for a moment 뒤 did+주어 부정구 도치"
+  },
+  {
+    "id": "inversion-rarely-have",
+    "label": "Rarely have we seen",
+    "prompt": "좀처럼 ~한 적 없다 (도치)",
+    "tokens": [
+      "Rarely",
+      "have",
+      "we",
+      "seen"
+    ],
+    "hint": "Rarely 뒤 have+주어+p.p. 빈도부정 도치 (Rarely have we seen)"
+  },
+  {
+    "id": "inversion-so-great-was",
+    "label": "So great was the",
+    "prompt": "~이 너무 커서 (도치)",
+    "tokens": [
+      "So",
+      "great",
+      "was",
+      "the"
+    ],
+    "hint": "So + 형용사 + was + 주어 보어 도치 (So great was the noise that ...)"
+  },
+  {
+    "id": "inversion-such-was-his",
+    "label": "Such was his anger",
+    "prompt": "그의 분노가 그러하여",
+    "tokens": [
+      "Such",
+      "was",
+      "his",
+      "anger"
+    ],
+    "hint": "Such + was + 명사 보어 도치 (Such was his anger that ...)"
+  },
+  {
+    "id": "inversion-down-came",
+    "label": "Down came the rain",
+    "prompt": "비가 쏟아져 내렸다 (도치)",
+    "tokens": [
+      "Down",
+      "came",
+      "the",
+      "rain"
+    ],
+    "hint": "방향 부사가 문두로 가면 동사+주어 도치 (Down came the rain)"
+  },
+  {
+    "id": "inversion-here-comes",
+    "label": "Here comes the bus",
+    "prompt": "버스가 온다 (장소 도치)",
+    "tokens": [
+      "Here",
+      "comes",
+      "the",
+      "bus"
+    ],
+    "hint": "Here/There 뒤 동사+명사주어 장소부사 도치 (Here comes the bus)"
+  },
+  {
+    "id": "inversion-should-anyone",
+    "label": "Should anyone ask",
+    "prompt": "누구든 물어보면 (if 생략)",
+    "tokens": [
+      "Should",
+      "anyone",
+      "ask"
+    ],
+    "hint": "if 생략 후 Should 문두 조건 도치 (Should anyone ask, ...)"
+  },
+  {
+    "id": "inversion-had-it-not",
+    "label": "Had it not been",
+    "prompt": "~이 아니었더라면",
+    "tokens": [
+      "Had",
+      "it",
+      "not",
+      "been"
+    ],
+    "hint": "if had not been에서 if 생략 가정법 도치 (Had it not been for ...)"
+  },
+  {
+    "id": "inversion-were-it-not",
+    "label": "Were it not for",
+    "prompt": "~이 없다면 (도치)",
+    "tokens": [
+      "Were",
+      "it",
+      "not",
+      "for"
+    ],
+    "hint": "if it were not for에서 if 생략 가정법 도치 (Were it not for ...)"
+  },
+  {
+    "id": "subjunctive-insist-that",
+    "label": "I insist that he",
+    "prompt": "~할 것을 주장한다 + 원형",
+    "tokens": [
+      "I",
+      "insist",
+      "that",
+      "he"
+    ],
+    "hint": "insist that + 주어 + 동사원형 주장동사 가정법 (insist that he go)"
+  },
+  {
+    "id": "subjunctive-demand-that",
+    "label": "They demand that",
+    "prompt": "~할 것을 요구한다 + 원형",
+    "tokens": [
+      "They",
+      "demand",
+      "that"
+    ],
+    "hint": "demand that + 주어 + 동사원형 요구동사 가정법 (demand that he leave)"
+  },
+  {
+    "id": "subjunctive-propose-that",
+    "label": "I propose that we",
+    "prompt": "~할 것을 제안한다 + 원형",
+    "tokens": [
+      "I",
+      "propose",
+      "that",
+      "we"
+    ],
+    "hint": "propose that + 주어 + 동사원형 제안동사 가정법 (propose that we wait)"
+  },
+  {
+    "id": "subjunctive-it-essential-that",
+    "label": "It is essential that",
+    "prompt": "~하는 것이 필수적이다",
+    "tokens": [
+      "It",
+      "is",
+      "essential",
+      "that"
+    ],
+    "hint": "It is essential that + 주어 + 동사원형 이성판단 가정법 (essential that he be)"
+  },
+  {
+    "id": "subjunctive-it-crucial-that",
+    "label": "It is crucial that",
+    "prompt": "~하는 것이 중요하다",
+    "tokens": [
+      "It",
+      "is",
+      "crucial",
+      "that"
+    ],
+    "hint": "It is crucial that + 주어 + 동사원형 이성판단 가정법 (crucial that she attend)"
+  },
+  {
+    "id": "subjunctive-as-it-were",
+    "label": "as it were",
+    "prompt": "말하자면 (관용)",
+    "tokens": [
+      "as",
+      "it",
+      "were"
+    ],
+    "hint": "as it were로 '말하자면/이를테면' 관용 가정법 (a living fossil, as it were)"
+  },
+  {
+    "id": "subjunctive-if-need-be",
+    "label": "if need be",
+    "prompt": "필요하다면 (관용)",
+    "tokens": [
+      "if",
+      "need",
+      "be"
+    ],
+    "hint": "if need be로 '필요하다면' 동사원형 관용 가정법"
+  },
+  {
+    "id": "subjunctive-be-it-so",
+    "label": "Be it so",
+    "prompt": "그렇다 할지라도 (양보)",
+    "tokens": [
+      "Be",
+      "it",
+      "so"
+    ],
+    "hint": "Be it so로 '그렇다 할지라도' 동사원형 양보 가정법"
+  },
+  {
+    "id": "cleft-it-was-here-that",
+    "label": "It was here that",
+    "prompt": "바로 여기서 ~했다",
+    "tokens": [
+      "It",
+      "was",
+      "here",
+      "that"
+    ],
+    "hint": "It was here that ~로 장소 부사를 강조하는 분열문"
+  },
+  {
+    "id": "cleft-it-is-you-who",
+    "label": "It is you who",
+    "prompt": "바로 당신이 ~하는 것",
+    "tokens": [
+      "It",
+      "is",
+      "you",
+      "who"
+    ],
+    "hint": "It is you who + 동사로 주어를 강조하는 분열문"
+  },
+  {
+    "id": "cleft-what-i-need-is",
+    "label": "What I need is",
+    "prompt": "내가 필요한 것은 ~이다",
+    "tokens": [
+      "What",
+      "I",
+      "need",
+      "is"
+    ],
+    "hint": "What I need is ~로 목적어를 강조하는 의사분열문"
+  },
+  {
+    "id": "cleft-the-one-who",
+    "label": "The one who did",
+    "prompt": "~한 사람은 바로",
+    "tokens": [
+      "The",
+      "one",
+      "who",
+      "did"
+    ],
+    "hint": "The one who ~ is로 사람을 강조하는 wh-분열문"
+  },
+  {
+    "id": "cleft-all-i-want",
+    "label": "All I want is",
+    "prompt": "내가 원하는 건 ~뿐이다",
+    "tokens": [
+      "All",
+      "I",
+      "want",
+      "is"
+    ],
+    "hint": "All I want is ~로 '~뿐'을 강조하는 all 분열문"
+  },
+  {
+    "id": "cleft-the-reason-why",
+    "label": "The reason why is",
+    "prompt": "~한 이유는 ~이다",
+    "tokens": [
+      "The",
+      "reason",
+      "why",
+      "is"
+    ],
+    "hint": "The reason why ~ is로 이유를 강조하는 분열문"
+  },
+  {
+    "id": "participle-having-been",
+    "label": "Having been told",
+    "prompt": "~을 들었기 때문에",
+    "tokens": [
+      "Having",
+      "been",
+      "told"
+    ],
+    "hint": "Having been + p.p.로 완료수동 분사구문 (Having been told, ...)"
+  },
+  {
+    "id": "participle-not-knowing",
+    "label": "Not knowing what",
+    "prompt": "무엇을 ~할지 몰라서",
+    "tokens": [
+      "Not",
+      "knowing",
+      "what"
+    ],
+    "hint": "Not + 분사로 부정 분사구문 (Not knowing what to do, ...)"
+  },
+  {
+    "id": "participle-seen-from",
+    "label": "Seen from afar",
+    "prompt": "멀리서 보면 (수동)",
+    "tokens": [
+      "Seen",
+      "from",
+      "afar"
+    ],
+    "hint": "과거분사로 시작하는 수동 분사구문 (Seen from afar, ...)"
+  },
+  {
+    "id": "participle-weather-permitting",
+    "label": "weather permitting",
+    "prompt": "날씨가 허락한다면",
+    "tokens": [
+      "weather",
+      "permitting"
+    ],
+    "hint": "weather permitting으로 '날씨가 허락하면' 독립 분사구문"
+  },
+  {
+    "id": "participle-frankly-speaking",
+    "label": "frankly speaking",
+    "prompt": "솔직히 말하면",
+    "tokens": [
+      "frankly",
+      "speaking"
+    ],
+    "hint": "Frankly speaking으로 '솔직히 말하면' 무인칭 독립분사구문"
+  },
+  {
+    "id": "participle-having-finished",
+    "label": "Having finished work",
+    "prompt": "일을 끝낸 후 (완료)",
+    "tokens": [
+      "Having",
+      "finished",
+      "work"
+    ],
+    "hint": "Having + p.p.로 완료 분사구문 (Having finished work, ...)"
+  },
+  {
+    "id": "absolute-his-arms-folded",
+    "label": "his arms folded",
+    "prompt": "팔짱을 낀 채로",
+    "tokens": [
+      "his",
+      "arms",
+      "folded"
+    ],
+    "hint": "명사 + p.p.로 독립 주격 구문 (with) his arms folded"
+  },
+  {
+    "id": "absolute-night-falling",
+    "label": "night falling fast",
+    "prompt": "밤이 빠르게 깊어지면서",
+    "tokens": [
+      "night",
+      "falling",
+      "fast"
+    ],
+    "hint": "명사 + 현재분사로 독립 주격 구문 (Night falling fast, ...)"
+  },
+  {
+    "id": "conjunction-inasmuch-as",
+    "label": "inasmuch as",
+    "prompt": "~인 한, ~이므로",
+    "tokens": [
+      "inasmuch",
+      "as"
+    ],
+    "hint": "inasmuch as로 '~인 한/~이므로' 이유 종속접속사 (문어체)"
+  },
+  {
+    "id": "conjunction-albeit",
+    "label": "albeit",
+    "prompt": "비록 ~일지라도",
+    "tokens": [
+      "albeit"
+    ],
+    "hint": "albeit으로 '비록 ~이지만' 양보 접속사 (albeit slowly)"
+  },
+  {
+    "id": "conjunction-notwithstanding",
+    "label": "notwithstanding that",
+    "prompt": "~에도 불구하고",
+    "tokens": [
+      "notwithstanding",
+      "that"
+    ],
+    "hint": "notwithstanding (that)으로 '~에도 불구하고' 양보 접속사"
+  },
+  {
+    "id": "conjunction-lest-should",
+    "label": "lest he should",
+    "prompt": "그가 ~하지 않도록",
+    "tokens": [
+      "lest",
+      "he",
+      "should"
+    ],
+    "hint": "lest + 주어 + should V로 '~하지 않도록' 목적 종속접속사"
+  },
+  {
+    "id": "conjunction-on-condition-that",
+    "label": "on condition that",
+    "prompt": "~라는 조건으로",
+    "tokens": [
+      "on",
+      "condition",
+      "that"
+    ],
+    "hint": "on condition that + 절로 '~라는 조건이면' 조건 접속사"
+  },
+  {
+    "id": "conjunction-much-as",
+    "label": "Much as I like",
+    "prompt": "~을 무척 좋아하지만",
+    "tokens": [
+      "Much",
+      "as",
+      "I",
+      "like"
+    ],
+    "hint": "Much as + 주어 + 동사로 '~하지만' 양보 도치 접속사 (Much as I like it)"
+  },
+  {
+    "id": "conjunction-no-matter-how",
+    "label": "No matter how hard",
+    "prompt": "아무리 ~하더라도",
+    "tokens": [
+      "No",
+      "matter",
+      "how",
+      "hard"
+    ],
+    "hint": "No matter how + 형용사/부사로 '아무리 ~해도' 양보 부사절"
+  },
+  {
+    "id": "conjunction-be-that-as",
+    "label": "Be that as it may",
+    "prompt": "그것이 어떻든 간에",
+    "tokens": [
+      "Be",
+      "that",
+      "as",
+      "it",
+      "may"
+    ],
+    "hint": "Be that as it may로 '그렇다 하더라도' 양보 관용절"
+  },
+  {
+    "id": "conjunction-come-what-may",
+    "label": "Come what may",
+    "prompt": "무슨 일이 있어도",
+    "tokens": [
+      "Come",
+      "what",
+      "may"
+    ],
+    "hint": "Come what may로 '무슨 일이 있어도' 양보 가정법 관용"
+  }
+]

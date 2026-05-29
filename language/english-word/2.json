@@ -1,0 +1,2752 @@
+[
+  {
+    "word": "ash",
+    "meaning": "재",
+    "hint": "탄나머지"
+  },
+  {
+    "word": "den",
+    "meaning": "보금자리",
+    "hint": "짐승굴"
+  },
+  {
+    "word": "eel",
+    "meaning": "뱀장어",
+    "hint": "긴물고기"
+  },
+  {
+    "word": "fin",
+    "meaning": "지느러미",
+    "hint": "물고기날개"
+  },
+  {
+    "word": "fur",
+    "meaning": "털가죽",
+    "hint": "동물털"
+  },
+  {
+    "word": "jaw",
+    "meaning": "턱",
+    "hint": "입주변뼈"
+  },
+  {
+    "word": "joy",
+    "meaning": "기쁨",
+    "hint": "즐거움"
+  },
+  {
+    "word": "law",
+    "meaning": "법",
+    "hint": "규칙"
+  },
+  {
+    "word": "lie",
+    "meaning": "거짓말",
+    "hint": "속임"
+  },
+  {
+    "word": "mud",
+    "meaning": "진흙",
+    "hint": "질척흙"
+  },
+  {
+    "word": "owl",
+    "meaning": "올빼미",
+    "hint": "밤의새"
+  },
+  {
+    "word": "paw",
+    "meaning": "발",
+    "hint": "동물발"
+  },
+  {
+    "word": "toy",
+    "meaning": "장난감",
+    "hint": "놀잇감"
+  },
+  {
+    "word": "ball",
+    "meaning": "공",
+    "hint": "둥근것"
+  },
+  {
+    "word": "bank",
+    "meaning": "은행",
+    "hint": "돈맡기는"
+  },
+  {
+    "word": "beak",
+    "meaning": "부리",
+    "hint": "새의입"
+  },
+  {
+    "word": "cave",
+    "meaning": "동굴",
+    "hint": "땅속굴"
+  },
+  {
+    "word": "chin",
+    "meaning": "턱",
+    "hint": "얼굴아래"
+  },
+  {
+    "word": "city",
+    "meaning": "도시",
+    "hint": "큰동네"
+  },
+  {
+    "word": "clam",
+    "meaning": "대합",
+    "hint": "두껍껍데기"
+  },
+  {
+    "word": "claw",
+    "meaning": "발톱",
+    "hint": "동물갈고리"
+  },
+  {
+    "word": "club",
+    "meaning": "동아리",
+    "hint": "모임"
+  },
+  {
+    "word": "coal",
+    "meaning": "석탄",
+    "hint": "검은연료"
+  },
+  {
+    "word": "comb",
+    "meaning": "빗",
+    "hint": "머리빗는"
+  },
+  {
+    "word": "cost",
+    "meaning": "비용",
+    "hint": "드는돈"
+  },
+  {
+    "word": "crow",
+    "meaning": "까마귀",
+    "hint": "검은새"
+  },
+  {
+    "word": "doll",
+    "meaning": "인형",
+    "hint": "장난감"
+  },
+  {
+    "word": "dove",
+    "meaning": "비둘기",
+    "hint": "평화상징새"
+  },
+  {
+    "word": "drum",
+    "meaning": "북",
+    "hint": "치는악기"
+  },
+  {
+    "word": "dust",
+    "meaning": "먼지",
+    "hint": "작은가루"
+  },
+  {
+    "word": "east",
+    "meaning": "동쪽",
+    "hint": "해뜨는쪽"
+  },
+  {
+    "word": "edge",
+    "meaning": "가장자리",
+    "hint": "끝부분"
+  },
+  {
+    "word": "exam",
+    "meaning": "시험",
+    "hint": "평가"
+  },
+  {
+    "word": "fact",
+    "meaning": "사실",
+    "hint": "참된것"
+  },
+  {
+    "word": "fang",
+    "meaning": "송곳니",
+    "hint": "날카로운이"
+  },
+  {
+    "word": "fear",
+    "meaning": "두려움",
+    "hint": "무서움"
+  },
+  {
+    "word": "game",
+    "meaning": "게임",
+    "hint": "놀이"
+  },
+  {
+    "word": "gift",
+    "meaning": "선물",
+    "hint": "주는것"
+  },
+  {
+    "word": "gill",
+    "meaning": "아가미",
+    "hint": "물고기호흡"
+  },
+  {
+    "word": "glue",
+    "meaning": "풀",
+    "hint": "붙이는것"
+  },
+  {
+    "word": "goal",
+    "meaning": "목표",
+    "hint": "이루려는바"
+  },
+  {
+    "word": "hawk",
+    "meaning": "매",
+    "hint": "사냥새"
+  },
+  {
+    "word": "heel",
+    "meaning": "발꿈치",
+    "hint": "발뒤"
+  },
+  {
+    "word": "hive",
+    "meaning": "벌집",
+    "hint": "벌의집"
+  },
+  {
+    "word": "hoof",
+    "meaning": "발굽",
+    "hint": "말발끝"
+  },
+  {
+    "word": "horn",
+    "meaning": "뿔",
+    "hint": "머리돌기"
+  },
+  {
+    "word": "idea",
+    "meaning": "생각",
+    "hint": "발상"
+  },
+  {
+    "word": "kite",
+    "meaning": "연",
+    "hint": "나는장난감"
+  },
+  {
+    "word": "line",
+    "meaning": "선",
+    "hint": "줄"
+  },
+  {
+    "word": "mane",
+    "meaning": "갈기",
+    "hint": "목털"
+  },
+  {
+    "word": "mind",
+    "meaning": "마음",
+    "hint": "생각자리"
+  },
+  {
+    "word": "moth",
+    "meaning": "나방",
+    "hint": "밤의나비"
+  },
+  {
+    "word": "nail",
+    "meaning": "손톱",
+    "hint": "손끝뼈"
+  },
+  {
+    "word": "nest",
+    "meaning": "둥지",
+    "hint": "새의집"
+  },
+  {
+    "word": "news",
+    "meaning": "소식",
+    "hint": "뉴스"
+  },
+  {
+    "word": "newt",
+    "meaning": "영원",
+    "hint": "작은도롱뇽"
+  },
+  {
+    "word": "pain",
+    "meaning": "고통",
+    "hint": "아픔"
+  },
+  {
+    "word": "past",
+    "meaning": "과거",
+    "hint": "지난날"
+  },
+  {
+    "word": "plan",
+    "meaning": "계획",
+    "hint": "미리정함"
+  },
+  {
+    "word": "poem",
+    "meaning": "시",
+    "hint": "운율글"
+  },
+  {
+    "word": "reef",
+    "meaning": "암초",
+    "hint": "바다속바위"
+  },
+  {
+    "word": "risk",
+    "meaning": "위험",
+    "hint": "무릅쓸일"
+  },
+  {
+    "word": "road",
+    "meaning": "도로",
+    "hint": "차길"
+  },
+  {
+    "word": "rope",
+    "meaning": "밧줄",
+    "hint": "묶는줄"
+  },
+  {
+    "word": "rule",
+    "meaning": "규칙",
+    "hint": "정해진것"
+  },
+  {
+    "word": "seal",
+    "meaning": "물개",
+    "hint": "바다포유류"
+  },
+  {
+    "word": "shop",
+    "meaning": "상점",
+    "hint": "파는곳가게"
+  },
+  {
+    "word": "side",
+    "meaning": "옆",
+    "hint": "측면"
+  },
+  {
+    "word": "size",
+    "meaning": "크기",
+    "hint": "사이즈"
+  },
+  {
+    "word": "slug",
+    "meaning": "민달팽이",
+    "hint": "껍데기없음"
+  },
+  {
+    "word": "song",
+    "meaning": "노래",
+    "hint": "부르는것"
+  },
+  {
+    "word": "swan",
+    "meaning": "백조",
+    "hint": "긴목새"
+  },
+  {
+    "word": "tail",
+    "meaning": "꼬리",
+    "hint": "몸뒤끝"
+  },
+  {
+    "word": "team",
+    "meaning": "팀",
+    "hint": "한편"
+  },
+  {
+    "word": "tide",
+    "meaning": "조수",
+    "hint": "바닷물오름내림"
+  },
+  {
+    "word": "toad",
+    "meaning": "두꺼비",
+    "hint": "울퉁개구리"
+  },
+  {
+    "word": "tool",
+    "meaning": "도구",
+    "hint": "연장"
+  },
+  {
+    "word": "trip",
+    "meaning": "여행",
+    "hint": "짧은이동"
+  },
+  {
+    "word": "tuna",
+    "meaning": "참치",
+    "hint": "큰바닷물고기"
+  },
+  {
+    "word": "tusk",
+    "meaning": "엄니",
+    "hint": "긴이빨"
+  },
+  {
+    "word": "wasp",
+    "meaning": "말벌",
+    "hint": "쏘는벌"
+  },
+  {
+    "word": "wave",
+    "meaning": "파도",
+    "hint": "바다물결"
+  },
+  {
+    "word": "west",
+    "meaning": "서쪽",
+    "hint": "해지는쪽"
+  },
+  {
+    "word": "wife",
+    "meaning": "아내",
+    "hint": "결혼여자"
+  },
+  {
+    "word": "wing",
+    "meaning": "날개",
+    "hint": "나는기관"
+  },
+  {
+    "word": "adult",
+    "meaning": "어른",
+    "hint": "큰사람"
+  },
+  {
+    "word": "agree",
+    "meaning": "동의하다",
+    "hint": "찬성하다"
+  },
+  {
+    "word": "anger",
+    "meaning": "분노",
+    "hint": "화"
+  },
+  {
+    "word": "angle",
+    "meaning": "각도",
+    "hint": "꺾인정도"
+  },
+  {
+    "word": "ankle",
+    "meaning": "발목",
+    "hint": "발관절"
+  },
+  {
+    "word": "argue",
+    "meaning": "논쟁하다",
+    "hint": "다투다"
+  },
+  {
+    "word": "attic",
+    "meaning": "다락방",
+    "hint": "지붕아래방"
+  },
+  {
+    "word": "boots",
+    "meaning": "부츠",
+    "hint": "긴신발"
+  },
+  {
+    "word": "chain",
+    "meaning": "사슬",
+    "hint": "쇠줄"
+  },
+  {
+    "word": "chalk",
+    "meaning": "분필",
+    "hint": "칠판용"
+  },
+  {
+    "word": "chick",
+    "meaning": "병아리",
+    "hint": "아기닭"
+  },
+  {
+    "word": "cliff",
+    "meaning": "절벽",
+    "hint": "가파른벼랑"
+  },
+  {
+    "word": "cloth",
+    "meaning": "천",
+    "hint": "옷감"
+  },
+  {
+    "word": "coast",
+    "meaning": "해안",
+    "hint": "바다가장자리"
+  },
+  {
+    "word": "cobra",
+    "meaning": "코브라",
+    "hint": "목펴는뱀"
+  },
+  {
+    "word": "crane",
+    "meaning": "학",
+    "hint": "긴목우아한새"
+  },
+  {
+    "word": "creek",
+    "meaning": "시내",
+    "hint": "좁은물길"
+  },
+  {
+    "word": "crowd",
+    "meaning": "군중",
+    "hint": "많은사람"
+  },
+  {
+    "word": "dream",
+    "meaning": "꿈",
+    "hint": "바라는것"
+  },
+  {
+    "word": "eagle",
+    "meaning": "독수리",
+    "hint": "큰맹금"
+  },
+  {
+    "word": "elbow",
+    "meaning": "팔꿈치",
+    "hint": "팔관절"
+  },
+  {
+    "word": "enemy",
+    "meaning": "적",
+    "hint": "대적하는이"
+  },
+  {
+    "word": "event",
+    "meaning": "행사",
+    "hint": "일"
+  },
+  {
+    "word": "fever",
+    "meaning": "열",
+    "hint": "몸이뜨거움"
+  },
+  {
+    "word": "finch",
+    "meaning": "되새",
+    "hint": "작은씨앗새"
+  },
+  {
+    "word": "flame",
+    "meaning": "불꽃",
+    "hint": "타는불"
+  },
+  {
+    "word": "flute",
+    "meaning": "플루트",
+    "hint": "관악기"
+  },
+  {
+    "word": "front",
+    "meaning": "앞",
+    "hint": "정면"
+  },
+  {
+    "word": "frost",
+    "meaning": "서리",
+    "hint": "찬얼음막"
+  },
+  {
+    "word": "gecko",
+    "meaning": "도마뱀붙이",
+    "hint": "벽붙는도마뱀"
+  },
+  {
+    "word": "glass",
+    "meaning": "유리",
+    "hint": "투명한것"
+  },
+  {
+    "word": "goose",
+    "meaning": "거위",
+    "hint": "큰물새"
+  },
+  {
+    "word": "group",
+    "meaning": "무리",
+    "hint": "모임"
+  },
+  {
+    "word": "habit",
+    "meaning": "습관",
+    "hint": "버릇"
+  },
+  {
+    "word": "heron",
+    "meaning": "왜가리",
+    "hint": "긴다리물새"
+  },
+  {
+    "word": "hobby",
+    "meaning": "취미",
+    "hint": "즐기는일"
+  },
+  {
+    "word": "leech",
+    "meaning": "거머리",
+    "hint": "피빨이벌레"
+  },
+  {
+    "word": "metal",
+    "meaning": "금속",
+    "hint": "쇠붙이"
+  },
+  {
+    "word": "money",
+    "meaning": "돈",
+    "hint": "화폐"
+  },
+  {
+    "word": "movie",
+    "meaning": "영화",
+    "hint": "상영물"
+  },
+  {
+    "word": "noise",
+    "meaning": "소음",
+    "hint": "시끄러움"
+  },
+  {
+    "word": "north",
+    "meaning": "북쪽",
+    "hint": "위방향"
+  },
+  {
+    "word": "novel",
+    "meaning": "소설",
+    "hint": "긴이야기"
+  },
+  {
+    "word": "offer",
+    "meaning": "제안하다",
+    "hint": "내놓다"
+  },
+  {
+    "word": "otter",
+    "meaning": "수달",
+    "hint": "물속포유류"
+  },
+  {
+    "word": "peace",
+    "meaning": "평화",
+    "hint": "다툼없음"
+  },
+  {
+    "word": "phone",
+    "meaning": "전화",
+    "hint": "통화기계"
+  },
+  {
+    "word": "photo",
+    "meaning": "사진",
+    "hint": "찍은것"
+  },
+  {
+    "word": "piano",
+    "meaning": "피아노",
+    "hint": "건반악기"
+  },
+  {
+    "word": "point",
+    "meaning": "점",
+    "hint": "지점"
+  },
+  {
+    "word": "pouch",
+    "meaning": "주머니",
+    "hint": "새끼넣음"
+  },
+  {
+    "word": "power",
+    "meaning": "힘",
+    "hint": "능력"
+  },
+  {
+    "word": "price",
+    "meaning": "가격",
+    "hint": "값"
+  },
+  {
+    "word": "prize",
+    "meaning": "상",
+    "hint": "수상품"
+  },
+  {
+    "word": "quail",
+    "meaning": "메추라기",
+    "hint": "작은들새"
+  },
+  {
+    "word": "radio",
+    "meaning": "라디오",
+    "hint": "듣는기계"
+  },
+  {
+    "word": "raven",
+    "meaning": "큰까마귀",
+    "hint": "큰검은새"
+  },
+  {
+    "word": "right",
+    "meaning": "권리",
+    "hint": "마땅한것"
+  },
+  {
+    "word": "robin",
+    "meaning": "울새",
+    "hint": "빨간가슴새"
+  },
+  {
+    "word": "score",
+    "meaning": "점수",
+    "hint": "결과수"
+  },
+  {
+    "word": "shape",
+    "meaning": "모양",
+    "hint": "형태"
+  },
+  {
+    "word": "shoes",
+    "meaning": "신발",
+    "hint": "발에신는"
+  },
+  {
+    "word": "skill",
+    "meaning": "기술",
+    "hint": "능력"
+  },
+  {
+    "word": "skull",
+    "meaning": "두개골",
+    "hint": "머리뼈"
+  },
+  {
+    "word": "skunk",
+    "meaning": "스컹크",
+    "hint": "냄새뿜음"
+  },
+  {
+    "word": "smoke",
+    "meaning": "연기",
+    "hint": "불에서남"
+  },
+  {
+    "word": "snout",
+    "meaning": "주둥이",
+    "hint": "동물코입"
+  },
+  {
+    "word": "socks",
+    "meaning": "양말",
+    "hint": "발옷"
+  },
+  {
+    "word": "sound",
+    "meaning": "소리",
+    "hint": "들리는것"
+  },
+  {
+    "word": "south",
+    "meaning": "남쪽",
+    "hint": "아래방향"
+  },
+  {
+    "word": "space",
+    "meaning": "우주",
+    "hint": "별의공간"
+  },
+  {
+    "word": "spark",
+    "meaning": "불똥",
+    "hint": "튀는불"
+  },
+  {
+    "word": "speed",
+    "meaning": "속도",
+    "hint": "빠르기"
+  },
+  {
+    "word": "spine",
+    "meaning": "척추",
+    "hint": "등뼈"
+  },
+  {
+    "word": "sport",
+    "meaning": "스포츠",
+    "hint": "운동경기"
+  },
+  {
+    "word": "squid",
+    "meaning": "오징어",
+    "hint": "길쭉바다생물"
+  },
+  {
+    "word": "stamp",
+    "meaning": "우표",
+    "hint": "편지표"
+  },
+  {
+    "word": "steam",
+    "meaning": "증기",
+    "hint": "물의김"
+  },
+  {
+    "word": "store",
+    "meaning": "가게",
+    "hint": "파는곳"
+  },
+  {
+    "word": "stork",
+    "meaning": "황새",
+    "hint": "긴부리새"
+  },
+  {
+    "word": "style",
+    "meaning": "양식",
+    "hint": "멋"
+  },
+  {
+    "word": "swamp",
+    "meaning": "늪",
+    "hint": "질척땅"
+  },
+  {
+    "word": "theme",
+    "meaning": "주제",
+    "hint": "중심생각"
+  },
+  {
+    "word": "topic",
+    "meaning": "주제",
+    "hint": "화제"
+  },
+  {
+    "word": "total",
+    "meaning": "총합",
+    "hint": "전체"
+  },
+  {
+    "word": "tower",
+    "meaning": "탑",
+    "hint": "높은건물"
+  },
+  {
+    "word": "trade",
+    "meaning": "무역",
+    "hint": "거래"
+  },
+  {
+    "word": "trout",
+    "meaning": "송어",
+    "hint": "민물고기"
+  },
+  {
+    "word": "truck",
+    "meaning": "트럭",
+    "hint": "큰차"
+  },
+  {
+    "word": "trunk",
+    "meaning": "코끼리코",
+    "hint": "긴코"
+  },
+  {
+    "word": "truth",
+    "meaning": "진실",
+    "hint": "참"
+  },
+  {
+    "word": "value",
+    "meaning": "가치",
+    "hint": "값어치"
+  },
+  {
+    "word": "viper",
+    "meaning": "독사",
+    "hint": "독있는뱀"
+  },
+  {
+    "word": "voice",
+    "meaning": "목소리",
+    "hint": "사람소리"
+  },
+  {
+    "word": "waist",
+    "meaning": "허리",
+    "hint": "몸중간"
+  },
+  {
+    "word": "wheel",
+    "meaning": "바퀴",
+    "hint": "둥근것"
+  },
+  {
+    "word": "width",
+    "meaning": "너비",
+    "hint": "넓이"
+  },
+  {
+    "word": "worry",
+    "meaning": "걱정",
+    "hint": "근심"
+  },
+  {
+    "word": "wrist",
+    "meaning": "손목",
+    "hint": "손관절"
+  },
+  {
+    "word": "accept",
+    "meaning": "받아들이다",
+    "hint": "수용하다"
+  },
+  {
+    "word": "action",
+    "meaning": "행동",
+    "hint": "움직임"
+  },
+  {
+    "word": "advice",
+    "meaning": "조언",
+    "hint": "도움말"
+  },
+  {
+    "word": "amount",
+    "meaning": "양",
+    "hint": "분량"
+  },
+  {
+    "word": "animal",
+    "meaning": "동물",
+    "hint": "숨쉬는것"
+  },
+  {
+    "word": "antler",
+    "meaning": "사슴뿔",
+    "hint": "가지친뿔"
+  },
+  {
+    "word": "author",
+    "meaning": "작가",
+    "hint": "글쓴이"
+  },
+  {
+    "word": "badger",
+    "meaning": "오소리",
+    "hint": "땅파는동물"
+  },
+  {
+    "word": "beauty",
+    "meaning": "아름다움",
+    "hint": "미"
+  },
+  {
+    "word": "beaver",
+    "meaning": "비버",
+    "hint": "댐만듦"
+  },
+  {
+    "word": "beetle",
+    "meaning": "딱정벌레",
+    "hint": "단단한벌레"
+  },
+  {
+    "word": "belief",
+    "meaning": "믿음",
+    "hint": "신념"
+  },
+  {
+    "word": "bother",
+    "meaning": "귀찮게하다",
+    "hint": "성가시게"
+  },
+  {
+    "word": "bottom",
+    "meaning": "바닥",
+    "hint": "아래"
+  },
+  {
+    "word": "branch",
+    "meaning": "가지",
+    "hint": "나무팔"
+  },
+  {
+    "word": "breeze",
+    "meaning": "산들바람",
+    "hint": "부드런바람"
+  },
+  {
+    "word": "burrow",
+    "meaning": "굴",
+    "hint": "동물땅굴"
+  },
+  {
+    "word": "camera",
+    "meaning": "카메라",
+    "hint": "찍는기계"
+  },
+  {
+    "word": "canary",
+    "meaning": "카나리아",
+    "hint": "노란새"
+  },
+  {
+    "word": "canyon",
+    "meaning": "협곡",
+    "hint": "깊은골짜기"
+  },
+  {
+    "word": "castle",
+    "meaning": "성",
+    "hint": "돌건물"
+  },
+  {
+    "word": "center",
+    "meaning": "중심",
+    "hint": "가운데"
+  },
+  {
+    "word": "chance",
+    "meaning": "기회",
+    "hint": "때"
+  },
+  {
+    "word": "choice",
+    "meaning": "선택",
+    "hint": "고름"
+  },
+  {
+    "word": "church",
+    "meaning": "교회",
+    "hint": "기도하는곳"
+  },
+  {
+    "word": "circle",
+    "meaning": "원",
+    "hint": "둥근것"
+  },
+  {
+    "word": "cobweb",
+    "meaning": "거미줄",
+    "hint": "거미실"
+  },
+  {
+    "word": "cocoon",
+    "meaning": "고치",
+    "hint": "번데기집"
+  },
+  {
+    "word": "copper",
+    "meaning": "구리",
+    "hint": "붉은금속"
+  },
+  {
+    "word": "cotton",
+    "meaning": "면",
+    "hint": "부드러운천"
+  },
+  {
+    "word": "crayon",
+    "meaning": "크레용",
+    "hint": "색칠도구"
+  },
+  {
+    "word": "create",
+    "meaning": "창조하다",
+    "hint": "만들다"
+  },
+  {
+    "word": "cuckoo",
+    "meaning": "뻐꾸기",
+    "hint": "뻐꾹우는새"
+  },
+  {
+    "word": "custom",
+    "meaning": "관습",
+    "hint": "오랜습관"
+  },
+  {
+    "word": "danger",
+    "meaning": "위험",
+    "hint": "위태로움"
+  },
+  {
+    "word": "decade",
+    "meaning": "십년",
+    "hint": "열해"
+  },
+  {
+    "word": "defeat",
+    "meaning": "패배",
+    "hint": "짐"
+  },
+  {
+    "word": "desert",
+    "meaning": "사막",
+    "hint": "모래땅"
+  },
+  {
+    "word": "design",
+    "meaning": "디자인",
+    "hint": "설계"
+  },
+  {
+    "word": "detail",
+    "meaning": "세부",
+    "hint": "자세함"
+  },
+  {
+    "word": "double",
+    "meaning": "두배",
+    "hint": "곱절"
+  },
+  {
+    "word": "effort",
+    "meaning": "노력",
+    "hint": "애씀"
+  },
+  {
+    "word": "energy",
+    "meaning": "에너지",
+    "hint": "힘"
+  },
+  {
+    "word": "engine",
+    "meaning": "엔진",
+    "hint": "동력장치"
+  },
+  {
+    "word": "falcon",
+    "meaning": "송골매",
+    "hint": "빠른맹금"
+  },
+  {
+    "word": "ferret",
+    "meaning": "흰담비",
+    "hint": "길쭉애완"
+  },
+  {
+    "word": "flavor",
+    "meaning": "맛",
+    "hint": "풍미"
+  },
+  {
+    "word": "folder",
+    "meaning": "폴더",
+    "hint": "서류보관"
+  },
+  {
+    "word": "fossil",
+    "meaning": "화석",
+    "hint": "옛생물흔적"
+  },
+  {
+    "word": "garage",
+    "meaning": "차고",
+    "hint": "차넣는곳"
+  },
+  {
+    "word": "gather",
+    "meaning": "모으다",
+    "hint": "모이다"
+  },
+  {
+    "word": "gerbil",
+    "meaning": "저빌",
+    "hint": "작은쥐애완"
+  },
+  {
+    "word": "ground",
+    "meaning": "땅",
+    "hint": "발밑"
+  },
+  {
+    "word": "guitar",
+    "meaning": "기타",
+    "hint": "줄악기"
+  },
+  {
+    "word": "hammer",
+    "meaning": "망치",
+    "hint": "치는도구"
+  },
+  {
+    "word": "harbor",
+    "meaning": "항구",
+    "hint": "배대는곳"
+  },
+  {
+    "word": "health",
+    "meaning": "건강",
+    "hint": "아프지않음"
+  },
+  {
+    "word": "height",
+    "meaning": "높이",
+    "hint": "키"
+  },
+  {
+    "word": "hornet",
+    "meaning": "장수말벌",
+    "hint": "큰말벌"
+  },
+  {
+    "word": "icicle",
+    "meaning": "고드름",
+    "hint": "매달린얼음"
+  },
+  {
+    "word": "iguana",
+    "meaning": "이구아나",
+    "hint": "큰도마뱀"
+  },
+  {
+    "word": "inform",
+    "meaning": "알리다",
+    "hint": "통지하다"
+  },
+  {
+    "word": "inside",
+    "meaning": "안쪽",
+    "hint": "내부"
+  },
+  {
+    "word": "invent",
+    "meaning": "발명하다",
+    "hint": "새로만들다"
+  },
+  {
+    "word": "jungle",
+    "meaning": "밀림",
+    "hint": "빽빽한숲"
+  },
+  {
+    "word": "lawyer",
+    "meaning": "변호사",
+    "hint": "법률가"
+  },
+  {
+    "word": "leader",
+    "meaning": "지도자",
+    "hint": "이끄는이"
+  },
+  {
+    "word": "legend",
+    "meaning": "전설",
+    "hint": "옛이야기"
+  },
+  {
+    "word": "length",
+    "meaning": "길이",
+    "hint": "긴정도"
+  },
+  {
+    "word": "lizard",
+    "meaning": "도마뱀",
+    "hint": "꼬리긴파충류"
+  },
+  {
+    "word": "locker",
+    "meaning": "사물함",
+    "hint": "물건보관"
+  },
+  {
+    "word": "magpie",
+    "meaning": "까치",
+    "hint": "흑백새"
+  },
+  {
+    "word": "manage",
+    "meaning": "관리하다",
+    "hint": "다루다"
+  },
+  {
+    "word": "marker",
+    "meaning": "마커펜",
+    "hint": "굵은펜"
+  },
+  {
+    "word": "matter",
+    "meaning": "문제",
+    "hint": "사안"
+  },
+  {
+    "word": "meadow",
+    "meaning": "초원",
+    "hint": "풀밭"
+  },
+  {
+    "word": "member",
+    "meaning": "회원",
+    "hint": "구성원"
+  },
+  {
+    "word": "memory",
+    "meaning": "기억",
+    "hint": "떠올림"
+  },
+  {
+    "word": "middle",
+    "meaning": "중간",
+    "hint": "가운데"
+  },
+  {
+    "word": "muscle",
+    "meaning": "근육",
+    "hint": "힘살"
+  },
+  {
+    "word": "museum",
+    "meaning": "박물관",
+    "hint": "전시하는곳"
+  },
+  {
+    "word": "nation",
+    "meaning": "국가",
+    "hint": "나라"
+  },
+  {
+    "word": "needle",
+    "meaning": "바늘",
+    "hint": "꿰는것"
+  },
+  {
+    "word": "nephew",
+    "meaning": "조카",
+    "hint": "형제자녀"
+  },
+  {
+    "word": "obtain",
+    "meaning": "얻다",
+    "hint": "손에넣다"
+  },
+  {
+    "word": "origin",
+    "meaning": "기원",
+    "hint": "처음유래"
+  },
+  {
+    "word": "oyster",
+    "meaning": "굴",
+    "hint": "진주조개"
+  },
+  {
+    "word": "palace",
+    "meaning": "궁전",
+    "hint": "왕의집"
+  },
+  {
+    "word": "parrot",
+    "meaning": "앵무새",
+    "hint": "말따라함"
+  },
+  {
+    "word": "period",
+    "meaning": "기간",
+    "hint": "동안"
+  },
+  {
+    "word": "pigeon",
+    "meaning": "비둘기",
+    "hint": "도시새"
+  },
+  {
+    "word": "planet",
+    "meaning": "행성",
+    "hint": "도는별"
+  },
+  {
+    "word": "prince",
+    "meaning": "왕자",
+    "hint": "왕의아들"
+  },
+  {
+    "word": "public",
+    "meaning": "대중",
+    "hint": "일반사람"
+  },
+  {
+    "word": "puddle",
+    "meaning": "웅덩이",
+    "hint": "물고임"
+  },
+  {
+    "word": "puzzle",
+    "meaning": "퍼즐",
+    "hint": "맞추기"
+  },
+  {
+    "word": "python",
+    "meaning": "비단뱀",
+    "hint": "큰뱀"
+  },
+  {
+    "word": "reader",
+    "meaning": "독자",
+    "hint": "읽는이"
+  },
+  {
+    "word": "reason",
+    "meaning": "이유",
+    "hint": "까닭"
+  },
+  {
+    "word": "reduce",
+    "meaning": "줄이다",
+    "hint": "감소하다"
+  },
+  {
+    "word": "refuse",
+    "meaning": "거절하다",
+    "hint": "마다하다"
+  },
+  {
+    "word": "regret",
+    "meaning": "후회하다",
+    "hint": "뉘우치다"
+  },
+  {
+    "word": "remind",
+    "meaning": "상기시키다",
+    "hint": "일깨우다"
+  },
+  {
+    "word": "report",
+    "meaning": "보고",
+    "hint": "알림"
+  },
+  {
+    "word": "result",
+    "meaning": "결과",
+    "hint": "끝맺음"
+  },
+  {
+    "word": "reward",
+    "meaning": "보상",
+    "hint": "상"
+  },
+  {
+    "word": "rhythm",
+    "meaning": "리듬",
+    "hint": "박자"
+  },
+  {
+    "word": "ripple",
+    "meaning": "잔물결",
+    "hint": "작은물결"
+  },
+  {
+    "word": "safety",
+    "meaning": "안전",
+    "hint": "위험없음"
+  },
+  {
+    "word": "sailor",
+    "meaning": "선원",
+    "hint": "배타는이"
+  },
+  {
+    "word": "salmon",
+    "meaning": "연어",
+    "hint": "붉은살생선"
+  },
+  {
+    "word": "secret",
+    "meaning": "비밀",
+    "hint": "숨김"
+  },
+  {
+    "word": "shadow",
+    "meaning": "그림자",
+    "hint": "빛의반대"
+  },
+  {
+    "word": "shrimp",
+    "meaning": "새우",
+    "hint": "작은갑각류"
+  },
+  {
+    "word": "soccer",
+    "meaning": "축구",
+    "hint": "공경기"
+  },
+  {
+    "word": "square",
+    "meaning": "정사각형",
+    "hint": "네모"
+  },
+  {
+    "word": "stream",
+    "meaning": "개울",
+    "hint": "작은물줄기"
+  },
+  {
+    "word": "stress",
+    "meaning": "스트레스",
+    "hint": "압박"
+  },
+  {
+    "word": "subway",
+    "meaning": "지하철",
+    "hint": "땅속기차"
+  },
+  {
+    "word": "sunset",
+    "meaning": "일몰",
+    "hint": "해짐"
+  },
+  {
+    "word": "talent",
+    "meaning": "재능",
+    "hint": "타고난능력"
+  },
+  {
+    "word": "tennis",
+    "meaning": "테니스",
+    "hint": "라켓경기"
+  },
+  {
+    "word": "throat",
+    "meaning": "목구멍",
+    "hint": "목안"
+  },
+  {
+    "word": "ticket",
+    "meaning": "표",
+    "hint": "입장권"
+  },
+  {
+    "word": "tunnel",
+    "meaning": "터널",
+    "hint": "산속길"
+  },
+  {
+    "word": "turkey",
+    "meaning": "칠면조",
+    "hint": "큰가금"
+  },
+  {
+    "word": "violin",
+    "meaning": "바이올린",
+    "hint": "줄악기"
+  },
+  {
+    "word": "wallet",
+    "meaning": "지갑",
+    "hint": "돈넣는것"
+  },
+  {
+    "word": "walrus",
+    "meaning": "바다코끼리",
+    "hint": "긴엄니"
+  },
+  {
+    "word": "wealth",
+    "meaning": "부",
+    "hint": "재산"
+  },
+  {
+    "word": "weasel",
+    "meaning": "족제비",
+    "hint": "가늘긴동물"
+  },
+  {
+    "word": "weight",
+    "meaning": "무게",
+    "hint": "무거움"
+  },
+  {
+    "word": "wisdom",
+    "meaning": "지혜",
+    "hint": "슬기"
+  },
+  {
+    "word": "worker",
+    "meaning": "노동자",
+    "hint": "일하는이"
+  },
+  {
+    "word": "bedroom",
+    "meaning": "침실",
+    "hint": "자는방"
+  },
+  {
+    "word": "breathe",
+    "meaning": "숨쉬다",
+    "hint": "호흡하다"
+  },
+  {
+    "word": "capital",
+    "meaning": "수도",
+    "hint": "중심도시"
+  },
+  {
+    "word": "catfish",
+    "meaning": "메기",
+    "hint": "수염물고기"
+  },
+  {
+    "word": "ceiling",
+    "meaning": "천장",
+    "hint": "방위쪽"
+  },
+  {
+    "word": "century",
+    "meaning": "세기",
+    "hint": "백년"
+  },
+  {
+    "word": "climate",
+    "meaning": "기후",
+    "hint": "지역날씨"
+  },
+  {
+    "word": "comfort",
+    "meaning": "위안",
+    "hint": "편안함"
+  },
+  {
+    "word": "company",
+    "meaning": "회사",
+    "hint": "기업"
+  },
+  {
+    "word": "compare",
+    "meaning": "비교하다",
+    "hint": "견주다"
+  },
+  {
+    "word": "concert",
+    "meaning": "음악회",
+    "hint": "공연"
+  },
+  {
+    "word": "contain",
+    "meaning": "포함하다",
+    "hint": "담다"
+  },
+  {
+    "word": "control",
+    "meaning": "통제하다",
+    "hint": "다스리다"
+  },
+  {
+    "word": "country",
+    "meaning": "나라",
+    "hint": "국가"
+  },
+  {
+    "word": "courage",
+    "meaning": "용기",
+    "hint": "담대함"
+  },
+  {
+    "word": "cricket",
+    "meaning": "귀뚜라미",
+    "hint": "가을우는벌레"
+  },
+  {
+    "word": "culture",
+    "meaning": "문화",
+    "hint": "생활양식"
+  },
+  {
+    "word": "declare",
+    "meaning": "선언하다",
+    "hint": "밝히다"
+  },
+  {
+    "word": "deliver",
+    "meaning": "배달하다",
+    "hint": "전하다"
+  },
+  {
+    "word": "dentist",
+    "meaning": "치과의사",
+    "hint": "이치료의사"
+  },
+  {
+    "word": "deserve",
+    "meaning": "받을만하다",
+    "hint": "누릴자격"
+  },
+  {
+    "word": "develop",
+    "meaning": "발전하다",
+    "hint": "키우다"
+  },
+  {
+    "word": "discuss",
+    "meaning": "논의하다",
+    "hint": "의논하다"
+  },
+  {
+    "word": "disease",
+    "meaning": "질병",
+    "hint": "병"
+  },
+  {
+    "word": "disturb",
+    "meaning": "방해하다",
+    "hint": "훼방하다"
+  },
+  {
+    "word": "drawing",
+    "meaning": "소묘",
+    "hint": "그린것"
+  },
+  {
+    "word": "drizzle",
+    "meaning": "이슬비",
+    "hint": "가는비"
+  },
+  {
+    "word": "economy",
+    "meaning": "경제",
+    "hint": "돈흐름"
+  },
+  {
+    "word": "educate",
+    "meaning": "교육하다",
+    "hint": "가르치다"
+  },
+  {
+    "word": "emotion",
+    "meaning": "감정",
+    "hint": "마음움직임"
+  },
+  {
+    "word": "examine",
+    "meaning": "검사하다",
+    "hint": "살피다"
+  },
+  {
+    "word": "example",
+    "meaning": "예시",
+    "hint": "보기"
+  },
+  {
+    "word": "exhibit",
+    "meaning": "전시하다",
+    "hint": "보이다"
+  },
+  {
+    "word": "explore",
+    "meaning": "탐험하다",
+    "hint": "찾아다니다"
+  },
+  {
+    "word": "express",
+    "meaning": "표현하다",
+    "hint": "나타내다"
+  },
+  {
+    "word": "eyebrow",
+    "meaning": "눈썹",
+    "hint": "눈위털"
+  },
+  {
+    "word": "factory",
+    "meaning": "공장",
+    "hint": "만드는곳"
+  },
+  {
+    "word": "failure",
+    "meaning": "실패",
+    "hint": "못이룸"
+  },
+  {
+    "word": "fashion",
+    "meaning": "유행",
+    "hint": "멋새것"
+  },
+  {
+    "word": "feather",
+    "meaning": "깃털",
+    "hint": "새의털"
+  },
+  {
+    "word": "feeling",
+    "meaning": "느낌",
+    "hint": "감정"
+  },
+  {
+    "word": "firefly",
+    "meaning": "반딧불이",
+    "hint": "빛내는벌레"
+  },
+  {
+    "word": "forgive",
+    "meaning": "용서하다",
+    "hint": "눈감아주다"
+  },
+  {
+    "word": "freedom",
+    "meaning": "자유",
+    "hint": "속박없음"
+  },
+  {
+    "word": "funeral",
+    "meaning": "장례",
+    "hint": "상례"
+  },
+  {
+    "word": "general",
+    "meaning": "일반적인",
+    "hint": "보통의"
+  },
+  {
+    "word": "glacier",
+    "meaning": "빙하",
+    "hint": "큰얼음덩이"
+  },
+  {
+    "word": "grammar",
+    "meaning": "문법",
+    "hint": "말규칙"
+  },
+  {
+    "word": "hallway",
+    "meaning": "복도",
+    "hint": "교실사이"
+  },
+  {
+    "word": "hamster",
+    "meaning": "햄스터",
+    "hint": "볼주머니"
+  },
+  {
+    "word": "highway",
+    "meaning": "고속도로",
+    "hint": "빠른길"
+  },
+  {
+    "word": "husband",
+    "meaning": "남편",
+    "hint": "결혼남자"
+  },
+  {
+    "word": "imagine",
+    "meaning": "상상하다",
+    "hint": "그려보다"
+  },
+  {
+    "word": "improve",
+    "meaning": "향상하다",
+    "hint": "나아지다"
+  },
+  {
+    "word": "include",
+    "meaning": "포함하다",
+    "hint": "넣다"
+  },
+  {
+    "word": "journey",
+    "meaning": "여행",
+    "hint": "긴이동"
+  },
+  {
+    "word": "jumping",
+    "meaning": "뛰기",
+    "hint": "점프"
+  },
+  {
+    "word": "ladybug",
+    "meaning": "무당벌레",
+    "hint": "점박이벌레"
+  },
+  {
+    "word": "leather",
+    "meaning": "가죽",
+    "hint": "질긴재료"
+  },
+  {
+    "word": "lobster",
+    "meaning": "바닷가재",
+    "hint": "집게달림"
+  },
+  {
+    "word": "luggage",
+    "meaning": "짐",
+    "hint": "여행가방"
+  },
+  {
+    "word": "mammoth",
+    "meaning": "매머드",
+    "hint": "털코끼리"
+  },
+  {
+    "word": "meaning",
+    "meaning": "의미",
+    "hint": "뜻"
+  },
+  {
+    "word": "measure",
+    "meaning": "측정하다",
+    "hint": "재다"
+  },
+  {
+    "word": "meeting",
+    "meaning": "회의",
+    "hint": "모임"
+  },
+  {
+    "word": "mention",
+    "meaning": "언급하다",
+    "hint": "말하다"
+  },
+  {
+    "word": "message",
+    "meaning": "메시지",
+    "hint": "전갈"
+  },
+  {
+    "word": "mistake",
+    "meaning": "실수",
+    "hint": "잘못"
+  },
+  {
+    "word": "natural",
+    "meaning": "자연의",
+    "hint": "타고난"
+  },
+  {
+    "word": "observe",
+    "meaning": "관찰하다",
+    "hint": "살펴보다"
+  },
+  {
+    "word": "octopus",
+    "meaning": "문어",
+    "hint": "다리여덟"
+  },
+  {
+    "word": "opinion",
+    "meaning": "의견",
+    "hint": "견해"
+  },
+  {
+    "word": "ostrich",
+    "meaning": "타조",
+    "hint": "못나는큰새"
+  },
+  {
+    "word": "outside",
+    "meaning": "바깥",
+    "hint": "외부"
+  },
+  {
+    "word": "partner",
+    "meaning": "동반자",
+    "hint": "짝"
+  },
+  {
+    "word": "pattern",
+    "meaning": "무늬",
+    "hint": "규칙모양"
+  },
+  {
+    "word": "peacock",
+    "meaning": "공작",
+    "hint": "화려꼬리"
+  },
+  {
+    "word": "pelican",
+    "meaning": "펠리컨",
+    "hint": "부리주머니"
+  },
+  {
+    "word": "perform",
+    "meaning": "공연하다",
+    "hint": "해내다"
+  },
+  {
+    "word": "picture",
+    "meaning": "그림",
+    "hint": "사진"
+  },
+  {
+    "word": "plastic",
+    "meaning": "플라스틱",
+    "hint": "합성재료"
+  },
+  {
+    "word": "poverty",
+    "meaning": "가난",
+    "hint": "빈곤"
+  },
+  {
+    "word": "prairie",
+    "meaning": "대초원",
+    "hint": "넓은풀밭"
+  },
+  {
+    "word": "prevent",
+    "meaning": "막다",
+    "hint": "예방하다"
+  },
+  {
+    "word": "produce",
+    "meaning": "생산하다",
+    "hint": "만들어내다"
+  },
+  {
+    "word": "product",
+    "meaning": "제품",
+    "hint": "만든것"
+  },
+  {
+    "word": "provide",
+    "meaning": "제공하다",
+    "hint": "대주다"
+  },
+  {
+    "word": "purpose",
+    "meaning": "목적",
+    "hint": "이루려는것"
+  },
+  {
+    "word": "raccoon",
+    "meaning": "너구리",
+    "hint": "눈가검정"
+  },
+  {
+    "word": "realize",
+    "meaning": "깨닫다",
+    "hint": "알아차리다"
+  },
+  {
+    "word": "recover",
+    "meaning": "회복하다",
+    "hint": "되찾다"
+  },
+  {
+    "word": "replace",
+    "meaning": "대체하다",
+    "hint": "바꾸다"
+  },
+  {
+    "word": "require",
+    "meaning": "요구하다",
+    "hint": "필요로하다"
+  },
+  {
+    "word": "respect",
+    "meaning": "존경하다",
+    "hint": "우러르다"
+  },
+  {
+    "word": "rooster",
+    "meaning": "수탉",
+    "hint": "새벽울음"
+  },
+  {
+    "word": "routine",
+    "meaning": "일과",
+    "hint": "반복일"
+  },
+  {
+    "word": "running",
+    "meaning": "달리기",
+    "hint": "뛰기"
+  },
+  {
+    "word": "sadness",
+    "meaning": "슬픔",
+    "hint": "서글픔"
+  },
+  {
+    "word": "satisfy",
+    "meaning": "만족시키다",
+    "hint": "채워주다"
+  },
+  {
+    "word": "seagull",
+    "meaning": "갈매기",
+    "hint": "바다새"
+  },
+  {
+    "word": "seaside",
+    "meaning": "해변",
+    "hint": "바닷가"
+  },
+  {
+    "word": "seaweed",
+    "meaning": "해초",
+    "hint": "바다풀"
+  },
+  {
+    "word": "service",
+    "meaning": "서비스",
+    "hint": "돌봄"
+  },
+  {
+    "word": "silence",
+    "meaning": "침묵",
+    "hint": "조용함"
+  },
+  {
+    "word": "society",
+    "meaning": "사회",
+    "hint": "공동체"
+  },
+  {
+    "word": "sparrow",
+    "meaning": "참새",
+    "hint": "작은갈색새"
+  },
+  {
+    "word": "stomach",
+    "meaning": "배",
+    "hint": "뱃속"
+  },
+  {
+    "word": "subject",
+    "meaning": "과목",
+    "hint": "공부영역"
+  },
+  {
+    "word": "success",
+    "meaning": "성공",
+    "hint": "이룸"
+  },
+  {
+    "word": "suggest",
+    "meaning": "제안하다",
+    "hint": "권하다"
+  },
+  {
+    "word": "sunrise",
+    "meaning": "일출",
+    "hint": "해뜸"
+  },
+  {
+    "word": "support",
+    "meaning": "지지하다",
+    "hint": "받쳐주다"
+  },
+  {
+    "word": "surface",
+    "meaning": "표면",
+    "hint": "겉면"
+  },
+  {
+    "word": "survive",
+    "meaning": "살아남다",
+    "hint": "견뎌내다"
+  },
+  {
+    "word": "swallow",
+    "meaning": "제비",
+    "hint": "빠른여름새"
+  },
+  {
+    "word": "tadpole",
+    "meaning": "올챙이",
+    "hint": "개구리새끼"
+  },
+  {
+    "word": "theater",
+    "meaning": "극장",
+    "hint": "공연장"
+  },
+  {
+    "word": "thought",
+    "meaning": "생각",
+    "hint": "사고"
+  },
+  {
+    "word": "traffic",
+    "meaning": "교통",
+    "hint": "차의흐름"
+  },
+  {
+    "word": "trouble",
+    "meaning": "어려움",
+    "hint": "곤란"
+  },
+  {
+    "word": "uniform",
+    "meaning": "교복",
+    "hint": "학교옷"
+  },
+  {
+    "word": "victory",
+    "meaning": "승리",
+    "hint": "이김"
+  },
+  {
+    "word": "vulture",
+    "meaning": "독수리",
+    "hint": "썩은고기먹음"
+  },
+  {
+    "word": "wedding",
+    "meaning": "결혼식",
+    "hint": "혼례"
+  },
+  {
+    "word": "whisker",
+    "meaning": "수염",
+    "hint": "고양이털"
+  },
+  {
+    "word": "activity",
+    "meaning": "활동",
+    "hint": "움직임"
+  },
+  {
+    "word": "airplane",
+    "meaning": "비행기",
+    "hint": "나는것"
+  },
+  {
+    "word": "alphabet",
+    "meaning": "알파벳",
+    "hint": "글자모음"
+  },
+  {
+    "word": "anaconda",
+    "meaning": "아나콘다",
+    "hint": "거대한뱀"
+  },
+  {
+    "word": "backpack",
+    "meaning": "배낭",
+    "hint": "등에멤"
+  },
+  {
+    "word": "backyard",
+    "meaning": "뒷마당",
+    "hint": "집뒤공간"
+  },
+  {
+    "word": "baseball",
+    "meaning": "야구",
+    "hint": "방망이경기"
+  },
+  {
+    "word": "basement",
+    "meaning": "지하실",
+    "hint": "건물아래"
+  },
+  {
+    "word": "building",
+    "meaning": "건물",
+    "hint": "높은집"
+  },
+  {
+    "word": "business",
+    "meaning": "사업",
+    "hint": "장사"
+  },
+  {
+    "word": "calendar",
+    "meaning": "달력",
+    "hint": "날짜표시"
+  },
+  {
+    "word": "cardinal",
+    "meaning": "홍관조",
+    "hint": "빨간새"
+  },
+  {
+    "word": "chipmunk",
+    "meaning": "줄무늬다람쥐",
+    "hint": "등에줄"
+  },
+  {
+    "word": "cupboard",
+    "meaning": "찬장",
+    "hint": "그릇장"
+  },
+  {
+    "word": "customer",
+    "meaning": "고객",
+    "hint": "손님"
+  },
+  {
+    "word": "decision",
+    "meaning": "결정",
+    "hint": "정함"
+  },
+  {
+    "word": "describe",
+    "meaning": "묘사하다",
+    "hint": "그려내다"
+  },
+  {
+    "word": "dinosaur",
+    "meaning": "공룡",
+    "hint": "고대거대동물"
+  },
+  {
+    "word": "discover",
+    "meaning": "발견하다",
+    "hint": "찾아내다"
+  },
+  {
+    "word": "distance",
+    "meaning": "거리",
+    "hint": "떨어진정도"
+  },
+  {
+    "word": "duckling",
+    "meaning": "새끼오리",
+    "hint": "아기오리"
+  },
+  {
+    "word": "elevator",
+    "meaning": "승강기",
+    "hint": "위아래이동"
+  },
+  {
+    "word": "envelope",
+    "meaning": "봉투",
+    "hint": "편지넣는"
+  },
+  {
+    "word": "exercise",
+    "meaning": "운동",
+    "hint": "몸쓰기"
+  },
+  {
+    "word": "festival",
+    "meaning": "축제",
+    "hint": "잔치"
+  },
+  {
+    "word": "flamingo",
+    "meaning": "홍학",
+    "hint": "분홍긴다리새"
+  },
+  {
+    "word": "forehead",
+    "meaning": "이마",
+    "hint": "눈위"
+  },
+  {
+    "word": "goldfish",
+    "meaning": "금붕어",
+    "hint": "어항물고기"
+  },
+  {
+    "word": "hedgehog",
+    "meaning": "고슴도치",
+    "hint": "가시동물"
+  },
+  {
+    "word": "hillside",
+    "meaning": "산비탈",
+    "hint": "언덕경사"
+  },
+  {
+    "word": "industry",
+    "meaning": "산업",
+    "hint": "생산활동"
+  },
+  {
+    "word": "instinct",
+    "meaning": "본능",
+    "hint": "타고난성질"
+  },
+  {
+    "word": "language",
+    "meaning": "언어",
+    "hint": "말과글"
+  },
+  {
+    "word": "magazine",
+    "meaning": "잡지",
+    "hint": "읽을거리"
+  },
+  {
+    "word": "mattress",
+    "meaning": "매트리스",
+    "hint": "침대바닥"
+  },
+  {
+    "word": "medicine",
+    "meaning": "약",
+    "hint": "치료물질"
+  },
+  {
+    "word": "midnight",
+    "meaning": "자정",
+    "hint": "밤열두시"
+  },
+  {
+    "word": "mosquito",
+    "meaning": "모기",
+    "hint": "피빨음"
+  },
+  {
+    "word": "movement",
+    "meaning": "움직임",
+    "hint": "이동"
+  },
+  {
+    "word": "notebook",
+    "meaning": "공책",
+    "hint": "쓰는책"
+  },
+  {
+    "word": "passport",
+    "meaning": "여권",
+    "hint": "해외증명"
+  },
+  {
+    "word": "pheasant",
+    "meaning": "꿩",
+    "hint": "긴꼬리들새"
+  },
+  {
+    "word": "pleasure",
+    "meaning": "즐거움",
+    "hint": "기쁨"
+  },
+  {
+    "word": "practice",
+    "meaning": "연습",
+    "hint": "익히기"
+  },
+  {
+    "word": "princess",
+    "meaning": "공주",
+    "hint": "왕의딸"
+  },
+  {
+    "word": "rainfall",
+    "meaning": "강우",
+    "hint": "비의양"
+  },
+  {
+    "word": "schedule",
+    "meaning": "일정",
+    "hint": "계획표"
+  },
+  {
+    "word": "scissors",
+    "meaning": "가위",
+    "hint": "종이자름"
+  },
+  {
+    "word": "scorpion",
+    "meaning": "전갈",
+    "hint": "꼬리독침"
+  },
+  {
+    "word": "seashore",
+    "meaning": "바닷가",
+    "hint": "물과땅경계"
+  },
+  {
+    "word": "sentence",
+    "meaning": "문장",
+    "hint": "말덩어리"
+  },
+  {
+    "word": "separate",
+    "meaning": "분리하다",
+    "hint": "나누다"
+  },
+  {
+    "word": "sidewalk",
+    "meaning": "인도",
+    "hint": "걷는길"
+  },
+  {
+    "word": "skeleton",
+    "meaning": "뼈대",
+    "hint": "몸의뼈"
+  },
+  {
+    "word": "snowfall",
+    "meaning": "강설",
+    "hint": "눈내림"
+  },
+  {
+    "word": "solution",
+    "meaning": "해결책",
+    "hint": "답"
+  },
+  {
+    "word": "squirrel",
+    "meaning": "다람쥐",
+    "hint": "도토리먹음"
+  },
+  {
+    "word": "starfish",
+    "meaning": "불가사리",
+    "hint": "별모양"
+  },
+  {
+    "word": "stranger",
+    "meaning": "낯선이",
+    "hint": "모르는이"
+  },
+  {
+    "word": "strength",
+    "meaning": "힘",
+    "hint": "센정도"
+  },
+  {
+    "word": "surprise",
+    "meaning": "놀람",
+    "hint": "뜻밖"
+  },
+  {
+    "word": "swimming",
+    "meaning": "수영",
+    "hint": "물운동"
+  },
+  {
+    "word": "textbook",
+    "meaning": "교과서",
+    "hint": "수업책"
+  },
+  {
+    "word": "tortoise",
+    "meaning": "육지거북",
+    "hint": "느린동물"
+  },
+  {
+    "word": "triangle",
+    "meaning": "삼각형",
+    "hint": "세모"
+  },
+  {
+    "word": "umbrella",
+    "meaning": "우산",
+    "hint": "비올때씀"
+  },
+  {
+    "word": "vacation",
+    "meaning": "방학",
+    "hint": "쉬는기간"
+  },
+  {
+    "word": "wardrobe",
+    "meaning": "옷장",
+    "hint": "옷보관"
+  },
+  {
+    "word": "adventure",
+    "meaning": "모험",
+    "hint": "위험여정"
+  },
+  {
+    "word": "alligator",
+    "meaning": "악어",
+    "hint": "넓은주둥이"
+  },
+  {
+    "word": "bookshelf",
+    "meaning": "책꽂이",
+    "hint": "책놓는선반"
+  },
+  {
+    "word": "cafeteria",
+    "meaning": "구내식당",
+    "hint": "급식장소"
+  },
+  {
+    "word": "centipede",
+    "meaning": "지네",
+    "hint": "다리많음"
+  },
+  {
+    "word": "chameleon",
+    "meaning": "카멜레온",
+    "hint": "색바뀜"
+  },
+  {
+    "word": "classroom",
+    "meaning": "교실",
+    "hint": "수업장소"
+  },
+  {
+    "word": "cockroach",
+    "meaning": "바퀴벌레",
+    "hint": "빠른해충"
+  },
+  {
+    "word": "crocodile",
+    "meaning": "악어",
+    "hint": "긴주둥이"
+  },
+  {
+    "word": "crosswalk",
+    "meaning": "횡단보도",
+    "hint": "건너는줄"
+  },
+  {
+    "word": "direction",
+    "meaning": "방향",
+    "hint": "나아갈쪽"
+  },
+  {
+    "word": "dragonfly",
+    "meaning": "잠자리",
+    "hint": "날개넷벌레"
+  },
+  {
+    "word": "earthworm",
+    "meaning": "지렁이",
+    "hint": "흙속벌레"
+  },
+  {
+    "word": "escalator",
+    "meaning": "에스컬레이터",
+    "hint": "움직이는계단"
+  },
+  {
+    "word": "geography",
+    "meaning": "지리",
+    "hint": "땅학문"
+  },
+  {
+    "word": "happiness",
+    "meaning": "행복",
+    "hint": "기쁨"
+  },
+  {
+    "word": "jellyfish",
+    "meaning": "해파리",
+    "hint": "투명바다생물"
+  },
+  {
+    "word": "knowledge",
+    "meaning": "지식",
+    "hint": "아는것"
+  },
+  {
+    "word": "lightning",
+    "meaning": "번개",
+    "hint": "하늘번쩍"
+  },
+  {
+    "word": "moonlight",
+    "meaning": "달빛",
+    "hint": "밤의빛"
+  },
+  {
+    "word": "shellfish",
+    "meaning": "조개류",
+    "hint": "껍데기바다생물"
+  },
+  {
+    "word": "tarantula",
+    "meaning": "타란툴라",
+    "hint": "큰거미"
+  },
+  {
+    "word": "tradition",
+    "meaning": "전통",
+    "hint": "이어온것"
+  },
+  {
+    "word": "waterfall",
+    "meaning": "폭포",
+    "hint": "떨어지는물"
+  },
+  {
+    "word": "whirlpool",
+    "meaning": "소용돌이",
+    "hint": "도는물"
+  },
+  {
+    "word": "basketball",
+    "meaning": "농구",
+    "hint": "바구니경기"
+  },
+  {
+    "word": "collection",
+    "meaning": "수집",
+    "hint": "모음"
+  },
+  {
+    "word": "government",
+    "meaning": "정부",
+    "hint": "나라기관"
+  },
+  {
+    "word": "lighthouse",
+    "meaning": "등대",
+    "hint": "바다불빛"
+  },
+  {
+    "word": "pillowcase",
+    "meaning": "베갯잇",
+    "hint": "베개커버"
+  },
+  {
+    "word": "playground",
+    "meaning": "놀이터",
+    "hint": "노는곳"
+  },
+  {
+    "word": "woodpecker",
+    "meaning": "딱따구리",
+    "hint": "나무쪼는새"
+  },
+  {
+    "word": "appointment",
+    "meaning": "약속",
+    "hint": "만날약속"
+  },
+  {
+    "word": "caterpillar",
+    "meaning": "애벌레",
+    "hint": "나비유충"
+  },
+  {
+    "word": "grasshopper",
+    "meaning": "메뚜기",
+    "hint": "뛰는벌레"
+  },
+  {
+    "word": "hummingbird",
+    "meaning": "벌새",
+    "hint": "아주작은새"
+  },
+  {
+    "word": "information",
+    "meaning": "정보",
+    "hint": "앎거리"
+  },
+  {
+    "word": "nightingale",
+    "meaning": "나이팅게일",
+    "hint": "밤노래새"
+  },
+  {
+    "word": "thunderstorm",
+    "meaning": "뇌우",
+    "hint": "천둥비"
+  }
+]

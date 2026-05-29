@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "whilst-clause",
+    "label": "whilst",
+    "prompt": "~하는 동안 (문어체)",
+    "tokens": [
+      "whilst",
+      "S",
+      "V"
+    ],
+    "hint": "whilst는 while의 문어체로 동시·대조 (whilst reading)"
+  },
+  {
+    "id": "insofar-as",
+    "label": "in so far as",
+    "prompt": "~하는 한 (범위 조건)",
+    "tokens": [
+      "in",
+      "so",
+      "far",
+      "as",
+      "S",
+      "V"
+    ],
+    "hint": "in so far as + 절로 '~하는 한도 내에서' 범위 조건"
+  },
+  {
+    "id": "to-the-extent-that",
+    "label": "to the extent that",
+    "prompt": "~하는 정도까지",
+    "tokens": [
+      "to",
+      "the",
+      "extent",
+      "that"
+    ],
+    "hint": "to the extent that + 절로 '~할 정도로' 범위 (to the extent that it hurts)"
+  },
+  {
+    "id": "given-that",
+    "label": "given that",
+    "prompt": "~을 고려하면 (전제)",
+    "tokens": [
+      "given",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "given that + 절로 '~을 감안하면' 전제 (Given that it's late)"
+  },
+  {
+    "id": "seeing-that",
+    "label": "seeing that",
+    "prompt": "~인 것을 보니 (이유)",
+    "tokens": [
+      "seeing",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "seeing that + 절로 '~인 것으로 보아' 이유 (Seeing that he's tired)"
+  },
+  {
+    "id": "now-that",
+    "label": "now that",
+    "prompt": "~이니까 (이유)",
+    "tokens": [
+      "now",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "now that + 절로 '이제 ~이니까' 이유 (Now that you're here)"
+  },
+  {
+    "id": "in-that",
+    "label": "in that",
+    "prompt": "~라는 점에서",
+    "tokens": [
+      "in",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "in that + 절로 '~라는 점에서' 이유·측면 (good in that it's cheap)"
+  },
+  {
+    "id": "but-for-without",
+    "label": "but for / without",
+    "prompt": "~이 없었다면",
+    "tokens": [
+      "But",
+      "for",
+      "noun",
+      "S",
+      "would",
+      "have",
+      "p.p."
+    ],
+    "hint": "But for + 명사로 '~이 없었다면' 가정법 (But for your help)"
+  },
+  {
+    "id": "had-it-not-been-for",
+    "label": "had it not been for",
+    "prompt": "~이 없었더라면 (도치)",
+    "tokens": [
+      "Had",
+      "it",
+      "not",
+      "been",
+      "for",
+      "noun"
+    ],
+    "hint": "if it had not been for의 도치형 (Had it not been for ...)"
+  },
+  {
+    "id": "were-it-not-for",
+    "label": "were it not for",
+    "prompt": "~이 없다면 (도치)",
+    "tokens": [
+      "Were",
+      "it",
+      "not",
+      "for",
+      "noun"
+    ],
+    "hint": "if it were not for의 도치형 (Were it not for ...)"
+  },
+  {
+    "id": "if-it-were-not-for",
+    "label": "if it were not for",
+    "prompt": "~이 없다면 (현재)",
+    "tokens": [
+      "If",
+      "it",
+      "were",
+      "not",
+      "for",
+      "noun"
+    ],
+    "hint": "If it were not for + 명사로 현재 사실 반대 가정법 과거"
+  },
+  {
+    "id": "if-it-had-not-been-for",
+    "label": "if it had not been for",
+    "prompt": "~이 없었더라면 (과거)",
+    "tokens": [
+      "If",
+      "it",
+      "had",
+      "not",
+      "been",
+      "for"
+    ],
+    "hint": "If it had not been for + 명사로 과거 사실 반대 가정법 과거완료"
+  },
+  {
+    "id": "relative-as",
+    "label": "유사관계대명사 as",
+    "prompt": "such·the same 뒤 as",
+    "tokens": [
+      "such",
+      "as",
+      "S",
+      "V"
+    ],
+    "hint": "such/as/so 뒤 유사관계대명사 as로 '~같은' (such people as I know)"
+  },
+  {
+    "id": "relative-than",
+    "label": "유사관계대명사 than",
+    "prompt": "비교급 뒤 than이 주격 역할",
+    "tokens": [
+      "~er",
+      "than",
+      "V"
+    ],
+    "hint": "비교급 뒤 than이 관계대명사 주격 역할 (more than is needed)"
+  },
+  {
+    "id": "relative-but",
+    "label": "유사관계대명사 but",
+    "prompt": "부정어 뒤 but은 부정 관계사",
+    "tokens": [
+      "no",
+      "one",
+      "but",
+      "V"
+    ],
+    "hint": "부정어 뒤 but은 that ~ not 뜻 (no one but knows = 모두 안다)"
+  },
+  {
+    "id": "compound-relative-whichever",
+    "label": "whichever",
+    "prompt": "어느 것이든 (복합관계)",
+    "tokens": [
+      "whichever",
+      "S",
+      "V"
+    ],
+    "hint": "whichever = any one that로 '어느 것이든' 복합관계사 (whichever you pick)"
+  },
+  {
+    "id": "compound-relative-whomever",
+    "label": "whomever",
+    "prompt": "누구든 (목적격)",
+    "tokens": [
+      "whomever",
+      "S",
+      "V"
+    ],
+    "hint": "whomever = anyone whom으로 목적격 복합관계사 (whomever you meet)"
+  },
+  {
+    "id": "double-relative",
+    "label": "이중 한정 관계절",
+    "prompt": "관계절 두 개로 수식",
+    "tokens": [
+      "noun",
+      "that",
+      "V",
+      "which",
+      "V"
+    ],
+    "hint": "한 명사를 두 관계절이 연속 수식 (the book that I read which sold well)"
+  },
+  {
+    "id": "relative-continuative-which",
+    "label": "관계대명사 계속 which",
+    "prompt": "앞 문장 전체를 받음",
+    "tokens": [
+      "clause",
+      "which",
+      "V"
+    ],
+    "hint": "콤마 뒤 which가 앞 절 전체를 받아 추가 설명 (..., which surprised me)"
+  },
+  {
+    "id": "participle-perfect-passive",
+    "label": "완료수동 분사구문",
+    "prompt": "~된 후에 (완료수동)",
+    "tokens": [
+      "Having",
+      "been",
+      "p.p.",
+      "S",
+      "V"
+    ],
+    "hint": "Having been + p.p.로 완료된 수동 분사구문 (Having been built, ...)"
+  },
+  {
+    "id": "absolute-with-pp",
+    "label": "with + 명사 + p.p.",
+    "prompt": "~된 채로 (부대상황)",
+    "tokens": [
+      "with",
+      "noun",
+      "p.p."
+    ],
+    "hint": "with + 명사 + 과거분사로 '~된 채로' 부대상황 (with eyes closed)"
+  },
+  {
+    "id": "absolute-with-adjective",
+    "label": "with + 명사 + 형용사",
+    "prompt": "~한 채로 (부대상황)",
+    "tokens": [
+      "with",
+      "noun",
+      "adjective"
+    ],
+    "hint": "with + 명사 + 형용사로 '~한 채로' 부대상황 (with mouth full)"
+  },
+  {
+    "id": "absolute-this-being",
+    "label": "this being so",
+    "prompt": "사정이 이러하므로",
+    "tokens": [
+      "this",
+      "being",
+      "so"
+    ],
+    "hint": "This being so로 '사정이 이러하므로' 독립분사구문"
+  },
+  {
+    "id": "absolute-such-being",
+    "label": "such being the case",
+    "prompt": "사정이 그러하므로",
+    "tokens": [
+      "such",
+      "being",
+      "the",
+      "case"
+    ],
+    "hint": "Such being the case로 '사정이 그러하므로' 독립분사구문"
+  },
+  {
+    "id": "idiom-generally-speaking",
+    "label": "generally speaking",
+    "prompt": "일반적으로 말하면",
+    "tokens": [
+      "generally",
+      "speaking"
+    ],
+    "hint": "Generally speaking으로 '일반적으로 말하면' 비인칭 독립분사"
+  },
+  {
+    "id": "idiom-strictly-speaking",
+    "label": "strictly speaking",
+    "prompt": "엄밀히 말하면",
+    "tokens": [
+      "strictly",
+      "speaking"
+    ],
+    "hint": "Strictly speaking으로 '엄밀히 말하면' 비인칭 독립분사"
+  },
+  {
+    "id": "idiom-judging-from",
+    "label": "judging from",
+    "prompt": "~로 판단하건대",
+    "tokens": [
+      "judging",
+      "from",
+      "noun"
+    ],
+    "hint": "Judging from + 명사로 '~으로 판단하건대' 비인칭 독립분사"
+  },
+  {
+    "id": "idiom-considering",
+    "label": "considering",
+    "prompt": "~을 고려하면",
+    "tokens": [
+      "considering",
+      "noun"
+    ],
+    "hint": "Considering + 명사로 '~을 고려하면' 비인칭 독립분사"
+  },
+  {
+    "id": "idiom-provided",
+    "label": "provided / providing",
+    "prompt": "~한다면 (조건)",
+    "tokens": [
+      "providing",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "provided/providing (that) + 절로 '~라는 조건이면' (provided that you pay)"
+  },
+  {
+    "id": "not-least-because",
+    "label": "not least because",
+    "prompt": "특히 ~때문에",
+    "tokens": [
+      "not",
+      "least",
+      "because",
+      "S",
+      "V"
+    ],
+    "hint": "not least because + 절로 '특히 ~때문에' 이유 강조"
+  },
+  {
+    "id": "all-the-more",
+    "label": "all the more",
+    "prompt": "그만큼 더 (이유 강조)",
+    "tokens": [
+      "all",
+      "the",
+      "more",
+      "adjective"
+    ],
+    "hint": "all the more + 형용사로 '그만큼 더' 비교 강조 (all the more reason)"
+  },
+  {
+    "id": "none-the-less",
+    "label": "none the less",
+    "prompt": "그럼에도 불구하고",
+    "tokens": [
+      "none",
+      "the",
+      "less"
+    ],
+    "hint": "none the less로 '그래도 여전히' 양보 (none the less important)"
+  },
+  {
+    "id": "the-last-to",
+    "label": "the last to",
+    "prompt": "결코 ~할 사람이 아닌",
+    "tokens": [
+      "the",
+      "last",
+      "to",
+      "V"
+    ],
+    "hint": "the last + to V로 '가장 ~할 것 같지 않은' 강한 부정 (the last to lie)"
+  },
+  {
+    "id": "anything-but",
+    "label": "anything but",
+    "prompt": "결코 ~이 아닌",
+    "tokens": [
+      "anything",
+      "but",
+      "adjective"
+    ],
+    "hint": "anything but + 형용사로 '결코 ~아닌' 강한 부정 (anything but easy)"
+  },
+  {
+    "id": "nothing-but",
+    "label": "nothing but",
+    "prompt": "단지 ~일 뿐",
+    "tokens": [
+      "nothing",
+      "but",
+      "noun"
+    ],
+    "hint": "nothing but + 명사로 '오직 ~일 뿐' (nothing but trouble)"
+  },
+  {
+    "id": "all-but",
+    "label": "all but",
+    "prompt": "거의 (almost)",
+    "tokens": [
+      "all",
+      "but",
+      "adjective"
+    ],
+    "hint": "all but = almost로 '거의' (all but impossible = 거의 불가능)"
+  },
+  {
+    "id": "the-very-last",
+    "label": "none other than",
+    "prompt": "다름 아닌 바로",
+    "tokens": [
+      "none",
+      "other",
+      "than"
+    ],
+    "hint": "none other than으로 '다름 아닌 바로 그' 강조 (none other than the king)"
+  },
+  {
+    "id": "not-necessarily",
+    "label": "not necessarily",
+    "prompt": "반드시 ~은 아닌",
+    "tokens": [
+      "not",
+      "necessarily"
+    ],
+    "hint": "not necessarily로 '반드시 ~은 아닌' 부분 부정"
+  },
+  {
+    "id": "not-always",
+    "label": "not always",
+    "prompt": "항상 ~은 아닌",
+    "tokens": [
+      "not",
+      "always"
+    ],
+    "hint": "not always로 '항상 ~인 것은 아닌' 부분 부정"
+  },
+  {
+    "id": "no-less-a-than",
+    "label": "no less a person than",
+    "prompt": "다름 아닌 바로 그",
+    "tokens": [
+      "no",
+      "less",
+      "a",
+      "noun",
+      "than"
+    ],
+    "hint": "no less a + 명사 + than으로 '다름 아닌 바로 그' 강조"
+  },
+  {
+    "id": "cleft-it-was-not-until",
+    "label": "It was not until ~ that",
+    "prompt": "~하고 나서야 비로소",
+    "tokens": [
+      "It",
+      "was",
+      "not",
+      "until",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "It was not until ~ that로 '~하고서야 비로소' 강조 분열문"
+  },
+  {
+    "id": "cleft-only-when-inversion",
+    "label": "It is only when ~ that",
+    "prompt": "오직 ~할 때 비로소",
+    "tokens": [
+      "It",
+      "is",
+      "only",
+      "when",
+      "that"
+    ],
+    "hint": "It is only when ~ that로 '오직 ~할 때만' 강조 분열문"
+  },
+  {
+    "id": "double-cleft",
+    "label": "이중 분열",
+    "prompt": "What ~ is that 강조",
+    "tokens": [
+      "What",
+      "S",
+      "V",
+      "is",
+      "that"
+    ],
+    "hint": "What 주어 동사 is that 절로 복합 강조 의사분열문"
+  },
+  {
+    "id": "extraposition",
+    "label": "외치 구문",
+    "prompt": "진주어·진목적어 후치",
+    "tokens": [
+      "S",
+      "V",
+      "it",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "it을 가목적어로 두고 진목적어 that절을 뒤로 (find it odd that)"
+  },
+  {
+    "id": "it-as-anticipatory-object",
+    "label": "가목적어 it",
+    "prompt": "5형식 가목적어 it",
+    "tokens": [
+      "find",
+      "it",
+      "adjective",
+      "to",
+      "V"
+    ],
+    "hint": "동사 + it(가목적어) + 형용사 + to V (find it hard to wait)"
+  },
+  {
+    "id": "preparatory-it-gerund",
+    "label": "가목적어 + 동명사",
+    "prompt": "make it ~ ~ing",
+    "tokens": [
+      "make",
+      "it",
+      "adjective",
+      "~ing"
+    ],
+    "hint": "make it + 형용사 + ~ing로 it=가목적어 (make it easy doing)"
+  },
+  {
+    "id": "topicalization",
+    "label": "주제화",
+    "prompt": "주제를 문두로 (As for)",
+    "tokens": [
+      "As",
+      "for",
+      "noun",
+      "S",
+      "V"
+    ],
+    "hint": "As for + 명사로 주제를 문두에 두어 강조 (As for me, ...)"
+  },
+  {
+    "id": "left-dislocation",
+    "label": "좌향 전위",
+    "prompt": "명사 먼저, 대명사 재진술",
+    "tokens": [
+      "noun",
+      "S",
+      "V",
+      "it"
+    ],
+    "hint": "명사를 문두에 두고 뒤에서 대명사로 받음 구어 강조 (My dad, he ...)"
+  },
+  {
+    "id": "right-dislocation",
+    "label": "우향 전위",
+    "prompt": "대명사 먼저, 명사 추가",
+    "tokens": [
+      "S",
+      "V",
+      "it",
+      "the",
+      "noun"
+    ],
+    "hint": "대명사로 말하고 뒤에 명사를 덧붙임 구어 강조 (It's good, the food)"
+  },
+  {
+    "id": "subjunctive-were-to",
+    "label": "were to 가정법",
+    "prompt": "미래의 강한 가정",
+    "tokens": [
+      "If",
+      "S",
+      "were",
+      "to",
+      "V"
+    ],
+    "hint": "If 주어 were to V로 실현 가능성 낮은 미래 가정 (if I were to die)"
+  },
+  {
+    "id": "subjunctive-should-future",
+    "label": "should 가정법 (미래)",
+    "prompt": "미래의 약한 가정",
+    "tokens": [
+      "If",
+      "S",
+      "should",
+      "V"
+    ],
+    "hint": "If 주어 should V로 '혹시라도 ~한다면' 약한 가정 (if you should fail)"
+  },
+  {
+    "id": "inverted-were-to",
+    "label": "Were ~ to 도치",
+    "prompt": "Were S to V (if 생략)",
+    "tokens": [
+      "Were",
+      "S",
+      "to",
+      "V"
+    ],
+    "hint": "if were to에서 if 생략하고 Were 문두 도치 (Were I to win)"
+  },
+  {
+    "id": "inverted-should-future",
+    "label": "Should 도치 (미래)",
+    "prompt": "Should S V (if 생략)",
+    "tokens": [
+      "Should",
+      "S",
+      "V"
+    ],
+    "hint": "if should에서 if 생략하고 Should 문두 도치 (Should you need help)"
+  },
+  {
+    "id": "inverted-had-perfect",
+    "label": "Had S p.p. 도치",
+    "prompt": "가정법 과거완료 도치",
+    "tokens": [
+      "Had",
+      "S",
+      "p.p."
+    ],
+    "hint": "if had p.p.에서 if 생략하고 Had 문두 도치 (Had I known)"
+  },
+  {
+    "id": "nominative-absolute-perfect",
+    "label": "완료 독립분사구문",
+    "prompt": "독립 주격 + 완료분사",
+    "tokens": [
+      "noun",
+      "having",
+      "been",
+      "p.p."
+    ],
+    "hint": "명사 + having been p.p.로 독립 주격 완료 (The work having been done)"
+  },
+  {
+    "id": "absolute-being-omitted",
+    "label": "독립분사 being 생략",
+    "prompt": "being 생략된 독립 주격",
+    "tokens": [
+      "noun",
+      "(being)",
+      "p.p."
+    ],
+    "hint": "독립 주격에서 being이 생략됨 (The matter (being) settled)"
+  },
+  {
+    "id": "it-being-impersonal",
+    "label": "비인칭 독립분사 it",
+    "prompt": "It being + 형용사",
+    "tokens": [
+      "It",
+      "being",
+      "adjective"
+    ],
+    "hint": "It being + 형용사로 비인칭 주어 독립분사 (It being late, ...)"
+  },
+  {
+    "id": "there-being",
+    "label": "there being 독립분사",
+    "prompt": "There being + 명사",
+    "tokens": [
+      "There",
+      "being",
+      "no",
+      "noun"
+    ],
+    "hint": "There being + 명사로 유도부사 독립분사 (There being no bus, ...)"
+  },
+  {
+    "id": "weather-permitting",
+    "label": "관용 독립분사",
+    "prompt": "날씨가 허락하면",
+    "tokens": [
+      "weather",
+      "permitting"
+    ],
+    "hint": "weather permitting으로 '날씨가 허락하면' 관용 독립분사"
+  },
+  {
+    "id": "all-things-considered",
+    "label": "all things considered",
+    "prompt": "모든 것을 고려하면",
+    "tokens": [
+      "all",
+      "things",
+      "considered"
+    ],
+    "hint": "all things considered로 '모든 것을 감안하면' 관용 독립분사"
+  },
+  {
+    "id": "other-things-equal",
+    "label": "other things being equal",
+    "prompt": "다른 조건이 같다면",
+    "tokens": [
+      "other",
+      "things",
+      "being",
+      "equal"
+    ],
+    "hint": "other things being equal로 '다른 조건이 같다면' 관용 독립분사"
+  },
+  {
+    "id": "inversion-so-much-so",
+    "label": "so much so that",
+    "prompt": "너무 그러해서",
+    "tokens": [
+      "so",
+      "much",
+      "so",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "so much so that + 절로 '너무 그러해서 ~하다' 정도 강조"
+  },
+  {
+    "id": "inversion-only-by",
+    "label": "Only by ~ inversion",
+    "prompt": "오직 ~함으로써 (도치)",
+    "tokens": [
+      "Only",
+      "by",
+      "~ing",
+      "can",
+      "S",
+      "V"
+    ],
+    "hint": "Only by ~ing 뒤 조동사+주어 도치 (Only by trying can you ...)"
+  },
+  {
+    "id": "inversion-not-since",
+    "label": "Not since ~ inversion",
+    "prompt": "~이래로 ~없었다 (도치)",
+    "tokens": [
+      "Not",
+      "since",
+      "has",
+      "S",
+      "p.p."
+    ],
+    "hint": "Not since 뒤 has + 주어 + p.p. 부정 도치 (Not since 1999 has it ...)"
+  },
+  {
+    "id": "inversion-under-no",
+    "label": "Under no circumstances",
+    "prompt": "어떤 경우에도 ~않다",
+    "tokens": [
+      "Under",
+      "no",
+      "circumstances",
+      "will",
+      "S",
+      "V"
+    ],
+    "hint": "Under no circumstances 뒤 조동사+주어 부정 도치"
+  },
+  {
+    "id": "inversion-in-no-way",
+    "label": "In no way 도치",
+    "prompt": "결코 ~않다 (도치)",
+    "tokens": [
+      "In",
+      "no",
+      "way",
+      "can",
+      "S",
+      "V"
+    ],
+    "hint": "In no way 뒤 조동사+주어 부정 도치 (In no way can we accept)"
+  },
+  {
+    "id": "inversion-at-no-time",
+    "label": "At no time 도치",
+    "prompt": "단 한 번도 ~않다",
+    "tokens": [
+      "At",
+      "no",
+      "time",
+      "did",
+      "S",
+      "V"
+    ],
+    "hint": "At no time 뒤 did + 주어 부정 도치 (At no time did he lie)"
+  },
+  {
+    "id": "inversion-on-no-account",
+    "label": "On no account 도치",
+    "prompt": "결코 ~해서는 안 된다",
+    "tokens": [
+      "On",
+      "no",
+      "account",
+      "should",
+      "S",
+      "V"
+    ],
+    "hint": "On no account 뒤 조동사+주어 부정 도치 (On no account should you ...)"
+  },
+  {
+    "id": "inversion-nowhere",
+    "label": "Nowhere 도치",
+    "prompt": "어디에도 ~않다",
+    "tokens": [
+      "Nowhere",
+      "do",
+      "S",
+      "V"
+    ],
+    "hint": "Nowhere 뒤 do/does + 주어 부정 도치 (Nowhere do we find ...)"
+  },
+  {
+    "id": "inversion-not-a-single",
+    "label": "Not a single 도치",
+    "prompt": "단 하나도 ~않다",
+    "tokens": [
+      "Not",
+      "a",
+      "single",
+      "noun",
+      "did",
+      "S",
+      "V"
+    ],
+    "hint": "Not a single + 명사 뒤 did + 주어 부정 도치"
+  },
+  {
+    "id": "inversion-well-may",
+    "label": "Well may 도치",
+    "prompt": "~하는 것도 당연하다",
+    "tokens": [
+      "Well",
+      "may",
+      "S",
+      "V"
+    ],
+    "hint": "Well may + 주어 + 동사로 '~하는 것도 당연' 강조 도치 (Well may you ask)"
+  },
+  {
+    "id": "inversion-comparative-than",
+    "label": "비교급 절 도치",
+    "prompt": "than 뒤 동사·주어 도치",
+    "tokens": [
+      "than",
+      "V",
+      "S"
+    ],
+    "hint": "비교급 than 뒤 동사+주어 도치 문어체 (than did his rivals)"
+  },
+  {
+    "id": "inversion-as-clause",
+    "label": "as 절 도치",
+    "prompt": "as 뒤 동사·주어 도치",
+    "tokens": [
+      "as",
+      "V",
+      "S"
+    ],
+    "hint": "as 뒤 동사+주어 도치 문어체 (as did many others)"
+  },
+  {
+    "id": "inversion-fronted-participle",
+    "label": "분사 도치",
+    "prompt": "분사 보어 문두 도치",
+    "tokens": [
+      "p.p.",
+      "be",
+      "S"
+    ],
+    "hint": "분사 보어가 문두로 가면 be+주어 도치 (Gone are the days)"
+  },
+  {
+    "id": "inversion-fronted-adjective",
+    "label": "형용사 보어 도치",
+    "prompt": "형용사 보어 문두 도치",
+    "tokens": [
+      "adjective",
+      "be",
+      "S"
+    ],
+    "hint": "형용사 보어가 문두로 가면 be+주어 도치 (Happy are those who ...)"
+  },
+  {
+    "id": "subjunctive-formulaic-far-be",
+    "label": "Far be it from me",
+    "prompt": "~할 생각은 추호도 없다",
+    "tokens": [
+      "Far",
+      "be",
+      "it",
+      "from",
+      "me",
+      "to",
+      "V"
+    ],
+    "hint": "Far be it from me to V로 '~할 생각은 없다' 관용 가정법"
+  },
+  {
+    "id": "subjunctive-suffice-it",
+    "label": "Suffice it to say",
+    "prompt": "~라고만 말해두자",
+    "tokens": [
+      "Suffice",
+      "it",
+      "to",
+      "say",
+      "that"
+    ],
+    "hint": "Suffice it to say that로 '~라고만 말해두자' 관용 가정법"
+  },
+  {
+    "id": "subjunctive-be-that-as",
+    "label": "Be that as it may",
+    "prompt": "그렇다 하더라도",
+    "tokens": [
+      "Be",
+      "that",
+      "as",
+      "it",
+      "may"
+    ],
+    "hint": "Be that as it may로 '그렇다 하더라도' 양보 관용 가정법"
+  },
+  {
+    "id": "subjunctive-come-rain",
+    "label": "come rain or shine",
+    "prompt": "비가 오나 눈이 오나",
+    "tokens": [
+      "come",
+      "rain",
+      "or",
+      "shine"
+    ],
+    "hint": "come rain or shine으로 '어떤 일이 있어도' 관용 가정법"
+  },
+  {
+    "id": "subjunctive-long-live",
+    "label": "Long live",
+    "prompt": "~만세 (기원 도치)",
+    "tokens": [
+      "Long",
+      "live",
+      "the",
+      "king"
+    ],
+    "hint": "Long live + 명사로 동사원형 기원 도치 (Long live the King)"
+  },
+  {
+    "id": "subjunctive-may-you",
+    "label": "May you ~",
+    "prompt": "~하기를 (기원 도치)",
+    "tokens": [
+      "May",
+      "you",
+      "V"
+    ],
+    "hint": "May + 주어 + 동사원형으로 기원 도치 (May you live long)"
+  },
+  {
+    "id": "subjunctive-heaven-forbid",
+    "label": "Heaven forbid",
+    "prompt": "~하는 일이 없기를",
+    "tokens": [
+      "Heaven",
+      "forbid",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "Heaven forbid that 절로 동사원형 기원 가정법 (Heaven forbid he die)"
+  },
+  {
+    "id": "correlative-the-more-inverted",
+    "label": "The 비교급 도치",
+    "prompt": "~할수록 더 ~하다 (도치)",
+    "tokens": [
+      "The",
+      "~er",
+      "the",
+      "~er",
+      "V",
+      "S"
+    ],
+    "hint": "The 비교급 ~, the 비교급 + 동사+주어 도치 비례 (The harder, the better)"
+  },
+  {
+    "id": "correlative-no-less-than",
+    "label": "no less ~ than",
+    "prompt": "~못지않게 ~한",
+    "tokens": [
+      "no",
+      "less",
+      "adjective",
+      "than"
+    ],
+    "hint": "no less + 형용사 + than으로 '~ 못지않게' 동등 강조 (no less brave than)"
+  },
+  {
+    "id": "correlative-no-more-than",
+    "label": "no more ~ than",
+    "prompt": "~아니듯 ~도 아니다",
+    "tokens": [
+      "no",
+      "more",
+      "than"
+    ],
+    "hint": "A no more ~ than B로 'B가 아니듯 A도 아니다' 동등 부정 (no more a fish than)"
+  },
+  {
+    "id": "correlative-not-so-much-as-clause",
+    "label": "not so much A as B",
+    "prompt": "A라기보다는 B",
+    "tokens": [
+      "not",
+      "so",
+      "much",
+      "A",
+      "as",
+      "B"
+    ],
+    "hint": "not so much A as B로 'A보다는 오히려 B' 비교 표현"
+  },
+  {
+    "id": "correlative-as-much-as",
+    "label": "as much as",
+    "prompt": "~인 만큼 (정도)",
+    "tokens": [
+      "as",
+      "much",
+      "as",
+      "S",
+      "V"
+    ],
+    "hint": "as much as + 절로 '~인 만큼/~이지만' 정도·양보 (as much as I like it)"
+  },
+  {
+    "id": "zeugma",
+    "label": "액어법",
+    "prompt": "한 단어가 두 대상 수식",
+    "tokens": [
+      "V",
+      "noun",
+      "and",
+      "noun"
+    ],
+    "hint": "한 동사가 두 명사를 동시에 받는 수사법 (lost his coat and his temper)"
+  },
+  {
+    "id": "apposition-that-clause",
+    "label": "동격의 that절",
+    "prompt": "명사를 that절로 부연",
+    "tokens": [
+      "noun",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "fact/idea 등 명사 뒤 that절이 그 내용을 동격 설명 (the fact that ...)"
+  },
+  {
+    "id": "apposition-of-ing",
+    "label": "동격의 of 동명사",
+    "prompt": "명사를 of 동명사로 부연",
+    "tokens": [
+      "noun",
+      "of",
+      "~ing"
+    ],
+    "hint": "명사 + of + 동명사로 그 내용을 동격 설명 (the idea of leaving)"
+  }
+]

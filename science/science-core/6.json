@@ -1,0 +1,682 @@
+[
+  {
+    "id": "magnesium-bromide",
+    "label": "MgBr₂",
+    "prompt": "브로민화마그네슘 만들기",
+    "tokens": [
+      "Mg",
+      "Br",
+      "Br"
+    ],
+    "hint": "MgBr2 — 마그네슘 1개, 브로민 2개"
+  },
+  {
+    "id": "zinc-bromide",
+    "label": "ZnBr₂",
+    "prompt": "브로민화아연 만들기",
+    "tokens": [
+      "Zn",
+      "Br",
+      "Br"
+    ],
+    "hint": "ZnBr2 — 아연 1개, 브로민 2개"
+  },
+  {
+    "id": "calcium-iodide",
+    "label": "CaI₂",
+    "prompt": "아이오딘화칼슘 만들기",
+    "tokens": [
+      "Ca",
+      "I",
+      "I"
+    ],
+    "hint": "CaI2 — 칼슘 1개, 아이오딘 2개"
+  },
+  {
+    "id": "magnesium-iodide",
+    "label": "MgI₂",
+    "prompt": "아이오딘화마그네슘 만들기",
+    "tokens": [
+      "Mg",
+      "I",
+      "I"
+    ],
+    "hint": "MgI2 — 마그네슘 1개, 아이오딘 2개"
+  },
+  {
+    "id": "barium-bromide",
+    "label": "BaBr₂",
+    "prompt": "브로민화바륨 만들기",
+    "tokens": [
+      "Ba",
+      "Br",
+      "Br"
+    ],
+    "hint": "BaBr2 — 바륨 1개, 브로민 2개"
+  },
+  {
+    "id": "tin-fluoride",
+    "label": "SnF₂",
+    "prompt": "플루오린화주석 만들기",
+    "tokens": [
+      "Sn",
+      "F",
+      "F"
+    ],
+    "hint": "SnF2 — 주석 1개, 플루오린 2개"
+  },
+  {
+    "id": "germanium-dioxide",
+    "label": "GeO₂",
+    "prompt": "이산화저마늄 만들기",
+    "tokens": [
+      "Ge",
+      "O",
+      "O"
+    ],
+    "hint": "GeO2 — 저마늄 1개, 산소 2개"
+  },
+  {
+    "id": "tellurium-dioxide",
+    "label": "TeO₂",
+    "prompt": "이산화텔루륨 만들기",
+    "tokens": [
+      "Te",
+      "O",
+      "O"
+    ],
+    "hint": "TeO2 — 텔루륨 1개, 산소 2개"
+  },
+  {
+    "id": "tin-dioxide",
+    "label": "SnO₂",
+    "prompt": "이산화주석 만들기",
+    "tokens": [
+      "Sn",
+      "O",
+      "O"
+    ],
+    "hint": "SnO2 — 주석 1개, 산소 2개"
+  },
+  {
+    "id": "zirconium-dioxide",
+    "label": "ZrO₂",
+    "prompt": "이산화지르코늄 만들기",
+    "tokens": [
+      "Zr",
+      "O",
+      "O"
+    ],
+    "hint": "ZrO2 — 지르코늄 1개, 산소 2개"
+  },
+  {
+    "id": "hafnium-dioxide",
+    "label": "HfO₂",
+    "prompt": "이산화하프늄 만들기",
+    "tokens": [
+      "Hf",
+      "O",
+      "O"
+    ],
+    "hint": "HfO2 — 하프늄 1개, 산소 2개"
+  },
+  {
+    "id": "cerium-dioxide",
+    "label": "CeO₂",
+    "prompt": "이산화세륨 만들기",
+    "tokens": [
+      "Ce",
+      "O",
+      "O"
+    ],
+    "hint": "CeO2 — 세륨 1개, 산소 2개"
+  },
+  {
+    "id": "uranium-dioxide",
+    "label": "UO₂",
+    "prompt": "이산화우라늄 만들기",
+    "tokens": [
+      "U",
+      "O",
+      "O"
+    ],
+    "hint": "UO2 — 우라늄 1개, 산소 2개"
+  },
+  {
+    "id": "thorium-dioxide",
+    "label": "ThO₂",
+    "prompt": "이산화토륨 만들기",
+    "tokens": [
+      "Th",
+      "O",
+      "O"
+    ],
+    "hint": "ThO2 — 토륨 1개, 산소 2개"
+  },
+  {
+    "id": "rubidium-oxide",
+    "label": "Rb₂O",
+    "prompt": "산화루비듐 만들기",
+    "tokens": [
+      "Rb",
+      "Rb",
+      "O"
+    ],
+    "hint": "Rb2O — 루비듐 2개, 산소 1개"
+  },
+  {
+    "id": "cesium-oxide",
+    "label": "Cs₂O",
+    "prompt": "산화세슘 만들기",
+    "tokens": [
+      "Cs",
+      "Cs",
+      "O"
+    ],
+    "hint": "Cs2O — 세슘 2개, 산소 1개"
+  },
+  {
+    "id": "silver-oxide",
+    "label": "Ag₂O",
+    "prompt": "산화은 만들기",
+    "tokens": [
+      "Ag",
+      "Ag",
+      "O"
+    ],
+    "hint": "Ag2O — 은 2개, 산소 1개"
+  },
+  {
+    "id": "copper-oxide-1",
+    "label": "Cu₂O",
+    "prompt": "산화구리(I) 만들기",
+    "tokens": [
+      "Cu",
+      "Cu",
+      "O"
+    ],
+    "hint": "Cu2O — 구리 2개, 산소 1개"
+  },
+  {
+    "id": "lithium-sulfide",
+    "label": "Li₂S",
+    "prompt": "황화리튬 만들기",
+    "tokens": [
+      "Li",
+      "Li",
+      "S"
+    ],
+    "hint": "Li2S — 리튬 2개, 황 1개"
+  },
+  {
+    "id": "rubidium-sulfide",
+    "label": "Rb₂S",
+    "prompt": "황화루비듐 만들기",
+    "tokens": [
+      "Rb",
+      "Rb",
+      "S"
+    ],
+    "hint": "Rb2S — 루비듐 2개, 황 1개"
+  },
+  {
+    "id": "silver-sulfide",
+    "label": "Ag₂S",
+    "prompt": "황화은 만들기",
+    "tokens": [
+      "Ag",
+      "Ag",
+      "S"
+    ],
+    "hint": "Ag2S — 은 2개, 황 1개"
+  },
+  {
+    "id": "copper-sulfide-1",
+    "label": "Cu₂S",
+    "prompt": "황화구리(I) 만들기",
+    "tokens": [
+      "Cu",
+      "Cu",
+      "S"
+    ],
+    "hint": "Cu2S — 구리 2개, 황 1개"
+  },
+  {
+    "id": "water-tritium-2",
+    "label": "HDO",
+    "prompt": "반중수 만들기",
+    "tokens": [
+      "H",
+      "D",
+      "O"
+    ],
+    "hint": "HDO — 수소, 중수소, 산소"
+  },
+  {
+    "id": "sodium-hypochlorite",
+    "label": "NaClO",
+    "prompt": "하이포아염소산나트륨 만들기",
+    "tokens": [
+      "Na",
+      "Cl",
+      "O"
+    ],
+    "hint": "NaClO — 나트륨, 염소, 산소"
+  },
+  {
+    "id": "oxygen-difluoride",
+    "label": "OF₂",
+    "prompt": "이플루오린화산소 만들기",
+    "tokens": [
+      "O",
+      "F",
+      "F"
+    ],
+    "hint": "OF2 — 산소, 플루오린 2개"
+  },
+  {
+    "id": "dichlorine-monoxide",
+    "label": "Cl₂O",
+    "prompt": "일산화이염소 만들기",
+    "tokens": [
+      "Cl",
+      "Cl",
+      "O"
+    ],
+    "hint": "Cl2O — 염소 2개, 산소"
+  },
+  {
+    "id": "chlorine-dioxide",
+    "label": "ClO₂",
+    "prompt": "이산화염소 만들기",
+    "tokens": [
+      "Cl",
+      "O",
+      "O"
+    ],
+    "hint": "ClO2 — 염소, 산소 2개"
+  },
+  {
+    "id": "iron-disulfide",
+    "label": "FeS₂",
+    "prompt": "이황화철(황철석) 만들기",
+    "tokens": [
+      "Fe",
+      "S",
+      "S"
+    ],
+    "hint": "FeS2 — 철, 황 2개"
+  },
+  {
+    "id": "molybdenum-disulfide",
+    "label": "MoS₂",
+    "prompt": "이황화몰리브데넘 만들기",
+    "tokens": [
+      "Mo",
+      "S",
+      "S"
+    ],
+    "hint": "MoS2 — 몰리브데넘, 황 2개"
+  },
+  {
+    "id": "tungsten-disulfide",
+    "label": "WS₂",
+    "prompt": "이황화텅스텐 만들기",
+    "tokens": [
+      "W",
+      "S",
+      "S"
+    ],
+    "hint": "WS2 — 텅스텐, 황 2개"
+  },
+  {
+    "id": "ammonia",
+    "label": "NH₃",
+    "prompt": "암모니아 만들기",
+    "tokens": [
+      "N",
+      "H",
+      "H",
+      "H"
+    ],
+    "hint": "NH3 — 질소 1개, 수소 3개"
+  },
+  {
+    "id": "hydrogen-peroxide",
+    "label": "H₂O₂",
+    "prompt": "과산화수소 만들기",
+    "tokens": [
+      "H",
+      "H",
+      "O",
+      "O"
+    ],
+    "hint": "H2O2 — 수소 2개, 산소 2개"
+  },
+  {
+    "id": "sulfur-trioxide",
+    "label": "SO₃",
+    "prompt": "삼산화황 만들기",
+    "tokens": [
+      "S",
+      "O",
+      "O",
+      "O"
+    ],
+    "hint": "SO3 — 황 1개, 산소 3개"
+  },
+  {
+    "id": "phosphorus-trichloride",
+    "label": "PCl₃",
+    "prompt": "삼염화인 만들기",
+    "tokens": [
+      "P",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "PCl3 — 인 1개, 염소 3개"
+  },
+  {
+    "id": "boron-trifluoride",
+    "label": "BF₃",
+    "prompt": "삼플루오린화붕소 만들기",
+    "tokens": [
+      "B",
+      "F",
+      "F",
+      "F"
+    ],
+    "hint": "BF3 — 붕소 1개, 플루오린 3개"
+  },
+  {
+    "id": "nitrogen-trifluoride",
+    "label": "NF₃",
+    "prompt": "삼플루오린화질소 만들기",
+    "tokens": [
+      "N",
+      "F",
+      "F",
+      "F"
+    ],
+    "hint": "NF3 — 질소 1개, 플루오린 3개"
+  },
+  {
+    "id": "phosphine",
+    "label": "PH₃",
+    "prompt": "포스핀 만들기",
+    "tokens": [
+      "P",
+      "H",
+      "H",
+      "H"
+    ],
+    "hint": "PH3 — 인 1개, 수소 3개"
+  },
+  {
+    "id": "arsine",
+    "label": "AsH₃",
+    "prompt": "아르신 만들기",
+    "tokens": [
+      "As",
+      "H",
+      "H",
+      "H"
+    ],
+    "hint": "AsH3 — 비소 1개, 수소 3개"
+  },
+  {
+    "id": "aluminum-chloride",
+    "label": "AlCl₃",
+    "prompt": "염화알루미늄 만들기",
+    "tokens": [
+      "Al",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "AlCl3 — 알루미늄 1개, 염소 3개"
+  },
+  {
+    "id": "iron-chloride-3",
+    "label": "FeCl₃",
+    "prompt": "염화철(III) 만들기",
+    "tokens": [
+      "Fe",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "FeCl3 — 철 1개, 염소 3개"
+  },
+  {
+    "id": "boron-trichloride",
+    "label": "BCl₃",
+    "prompt": "삼염화붕소 만들기",
+    "tokens": [
+      "B",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "BCl3 — 붕소 1개, 염소 3개"
+  },
+  {
+    "id": "sulfur-trioxide-gas",
+    "label": "OSO₂",
+    "prompt": "삼산화황기체 만들기",
+    "tokens": [
+      "O",
+      "S",
+      "O",
+      "O"
+    ],
+    "hint": "OSO2 — 산소, 황, 산소 2개"
+  },
+  {
+    "id": "antimony-trichloride",
+    "label": "SbCl₃",
+    "prompt": "삼염화안티모니 만들기",
+    "tokens": [
+      "Sb",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "SbCl3 — 안티모니 1개, 염소 3개"
+  },
+  {
+    "id": "bismuth-chloride",
+    "label": "BiCl₃",
+    "prompt": "삼염화비스무트 만들기",
+    "tokens": [
+      "Bi",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "BiCl3 — 비스무트 1개, 염소 3개"
+  },
+  {
+    "id": "gallium-chloride",
+    "label": "GaCl₃",
+    "prompt": "삼염화갈륨 만들기",
+    "tokens": [
+      "Ga",
+      "Cl",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "GaCl3 — 갈륨 1개, 염소 3개"
+  },
+  {
+    "id": "disulfur-dichloride",
+    "label": "S₂Cl₂",
+    "prompt": "이염화이황 만들기",
+    "tokens": [
+      "S",
+      "S",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "S2Cl2 — 황 2개, 염소 2개"
+  },
+  {
+    "id": "dioxygen-difluoride",
+    "label": "O₂F₂",
+    "prompt": "이플루오린화이산소 만들기",
+    "tokens": [
+      "O",
+      "O",
+      "F",
+      "F"
+    ],
+    "hint": "O2F2 — 산소 2개, 플루오린 2개"
+  },
+  {
+    "id": "phosgene",
+    "label": "COCl₂",
+    "prompt": "포스겐 만들기",
+    "tokens": [
+      "C",
+      "O",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "COCl2 — 탄소, 산소, 염소 2개"
+  },
+  {
+    "id": "formaldehyde",
+    "label": "CH₂O",
+    "prompt": "폼알데하이드 만들기",
+    "tokens": [
+      "C",
+      "H",
+      "H",
+      "O"
+    ],
+    "hint": "CH2O — 탄소, 수소 2개, 산소"
+  },
+  {
+    "id": "nitrous-acid",
+    "label": "HNO₂",
+    "prompt": "아질산 만들기",
+    "tokens": [
+      "H",
+      "N",
+      "O",
+      "O"
+    ],
+    "hint": "HNO2 — 수소, 질소, 산소 2개"
+  },
+  {
+    "id": "titanium-disulfide",
+    "label": "TiS₂",
+    "prompt": "이황화타이타늄 만들기",
+    "tokens": [
+      "Ti",
+      "S",
+      "S"
+    ],
+    "hint": "TiS2 — 타이타늄, 황 2개"
+  },
+  {
+    "id": "tin-disulfide",
+    "label": "SnS₂",
+    "prompt": "이황화주석 만들기",
+    "tokens": [
+      "Sn",
+      "S",
+      "S"
+    ],
+    "hint": "SnS2 — 주석, 황 2개"
+  },
+  {
+    "id": "carbon-oxysulfide",
+    "label": "OCS",
+    "prompt": "황화카르보닐 만들기",
+    "tokens": [
+      "O",
+      "C",
+      "S"
+    ],
+    "hint": "OCS — 산소, 탄소, 황"
+  },
+  {
+    "id": "nitrosyl-chloride",
+    "label": "NOCl",
+    "prompt": "염화니트로실 만들기",
+    "tokens": [
+      "N",
+      "O",
+      "Cl"
+    ],
+    "hint": "NOCl — 질소, 산소, 염소"
+  },
+  {
+    "id": "palladium-chloride",
+    "label": "PdCl₂",
+    "prompt": "염화팔라듐 만들기",
+    "tokens": [
+      "Pd",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "PdCl2 — 팔라듐, 염소 2개"
+  },
+  {
+    "id": "platinum-chloride",
+    "label": "PtCl₂",
+    "prompt": "염화백금(II) 만들기",
+    "tokens": [
+      "Pt",
+      "Cl",
+      "Cl"
+    ],
+    "hint": "PtCl2 — 백금, 염소 2개"
+  },
+  {
+    "id": "sodium-cyanide",
+    "label": "NaCN",
+    "prompt": "사이안화나트륨 만들기",
+    "tokens": [
+      "Na",
+      "C",
+      "N"
+    ],
+    "hint": "NaCN — 나트륨, 탄소, 질소"
+  },
+  {
+    "id": "potassium-cyanide",
+    "label": "KCN",
+    "prompt": "사이안화칼륨 만들기",
+    "tokens": [
+      "K",
+      "C",
+      "N"
+    ],
+    "hint": "KCN — 칼륨, 탄소, 질소"
+  },
+  {
+    "id": "silver-cyanide",
+    "label": "AgCN",
+    "prompt": "사이안화은 만들기",
+    "tokens": [
+      "Ag",
+      "C",
+      "N"
+    ],
+    "hint": "AgCN — 은, 탄소, 질소"
+  },
+  {
+    "id": "copper-cyanide",
+    "label": "CuCN",
+    "prompt": "사이안화구리 만들기",
+    "tokens": [
+      "Cu",
+      "C",
+      "N"
+    ],
+    "hint": "CuCN — 구리, 탄소, 질소"
+  }
+]

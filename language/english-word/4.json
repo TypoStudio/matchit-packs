@@ -1,0 +1,2752 @@
+[
+  {
+    "word": "apex",
+    "meaning": "정점",
+    "hint": "맨꼭대기"
+  },
+  {
+    "word": "arid",
+    "meaning": "건조한",
+    "hint": "매우메마름"
+  },
+  {
+    "word": "bias",
+    "meaning": "편견",
+    "hint": "치우침"
+  },
+  {
+    "word": "coax",
+    "meaning": "구슬리다",
+    "hint": "달래설득"
+  },
+  {
+    "word": "deem",
+    "meaning": "여기다",
+    "hint": "간주함"
+  },
+  {
+    "word": "deft",
+    "meaning": "능숙한",
+    "hint": "솜씨좋음"
+  },
+  {
+    "word": "foil",
+    "meaning": "좌절시키다",
+    "hint": "계획막음"
+  },
+  {
+    "word": "fret",
+    "meaning": "안달하다",
+    "hint": "애태움"
+  },
+  {
+    "word": "glut",
+    "meaning": "과잉",
+    "hint": "넘치게많음"
+  },
+  {
+    "word": "grim",
+    "meaning": "엄숙한",
+    "hint": "무서운표정"
+  },
+  {
+    "word": "heed",
+    "meaning": "유의하다",
+    "hint": "주의기울임"
+  },
+  {
+    "word": "adopt",
+    "meaning": "채택하다",
+    "hint": "받아들임"
+  },
+  {
+    "word": "adore",
+    "meaning": "흠모하다",
+    "hint": "매우좋아함"
+  },
+  {
+    "word": "agile",
+    "meaning": "민첩한",
+    "hint": "날렵함"
+  },
+  {
+    "word": "aloof",
+    "meaning": "냉담한",
+    "hint": "거리둠"
+  },
+  {
+    "word": "amaze",
+    "meaning": "놀라게하다",
+    "hint": "깜짝놀람"
+  },
+  {
+    "word": "amend",
+    "meaning": "개정하다",
+    "hint": "고쳐바꿈"
+  },
+  {
+    "word": "ample",
+    "meaning": "충분한",
+    "hint": "넉넉함"
+  },
+  {
+    "word": "avert",
+    "meaning": "피하다",
+    "hint": "미리막음"
+  },
+  {
+    "word": "bleak",
+    "meaning": "황량한",
+    "hint": "쓸쓸함"
+  },
+  {
+    "word": "brisk",
+    "meaning": "활기찬",
+    "hint": "기운참"
+  },
+  {
+    "word": "chasm",
+    "meaning": "틈",
+    "hint": "깊은균열"
+  },
+  {
+    "word": "cling",
+    "meaning": "매달리다",
+    "hint": "꼭붙음"
+  },
+  {
+    "word": "crave",
+    "meaning": "갈망하다",
+    "hint": "몹시원함"
+  },
+  {
+    "word": "defer",
+    "meaning": "미루다",
+    "hint": "뒤로늦춤"
+  },
+  {
+    "word": "deity",
+    "meaning": "신",
+    "hint": "신적존재"
+  },
+  {
+    "word": "delve",
+    "meaning": "파고들다",
+    "hint": "깊이탐구"
+  },
+  {
+    "word": "dense",
+    "meaning": "밀집한",
+    "hint": "빽빽함"
+  },
+  {
+    "word": "deter",
+    "meaning": "단념시키다",
+    "hint": "막음"
+  },
+  {
+    "word": "dingy",
+    "meaning": "칙칙한",
+    "hint": "지저분함"
+  },
+  {
+    "word": "doubt",
+    "meaning": "의심하다",
+    "hint": "미심쩍음"
+  },
+  {
+    "word": "elate",
+    "meaning": "의기양양하게하다",
+    "hint": "크게기쁨"
+  },
+  {
+    "word": "embed",
+    "meaning": "끼워넣다",
+    "hint": "깊이박음"
+  },
+  {
+    "word": "endow",
+    "meaning": "부여하다",
+    "hint": "재능줌"
+  },
+  {
+    "word": "ensue",
+    "meaning": "뒤따르다",
+    "hint": "잇따라옴"
+  },
+  {
+    "word": "epoch",
+    "meaning": "시대",
+    "hint": "한시기"
+  },
+  {
+    "word": "equip",
+    "meaning": "갖추다",
+    "hint": "마련함"
+  },
+  {
+    "word": "erode",
+    "meaning": "침식하다",
+    "hint": "서서히깎임"
+  },
+  {
+    "word": "error",
+    "meaning": "오류",
+    "hint": "잘못"
+  },
+  {
+    "word": "evict",
+    "meaning": "퇴거시키다",
+    "hint": "강제내보냄"
+  },
+  {
+    "word": "exert",
+    "meaning": "발휘하다",
+    "hint": "힘을씀"
+  },
+  {
+    "word": "exist",
+    "meaning": "존재하다",
+    "hint": "있음"
+  },
+  {
+    "word": "feign",
+    "meaning": "꾸며내다",
+    "hint": "척함"
+  },
+  {
+    "word": "forge",
+    "meaning": "위조하다",
+    "hint": "가짜만듦"
+  },
+  {
+    "word": "glean",
+    "meaning": "수집하다",
+    "hint": "조금씩모음"
+  },
+  {
+    "word": "harsh",
+    "meaning": "가혹한",
+    "hint": "모짐"
+  },
+  {
+    "word": "hoist",
+    "meaning": "들어올리다",
+    "hint": "끌어올림"
+  },
+  {
+    "word": "hover",
+    "meaning": "맴돌다",
+    "hint": "공중떠있음"
+  },
+  {
+    "word": "impel",
+    "meaning": "몰아대다",
+    "hint": "강하게밀어"
+  },
+  {
+    "word": "imply",
+    "meaning": "암시하다",
+    "hint": "넌지시함"
+  },
+  {
+    "word": "infer",
+    "meaning": "추론하다",
+    "hint": "미루어앎"
+  },
+  {
+    "word": "logic",
+    "meaning": "논리",
+    "hint": "이치"
+  },
+  {
+    "word": "loyal",
+    "meaning": "충성스러운",
+    "hint": "의리있음"
+  },
+  {
+    "word": "major",
+    "meaning": "주요한",
+    "hint": "큰"
+  },
+  {
+    "word": "mercy",
+    "meaning": "자비",
+    "hint": "베풂"
+  },
+  {
+    "word": "prone",
+    "meaning": "하기쉬운",
+    "hint": "잘빠짐"
+  },
+  {
+    "word": "accuse",
+    "meaning": "고발하다",
+    "hint": "잘못탓함"
+  },
+  {
+    "word": "adjust",
+    "meaning": "조정하다",
+    "hint": "맞춤"
+  },
+  {
+    "word": "admire",
+    "meaning": "존경하다",
+    "hint": "우러러봄"
+  },
+  {
+    "word": "affect",
+    "meaning": "영향주다",
+    "hint": "작용함"
+  },
+  {
+    "word": "affirm",
+    "meaning": "단언하다",
+    "hint": "굳게말함"
+  },
+  {
+    "word": "allege",
+    "meaning": "주장하다",
+    "hint": "우김"
+  },
+  {
+    "word": "anchor",
+    "meaning": "닻",
+    "hint": "배고정"
+  },
+  {
+    "word": "appeal",
+    "meaning": "호소하다",
+    "hint": "간청함"
+  },
+  {
+    "word": "arable",
+    "meaning": "경작가능한",
+    "hint": "농사가능"
+  },
+  {
+    "word": "arouse",
+    "meaning": "불러일으키다",
+    "hint": "감정자극"
+  },
+  {
+    "word": "ascend",
+    "meaning": "오르다",
+    "hint": "올라감"
+  },
+  {
+    "word": "assert",
+    "meaning": "주장하다",
+    "hint": "강하게말함"
+  },
+  {
+    "word": "assess",
+    "meaning": "평가하다",
+    "hint": "가늠함"
+  },
+  {
+    "word": "assign",
+    "meaning": "배정하다",
+    "hint": "맡김"
+  },
+  {
+    "word": "assist",
+    "meaning": "돕다",
+    "hint": "거듦"
+  },
+  {
+    "word": "assure",
+    "meaning": "보장하다",
+    "hint": "장담함"
+  },
+  {
+    "word": "attach",
+    "meaning": "붙이다",
+    "hint": "첨부함"
+  },
+  {
+    "word": "attain",
+    "meaning": "이루다",
+    "hint": "애써얻음"
+  },
+  {
+    "word": "baffle",
+    "meaning": "당황하게하다",
+    "hint": "어리둥절"
+  },
+  {
+    "word": "banish",
+    "meaning": "추방하다",
+    "hint": "내쫓음"
+  },
+  {
+    "word": "barren",
+    "meaning": "척박한",
+    "hint": "메마른땅"
+  },
+  {
+    "word": "bestir",
+    "meaning": "분발하다",
+    "hint": "힘써움직임"
+  },
+  {
+    "word": "brazen",
+    "meaning": "뻔뻔한",
+    "hint": "부끄럼없음"
+  },
+  {
+    "word": "burden",
+    "meaning": "부담",
+    "hint": "짐"
+  },
+  {
+    "word": "candor",
+    "meaning": "솔직함",
+    "hint": "꾸밈없음"
+  },
+  {
+    "word": "clamor",
+    "meaning": "외침",
+    "hint": "시끄러움"
+  },
+  {
+    "word": "clutch",
+    "meaning": "움켜쥐다",
+    "hint": "꽉잡음"
+  },
+  {
+    "word": "coarse",
+    "meaning": "거친",
+    "hint": "매끄럽지않음"
+  },
+  {
+    "word": "commit",
+    "meaning": "저지르다",
+    "hint": "범함"
+  },
+  {
+    "word": "compel",
+    "meaning": "강요하다",
+    "hint": "억지로함"
+  },
+  {
+    "word": "comply",
+    "meaning": "따르다",
+    "hint": "순응함"
+  },
+  {
+    "word": "confer",
+    "meaning": "수여하다",
+    "hint": "의논함"
+  },
+  {
+    "word": "convey",
+    "meaning": "전달하다",
+    "hint": "나름"
+  },
+  {
+    "word": "cordon",
+    "meaning": "저지선",
+    "hint": "막는줄"
+  },
+  {
+    "word": "crisis",
+    "meaning": "위기",
+    "hint": "고비"
+  },
+  {
+    "word": "dabble",
+    "meaning": "손대다",
+    "hint": "조금해봄"
+  },
+  {
+    "word": "dampen",
+    "meaning": "약화시키다",
+    "hint": "기세죽임"
+  },
+  {
+    "word": "dazzle",
+    "meaning": "눈부시게하다",
+    "hint": "빛으로현혹"
+  },
+  {
+    "word": "debate",
+    "meaning": "토론하다",
+    "hint": "따져봄"
+  },
+  {
+    "word": "debunk",
+    "meaning": "틀렸음을밝히다",
+    "hint": "거짓폭로"
+  },
+  {
+    "word": "deduce",
+    "meaning": "추론하다",
+    "hint": "미루어앎"
+  },
+  {
+    "word": "defend",
+    "meaning": "방어하다",
+    "hint": "지킴"
+  },
+  {
+    "word": "demand",
+    "meaning": "요구하다",
+    "hint": "바람"
+  },
+  {
+    "word": "demise",
+    "meaning": "종말",
+    "hint": "죽음소멸"
+  },
+  {
+    "word": "depend",
+    "meaning": "의존하다",
+    "hint": "기댐"
+  },
+  {
+    "word": "detach",
+    "meaning": "떼어내다",
+    "hint": "분리함"
+  },
+  {
+    "word": "detect",
+    "meaning": "감지하다",
+    "hint": "알아챔"
+  },
+  {
+    "word": "devise",
+    "meaning": "고안하다",
+    "hint": "꾀함"
+  },
+  {
+    "word": "devote",
+    "meaning": "바치다",
+    "hint": "쏟음"
+  },
+  {
+    "word": "differ",
+    "meaning": "다르다",
+    "hint": "틀림"
+  },
+  {
+    "word": "digest",
+    "meaning": "소화하다",
+    "hint": "삭임"
+  },
+  {
+    "word": "direct",
+    "meaning": "직접적인",
+    "hint": "곧바로"
+  },
+  {
+    "word": "dismal",
+    "meaning": "음울한",
+    "hint": "우울함"
+  },
+  {
+    "word": "divert",
+    "meaning": "방향을돌리다",
+    "hint": "딴데로돌림"
+  },
+  {
+    "word": "divide",
+    "meaning": "나누다",
+    "hint": "가름"
+  },
+  {
+    "word": "docile",
+    "meaning": "순종적인",
+    "hint": "고분고분"
+  },
+  {
+    "word": "donate",
+    "meaning": "기부하다",
+    "hint": "내놓음"
+  },
+  {
+    "word": "drench",
+    "meaning": "흠뻑적시다",
+    "hint": "물에젖음"
+  },
+  {
+    "word": "elicit",
+    "meaning": "이끌어내다",
+    "hint": "끌어냄"
+  },
+  {
+    "word": "emerge",
+    "meaning": "나타나다",
+    "hint": "떠오름"
+  },
+  {
+    "word": "employ",
+    "meaning": "고용하다",
+    "hint": "부림"
+  },
+  {
+    "word": "enable",
+    "meaning": "가능하게하다",
+    "hint": "해주게함"
+  },
+  {
+    "word": "engage",
+    "meaning": "참여하다",
+    "hint": "끌어들임"
+  },
+  {
+    "word": "enroll",
+    "meaning": "등록하다",
+    "hint": "입학함"
+  },
+  {
+    "word": "ensure",
+    "meaning": "보장하다",
+    "hint": "확실히함"
+  },
+  {
+    "word": "entail",
+    "meaning": "수반하다",
+    "hint": "필연적포함"
+  },
+  {
+    "word": "entice",
+    "meaning": "유혹하다",
+    "hint": "꾀어냄"
+  },
+  {
+    "word": "entire",
+    "meaning": "전체의",
+    "hint": "온전함"
+  },
+  {
+    "word": "esteem",
+    "meaning": "존중하다",
+    "hint": "높이여김"
+  },
+  {
+    "word": "evolve",
+    "meaning": "진화하다",
+    "hint": "발전함"
+  },
+  {
+    "word": "exceed",
+    "meaning": "초과하다",
+    "hint": "넘음"
+  },
+  {
+    "word": "exempt",
+    "meaning": "면제하다",
+    "hint": "의무없앰"
+  },
+  {
+    "word": "expand",
+    "meaning": "확장하다",
+    "hint": "넓힘"
+  },
+  {
+    "word": "expose",
+    "meaning": "노출하다",
+    "hint": "드러냄"
+  },
+  {
+    "word": "extend",
+    "meaning": "연장하다",
+    "hint": "늘림"
+  },
+  {
+    "word": "fabled",
+    "meaning": "전설적인",
+    "hint": "유명한"
+  },
+  {
+    "word": "famine",
+    "meaning": "기근",
+    "hint": "굶주림"
+  },
+  {
+    "word": "female",
+    "meaning": "여성의",
+    "hint": "여자"
+  },
+  {
+    "word": "fervor",
+    "meaning": "열정",
+    "hint": "뜨거운마음"
+  },
+  {
+    "word": "fester",
+    "meaning": "곪다",
+    "hint": "악화됨"
+  },
+  {
+    "word": "flaunt",
+    "meaning": "과시하다",
+    "hint": "뽐냄"
+  },
+  {
+    "word": "fluent",
+    "meaning": "유창한",
+    "hint": "막힘없음"
+  },
+  {
+    "word": "forbid",
+    "meaning": "금지하다",
+    "hint": "못하게함"
+  },
+  {
+    "word": "formal",
+    "meaning": "공식적인",
+    "hint": "격식"
+  },
+  {
+    "word": "former",
+    "meaning": "이전의",
+    "hint": "앞선"
+  },
+  {
+    "word": "frenzy",
+    "meaning": "광란",
+    "hint": "미친듯흥분"
+  },
+  {
+    "word": "garish",
+    "meaning": "야한",
+    "hint": "지나치게화려"
+  },
+  {
+    "word": "gloomy",
+    "meaning": "우울한",
+    "hint": "어두운기분"
+  },
+  {
+    "word": "govern",
+    "meaning": "통치하다",
+    "hint": "다스림"
+  },
+  {
+    "word": "greedy",
+    "meaning": "탐욕스러운",
+    "hint": "욕심많음"
+  },
+  {
+    "word": "grovel",
+    "meaning": "굽실거리다",
+    "hint": "비굴하게"
+  },
+  {
+    "word": "handle",
+    "meaning": "다루다",
+    "hint": "처리함"
+  },
+  {
+    "word": "hasten",
+    "meaning": "서두르다",
+    "hint": "빨리함"
+  },
+  {
+    "word": "hazard",
+    "meaning": "위험",
+    "hint": "위태로움"
+  },
+  {
+    "word": "hinder",
+    "meaning": "방해하다",
+    "hint": "가로막음"
+  },
+  {
+    "word": "honest",
+    "meaning": "정직한",
+    "hint": "솔직함"
+  },
+  {
+    "word": "immune",
+    "meaning": "면역의",
+    "hint": "견딤"
+  },
+  {
+    "word": "impact",
+    "meaning": "영향",
+    "hint": "충격"
+  },
+  {
+    "word": "impair",
+    "meaning": "손상시키다",
+    "hint": "해침"
+  },
+  {
+    "word": "impart",
+    "meaning": "전하다",
+    "hint": "지식나눔"
+  },
+  {
+    "word": "impede",
+    "meaning": "방해하다",
+    "hint": "막음"
+  },
+  {
+    "word": "impose",
+    "meaning": "부과하다",
+    "hint": "지움"
+  },
+  {
+    "word": "incite",
+    "meaning": "선동하다",
+    "hint": "부추김"
+  },
+  {
+    "word": "indict",
+    "meaning": "기소하다",
+    "hint": "죄를물음"
+  },
+  {
+    "word": "induce",
+    "meaning": "유도하다",
+    "hint": "이끔"
+  },
+  {
+    "word": "infant",
+    "meaning": "유아",
+    "hint": "갓난아기"
+  },
+  {
+    "word": "infect",
+    "meaning": "감염시키다",
+    "hint": "옮김"
+  },
+  {
+    "word": "infuse",
+    "meaning": "불어넣다",
+    "hint": "채워넣음"
+  },
+  {
+    "word": "ingest",
+    "meaning": "섭취하다",
+    "hint": "몸에들임"
+  },
+  {
+    "word": "insist",
+    "meaning": "주장하다",
+    "hint": "고집함"
+  },
+  {
+    "word": "insult",
+    "meaning": "모욕하다",
+    "hint": "욕보임"
+  },
+  {
+    "word": "intend",
+    "meaning": "의도하다",
+    "hint": "작정함"
+  },
+  {
+    "word": "invade",
+    "meaning": "침략하다",
+    "hint": "쳐들어감"
+  },
+  {
+    "word": "launch",
+    "meaning": "출시하다",
+    "hint": "내놓음"
+  },
+  {
+    "word": "likely",
+    "meaning": "아마도",
+    "hint": "그럴듯함"
+  },
+  {
+    "word": "locate",
+    "meaning": "위치시키다",
+    "hint": "자리잡음"
+  },
+  {
+    "word": "luxury",
+    "meaning": "사치",
+    "hint": "호화"
+  },
+  {
+    "word": "margin",
+    "meaning": "여백",
+    "hint": "가장자리"
+  },
+  {
+    "word": "mature",
+    "meaning": "성숙한",
+    "hint": "무르익음"
+  },
+  {
+    "word": "medium",
+    "meaning": "매체",
+    "hint": "중간"
+  },
+  {
+    "word": "mental",
+    "meaning": "정신의",
+    "hint": "마음"
+  },
+  {
+    "word": "notion",
+    "meaning": "개념",
+    "hint": "생각"
+  },
+  {
+    "word": "refute",
+    "meaning": "반박하다",
+    "hint": "논박함"
+  },
+  {
+    "word": "render",
+    "meaning": "만들다",
+    "hint": "되게함"
+  },
+  {
+    "word": "viable",
+    "meaning": "실행가능한",
+    "hint": "살아남음"
+  },
+  {
+    "word": "abolish",
+    "meaning": "폐지하다",
+    "hint": "없앰"
+  },
+  {
+    "word": "acclaim",
+    "meaning": "칭찬하다",
+    "hint": "높이평가"
+  },
+  {
+    "word": "advance",
+    "meaning": "발전하다",
+    "hint": "나아감"
+  },
+  {
+    "word": "adverse",
+    "meaning": "불리한",
+    "hint": "해로움"
+  },
+  {
+    "word": "amiable",
+    "meaning": "상냥한",
+    "hint": "친절함"
+  },
+  {
+    "word": "anguish",
+    "meaning": "고뇌",
+    "hint": "깊은고통"
+  },
+  {
+    "word": "apparel",
+    "meaning": "의류",
+    "hint": "입는옷"
+  },
+  {
+    "word": "appoint",
+    "meaning": "임명하다",
+    "hint": "정함"
+  },
+  {
+    "word": "ascribe",
+    "meaning": "탓하다",
+    "hint": "원인돌림"
+  },
+  {
+    "word": "astound",
+    "meaning": "경악시키다",
+    "hint": "매우놀람"
+  },
+  {
+    "word": "attract",
+    "meaning": "끌어당기다",
+    "hint": "마음끔"
+  },
+  {
+    "word": "awkward",
+    "meaning": "어색한",
+    "hint": "서투름"
+  },
+  {
+    "word": "bashful",
+    "meaning": "수줍은",
+    "hint": "부끄러움"
+  },
+  {
+    "word": "biology",
+    "meaning": "생물학",
+    "hint": "생명학문"
+  },
+  {
+    "word": "blatant",
+    "meaning": "노골적인",
+    "hint": "뻔뻔드러남"
+  },
+  {
+    "word": "blunder",
+    "meaning": "실수",
+    "hint": "큰잘못"
+  },
+  {
+    "word": "brittle",
+    "meaning": "부서지기쉬운",
+    "hint": "쉽게깨짐"
+  },
+  {
+    "word": "buoyant",
+    "meaning": "활기찬",
+    "hint": "들뜬기분"
+  },
+  {
+    "word": "capture",
+    "meaning": "포착하다",
+    "hint": "잡음"
+  },
+  {
+    "word": "cascade",
+    "meaning": "폭포",
+    "hint": "쏟아짐"
+  },
+  {
+    "word": "caustic",
+    "meaning": "신랄한",
+    "hint": "매서운말"
+  },
+  {
+    "word": "caution",
+    "meaning": "주의",
+    "hint": "조심"
+  },
+  {
+    "word": "chronic",
+    "meaning": "만성의",
+    "hint": "오래지속"
+  },
+  {
+    "word": "cleanse",
+    "meaning": "정화하다",
+    "hint": "깨끗이함"
+  },
+  {
+    "word": "combine",
+    "meaning": "결합하다",
+    "hint": "합침"
+  },
+  {
+    "word": "command",
+    "meaning": "명령하다",
+    "hint": "시킴"
+  },
+  {
+    "word": "commend",
+    "meaning": "칭찬하다",
+    "hint": "높이평가"
+  },
+  {
+    "word": "comment",
+    "meaning": "논평",
+    "hint": "의견"
+  },
+  {
+    "word": "compete",
+    "meaning": "경쟁하다",
+    "hint": "겨룸"
+  },
+  {
+    "word": "compile",
+    "meaning": "엮다",
+    "hint": "모아정리"
+  },
+  {
+    "word": "complex",
+    "meaning": "복잡한",
+    "hint": "얽힘"
+  },
+  {
+    "word": "compose",
+    "meaning": "작곡하다",
+    "hint": "만듦"
+  },
+  {
+    "word": "concern",
+    "meaning": "걱정",
+    "hint": "염려"
+  },
+  {
+    "word": "conduct",
+    "meaning": "수행하다",
+    "hint": "행함"
+  },
+  {
+    "word": "confine",
+    "meaning": "가두다",
+    "hint": "한정함"
+  },
+  {
+    "word": "confirm",
+    "meaning": "확인하다",
+    "hint": "굳힘"
+  },
+  {
+    "word": "confuse",
+    "meaning": "혼란시키다",
+    "hint": "헷갈리게함"
+  },
+  {
+    "word": "conjure",
+    "meaning": "불러내다",
+    "hint": "마법부림"
+  },
+  {
+    "word": "connect",
+    "meaning": "연결하다",
+    "hint": "이음"
+  },
+  {
+    "word": "consist",
+    "meaning": "구성되다",
+    "hint": "이뤄짐"
+  },
+  {
+    "word": "consult",
+    "meaning": "상담하다",
+    "hint": "의논함"
+  },
+  {
+    "word": "contend",
+    "meaning": "주장하다",
+    "hint": "다툼"
+  },
+  {
+    "word": "content",
+    "meaning": "내용",
+    "hint": "속알맹이"
+  },
+  {
+    "word": "context",
+    "meaning": "맥락",
+    "hint": "배경"
+  },
+  {
+    "word": "convert",
+    "meaning": "전환하다",
+    "hint": "바꿈"
+  },
+  {
+    "word": "corrupt",
+    "meaning": "부패한",
+    "hint": "썩음"
+  },
+  {
+    "word": "counsel",
+    "meaning": "조언하다",
+    "hint": "충고함"
+  },
+  {
+    "word": "crucial",
+    "meaning": "결정적인",
+    "hint": "아주중요함"
+  },
+  {
+    "word": "culprit",
+    "meaning": "범인",
+    "hint": "잘못한자"
+  },
+  {
+    "word": "curious",
+    "meaning": "호기심많은",
+    "hint": "궁금함"
+  },
+  {
+    "word": "current",
+    "meaning": "현재의",
+    "hint": "지금"
+  },
+  {
+    "word": "decline",
+    "meaning": "감소하다",
+    "hint": "줄어듦"
+  },
+  {
+    "word": "deficit",
+    "meaning": "적자",
+    "hint": "부족"
+  },
+  {
+    "word": "deposit",
+    "meaning": "예금하다",
+    "hint": "맡김"
+  },
+  {
+    "word": "deprive",
+    "meaning": "박탈하다",
+    "hint": "빼앗음"
+  },
+  {
+    "word": "destiny",
+    "meaning": "운명",
+    "hint": "팔자"
+  },
+  {
+    "word": "dignity",
+    "meaning": "존엄",
+    "hint": "품위"
+  },
+  {
+    "word": "diploma",
+    "meaning": "졸업장",
+    "hint": "수료증"
+  },
+  {
+    "word": "dismiss",
+    "meaning": "해고하다",
+    "hint": "내보냄"
+  },
+  {
+    "word": "dispose",
+    "meaning": "처분하다",
+    "hint": "없앰"
+  },
+  {
+    "word": "dispute",
+    "meaning": "분쟁",
+    "hint": "다툼"
+  },
+  {
+    "word": "disrupt",
+    "meaning": "방해하다",
+    "hint": "어지럽힘"
+  },
+  {
+    "word": "diverse",
+    "meaning": "다양한",
+    "hint": "여러가지"
+  },
+  {
+    "word": "dynamic",
+    "meaning": "역동적인",
+    "hint": "활발함"
+  },
+  {
+    "word": "earnest",
+    "meaning": "진지한",
+    "hint": "진심어림"
+  },
+  {
+    "word": "eclipse",
+    "meaning": "가리다",
+    "hint": "빛을덮음"
+  },
+  {
+    "word": "embrace",
+    "meaning": "포옹하다",
+    "hint": "껴안음"
+  },
+  {
+    "word": "endorse",
+    "meaning": "지지하다",
+    "hint": "보증함"
+  },
+  {
+    "word": "enforce",
+    "meaning": "집행하다",
+    "hint": "시행함"
+  },
+  {
+    "word": "engross",
+    "meaning": "몰두시키다",
+    "hint": "푹빠지게"
+  },
+  {
+    "word": "entrust",
+    "meaning": "맡기다",
+    "hint": "믿고줌"
+  },
+  {
+    "word": "envious",
+    "meaning": "부러워하는",
+    "hint": "샘냄"
+  },
+  {
+    "word": "evident",
+    "meaning": "명백한",
+    "hint": "뚜렷함"
+  },
+  {
+    "word": "exalted",
+    "meaning": "고귀한",
+    "hint": "매우높음"
+  },
+  {
+    "word": "excerpt",
+    "meaning": "발췌",
+    "hint": "일부뽑음"
+  },
+  {
+    "word": "exclude",
+    "meaning": "제외하다",
+    "hint": "빼냄"
+  },
+  {
+    "word": "execute",
+    "meaning": "실행하다",
+    "hint": "해냄"
+  },
+  {
+    "word": "exhaust",
+    "meaning": "고갈시키다",
+    "hint": "다씀"
+  },
+  {
+    "word": "explode",
+    "meaning": "폭발하다",
+    "hint": "터짐"
+  },
+  {
+    "word": "exploit",
+    "meaning": "착취하다",
+    "hint": "이용함"
+  },
+  {
+    "word": "extinct",
+    "meaning": "멸종한",
+    "hint": "사라짐"
+  },
+  {
+    "word": "extract",
+    "meaning": "추출하다",
+    "hint": "뽑아냄"
+  },
+  {
+    "word": "extreme",
+    "meaning": "극단적인",
+    "hint": "치우침"
+  },
+  {
+    "word": "faculty",
+    "meaning": "학부",
+    "hint": "능력"
+  },
+  {
+    "word": "fatigue",
+    "meaning": "피로",
+    "hint": "지침"
+  },
+  {
+    "word": "federal",
+    "meaning": "연방의",
+    "hint": "연합정부"
+  },
+  {
+    "word": "finance",
+    "meaning": "재정",
+    "hint": "돈관리"
+  },
+  {
+    "word": "foreign",
+    "meaning": "외국의",
+    "hint": "타국"
+  },
+  {
+    "word": "forlorn",
+    "meaning": "쓸쓸한",
+    "hint": "버림받은듯"
+  },
+  {
+    "word": "fortune",
+    "meaning": "운",
+    "hint": "재산"
+  },
+  {
+    "word": "frantic",
+    "meaning": "제정신아닌",
+    "hint": "몹시당황"
+  },
+  {
+    "word": "fraught",
+    "meaning": "가득찬",
+    "hint": "위험가득"
+  },
+  {
+    "word": "furious",
+    "meaning": "격노한",
+    "hint": "몹시화남"
+  },
+  {
+    "word": "gallant",
+    "meaning": "용감한",
+    "hint": "씩씩함"
+  },
+  {
+    "word": "gesture",
+    "meaning": "몸짓",
+    "hint": "손짓"
+  },
+  {
+    "word": "glimpse",
+    "meaning": "언뜻봄",
+    "hint": "흘끗봄"
+  },
+  {
+    "word": "gradual",
+    "meaning": "점진적인",
+    "hint": "차차"
+  },
+  {
+    "word": "grapple",
+    "meaning": "맞붙다",
+    "hint": "씨름함"
+  },
+  {
+    "word": "harmony",
+    "meaning": "조화",
+    "hint": "어울림"
+  },
+  {
+    "word": "horizon",
+    "meaning": "수평선",
+    "hint": "지평선"
+  },
+  {
+    "word": "hostile",
+    "meaning": "적대적인",
+    "hint": "맞섬"
+  },
+  {
+    "word": "humdrum",
+    "meaning": "단조로운",
+    "hint": "지루함"
+  },
+  {
+    "word": "idyllic",
+    "meaning": "목가적인",
+    "hint": "평화로운"
+  },
+  {
+    "word": "illegal",
+    "meaning": "불법의",
+    "hint": "법어김"
+  },
+  {
+    "word": "imitate",
+    "meaning": "모방하다",
+    "hint": "흉내냄"
+  },
+  {
+    "word": "immense",
+    "meaning": "거대한",
+    "hint": "어마어마함"
+  },
+  {
+    "word": "immerse",
+    "meaning": "몰두하다",
+    "hint": "깊이빠짐"
+  },
+  {
+    "word": "impress",
+    "meaning": "감명주다",
+    "hint": "마음울림"
+  },
+  {
+    "word": "impulse",
+    "meaning": "충동",
+    "hint": "끌림"
+  },
+  {
+    "word": "inherit",
+    "meaning": "상속받다",
+    "hint": "물려받음"
+  },
+  {
+    "word": "initial",
+    "meaning": "처음의",
+    "hint": "첫"
+  },
+  {
+    "word": "inquire",
+    "meaning": "문의하다",
+    "hint": "물어봄"
+  },
+  {
+    "word": "inspect",
+    "meaning": "검사하다",
+    "hint": "살펴봄"
+  },
+  {
+    "word": "inspire",
+    "meaning": "영감주다",
+    "hint": "북돋움"
+  },
+  {
+    "word": "install",
+    "meaning": "설치하다",
+    "hint": "갖춤"
+  },
+  {
+    "word": "instant",
+    "meaning": "즉각의",
+    "hint": "순간"
+  },
+  {
+    "word": "intense",
+    "meaning": "강렬한",
+    "hint": "세찬"
+  },
+  {
+    "word": "involve",
+    "meaning": "포함시키다",
+    "hint": "끌어들임"
+  },
+  {
+    "word": "justify",
+    "meaning": "정당화하다",
+    "hint": "옳다함"
+  },
+  {
+    "word": "lecture",
+    "meaning": "강의",
+    "hint": "가르침"
+  },
+  {
+    "word": "leisure",
+    "meaning": "여가",
+    "hint": "틈"
+  },
+  {
+    "word": "liberal",
+    "meaning": "자유로운",
+    "hint": "열림"
+  },
+  {
+    "word": "liberty",
+    "meaning": "자유",
+    "hint": "속박없음"
+  },
+  {
+    "word": "mankind",
+    "meaning": "인류",
+    "hint": "사람전체"
+  },
+  {
+    "word": "massive",
+    "meaning": "거대한",
+    "hint": "육중함"
+  },
+  {
+    "word": "medical",
+    "meaning": "의학의",
+    "hint": "치료"
+  },
+  {
+    "word": "nurture",
+    "meaning": "양육하다",
+    "hint": "기름"
+  },
+  {
+    "word": "obscure",
+    "meaning": "불분명한",
+    "hint": "흐릿함"
+  },
+  {
+    "word": "sustain",
+    "meaning": "지속하다",
+    "hint": "버팀"
+  },
+  {
+    "word": "absolute",
+    "meaning": "절대적인",
+    "hint": "완전한"
+  },
+  {
+    "word": "abstract",
+    "meaning": "추상적인",
+    "hint": "구체적이지않음"
+  },
+  {
+    "word": "abundant",
+    "meaning": "풍부한",
+    "hint": "많음"
+  },
+  {
+    "word": "academic",
+    "meaning": "학문적인",
+    "hint": "학교공부"
+  },
+  {
+    "word": "accurate",
+    "meaning": "정확한",
+    "hint": "틀림없음"
+  },
+  {
+    "word": "adequate",
+    "meaning": "적절한",
+    "hint": "충분함"
+  },
+  {
+    "word": "advocate",
+    "meaning": "옹호하다",
+    "hint": "지지함"
+  },
+  {
+    "word": "allocate",
+    "meaning": "할당하다",
+    "hint": "나눠줌"
+  },
+  {
+    "word": "ambition",
+    "meaning": "야망",
+    "hint": "큰포부"
+  },
+  {
+    "word": "analysis",
+    "meaning": "분석",
+    "hint": "자세히살핌"
+  },
+  {
+    "word": "announce",
+    "meaning": "발표하다",
+    "hint": "알림"
+  },
+  {
+    "word": "apparent",
+    "meaning": "명백한",
+    "hint": "뚜렷함"
+  },
+  {
+    "word": "approach",
+    "meaning": "접근하다",
+    "hint": "다가감"
+  },
+  {
+    "word": "assemble",
+    "meaning": "조립하다",
+    "hint": "모음"
+  },
+  {
+    "word": "astonish",
+    "meaning": "놀라게하다",
+    "hint": "깜짝놀람"
+  },
+  {
+    "word": "backlash",
+    "meaning": "반발",
+    "hint": "강한반대"
+  },
+  {
+    "word": "beverage",
+    "meaning": "음료",
+    "hint": "마실것"
+  },
+  {
+    "word": "boundary",
+    "meaning": "경계",
+    "hint": "울타리"
+  },
+  {
+    "word": "calamity",
+    "meaning": "재난",
+    "hint": "큰불행"
+  },
+  {
+    "word": "capacity",
+    "meaning": "수용력",
+    "hint": "담는능력"
+  },
+  {
+    "word": "classify",
+    "meaning": "분류하다",
+    "hint": "나눔"
+  },
+  {
+    "word": "coherent",
+    "meaning": "일관된",
+    "hint": "앞뒤맞음"
+  },
+  {
+    "word": "collapse",
+    "meaning": "붕괴하다",
+    "hint": "무너짐"
+  },
+  {
+    "word": "complain",
+    "meaning": "불평하다",
+    "hint": "투덜댐"
+  },
+  {
+    "word": "comprise",
+    "meaning": "구성하다",
+    "hint": "이루어짐"
+  },
+  {
+    "word": "conceive",
+    "meaning": "생각해내다",
+    "hint": "떠올림"
+  },
+  {
+    "word": "conclude",
+    "meaning": "결론짓다",
+    "hint": "마무리함"
+  },
+  {
+    "word": "concrete",
+    "meaning": "구체적인",
+    "hint": "뚜렷함"
+  },
+  {
+    "word": "condense",
+    "meaning": "응축하다",
+    "hint": "진하게함"
+  },
+  {
+    "word": "confront",
+    "meaning": "직면하다",
+    "hint": "맞섬"
+  },
+  {
+    "word": "conserve",
+    "meaning": "보존하다",
+    "hint": "아낌"
+  },
+  {
+    "word": "consider",
+    "meaning": "고려하다",
+    "hint": "생각함"
+  },
+  {
+    "word": "constant",
+    "meaning": "끊임없는",
+    "hint": "변함없음"
+  },
+  {
+    "word": "contrive",
+    "meaning": "고안하다",
+    "hint": "꾀를냄"
+  },
+  {
+    "word": "converge",
+    "meaning": "수렴하다",
+    "hint": "한곳모임"
+  },
+  {
+    "word": "credible",
+    "meaning": "믿을만한",
+    "hint": "미덥다"
+  },
+  {
+    "word": "critical",
+    "meaning": "비판적인",
+    "hint": "따짐"
+  },
+  {
+    "word": "cultural",
+    "meaning": "문화의",
+    "hint": "문화관련"
+  },
+  {
+    "word": "currency",
+    "meaning": "통화",
+    "hint": "돈"
+  },
+  {
+    "word": "decorate",
+    "meaning": "장식하다",
+    "hint": "꾸밈"
+  },
+  {
+    "word": "dedicate",
+    "meaning": "헌신하다",
+    "hint": "바침"
+  },
+  {
+    "word": "definite",
+    "meaning": "확실한",
+    "hint": "뚜렷함"
+  },
+  {
+    "word": "delegate",
+    "meaning": "위임하다",
+    "hint": "맡김"
+  },
+  {
+    "word": "diagnose",
+    "meaning": "진단하다",
+    "hint": "병알아봄"
+  },
+  {
+    "word": "dialogue",
+    "meaning": "대화",
+    "hint": "주고받음"
+  },
+  {
+    "word": "diminish",
+    "meaning": "줄이다",
+    "hint": "작아짐"
+  },
+  {
+    "word": "disabled",
+    "meaning": "장애가있는",
+    "hint": "불편함"
+  },
+  {
+    "word": "disclose",
+    "meaning": "폭로하다",
+    "hint": "드러냄"
+  },
+  {
+    "word": "discount",
+    "meaning": "할인",
+    "hint": "값내림"
+  },
+  {
+    "word": "disguise",
+    "meaning": "변장하다",
+    "hint": "꾸밈"
+  },
+  {
+    "word": "dispatch",
+    "meaning": "파견하다",
+    "hint": "보내냄"
+  },
+  {
+    "word": "distract",
+    "meaning": "산만하게하다",
+    "hint": "흩뜨림"
+  },
+  {
+    "word": "domestic",
+    "meaning": "국내의",
+    "hint": "집안의"
+  },
+  {
+    "word": "dramatic",
+    "meaning": "극적인",
+    "hint": "눈부심"
+  },
+  {
+    "word": "enormous",
+    "meaning": "거대한",
+    "hint": "엄청남"
+  },
+  {
+    "word": "equality",
+    "meaning": "평등",
+    "hint": "고름"
+  },
+  {
+    "word": "escalate",
+    "meaning": "확대되다",
+    "hint": "점점커짐"
+  },
+  {
+    "word": "estimate",
+    "meaning": "추정하다",
+    "hint": "어림함"
+  },
+  {
+    "word": "evaluate",
+    "meaning": "평가하다",
+    "hint": "가늠함"
+  },
+  {
+    "word": "exchange",
+    "meaning": "교환하다",
+    "hint": "주고받음"
+  },
+  {
+    "word": "explicit",
+    "meaning": "명백한",
+    "hint": "분명함"
+  },
+  {
+    "word": "external",
+    "meaning": "외부의",
+    "hint": "바깥"
+  },
+  {
+    "word": "familiar",
+    "meaning": "친숙한",
+    "hint": "낯익음"
+  },
+  {
+    "word": "fanciful",
+    "meaning": "공상적인",
+    "hint": "비현실적"
+  },
+  {
+    "word": "feasible",
+    "meaning": "실현가능한",
+    "hint": "할만함"
+  },
+  {
+    "word": "feedback",
+    "meaning": "피드백",
+    "hint": "반응"
+  },
+  {
+    "word": "fleeting",
+    "meaning": "순식간의",
+    "hint": "금방사라짐"
+  },
+  {
+    "word": "flexible",
+    "meaning": "유연한",
+    "hint": "잘구부러짐"
+  },
+  {
+    "word": "forecast",
+    "meaning": "예보하다",
+    "hint": "미리알림"
+  },
+  {
+    "word": "frequent",
+    "meaning": "빈번한",
+    "hint": "잦음"
+  },
+  {
+    "word": "generate",
+    "meaning": "발생시키다",
+    "hint": "만듦"
+  },
+  {
+    "word": "glorious",
+    "meaning": "영광스러운",
+    "hint": "빛남"
+  },
+  {
+    "word": "graceful",
+    "meaning": "우아한",
+    "hint": "품위있음"
+  },
+  {
+    "word": "graduate",
+    "meaning": "졸업하다",
+    "hint": "마침"
+  },
+  {
+    "word": "grateful",
+    "meaning": "감사하는",
+    "hint": "고마움"
+  },
+  {
+    "word": "hallowed",
+    "meaning": "신성한",
+    "hint": "거룩함"
+  },
+  {
+    "word": "heritage",
+    "meaning": "유산",
+    "hint": "물려받음"
+  },
+  {
+    "word": "identify",
+    "meaning": "식별하다",
+    "hint": "알아냄"
+  },
+  {
+    "word": "illusion",
+    "meaning": "환상",
+    "hint": "착각"
+  },
+  {
+    "word": "incident",
+    "meaning": "사건",
+    "hint": "일어남"
+  },
+  {
+    "word": "inclined",
+    "meaning": "하는경향이있는",
+    "hint": "기울어짐"
+  },
+  {
+    "word": "indicate",
+    "meaning": "나타내다",
+    "hint": "가리킴"
+  },
+  {
+    "word": "inferior",
+    "meaning": "열등한",
+    "hint": "뒤떨어짐"
+  },
+  {
+    "word": "initiate",
+    "meaning": "시작하다",
+    "hint": "개시함"
+  },
+  {
+    "word": "innocent",
+    "meaning": "무죄의",
+    "hint": "죄없음"
+  },
+  {
+    "word": "innovate",
+    "meaning": "혁신하다",
+    "hint": "새롭게함"
+  },
+  {
+    "word": "instance",
+    "meaning": "사례",
+    "hint": "보기"
+  },
+  {
+    "word": "instruct",
+    "meaning": "지시하다",
+    "hint": "가르침"
+  },
+  {
+    "word": "interact",
+    "meaning": "상호작용하다",
+    "hint": "주고받음"
+  },
+  {
+    "word": "internal",
+    "meaning": "내부의",
+    "hint": "안쪽"
+  },
+  {
+    "word": "interval",
+    "meaning": "간격",
+    "hint": "사이"
+  },
+  {
+    "word": "intimate",
+    "meaning": "친밀한",
+    "hint": "가까움"
+  },
+  {
+    "word": "laughter",
+    "meaning": "웃음",
+    "hint": "웃음소리"
+  },
+  {
+    "word": "literacy",
+    "meaning": "문해력",
+    "hint": "읽고씀"
+  },
+  {
+    "word": "merchant",
+    "meaning": "상인",
+    "hint": "장사꾼"
+  },
+  {
+    "word": "mitigate",
+    "meaning": "완화하다",
+    "hint": "누그러뜨림"
+  },
+  {
+    "word": "perceive",
+    "meaning": "인지하다",
+    "hint": "알아챔"
+  },
+  {
+    "word": "profound",
+    "meaning": "심오한",
+    "hint": "깊음"
+  },
+  {
+    "word": "prohibit",
+    "meaning": "금지하다",
+    "hint": "못하게함"
+  },
+  {
+    "word": "scrutiny",
+    "meaning": "정밀조사",
+    "hint": "꼼꼼히봄"
+  },
+  {
+    "word": "tangible",
+    "meaning": "명백한",
+    "hint": "만질수있음"
+  },
+  {
+    "word": "vigorous",
+    "meaning": "활기찬",
+    "hint": "힘참"
+  },
+  {
+    "word": "abolition",
+    "meaning": "폐지",
+    "hint": "없애버림"
+  },
+  {
+    "word": "aggregate",
+    "meaning": "총계",
+    "hint": "전부합침"
+  },
+  {
+    "word": "ambiguous",
+    "meaning": "모호한",
+    "hint": "불분명함"
+  },
+  {
+    "word": "appliance",
+    "meaning": "가전제품",
+    "hint": "기기"
+  },
+  {
+    "word": "arbitrary",
+    "meaning": "임의의",
+    "hint": "제멋대로"
+  },
+  {
+    "word": "associate",
+    "meaning": "연관짓다",
+    "hint": "연결함"
+  },
+  {
+    "word": "attribute",
+    "meaning": "속성",
+    "hint": "특징"
+  },
+  {
+    "word": "authentic",
+    "meaning": "진짜의",
+    "hint": "진품"
+  },
+  {
+    "word": "authority",
+    "meaning": "권위",
+    "hint": "권한"
+  },
+  {
+    "word": "available",
+    "meaning": "이용가능한",
+    "hint": "쓸수있음"
+  },
+  {
+    "word": "awareness",
+    "meaning": "인식",
+    "hint": "앎"
+  },
+  {
+    "word": "bountiful",
+    "meaning": "풍성한",
+    "hint": "넘치게많음"
+  },
+  {
+    "word": "brilliant",
+    "meaning": "뛰어난",
+    "hint": "훌륭함"
+  },
+  {
+    "word": "broadcast",
+    "meaning": "방송하다",
+    "hint": "내보냄"
+  },
+  {
+    "word": "calculate",
+    "meaning": "계산하다",
+    "hint": "셈함"
+  },
+  {
+    "word": "candidate",
+    "meaning": "후보",
+    "hint": "지원자"
+  },
+  {
+    "word": "celebrate",
+    "meaning": "축하하다",
+    "hint": "기념함"
+  },
+  {
+    "word": "character",
+    "meaning": "성격",
+    "hint": "특성"
+  },
+  {
+    "word": "colleague",
+    "meaning": "동료",
+    "hint": "함께일함"
+  },
+  {
+    "word": "congruent",
+    "meaning": "일치하는",
+    "hint": "꼭들어맞음"
+  },
+  {
+    "word": "conscious",
+    "meaning": "의식하는",
+    "hint": "깨어있음"
+  },
+  {
+    "word": "construct",
+    "meaning": "건설하다",
+    "hint": "지음"
+  },
+  {
+    "word": "cooperate",
+    "meaning": "협력하다",
+    "hint": "힘합침"
+  },
+  {
+    "word": "corporate",
+    "meaning": "기업의",
+    "hint": "회사"
+  },
+  {
+    "word": "criterion",
+    "meaning": "기준",
+    "hint": "잣대"
+  },
+  {
+    "word": "criticize",
+    "meaning": "비판하다",
+    "hint": "흠잡음"
+  },
+  {
+    "word": "cultivate",
+    "meaning": "경작하다",
+    "hint": "기름"
+  },
+  {
+    "word": "designate",
+    "meaning": "지정하다",
+    "hint": "정함"
+  },
+  {
+    "word": "desperate",
+    "meaning": "절망적인",
+    "hint": "간절함"
+  },
+  {
+    "word": "determine",
+    "meaning": "결정하다",
+    "hint": "정함"
+  },
+  {
+    "word": "diligence",
+    "meaning": "근면",
+    "hint": "부지런함"
+  },
+  {
+    "word": "disappear",
+    "meaning": "사라지다",
+    "hint": "없어짐"
+  },
+  {
+    "word": "effective",
+    "meaning": "효과적인",
+    "hint": "잘됨"
+  },
+  {
+    "word": "efficient",
+    "meaning": "효율적인",
+    "hint": "능률적"
+  },
+  {
+    "word": "elaborate",
+    "meaning": "정교한",
+    "hint": "공들임"
+  },
+  {
+    "word": "eliminate",
+    "meaning": "제거하다",
+    "hint": "없앰"
+  },
+  {
+    "word": "embarrass",
+    "meaning": "당황하게하다",
+    "hint": "쑥스럽게함"
+  },
+  {
+    "word": "emphasize",
+    "meaning": "강조하다",
+    "hint": "힘줌"
+  },
+  {
+    "word": "encounter",
+    "meaning": "마주치다",
+    "hint": "만남"
+  },
+  {
+    "word": "encourage",
+    "meaning": "격려하다",
+    "hint": "북돋움"
+  },
+  {
+    "word": "essential",
+    "meaning": "필수적인",
+    "hint": "꼭필요함"
+  },
+  {
+    "word": "establish",
+    "meaning": "설립하다",
+    "hint": "세움"
+  },
+  {
+    "word": "excellent",
+    "meaning": "뛰어난",
+    "hint": "훌륭함"
+  },
+  {
+    "word": "exception",
+    "meaning": "예외",
+    "hint": "빼놓음"
+  },
+  {
+    "word": "exquisite",
+    "meaning": "정교한",
+    "hint": "매우섬세"
+  },
+  {
+    "word": "fascinate",
+    "meaning": "매혹하다",
+    "hint": "사로잡음"
+  },
+  {
+    "word": "fortitude",
+    "meaning": "불굴",
+    "hint": "굳센용기"
+  },
+  {
+    "word": "furniture",
+    "meaning": "가구",
+    "hint": "세간"
+  },
+  {
+    "word": "furtively",
+    "meaning": "몰래",
+    "hint": "남몰래"
+  },
+  {
+    "word": "guarantee",
+    "meaning": "보장하다",
+    "hint": "책임짐"
+  },
+  {
+    "word": "highlight",
+    "meaning": "강조하다",
+    "hint": "돋보임"
+  },
+  {
+    "word": "identical",
+    "meaning": "동일한",
+    "hint": "똑같음"
+  },
+  {
+    "word": "imaginary",
+    "meaning": "상상의",
+    "hint": "꾸며낸"
+  },
+  {
+    "word": "immediate",
+    "meaning": "즉각적인",
+    "hint": "곧바로"
+  },
+  {
+    "word": "implement",
+    "meaning": "실행하다",
+    "hint": "시행함"
+  },
+  {
+    "word": "incentive",
+    "meaning": "유인책",
+    "hint": "동기부여"
+  },
+  {
+    "word": "inflation",
+    "meaning": "인플레이션",
+    "hint": "물가오름"
+  },
+  {
+    "word": "influence",
+    "meaning": "영향",
+    "hint": "작용"
+  },
+  {
+    "word": "institute",
+    "meaning": "기관",
+    "hint": "협회"
+  },
+  {
+    "word": "insurance",
+    "meaning": "보험",
+    "hint": "보장제도"
+  },
+  {
+    "word": "integrate",
+    "meaning": "통합하다",
+    "hint": "합침"
+  },
+  {
+    "word": "interfere",
+    "meaning": "간섭하다",
+    "hint": "끼어듦"
+  },
+  {
+    "word": "interpret",
+    "meaning": "해석하다",
+    "hint": "풀이함"
+  },
+  {
+    "word": "interrupt",
+    "meaning": "방해하다",
+    "hint": "끊음"
+  },
+  {
+    "word": "intricate",
+    "meaning": "복잡한",
+    "hint": "얽힘"
+  },
+  {
+    "word": "intrinsic",
+    "meaning": "본질적인",
+    "hint": "타고난"
+  },
+  {
+    "word": "introduce",
+    "meaning": "소개하다",
+    "hint": "알림"
+  },
+  {
+    "word": "invisible",
+    "meaning": "보이지않는",
+    "hint": "안보임"
+  },
+  {
+    "word": "landscape",
+    "meaning": "풍경",
+    "hint": "경치"
+  },
+  {
+    "word": "lucrative",
+    "meaning": "수익성있는",
+    "hint": "돈벌이됨"
+  },
+  {
+    "word": "plausible",
+    "meaning": "그럴듯한",
+    "hint": "믿음직함"
+  },
+  {
+    "word": "prominent",
+    "meaning": "저명한",
+    "hint": "두드러짐"
+  },
+  {
+    "word": "reinforce",
+    "meaning": "강화하다",
+    "hint": "북돋움"
+  },
+  {
+    "word": "resilient",
+    "meaning": "회복력있는",
+    "hint": "잘견딤"
+  },
+  {
+    "word": "undermine",
+    "meaning": "약화시키다",
+    "hint": "갉아먹음"
+  },
+  {
+    "word": "versatile",
+    "meaning": "다재다능한",
+    "hint": "여러방면"
+  },
+  {
+    "word": "accelerate",
+    "meaning": "가속하다",
+    "hint": "속도냄"
+  },
+  {
+    "word": "acceptable",
+    "meaning": "받아들일만한",
+    "hint": "괜찮음"
+  },
+  {
+    "word": "accomplice",
+    "meaning": "공범",
+    "hint": "범죄동료"
+  },
+  {
+    "word": "accomplish",
+    "meaning": "성취하다",
+    "hint": "이뤄냄"
+  },
+  {
+    "word": "aggressive",
+    "meaning": "공격적인",
+    "hint": "사나움"
+  },
+  {
+    "word": "anticipate",
+    "meaning": "예상하다",
+    "hint": "미리봄"
+  },
+  {
+    "word": "appearance",
+    "meaning": "외모",
+    "hint": "겉모습"
+  },
+  {
+    "word": "appreciate",
+    "meaning": "감사하다",
+    "hint": "고마워함"
+  },
+  {
+    "word": "artificial",
+    "meaning": "인공적인",
+    "hint": "사람이만듦"
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "대기",
+    "hint": "공기층"
+  },
+  {
+    "word": "beneficial",
+    "meaning": "유익한",
+    "hint": "도움됨"
+  },
+  {
+    "word": "commercial",
+    "meaning": "상업적인",
+    "hint": "장사"
+  },
+  {
+    "word": "complicate",
+    "meaning": "복잡하게하다",
+    "hint": "얽히게함"
+  },
+  {
+    "word": "comprehend",
+    "meaning": "이해하다",
+    "hint": "알아들음"
+  },
+  {
+    "word": "compromise",
+    "meaning": "타협하다",
+    "hint": "절충함"
+  },
+  {
+    "word": "contradict",
+    "meaning": "모순되다",
+    "hint": "어긋남"
+  },
+  {
+    "word": "contribute",
+    "meaning": "기여하다",
+    "hint": "이바지함"
+  },
+  {
+    "word": "convenient",
+    "meaning": "편리한",
+    "hint": "편함"
+  },
+  {
+    "word": "coordinate",
+    "meaning": "조정하다",
+    "hint": "맞춤"
+  },
+  {
+    "word": "correspond",
+    "meaning": "일치하다",
+    "hint": "들어맞음"
+  },
+  {
+    "word": "cumbersome",
+    "meaning": "성가신",
+    "hint": "다루기힘듦"
+  },
+  {
+    "word": "curriculum",
+    "meaning": "교육과정",
+    "hint": "배움내용"
+  },
+  {
+    "word": "deliberate",
+    "meaning": "고의의",
+    "hint": "일부러"
+  },
+  {
+    "word": "deplorable",
+    "meaning": "개탄스러운",
+    "hint": "매우나쁨"
+  },
+  {
+    "word": "depression",
+    "meaning": "우울",
+    "hint": "침체"
+  },
+  {
+    "word": "discipline",
+    "meaning": "규율",
+    "hint": "단련"
+  },
+  {
+    "word": "discourage",
+    "meaning": "낙담시키다",
+    "hint": "기죽임"
+  },
+  {
+    "word": "disdainful",
+    "meaning": "경멸하는",
+    "hint": "깔보는"
+  },
+  {
+    "word": "distribute",
+    "meaning": "분배하다",
+    "hint": "나눔"
+  },
+  {
+    "word": "enthusiasm",
+    "meaning": "열정",
+    "hint": "열의"
+  },
+  {
+    "word": "equivalent",
+    "meaning": "동등한",
+    "hint": "맞먹음"
+  },
+  {
+    "word": "exaggerate",
+    "meaning": "과장하다",
+    "hint": "부풀림"
+  },
+  {
+    "word": "illustrate",
+    "meaning": "설명하다",
+    "hint": "그려보임"
+  },
+  {
+    "word": "incredible",
+    "meaning": "믿기힘든",
+    "hint": "놀라움"
+  },
+  {
+    "word": "individual",
+    "meaning": "개인의",
+    "hint": "낱낱"
+  },
+  {
+    "word": "inevitable",
+    "meaning": "피할수없는",
+    "hint": "어쩔수없음"
+  },
+  {
+    "word": "laboratory",
+    "meaning": "실험실",
+    "hint": "연구실"
+  },
+  {
+    "word": "leadership",
+    "meaning": "지도력",
+    "hint": "이끄는힘"
+  },
+  {
+    "word": "accelerator",
+    "meaning": "가속장치",
+    "hint": "빨라지게함"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": "인정하다",
+    "hint": "받아들임"
+  },
+  {
+    "word": "alternative",
+    "meaning": "대안",
+    "hint": "다른선택"
+  },
+  {
+    "word": "application",
+    "meaning": "지원",
+    "hint": "신청"
+  },
+  {
+    "word": "appropriate",
+    "meaning": "적절한",
+    "hint": "알맞음"
+  },
+  {
+    "word": "approximate",
+    "meaning": "대략의",
+    "hint": "어림"
+  },
+  {
+    "word": "communicate",
+    "meaning": "의사소통하다",
+    "hint": "뜻나눔"
+  },
+  {
+    "word": "concentrate",
+    "meaning": "집중하다",
+    "hint": "몰두함"
+  },
+  {
+    "word": "consequence",
+    "meaning": "결과",
+    "hint": "뒤따름"
+  },
+  {
+    "word": "controversy",
+    "meaning": "논란",
+    "hint": "말썽"
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "증명하다",
+    "hint": "보여줌"
+  },
+  {
+    "word": "destination",
+    "meaning": "목적지",
+    "hint": "갈곳"
+  },
+  {
+    "word": "distinguish",
+    "meaning": "구별하다",
+    "hint": "가려냄"
+  },
+  {
+    "word": "fundamental",
+    "meaning": "근본적인",
+    "hint": "바탕되는"
+  },
+  {
+    "word": "intelligent",
+    "meaning": "총명한",
+    "hint": "똑똑함"
+  },
+  {
+    "word": "investigate",
+    "meaning": "조사하다",
+    "hint": "파헤침"
+  },
+  {
+    "word": "magnificent",
+    "meaning": "장엄한",
+    "hint": "웅장함"
+  },
+  {
+    "word": "manufacture",
+    "meaning": "제조하다",
+    "hint": "만들어냄"
+  },
+  {
+    "word": "architecture",
+    "meaning": "건축",
+    "hint": "건물설계"
+  },
+  {
+    "word": "circumstance",
+    "meaning": "상황",
+    "hint": "처지"
+  },
+  {
+    "word": "civilization",
+    "meaning": "문명",
+    "hint": "발달사회"
+  },
+  {
+    "word": "contemporary",
+    "meaning": "현대의",
+    "hint": "요즘"
+  },
+  {
+    "word": "conventional",
+    "meaning": "전통적인",
+    "hint": "관습적"
+  },
+  {
+    "word": "intellectual",
+    "meaning": "지적인",
+    "hint": "머리쓰는"
+  }
+]

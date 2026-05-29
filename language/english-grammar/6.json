@@ -1,0 +1,710 @@
+[
+  {
+    "id": "what-clause",
+    "label": "what 절",
+    "prompt": "선행사 포함 ~하는 것",
+    "tokens": [
+      "what",
+      "S",
+      "V"
+    ],
+    "hint": "what + 주어 + 동사. 선행사를 포함해 ~하는 것을 뜻함"
+  },
+  {
+    "id": "indirect-question",
+    "label": "간접의문문",
+    "prompt": "의문문을 문장 속에",
+    "tokens": [
+      "wh-",
+      "S",
+      "V"
+    ],
+    "hint": "의문사 + 주어 + 동사. 평서문 어순의 간접의문문"
+  },
+  {
+    "id": "when-time-clause",
+    "label": "when 시간절",
+    "prompt": "~할 때의 시간절",
+    "tokens": [
+      "when",
+      "S",
+      "V"
+    ],
+    "hint": "when + 주어 + 동사. ~할 때를 나타내는 부사절"
+  },
+  {
+    "id": "while-clause",
+    "label": "while 절",
+    "prompt": "~하는 동안을 표현",
+    "tokens": [
+      "while",
+      "S",
+      "V"
+    ],
+    "hint": "while + 주어 + 동사. 두 동작이 동시에 진행됨을 표현"
+  },
+  {
+    "id": "before-clause",
+    "label": "before 절",
+    "prompt": "~하기 전의 순서",
+    "tokens": [
+      "before",
+      "S",
+      "V"
+    ],
+    "hint": "before + 주어 + 동사. ~하기 전에라는 시간 순서"
+  },
+  {
+    "id": "after-clause",
+    "label": "after 절",
+    "prompt": "~한 후의 순서",
+    "tokens": [
+      "after",
+      "S",
+      "V"
+    ],
+    "hint": "after + 주어 + 동사. ~한 후에라는 시간 순서"
+  },
+  {
+    "id": "until-clause",
+    "label": "until 절",
+    "prompt": "~할 때까지 지속",
+    "tokens": [
+      "until",
+      "S",
+      "V"
+    ],
+    "hint": "until + 주어 + 동사. ~할 때까지 동작이 지속됨"
+  },
+  {
+    "id": "since-clause",
+    "label": "since 절",
+    "prompt": "~이래로 또는 ~때문에",
+    "tokens": [
+      "since",
+      "S",
+      "V"
+    ],
+    "hint": "since + 주어 + 동사. 시작 시점이나 이유를 나타냄"
+  },
+  {
+    "id": "as-soon-as",
+    "label": "as soon as",
+    "prompt": "~하자마자를 표현",
+    "tokens": [
+      "as",
+      "soon",
+      "as",
+      "S",
+      "V"
+    ],
+    "hint": "as soon as + 주어 + 동사. ~하자마자 곧이라는 즉시"
+  },
+  {
+    "id": "because-of",
+    "label": "because of",
+    "prompt": "명사구로 이유 표현",
+    "tokens": [
+      "because",
+      "of",
+      "noun"
+    ],
+    "hint": "because of + 명사(구). ~때문에라는 이유를 명사구로"
+  },
+  {
+    "id": "although-clause",
+    "label": "although 절",
+    "prompt": "비록 ~일지라도",
+    "tokens": [
+      "although",
+      "S",
+      "V"
+    ],
+    "hint": "although + 주어 + 동사. 비록 ~이지만이라는 양보"
+  },
+  {
+    "id": "even-though",
+    "label": "even though",
+    "prompt": "~인데도 불구하고",
+    "tokens": [
+      "even",
+      "though",
+      "S",
+      "V"
+    ],
+    "hint": "even though + 주어 + 동사. ~에도 불구하고 강한 양보"
+  },
+  {
+    "id": "though-clause",
+    "label": "though 절",
+    "prompt": "~이지만을 표현",
+    "tokens": [
+      "though",
+      "S",
+      "V"
+    ],
+    "hint": "though + 주어 + 동사. ~이지만이라는 양보를 나타냄"
+  },
+  {
+    "id": "in-spite-of",
+    "label": "in spite of",
+    "prompt": "명사구로 양보 표현",
+    "tokens": [
+      "in",
+      "spite",
+      "of",
+      "noun"
+    ],
+    "hint": "in spite of + 명사(구). ~에도 불구하고를 명사구로"
+  },
+  {
+    "id": "despite-clause",
+    "label": "despite",
+    "prompt": "명사 앞 양보 표현",
+    "tokens": [
+      "despite",
+      "noun"
+    ],
+    "hint": "despite + 명사(구). ~에도 불구하고 (뒤에 명사)"
+  },
+  {
+    "id": "so-that-purpose",
+    "label": "so that (목적)",
+    "prompt": "~하기 위한 목적",
+    "tokens": [
+      "so",
+      "that",
+      "S",
+      "can"
+    ],
+    "hint": "so that + 주어 + can/will. ~하기 위해라는 목적"
+  },
+  {
+    "id": "so-adjective-that",
+    "label": "so ~ that",
+    "prompt": "너무 ~해서 ~한 결과",
+    "tokens": [
+      "so",
+      "adjective",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "so + 형용사 + that + 주어 + 동사. 정도와 결과를 표현"
+  },
+  {
+    "id": "such-that",
+    "label": "such ~ that",
+    "prompt": "너무 ~한 ~여서",
+    "tokens": [
+      "such",
+      "a",
+      "noun",
+      "that"
+    ],
+    "hint": "such + a + 명사 + that. 명사를 강조하는 정도·결과"
+  },
+  {
+    "id": "as-if",
+    "label": "as if",
+    "prompt": "마치 ~인 것처럼",
+    "tokens": [
+      "as",
+      "if",
+      "S",
+      "V"
+    ],
+    "hint": "as if + 주어 + 동사. 마치 ~인 것처럼이라는 가정"
+  },
+  {
+    "id": "as-though",
+    "label": "as though",
+    "prompt": "마치 ~인 것처럼",
+    "tokens": [
+      "as",
+      "though",
+      "S",
+      "V"
+    ],
+    "hint": "as though + 주어 + 동사. as if와 같은 가정을 표현"
+  },
+  {
+    "id": "whenever-clause",
+    "label": "whenever",
+    "prompt": "~할 때마다를 표현",
+    "tokens": [
+      "whenever",
+      "S",
+      "V"
+    ],
+    "hint": "whenever + 주어 + 동사. ~할 때마다 (복합관계부사)"
+  },
+  {
+    "id": "wherever-clause",
+    "label": "wherever",
+    "prompt": "~하는 어디든지",
+    "tokens": [
+      "wherever",
+      "S",
+      "V"
+    ],
+    "hint": "wherever + 주어 + 동사. ~하는 곳 어디든 (복합관계부사)"
+  },
+  {
+    "id": "whoever-clause",
+    "label": "whoever",
+    "prompt": "~하는 누구든지",
+    "tokens": [
+      "whoever",
+      "V"
+    ],
+    "hint": "whoever + 동사. ~하는 사람은 누구든 (복합관계대명사)"
+  },
+  {
+    "id": "whatever-clause",
+    "label": "whatever",
+    "prompt": "~하는 무엇이든",
+    "tokens": [
+      "whatever",
+      "S",
+      "V"
+    ],
+    "hint": "whatever + 주어 + 동사. ~하는 것은 무엇이든"
+  },
+  {
+    "id": "however-clause",
+    "label": "however",
+    "prompt": "아무리 ~해도",
+    "tokens": [
+      "however",
+      "adjective",
+      "S",
+      "V"
+    ],
+    "hint": "however + 형용사 + 주어 + 동사. 아무리 ~해도"
+  },
+  {
+    "id": "present-participle-active",
+    "label": "현재분사 능동",
+    "prompt": "~하고 있는 능동 분사",
+    "tokens": [
+      "noun",
+      "~ing"
+    ],
+    "hint": "명사 + 동사ing. 능동·진행 의미로 명사를 수식"
+  },
+  {
+    "id": "past-participle-passive",
+    "label": "과거분사 수동",
+    "prompt": "~된 수동 분사",
+    "tokens": [
+      "noun",
+      "p.p."
+    ],
+    "hint": "명사 + 과거분사. 수동·완료 의미로 명사를 수식"
+  },
+  {
+    "id": "participle-phrase",
+    "label": "분사구",
+    "prompt": "뒤에서 꾸미는 분사구",
+    "tokens": [
+      "noun",
+      "~ing",
+      "object"
+    ],
+    "hint": "명사 + 분사 + 목적어. 분사구가 명사를 뒤에서 수식"
+  },
+  {
+    "id": "make-someone-do",
+    "label": "make + 목적어 + 동사원형",
+    "prompt": "강제로 ~하게 시킴",
+    "tokens": [
+      "make",
+      "O",
+      "V"
+    ],
+    "hint": "make + 목적어 + 동사원형. ~하게 시키다 (사역동사)"
+  },
+  {
+    "id": "let-someone-do",
+    "label": "let + 목적어 + 동사원형",
+    "prompt": "~하게 허락함",
+    "tokens": [
+      "let",
+      "O",
+      "V"
+    ],
+    "hint": "let + 목적어 + 동사원형. ~하게 허락하다 (사역동사)"
+  },
+  {
+    "id": "have-someone-do",
+    "label": "have + 목적어 + 동사원형",
+    "prompt": "~하게 시킴",
+    "tokens": [
+      "have",
+      "O",
+      "V"
+    ],
+    "hint": "have + 목적어 + 동사원형. ~하게 하다 (사역동사)"
+  },
+  {
+    "id": "get-someone-to-do",
+    "label": "get + 목적어 + to부정사",
+    "prompt": "설득해 ~하게 함",
+    "tokens": [
+      "get",
+      "O",
+      "to",
+      "V"
+    ],
+    "hint": "get + 목적어 + to부정사. ~하게 하다 (to를 동반)"
+  },
+  {
+    "id": "see-someone-do",
+    "label": "see + 목적어 + 동사원형",
+    "prompt": "~하는 것을 봄",
+    "tokens": [
+      "see",
+      "O",
+      "V"
+    ],
+    "hint": "see + 목적어 + 동사원형. ~하는 것을 보다 (지각동사)"
+  },
+  {
+    "id": "hear-someone-ing",
+    "label": "hear + 목적어 + ~ing",
+    "prompt": "~하는 것을 들음",
+    "tokens": [
+      "hear",
+      "O",
+      "~ing"
+    ],
+    "hint": "hear + 목적어 + 동사ing. ~하는 중인 것을 듣다"
+  },
+  {
+    "id": "help-someone-do",
+    "label": "help + 목적어 + (to) 동사원형",
+    "prompt": "~하도록 도움",
+    "tokens": [
+      "help",
+      "O",
+      "(to)",
+      "V"
+    ],
+    "hint": "help + 목적어 + (to) 동사원형. ~하도록 돕다"
+  },
+  {
+    "id": "tell-someone-to",
+    "label": "tell + 목적어 + to부정사",
+    "prompt": "~하라고 말함",
+    "tokens": [
+      "tell",
+      "O",
+      "to",
+      "V"
+    ],
+    "hint": "tell + 목적어 + to부정사. ~하라고 말하다·시키다"
+  },
+  {
+    "id": "ask-someone-to",
+    "label": "ask + 목적어 + to부정사",
+    "prompt": "~해달라고 부탁함",
+    "tokens": [
+      "ask",
+      "O",
+      "to",
+      "V"
+    ],
+    "hint": "ask + 목적어 + to부정사. ~해달라고 요청하다"
+  },
+  {
+    "id": "want-someone-to",
+    "label": "want + 목적어 + to부정사",
+    "prompt": "~가 ~하기를 바람",
+    "tokens": [
+      "want",
+      "O",
+      "to",
+      "V"
+    ],
+    "hint": "want + 목적어 + to부정사. ~가 ~하기를 원하다"
+  },
+  {
+    "id": "it-to-infinitive",
+    "label": "가주어 it",
+    "prompt": "가주어 it과 진주어",
+    "tokens": [
+      "It",
+      "be",
+      "adjective",
+      "to",
+      "V"
+    ],
+    "hint": "It + be + 형용사 + to부정사. it은 가주어, to절이 진주어"
+  },
+  {
+    "id": "it-that-clause",
+    "label": "가주어 it (that)",
+    "prompt": "가주어 it과 that절",
+    "tokens": [
+      "It",
+      "be",
+      "adjective",
+      "that",
+      "S",
+      "V"
+    ],
+    "hint": "It + be + 형용사 + that절. it은 가주어, that절이 진주어"
+  },
+  {
+    "id": "too-many",
+    "label": "too many",
+    "prompt": "너무 많은 수",
+    "tokens": [
+      "too",
+      "many",
+      "noun"
+    ],
+    "hint": "too many + 셀 수 있는 명사. 수가 너무 많음을 표현"
+  },
+  {
+    "id": "too-much",
+    "label": "too much",
+    "prompt": "너무 많은 양",
+    "tokens": [
+      "too",
+      "much",
+      "noun"
+    ],
+    "hint": "too much + 셀 수 없는 명사. 양이 너무 많음을 표현"
+  },
+  {
+    "id": "not-enough",
+    "label": "not enough",
+    "prompt": "충분하지 않음",
+    "tokens": [
+      "not",
+      "enough",
+      "noun"
+    ],
+    "hint": "not enough + 명사. ~이 부족하다는 불충분을 표현"
+  },
+  {
+    "id": "the-comparative",
+    "label": "the 비교급, the 비교급",
+    "prompt": "~할수록 더 ~하다",
+    "tokens": [
+      "the",
+      "~er",
+      "the",
+      "~er"
+    ],
+    "hint": "The + 비교급, the + 비교급. 한쪽이 커질수록 다른쪽도"
+  },
+  {
+    "id": "comparative-much",
+    "label": "비교급 강조",
+    "prompt": "비교급을 강조",
+    "tokens": [
+      "much",
+      "~er",
+      "than"
+    ],
+    "hint": "much/far + 비교급 + than. 훨씬 더 ~함을 강조"
+  },
+  {
+    "id": "superlative-of-all",
+    "label": "최상급 of all",
+    "prompt": "~중에서 가장 ~한",
+    "tokens": [
+      "the",
+      "~est",
+      "of",
+      "all"
+    ],
+    "hint": "the + 최상급 + of all. 전체 범위에서 가장 ~함"
+  },
+  {
+    "id": "reported-statement",
+    "label": "평서문 화법",
+    "prompt": "평서문을 전달",
+    "tokens": [
+      "S",
+      "told",
+      "O",
+      "that"
+    ],
+    "hint": "주어 + told + 목적어 + that절. 평서문을 간접화법으로"
+  },
+  {
+    "id": "reported-question",
+    "label": "의문문 화법",
+    "prompt": "의문문을 전달",
+    "tokens": [
+      "S",
+      "asked",
+      "if",
+      "S",
+      "V"
+    ],
+    "hint": "주어 + asked + if/의문사절. 질문을 간접화법으로"
+  },
+  {
+    "id": "reported-command",
+    "label": "명령문 화법",
+    "prompt": "명령문을 전달",
+    "tokens": [
+      "S",
+      "told",
+      "O",
+      "to",
+      "V"
+    ],
+    "hint": "주어 + told + 목적어 + to부정사. 명령을 간접화법으로"
+  },
+  {
+    "id": "tag-question",
+    "label": "부가의문문",
+    "prompt": "그렇지 않니 되묻기",
+    "tokens": [
+      "S",
+      "V",
+      "do",
+      "n't",
+      "S"
+    ],
+    "hint": "평서문 + 부가의문문. 동의·확인을 구하는 꼬리 질문"
+  },
+  {
+    "id": "mixed-conditionals",
+    "label": "혼합가정법",
+    "prompt": "과거 가정이 현재 결과",
+    "tokens": [
+      "If",
+      "had",
+      "p.p.",
+      "would",
+      "V"
+    ],
+    "hint": "If + had p.p., 주어 + would + 동사원형. 시제 혼합 가정"
+  },
+  {
+    "id": "inversion",
+    "label": "도치",
+    "prompt": "강조 위해 어순 도치",
+    "tokens": [
+      "Never",
+      "have",
+      "I",
+      "seen"
+    ],
+    "hint": "부정어/한정어 + 조동사 + 주어. 강조를 위한 도치"
+  },
+  {
+    "id": "ellipsis",
+    "label": "생략",
+    "prompt": "반복 어구를 생략",
+    "tokens": [
+      "I",
+      "am",
+      "taller",
+      "than",
+      "he",
+      "(is)"
+    ],
+    "hint": "문맥상 명확한 반복 부분을 생략 (예: than he (is))"
+  },
+  {
+    "id": "cleft-sentence",
+    "label": "분열문",
+    "prompt": "특정 성분을 강조",
+    "tokens": [
+      "It",
+      "is",
+      "that"
+    ],
+    "hint": "It is ~ that 구문. 강조할 성분을 It is와 that 사이에"
+  },
+  {
+    "id": "parallelism",
+    "label": "병렬 구조",
+    "prompt": "연결어로 형태 통일",
+    "tokens": [
+      "I",
+      "like",
+      "to",
+      "read",
+      "and",
+      "write"
+    ],
+    "hint": "and/but/or로 이을 때 앞뒤 문법 형태를 일치시킴"
+  },
+  {
+    "id": "subjunctive",
+    "label": "가정법 현재",
+    "prompt": "제안·요구 뒤 동사원형",
+    "tokens": [
+      "I",
+      "suggest",
+      "that",
+      "he",
+      "(should)",
+      "go"
+    ],
+    "hint": "suggest/demand that + 주어 + (should) 동사원형"
+  },
+  {
+    "id": "dangling-modifier",
+    "label": "현수 수식어",
+    "prompt": "주어 없는 분사 수식어",
+    "tokens": [
+      "Walking",
+      "down",
+      "the",
+      "street",
+      "he",
+      "fell"
+    ],
+    "hint": "분사구문의 의미상 주어와 주절 주어가 일치해야 함"
+  },
+  {
+    "id": "appositive",
+    "label": "동격",
+    "prompt": "명사를 부연 설명",
+    "tokens": [
+      "My",
+      "friend",
+      "Tom",
+      "is",
+      "here"
+    ],
+    "hint": "명사 + (쉼표) + 명사구. 앞 명사를 다시 설명하는 동격"
+  },
+  {
+    "id": "nominative-absolute",
+    "label": "독립 주격 구문",
+    "prompt": "독립된 분사구문",
+    "tokens": [
+      "The",
+      "weather",
+      "being",
+      "fine",
+      "we",
+      "went",
+      "out"
+    ],
+    "hint": "명사 + 분사. 주절과 다른 주어를 가진 부대상황 구문"
+  },
+  {
+    "id": "emphatic-do",
+    "label": "강조의 do",
+    "prompt": "do로 동사를 강조",
+    "tokens": [
+      "I",
+      "do",
+      "love",
+      "you"
+    ],
+    "hint": "주어 + do/does/did + 동사원형. 긍정문에서 동사 강조"
+  }
+]

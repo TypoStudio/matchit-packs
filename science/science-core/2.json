@@ -1,0 +1,202 @@
+[
+  {
+    "id": "hydrogen-fluoride",
+    "label": "HF",
+    "prompt": "플루오린화수소 만들기",
+    "tokens": [
+      "H",
+      "F"
+    ],
+    "hint": "HF — 수소 1개, 플루오린 1개"
+  },
+  {
+    "id": "hydrogen-bromide",
+    "label": "HBr",
+    "prompt": "브로민화수소 만들기",
+    "tokens": [
+      "H",
+      "Br"
+    ],
+    "hint": "HBr — 수소 1개, 브로민 1개"
+  },
+  {
+    "id": "hydrogen-iodide",
+    "label": "HI",
+    "prompt": "아이오딘화수소 만들기",
+    "tokens": [
+      "H",
+      "I"
+    ],
+    "hint": "HI — 수소 1개, 아이오딘 1개"
+  },
+  {
+    "id": "salt",
+    "label": "NaCl",
+    "prompt": "소금 만들기",
+    "tokens": [
+      "Na",
+      "Cl"
+    ],
+    "hint": "NaCl — 나트륨과 염소"
+  },
+  {
+    "id": "potassium-chloride",
+    "label": "KCl",
+    "prompt": "염화칼륨 만들기",
+    "tokens": [
+      "K",
+      "Cl"
+    ],
+    "hint": "KCl — 칼륨 1개, 염소 1개"
+  },
+  {
+    "id": "lithium-fluoride",
+    "label": "LiF",
+    "prompt": "플루오린화리튬 만들기",
+    "tokens": [
+      "Li",
+      "F"
+    ],
+    "hint": "LiF — 리튬 1개, 플루오린 1개"
+  },
+  {
+    "id": "potassium-bromide",
+    "label": "KBr",
+    "prompt": "브로민화칼륨 만들기",
+    "tokens": [
+      "K",
+      "Br"
+    ],
+    "hint": "KBr — 칼륨 1개, 브로민 1개"
+  },
+  {
+    "id": "potassium-iodide",
+    "label": "KI",
+    "prompt": "아이오딘화칼륨 만들기",
+    "tokens": [
+      "K",
+      "I"
+    ],
+    "hint": "KI — 칼륨 1개, 아이오딘 1개"
+  },
+  {
+    "id": "sodium-fluoride",
+    "label": "NaF",
+    "prompt": "플루오린화나트륨 만들기",
+    "tokens": [
+      "Na",
+      "F"
+    ],
+    "hint": "NaF — 나트륨 1개, 플루오린 1개"
+  },
+  {
+    "id": "sodium-bromide",
+    "label": "NaBr",
+    "prompt": "브로민화나트륨 만들기",
+    "tokens": [
+      "Na",
+      "Br"
+    ],
+    "hint": "NaBr — 나트륨 1개, 브로민 1개"
+  },
+  {
+    "id": "sodium-iodide",
+    "label": "NaI",
+    "prompt": "아이오딘화나트륨 만들기",
+    "tokens": [
+      "Na",
+      "I"
+    ],
+    "hint": "NaI — 나트륨 1개, 아이오딘 1개"
+  },
+  {
+    "id": "silver-chloride",
+    "label": "AgCl",
+    "prompt": "염화은 만들기",
+    "tokens": [
+      "Ag",
+      "Cl"
+    ],
+    "hint": "AgCl — 은 1개, 염소 1개"
+  },
+  {
+    "id": "zinc-oxide",
+    "label": "ZnO",
+    "prompt": "산화아연 만들기",
+    "tokens": [
+      "Zn",
+      "O"
+    ],
+    "hint": "ZnO — 아연 1개, 산소 1개"
+  },
+  {
+    "id": "magnesium-oxide",
+    "label": "MgO",
+    "prompt": "산화마그네슘 만들기",
+    "tokens": [
+      "Mg",
+      "O"
+    ],
+    "hint": "MgO — 마그네슘 1개, 산소 1개"
+  },
+  {
+    "id": "calcium-oxide",
+    "label": "CaO",
+    "prompt": "산화칼슘 만들기",
+    "tokens": [
+      "Ca",
+      "O"
+    ],
+    "hint": "CaO — 칼슘 1개, 산소 1개"
+  },
+  {
+    "id": "copper-oxide",
+    "label": "CuO",
+    "prompt": "산화구리 만들기",
+    "tokens": [
+      "Cu",
+      "O"
+    ],
+    "hint": "CuO — 구리 1개, 산소 1개"
+  },
+  {
+    "id": "iron-sulfide",
+    "label": "FeS",
+    "prompt": "황화철 만들기",
+    "tokens": [
+      "Fe",
+      "S"
+    ],
+    "hint": "FeS — 철 1개, 황 1개"
+  },
+  {
+    "id": "zinc-sulfide",
+    "label": "ZnS",
+    "prompt": "황화아연 만들기",
+    "tokens": [
+      "Zn",
+      "S"
+    ],
+    "hint": "ZnS — 아연 1개, 황 1개"
+  },
+  {
+    "id": "lead-sulfide",
+    "label": "PbS",
+    "prompt": "황화납 만들기",
+    "tokens": [
+      "Pb",
+      "S"
+    ],
+    "hint": "PbS — 납 1개, 황 1개"
+  },
+  {
+    "id": "sodium-hydride",
+    "label": "NaH",
+    "prompt": "수소화나트륨 만들기",
+    "tokens": [
+      "Na",
+      "H"
+    ],
+    "hint": "NaH — 나트륨 1개, 수소 1개"
+  }
+]

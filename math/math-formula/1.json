@@ -1,0 +1,950 @@
+[
+  {
+    "id": "square-perimeter",
+    "label": "l=4a",
+    "prompt": "l=○a",
+    "tokens": [
+      "4"
+    ],
+    "name": "정사각형 둘레",
+    "vars": "l 둘레, a 한 변",
+    "hint": "네 변의 길이가 같으니 한 변을 네 배 하면 둘레가 된다"
+  },
+  {
+    "id": "regular-polygon-perimeter",
+    "label": "l=na",
+    "prompt": "l=○○",
+    "tokens": [
+      "n",
+      "a"
+    ],
+    "name": "정다각형 둘레",
+    "vars": "l 둘레, n 변의 수, a 한 변",
+    "hint": "한 변 길이에 변의 개수를 곱하면 전체 둘레가 된다"
+  },
+  {
+    "id": "circle-circumference-d",
+    "label": "l=πd",
+    "prompt": "l=π○",
+    "tokens": [
+      "d"
+    ],
+    "name": "원의 둘레",
+    "vars": "l 둘레, d 지름, π 원주율",
+    "hint": "지름에 원주율을 곱하면 원의 둘레가 된다"
+  },
+  {
+    "id": "square-area",
+    "label": "S=a²",
+    "prompt": "S=○",
+    "tokens": [
+      "a²"
+    ],
+    "name": "정사각형 넓이",
+    "vars": "S 넓이, a 한 변",
+    "hint": "한 변의 길이를 제곱하면 정사각형의 넓이가 된다"
+  },
+  {
+    "id": "rectangle-area",
+    "label": "S=ab",
+    "prompt": "S=○○",
+    "tokens": [
+      "a",
+      "b"
+    ],
+    "name": "직사각형 넓이",
+    "vars": "S 넓이, a 가로, b 세로",
+    "hint": "가로와 세로를 곱하면 직사각형의 넓이가 된다"
+  },
+  {
+    "id": "parallelogram-area",
+    "label": "S=ah",
+    "prompt": "S=○○",
+    "tokens": [
+      "a",
+      "h"
+    ],
+    "name": "평행사변형 넓이",
+    "vars": "S 넓이, a 밑변, h 높이",
+    "hint": "밑변에 높이를 곱하면 평행사변형의 넓이가 된다"
+  },
+  {
+    "id": "distance-rate-time",
+    "label": "s=vt",
+    "prompt": "s=○○",
+    "tokens": [
+      "v",
+      "t"
+    ],
+    "name": "거리 공식",
+    "vars": "s 거리, v 속력, t 시간",
+    "hint": "속력에 걸린 시간을 곱하면 이동한 거리가 된다"
+  },
+  {
+    "id": "cube-volume",
+    "label": "V=a³",
+    "prompt": "V=○",
+    "tokens": [
+      "a³"
+    ],
+    "name": "정육면체 부피",
+    "vars": "V 부피, a 한 모서리",
+    "hint": "한 모서리의 길이를 세제곱하면 정육면체의 부피가 된다"
+  },
+  {
+    "id": "prism-volume",
+    "label": "V=Sh",
+    "prompt": "V=○h",
+    "tokens": [
+      "S"
+    ],
+    "name": "각기둥 부피",
+    "vars": "V 부피, S 밑넓이, h 높이",
+    "hint": "밑넓이에 높이를 곱하면 각기둥의 부피가 된다"
+  },
+  {
+    "id": "inverse-proportion-xy",
+    "label": "xy=a",
+    "prompt": "○○=a",
+    "tokens": [
+      "x",
+      "y"
+    ],
+    "name": "반비례 관계",
+    "vars": "x,y 변수, a 비례상수(a≠0)",
+    "hint": "두 변수의 곱이 항상 일정하면 반비례 관계이다"
+  },
+  {
+    "id": "direct-proportion",
+    "label": "y=ax",
+    "prompt": "y=○○",
+    "tokens": [
+      "a",
+      "x"
+    ],
+    "name": "정비례 관계",
+    "vars": "y,x 변수, a 비례상수(a≠0)",
+    "hint": "한 변수가 커지면 다른 변수도 같은 비율로 커진다"
+  },
+  {
+    "id": "density",
+    "label": "d=m/V",
+    "prompt": "d=○/V",
+    "tokens": [
+      "m"
+    ],
+    "name": "밀도 공식",
+    "vars": "d 밀도, m 질량, V 부피",
+    "hint": "질량을 부피로 나누면 그 물질의 밀도가 된다"
+  },
+  {
+    "id": "circle-circumference",
+    "label": "l=2πr",
+    "prompt": "l=○πr",
+    "tokens": [
+      "2"
+    ],
+    "name": "원의 둘레",
+    "vars": "l 둘레, r 반지름, π 원주율",
+    "hint": "반지름에 원주율을 곱하고 두 배 하면 원의 둘레가 된다"
+  },
+  {
+    "id": "cube-surface",
+    "label": "S=6a²",
+    "prompt": "S=○a²",
+    "tokens": [
+      "6"
+    ],
+    "name": "정육면체 겉넓이",
+    "vars": "S 겉넓이, a 한 모서리",
+    "hint": "한 면의 넓이에 면이 여섯 개이므로 6을 곱한다"
+  },
+  {
+    "id": "circle-area",
+    "label": "S=πr²",
+    "prompt": "S=π○²",
+    "tokens": [
+      "r"
+    ],
+    "name": "원의 넓이",
+    "vars": "S 넓이, r 반지름, π 원주율",
+    "hint": "반지름을 제곱한 값에 원주율을 곱하면 원의 넓이가 된다"
+  },
+  {
+    "id": "cone-side",
+    "label": "S=πrl",
+    "prompt": "S=π○○",
+    "tokens": [
+      "r",
+      "l"
+    ],
+    "name": "원뿔 옆넓이",
+    "vars": "S 옆넓이, r 반지름, l 모선",
+    "hint": "원주율에 밑면 반지름과 모선을 곱하면 옆면 넓이가 된다"
+  },
+  {
+    "id": "cuboid-volume",
+    "label": "V=abc",
+    "prompt": "V=○○○",
+    "tokens": [
+      "a",
+      "b",
+      "c"
+    ],
+    "name": "직육면체 부피",
+    "vars": "V 부피, a,b,c 세 모서리",
+    "hint": "가로 세로 높이 세 모서리를 모두 곱하면 부피가 된다"
+  },
+  {
+    "id": "speed",
+    "label": "v=s/t",
+    "prompt": "v=○/t",
+    "tokens": [
+      "s"
+    ],
+    "name": "속력 공식",
+    "vars": "v 속력, s 거리, t 시간",
+    "hint": "이동 거리를 걸린 시간으로 나누면 속력이 된다"
+  },
+  {
+    "id": "inverse-proportion",
+    "label": "y=a/x",
+    "prompt": "y=○/x",
+    "tokens": [
+      "a"
+    ],
+    "name": "반비례 관계",
+    "vars": "y,x 변수, a 비례상수(a≠0)",
+    "hint": "한 변수가 커질수록 다른 변수는 그만큼 작아진다"
+  },
+  {
+    "id": "cylinder-side",
+    "label": "S=2πrh",
+    "prompt": "S=2π○○",
+    "tokens": [
+      "r",
+      "h"
+    ],
+    "name": "원기둥 옆넓이",
+    "vars": "S 옆넓이, r 반지름, h 높이",
+    "hint": "밑면 둘레에 높이를 곱하면 원기둥의 옆면 넓이가 된다"
+  },
+  {
+    "id": "sphere-surface",
+    "label": "S=4πr²",
+    "prompt": "S=○πr²",
+    "tokens": [
+      "4"
+    ],
+    "name": "구의 겉넓이",
+    "vars": "S 겉넓이, r 반지름, π 원주율",
+    "hint": "반지름 제곱에 원주율과 4를 곱하면 구의 겉넓이가 된다"
+  },
+  {
+    "id": "cylinder-volume",
+    "label": "V=πr²h",
+    "prompt": "V=π○h",
+    "tokens": [
+      "r²"
+    ],
+    "name": "원기둥 부피",
+    "vars": "V 부피, r 반지름, h 높이",
+    "hint": "밑면인 원의 넓이에 높이를 곱하면 원기둥 부피가 된다"
+  },
+  {
+    "id": "triangle-perimeter",
+    "label": "l=a+b+c",
+    "prompt": "l=○○○○○",
+    "tokens": [
+      "a",
+      "+",
+      "b",
+      "+",
+      "c"
+    ],
+    "name": "삼각형 둘레",
+    "vars": "l 둘레, a,b,c 세 변",
+    "hint": "세 변의 길이를 모두 더하면 삼각형의 둘레가 된다"
+  },
+  {
+    "id": "rhombus-area",
+    "label": "S=1/2ab",
+    "prompt": "S=○ab",
+    "tokens": [
+      "1/2"
+    ],
+    "name": "마름모 넓이",
+    "vars": "S 넓이, a,b 두 대각선",
+    "hint": "두 대각선의 길이를 곱하고 절반 하면 마름모 넓이가 된다"
+  },
+  {
+    "id": "triangle-area",
+    "label": "S=1/2ah",
+    "prompt": "S=○ah",
+    "tokens": [
+      "1/2"
+    ],
+    "name": "삼각형 넓이",
+    "vars": "S 넓이, a 밑변, h 높이",
+    "hint": "밑변에 높이를 곱한 뒤 절반 하면 삼각형의 넓이가 된다"
+  },
+  {
+    "id": "kite-area",
+    "label": "S=1/2pq",
+    "prompt": "S=○pq",
+    "tokens": [
+      "1/2"
+    ],
+    "name": "연 넓이",
+    "vars": "S 넓이, p,q 두 대각선",
+    "hint": "두 대각선을 곱하고 절반 하면 연 모양의 넓이가 된다"
+  },
+  {
+    "id": "sector-area-rl",
+    "label": "S=1/2rl",
+    "prompt": "S=1/2○○",
+    "tokens": [
+      "r",
+      "l"
+    ],
+    "name": "부채꼴 넓이",
+    "vars": "S 넓이, r 반지름, l 호",
+    "hint": "반지름에 호의 길이를 곱하고 절반 하면 넓이가 된다"
+  },
+  {
+    "id": "pyramid-volume",
+    "label": "V=1/3Sh",
+    "prompt": "V=○Sh",
+    "tokens": [
+      "1/3"
+    ],
+    "name": "각뿔 부피",
+    "vars": "V 부피, S 밑넓이, h 높이",
+    "hint": "같은 밑면 높이 기둥 부피의 삼분의 일이 각뿔 부피이다"
+  },
+  {
+    "id": "rectangle-perimeter",
+    "label": "l=2(a+b)",
+    "prompt": "l=2(○○○)",
+    "tokens": [
+      "a",
+      "+",
+      "b"
+    ],
+    "name": "직사각형 둘레",
+    "vars": "l 둘레, a 가로, b 세로",
+    "hint": "가로와 세로를 더한 뒤 두 배 하면 둘레가 된다"
+  },
+  {
+    "id": "hemisphere-volume",
+    "label": "V=2/3πr³",
+    "prompt": "V=○πr³",
+    "tokens": [
+      "2/3"
+    ],
+    "name": "반구의 부피",
+    "vars": "V 부피, r 반지름, π 원주율",
+    "hint": "구 부피의 절반이므로 구 공식에 2/3를 쓴다"
+  },
+  {
+    "id": "sphere-volume",
+    "label": "V=4/3πr³",
+    "prompt": "V=4/3π○³",
+    "tokens": [
+      "r"
+    ],
+    "name": "구의 부피",
+    "vars": "V 부피, r 반지름, π 원주율",
+    "hint": "반지름을 세제곱한 값에 원주율과 4/3을 곱하면 구 부피가 된다"
+  },
+  {
+    "id": "arithmetic-mean",
+    "label": "M=(a+b)/2",
+    "prompt": "M=(○○○)/2",
+    "tokens": [
+      "a",
+      "+",
+      "b"
+    ],
+    "name": "두 수의 평균",
+    "vars": "M 평균, a,b 두 수",
+    "hint": "두 수를 더한 뒤 2로 나누면 평균이 된다"
+  },
+  {
+    "id": "percent",
+    "label": "P=A/B×100",
+    "prompt": "P=○○○×100",
+    "tokens": [
+      "A",
+      "/",
+      "B"
+    ],
+    "name": "백분율",
+    "vars": "P 비율(%), A 부분, B 전체",
+    "hint": "부분을 전체로 나눈 뒤 100을 곱하면 백분율이 된다"
+  },
+  {
+    "id": "cone-surface",
+    "label": "S=πr²+πrl",
+    "prompt": "S=πr²+○○○",
+    "tokens": [
+      "π",
+      "r",
+      "l"
+    ],
+    "name": "원뿔 겉넓이",
+    "vars": "S 겉넓이, r 반지름, l 모선",
+    "hint": "밑면 원의 넓이에 옆면 넓이를 더하면 겉넓이가 된다"
+  },
+  {
+    "id": "cone-volume",
+    "label": "V=1/3πr²h",
+    "prompt": "V=○πr²h",
+    "tokens": [
+      "1/3"
+    ],
+    "name": "원뿔 부피",
+    "vars": "V 부피, r 반지름, h 높이",
+    "hint": "같은 밑면 높이 원기둥 부피의 삼분의 일이 원뿔 부피이다"
+  },
+  {
+    "id": "annulus-area",
+    "label": "S=π(R²-r²)",
+    "prompt": "S=π(○○○)",
+    "tokens": [
+      "R²",
+      "-",
+      "r²"
+    ],
+    "name": "고리(환) 넓이",
+    "vars": "R 바깥, r 안쪽 반지름",
+    "hint": "큰 원에서 작은 원 넓이를 빼서 고리 넓이를 구한다"
+  },
+  {
+    "id": "sector-arc",
+    "label": "l=2πr·x/360",
+    "prompt": "l=2πr·○○○",
+    "tokens": [
+      "x",
+      "/",
+      "360"
+    ],
+    "name": "부채꼴 호의 길이",
+    "vars": "r 반지름, x 중심각",
+    "hint": "원둘레에 중심각의 비율을 곱해 호의 길이를 구한다"
+  },
+  {
+    "id": "trapezoid-area",
+    "label": "S=1/2(a+b)h",
+    "prompt": "S=1/2(○○○)h",
+    "tokens": [
+      "a",
+      "+",
+      "b"
+    ],
+    "name": "사다리꼴 넓이",
+    "vars": "a 윗변, b 아랫변, h 높이",
+    "hint": "두 평행한 변의 합에 높이를 곱하고 반으로 나눈다"
+  },
+  {
+    "id": "cylinder-surface",
+    "label": "S=2πr²+2πrh",
+    "prompt": "S=2πr²+○○○○",
+    "tokens": [
+      "2",
+      "π",
+      "r",
+      "h"
+    ],
+    "name": "원기둥 겉넓이",
+    "vars": "r 반지름, h 높이",
+    "hint": "두 밑면 원과 옆면 직사각형의 넓이를 모두 더한다"
+  },
+  {
+    "id": "sector-area",
+    "label": "S=πr²·x/360",
+    "prompt": "S=πr²·○○○",
+    "tokens": [
+      "x",
+      "/",
+      "360"
+    ],
+    "name": "부채꼴 넓이",
+    "vars": "r 반지름, x 중심각",
+    "hint": "원 넓이에 중심각의 비율을 곱해 부채꼴 넓이를 구한다"
+  },
+  {
+    "id": "proportion-cross",
+    "label": "a:b=c:d→ad=bc",
+    "prompt": "a:b=c:d→○○○",
+    "tokens": [
+      "ad",
+      "=",
+      "bc"
+    ],
+    "name": "비례식 외항·내항",
+    "vars": "a b c d 비례식 항",
+    "hint": "비례식에서 외항의 곱과 내항의 곱은 서로 같다"
+  },
+  {
+    "id": "cuboid-surface",
+    "label": "S=2(ab+bc+ca)",
+    "prompt": "S=2(○○○○○)",
+    "tokens": [
+      "ab",
+      "+",
+      "bc",
+      "+",
+      "ca"
+    ],
+    "name": "직육면체 겉넓이",
+    "vars": "a b c 모서리",
+    "hint": "세 종류 면의 넓이를 더한 뒤 두 배 해 겉넓이를 구한다"
+  },
+  {
+    "id": "exterior-angle-sum",
+    "label": "S=360",
+    "prompt": "S=○",
+    "tokens": [
+      "360"
+    ],
+    "name": "외각의 합",
+    "vars": "S 외각의 합(도)",
+    "hint": "어떤 다각형이든 외각을 모두 더하면 360도가 된다"
+  },
+  {
+    "id": "sum-prob-one",
+    "label": "Σpᵢ=1",
+    "prompt": "Σpᵢ=○",
+    "tokens": [
+      "1"
+    ],
+    "name": "확률 총합",
+    "vars": "pᵢ 각 확률값",
+    "hint": "모든 경우의 확률을 다 더하면 항상 1이 된다"
+  },
+  {
+    "id": "line-slope-intercept",
+    "label": "y=mx+b",
+    "prompt": "y=○○+b",
+    "tokens": [
+      "m",
+      "x"
+    ],
+    "name": "직선 방정식",
+    "vars": "m 기울기, b y절편",
+    "hint": "기울기와 y절편으로 직선을 나타내는 식이다"
+  },
+  {
+    "id": "equilateral-height",
+    "label": "h=√3/2a",
+    "prompt": "h=○○○a",
+    "tokens": [
+      "√3",
+      "/",
+      "2"
+    ],
+    "name": "정삼각형 높이",
+    "vars": "h 높이, a 한 변",
+    "hint": "한 변 길이에 루트3을 곱하고 2로 나누면 높이가 된다"
+  },
+  {
+    "id": "equilateral-area",
+    "label": "S=√3/4a²",
+    "prompt": "S=○○○a²",
+    "tokens": [
+      "√3",
+      "/",
+      "4"
+    ],
+    "name": "정삼각형 넓이",
+    "vars": "S 넓이, a 한 변",
+    "hint": "한 변을 제곱한 값에 루트3을 곱하고 4로 나눈다"
+  },
+  {
+    "id": "triangle-angle-sum",
+    "label": "A+B+C=180",
+    "prompt": "A+B+C=○",
+    "tokens": [
+      "180"
+    ],
+    "name": "내각의 합",
+    "vars": "A,B,C 세 내각(도)",
+    "hint": "삼각형의 세 내각을 모두 더하면 항상 180도가 된다"
+  },
+  {
+    "id": "diagonals-polygon",
+    "label": "d=n(n-3)/2",
+    "prompt": "d=○○○/2",
+    "tokens": [
+      "n",
+      "(n",
+      "-3)"
+    ],
+    "name": "다각형 대각선 수",
+    "vars": "d 대각선 수, n 변의 수",
+    "hint": "각 꼭짓점에서 그을 수 있는 대각선을 세어 구한다"
+  },
+  {
+    "id": "interior-angle-sum",
+    "label": "S=180(n-2)",
+    "prompt": "S=○(n-2)",
+    "tokens": [
+      "180"
+    ],
+    "name": "다각형 내각의 합",
+    "vars": "S 내각합, n 변의 수",
+    "hint": "삼각형으로 나누어 다각형 내각의 합을 구한다"
+  },
+  {
+    "id": "interior-angle-regular",
+    "label": "a=180(n-2)/n",
+    "prompt": "a=180(n-2)/○",
+    "tokens": [
+      "n"
+    ],
+    "name": "정다각형 한 내각",
+    "vars": "a 한 내각, n 변의 수",
+    "hint": "내각의 합을 변의 수로 나눠 한 내각을 구한다"
+  },
+  {
+    "id": "prob-def",
+    "label": "P(A)=경우의수/전체",
+    "prompt": "P(A)=○○/전체",
+    "tokens": [
+      "경우",
+      "의수"
+    ],
+    "name": "확률의 정의",
+    "vars": "A 사건",
+    "hint": "사건이 일어나는 경우의 수를 전체 경우의 수로 나눈다"
+  },
+  {
+    "id": "prob-comp",
+    "label": "P(Aᶜ)=1-P(A)",
+    "prompt": "P(Aᶜ)=○○",
+    "tokens": [
+      "1-",
+      "P(A)"
+    ],
+    "name": "여사건의 확률",
+    "vars": "Aᶜ 여집합",
+    "hint": "전체 1에서 사건의 확률을 빼면 여사건의 확률이다"
+  },
+  {
+    "id": "square-diagonal",
+    "label": "d=√2a",
+    "prompt": "d=○a",
+    "tokens": [
+      "√2"
+    ],
+    "name": "정사각형 대각선",
+    "vars": "d 대각선, a 한 변",
+    "hint": "한 변 길이에 루트2를 곱하면 대각선 길이가 된다"
+  },
+  {
+    "id": "regular-tetra-edge-area",
+    "label": "S=√3a²",
+    "prompt": "S=○a²",
+    "tokens": [
+      "√3"
+    ],
+    "name": "정사면체 겉넓이",
+    "vars": "S 겉넓이, a 한 모서리",
+    "hint": "정삼각형 네 면을 합치면 루트3에 한 모서리 제곱을 곱한 값이다"
+  },
+  {
+    "id": "square-diag-area",
+    "label": "S=1/2d²",
+    "prompt": "S=○d²",
+    "tokens": [
+      "1/2"
+    ],
+    "name": "정사각형 넓이",
+    "vars": "S 넓이, d 대각선",
+    "hint": "대각선 길이를 제곱하고 절반 하면 정사각형 넓이가 된다"
+  },
+  {
+    "id": "parabola-vertex-x",
+    "label": "x=-b/2a",
+    "prompt": "x=○/2a",
+    "tokens": [
+      "-b"
+    ],
+    "name": "꼭짓점 x좌표",
+    "vars": "a,b 이차함수 계수",
+    "hint": "이차함수 그래프의 꼭짓점은 x가 -b를 2a로 나눈 위치이다"
+  },
+  {
+    "id": "std-dev",
+    "label": "σ=√(σ²)",
+    "prompt": "σ=○○",
+    "tokens": [
+      "√(",
+      "σ²)"
+    ],
+    "name": "표준편차",
+    "vars": "σ² 분산",
+    "hint": "분산에 제곱근을 씌우면 표준편차가 된다"
+  },
+  {
+    "id": "pythagoras-leg",
+    "label": "a²=c²-b²",
+    "prompt": "a²=○○○",
+    "tokens": [
+      "c²",
+      "-",
+      "b²"
+    ],
+    "name": "피타고라스 변형",
+    "vars": "a,b 직각변, c 빗변",
+    "hint": "빗변 제곱에서 다른 변 제곱을 빼면 한 변의 제곱이 된다"
+  },
+  {
+    "id": "pythagoras",
+    "label": "c²=a²+b²",
+    "prompt": "c²=○○○",
+    "tokens": [
+      "a²",
+      "+",
+      "b²"
+    ],
+    "name": "피타고라스 정리",
+    "vars": "a,b 직각변, c 빗변",
+    "hint": "두 직각변 제곱의 합이 빗변의 제곱과 같다"
+  },
+  {
+    "id": "discriminant",
+    "label": "D=b²-4ac",
+    "prompt": "D=○○○",
+    "tokens": [
+      "b²",
+      "-",
+      "4ac"
+    ],
+    "name": "판별식",
+    "vars": "D 판별식, a,b,c 계수",
+    "hint": "이 값의 부호로 이차방정식 실근의 개수를 알 수 있다"
+  },
+  {
+    "id": "cos-def",
+    "label": "cos θ=b/h",
+    "prompt": "cos θ=○/h",
+    "tokens": [
+      "b"
+    ],
+    "name": "코사인 정의",
+    "vars": "b 밑변, h 빗변",
+    "hint": "직각삼각형에서 밑변을 빗변으로 나누면 코사인 값이 된다"
+  },
+  {
+    "id": "regular-hexagon-area",
+    "label": "S=3√3/2a²",
+    "prompt": "S=○○○○a²",
+    "tokens": [
+      "3",
+      "√3",
+      "/",
+      "2"
+    ],
+    "name": "정육각형 넓이",
+    "vars": "S 넓이, a 한 변",
+    "hint": "정삼각형 여섯 개를 합치면 정육각형 넓이가 된다"
+  },
+  {
+    "id": "sin-def",
+    "label": "sin θ=a/h",
+    "prompt": "sin θ=○/h",
+    "tokens": [
+      "a"
+    ],
+    "name": "사인 정의",
+    "vars": "a 대변, h 빗변",
+    "hint": "직각삼각형에서 대변을 빗변으로 나누면 사인 값이 된다"
+  },
+  {
+    "id": "tan-def-2",
+    "label": "tan θ=a/b",
+    "prompt": "tan θ=○/b",
+    "tokens": [
+      "a"
+    ],
+    "name": "탄젠트 정의",
+    "vars": "a 대변, b 밑변",
+    "hint": "직각삼각형에서 대변을 밑변으로 나누면 탄젠트 값이 된다"
+  },
+  {
+    "id": "pythagoras-hyp",
+    "label": "c=√(a²+b²)",
+    "prompt": "c=√(○○○)",
+    "tokens": [
+      "a²",
+      "+",
+      "b²"
+    ],
+    "name": "피타고라스 빗변",
+    "vars": "a b 직각변, c 빗변",
+    "hint": "직각삼각형 두 변 제곱의 합의 제곱근이 빗변이다"
+  },
+  {
+    "id": "cone-slant",
+    "label": "l=√(r²+h²)",
+    "prompt": "l=√(○○○)",
+    "tokens": [
+      "r²",
+      "+",
+      "h²"
+    ],
+    "name": "원뿔 모선 길이",
+    "vars": "r 반지름, h 높이, l 모선",
+    "hint": "반지름과 높이를 직각변으로 보아 모선을 구한다"
+  },
+  {
+    "id": "mean",
+    "label": "x̄=(1/n)Σxᵢ",
+    "prompt": "x̄=(1/n)○",
+    "tokens": [
+      "Σxᵢ"
+    ],
+    "name": "산술평균",
+    "vars": "xᵢ 자료, n 개수",
+    "hint": "모든 자료를 더한 뒤 자료 개수로 나눈 평균값"
+  },
+  {
+    "id": "variance-pop",
+    "label": "σ²=(1/n)Σ(xᵢ-x̄)²",
+    "prompt": "σ²=(1/n)Σ(xᵢ-○)²",
+    "tokens": [
+      "x̄"
+    ],
+    "name": "모분산",
+    "vars": "x̄ 평균, n 개수",
+    "hint": "각 자료가 평균에서 벗어난 정도의 제곱을 평균한 값"
+  },
+  {
+    "id": "quadratic-vertex",
+    "label": "y=a(x-p)²+q",
+    "prompt": "y=a(x-p)²○○",
+    "tokens": [
+      "+",
+      "q"
+    ],
+    "name": "이차함수 표준형",
+    "vars": "(p,q) 꼭짓점, a 계수",
+    "hint": "꼭짓점이 (p,q)인 포물선을 나타내는 이차함수"
+  },
+  {
+    "id": "factor-common",
+    "label": "ma+mb=m(a+b)",
+    "prompt": "ma+mb=○○○",
+    "tokens": [
+      "m",
+      "(a",
+      "+b)"
+    ],
+    "name": "공통인수 묶기",
+    "vars": "m 공통인수, a b 수",
+    "hint": "여러 항에 공통인 인수를 밖으로 묶어 인수분해한다"
+  },
+  {
+    "id": "mult-square-minus",
+    "label": "(a-b)²=a²-2ab+b²",
+    "prompt": "(a-b)²=a²○○+b²",
+    "tokens": [
+      "-",
+      "2ab"
+    ],
+    "name": "차의 제곱",
+    "vars": "a b 임의의 수",
+    "hint": "두 수 차의 제곱을 전개한 곱셈 공식"
+  },
+  {
+    "id": "mult-diff-squares",
+    "label": "(a+b)(a-b)=a²-b²",
+    "prompt": "(a+b)(a-b)=○○○",
+    "tokens": [
+      "a²",
+      "-",
+      "b²"
+    ],
+    "name": "합·차의 곱",
+    "vars": "a b 임의의 수",
+    "hint": "두 수의 합과 차를 곱하면 제곱의 차가 된다"
+  },
+  {
+    "id": "mult-square-plus",
+    "label": "(a+b)²=a²+2ab+b²",
+    "prompt": "(a+b)²=a²+○○+b²",
+    "tokens": [
+      "2",
+      "ab"
+    ],
+    "name": "합의 제곱",
+    "vars": "a b 임의의 수",
+    "hint": "두 수 합의 제곱을 전개한 곱셈 공식"
+  },
+  {
+    "id": "factor-square-minus",
+    "label": "a²-2ab+b²=(a-b)²",
+    "prompt": "a²-2ab+b²=○○",
+    "tokens": [
+      "(a",
+      "-b)²"
+    ],
+    "name": "완전제곱식 인수분해",
+    "vars": "a b 임의의 수",
+    "hint": "두 수 차의 제곱 꼴을 묶어 인수분해한다"
+  },
+  {
+    "id": "factor-diff-squares",
+    "label": "a²-b²=(a+b)(a-b)",
+    "prompt": "a²-b²=○○○○",
+    "tokens": [
+      "(a+",
+      "b)",
+      "(a-",
+      "b)"
+    ],
+    "name": "제곱차 인수분해",
+    "vars": "a b 임의의 수",
+    "hint": "제곱의 차는 두 수의 합과 차의 곱으로 인수분해한다"
+  },
+  {
+    "id": "factor-square-plus",
+    "label": "a²+2ab+b²=(a+b)²",
+    "prompt": "a²+2ab+b²=○○",
+    "tokens": [
+      "(a",
+      "+b)²"
+    ],
+    "name": "완전제곱식 인수분해",
+    "vars": "a b 임의의 수",
+    "hint": "두 수 합의 제곱 꼴을 묶어 인수분해한다"
+  },
+  {
+    "id": "quadratic-formula-even",
+    "label": "x=(-b'±√(b'²-ac))/a",
+    "prompt": "x=(-b'±√(○○○))/a",
+    "tokens": [
+      "b'²",
+      "-",
+      "ac"
+    ],
+    "name": "짝수 근의 공식",
+    "vars": "b'=b/2, a c 계수",
+    "hint": "일차항 계수가 짝수일 때 간단해진 근의 공식"
+  },
+  {
+    "id": "quadratic-formula",
+    "label": "x=(-b±√(b²-4ac))/2a",
+    "prompt": "x=(-b±√(○○○))/2a",
+    "tokens": [
+      "b²",
+      "-",
+      "4ac"
+    ],
+    "name": "근의 공식",
+    "vars": "a b c 계수",
+    "hint": "이차방정식의 해를 계수만으로 구하는 공식"
+  }
+]

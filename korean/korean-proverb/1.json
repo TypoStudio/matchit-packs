@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ogui-ti",
+    "label": "옥의 티",
+    "prompt": "옥의 ○",
+    "tokens": [
+      "티"
+    ],
+    "hint": "아무리 좋아도 한 가지 결점은 있다는 말"
+  },
+  {
+    "id": "geurimui-tteok",
+    "label": "그림의 떡",
+    "prompt": "○○의 떡",
+    "tokens": [
+      "그",
+      "림"
+    ],
+    "hint": "보기는 좋으나 실제 가질 수 없거나 쓸모없는 것"
+  },
+  {
+    "id": "bom-nun-nokdeut",
+    "label": "봄눈 녹듯",
+    "prompt": "○○ 녹듯",
+    "tokens": [
+      "봄",
+      "눈"
+    ],
+    "hint": "무엇이 빠르게 사라지는 모양"
+  },
+  {
+    "id": "saebal-pi",
+    "label": "새발의 피",
+    "prompt": "○○의 피",
+    "tokens": [
+      "새",
+      "발"
+    ],
+    "hint": "지극히 적은 분량을 이르는 말"
+  },
+  {
+    "id": "osi-nalgae",
+    "label": "옷이 날개",
+    "prompt": "옷이 ○○",
+    "tokens": [
+      "날",
+      "개"
+    ],
+    "hint": "옷을 잘 입으면 사람이 돋보인다는 말"
+  },
+  {
+    "id": "galsurok-taesan-2",
+    "label": "갈수록 태산",
+    "prompt": "갈수록 ○○",
+    "tokens": [
+      "태",
+      "산"
+    ],
+    "hint": "갈수록 더욱 어려운 처지에 놓인다"
+  },
+  {
+    "id": "kkwong-daesin-dak",
+    "label": "꿩 대신 닭",
+    "prompt": "꿩 ○○ 닭",
+    "tokens": [
+      "대",
+      "신"
+    ],
+    "hint": "적당한 것이 없을 때 비슷한 것으로 대신함"
+  },
+  {
+    "id": "san-neomeo-san",
+    "label": "산 넘어 산",
+    "prompt": "산 ○○ 산",
+    "tokens": [
+      "넘",
+      "어"
+    ],
+    "hint": "어려운 일을 넘어서면 또 다른 어려움이 닥침"
+  },
+  {
+    "id": "subak-gyeot",
+    "label": "수박 겉핥기",
+    "prompt": "○○ 겉핥기",
+    "tokens": [
+      "수",
+      "박"
+    ],
+    "hint": "속은 모르고 겉만 대충 안다"
+  },
+  {
+    "id": "yakbang-gamcho",
+    "label": "약방에 감초",
+    "prompt": "약방에 ○○",
+    "tokens": [
+      "감",
+      "초"
+    ],
+    "hint": "어떤 일에나 빠지지 않고 끼는 사람이나 물건"
+  }
+]

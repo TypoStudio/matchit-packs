@@ -1,0 +1,2752 @@
+[
+  {
+    "word": "glib",
+    "meaning": "입심좋은",
+    "hint": "가볍게말함"
+  },
+  {
+    "word": "idle",
+    "meaning": "게으른",
+    "hint": "빈둥대는"
+  },
+  {
+    "word": "adept",
+    "meaning": "능숙한",
+    "hint": "솜씨좋은"
+  },
+  {
+    "word": "axiom",
+    "meaning": "공리",
+    "hint": "자명한진리"
+  },
+  {
+    "word": "covet",
+    "meaning": "탐내다",
+    "hint": "갈망하다"
+  },
+  {
+    "word": "elegy",
+    "meaning": "애가",
+    "hint": "추도시"
+  },
+  {
+    "word": "evade",
+    "meaning": "피하다",
+    "hint": "모면하다"
+  },
+  {
+    "word": "evoke",
+    "meaning": "불러일으킴",
+    "hint": "환기하다"
+  },
+  {
+    "word": "exalt",
+    "meaning": "찬양하다",
+    "hint": "높이다"
+  },
+  {
+    "word": "extol",
+    "meaning": "극찬하다",
+    "hint": "칭송하다"
+  },
+  {
+    "word": "guile",
+    "meaning": "교활함",
+    "hint": "속임수"
+  },
+  {
+    "word": "inert",
+    "meaning": "비활성의",
+    "hint": "둔한"
+  },
+  {
+    "word": "inure",
+    "meaning": "익숙해지게하다",
+    "hint": "단련시킴"
+  },
+  {
+    "word": "lithe",
+    "meaning": "유연한",
+    "hint": "날렵하게움직임"
+  },
+  {
+    "word": "lofty",
+    "meaning": "고상한",
+    "hint": "드높은"
+  },
+  {
+    "word": "lucid",
+    "meaning": "명료한",
+    "hint": "또렷한"
+  },
+  {
+    "word": "nadir",
+    "meaning": "최저점",
+    "hint": "가장낮은상태"
+  },
+  {
+    "word": "overt",
+    "meaning": "공공연한",
+    "hint": "명백한"
+  },
+  {
+    "word": "pious",
+    "meaning": "독실한",
+    "hint": "경건한"
+  },
+  {
+    "word": "adhere",
+    "meaning": "고수하다",
+    "hint": "들러붙다"
+  },
+  {
+    "word": "apathy",
+    "meaning": "무관심",
+    "hint": "냉담"
+  },
+  {
+    "word": "aplomb",
+    "meaning": "침착",
+    "hint": "태연함"
+  },
+  {
+    "word": "aspire",
+    "meaning": "열망하다",
+    "hint": "갈망하다"
+  },
+  {
+    "word": "astute",
+    "meaning": "기민한",
+    "hint": "약삭빠른"
+  },
+  {
+    "word": "bestow",
+    "meaning": "수여하다",
+    "hint": "베풀다"
+  },
+  {
+    "word": "cajole",
+    "meaning": "구슬리다",
+    "hint": "꾀다"
+  },
+  {
+    "word": "cogent",
+    "meaning": "설득력있는",
+    "hint": "납득가는"
+  },
+  {
+    "word": "dearth",
+    "meaning": "부족",
+    "hint": "결핍"
+  },
+  {
+    "word": "demure",
+    "meaning": "얌전한",
+    "hint": "조신한"
+  },
+  {
+    "word": "depict",
+    "meaning": "묘사하다",
+    "hint": "그리다"
+  },
+  {
+    "word": "derive",
+    "meaning": "유래하다",
+    "hint": "끌어내다"
+  },
+  {
+    "word": "devour",
+    "meaning": "게걸스럽게",
+    "hint": "집어삼킴"
+  },
+  {
+    "word": "dispel",
+    "meaning": "쫓아버리다",
+    "hint": "없애다"
+  },
+  {
+    "word": "elated",
+    "meaning": "의기양양",
+    "hint": "신난"
+  },
+  {
+    "word": "enmity",
+    "meaning": "적의",
+    "hint": "증오"
+  },
+  {
+    "word": "ersatz",
+    "meaning": "가짜의",
+    "hint": "질낮은대용품"
+  },
+  {
+    "word": "eschew",
+    "meaning": "피하다",
+    "hint": "일부러삼감"
+  },
+  {
+    "word": "fallow",
+    "meaning": "휴경의",
+    "hint": "놀려두는땅"
+  },
+  {
+    "word": "falter",
+    "meaning": "흔들리다",
+    "hint": "머뭇거림"
+  },
+  {
+    "word": "fecund",
+    "meaning": "다산의",
+    "hint": "비옥한"
+  },
+  {
+    "word": "feeble",
+    "meaning": "연약한",
+    "hint": "미약한"
+  },
+  {
+    "word": "fetter",
+    "meaning": "속박하다",
+    "hint": "자유를얽맴"
+  },
+  {
+    "word": "fickle",
+    "meaning": "변덕스러운",
+    "hint": "변하기쉬운"
+  },
+  {
+    "word": "finite",
+    "meaning": "유한한",
+    "hint": "한정된"
+  },
+  {
+    "word": "foster",
+    "meaning": "육성하다",
+    "hint": "키우다"
+  },
+  {
+    "word": "gambol",
+    "meaning": "뛰놀다",
+    "hint": "즐겁게깡충뜀"
+  },
+  {
+    "word": "genial",
+    "meaning": "상냥한",
+    "hint": "온화한"
+  },
+  {
+    "word": "heresy",
+    "meaning": "이단",
+    "hint": "정통에어긋남"
+  },
+  {
+    "word": "impugn",
+    "meaning": "의문을제기하다",
+    "hint": "진실성을따짐"
+  },
+  {
+    "word": "innate",
+    "meaning": "타고난",
+    "hint": "선천적인"
+  },
+  {
+    "word": "invoke",
+    "meaning": "불러내다",
+    "hint": "호소하다"
+  },
+  {
+    "word": "jejune",
+    "meaning": "무미건조한",
+    "hint": "내용이빈약함"
+  },
+  {
+    "word": "lament",
+    "meaning": "애도하다",
+    "hint": "한탄하다"
+  },
+  {
+    "word": "latent",
+    "meaning": "잠재된",
+    "hint": "숨어있는"
+  },
+  {
+    "word": "lavish",
+    "meaning": "아낌없는",
+    "hint": "호화로운"
+  },
+  {
+    "word": "limpid",
+    "meaning": "맑은",
+    "hint": "투명하고선명함"
+  },
+  {
+    "word": "loathe",
+    "meaning": "몹시싫어하다",
+    "hint": "극도로혐오함"
+  },
+  {
+    "word": "malice",
+    "meaning": "악의",
+    "hint": "적의"
+  },
+  {
+    "word": "malign",
+    "meaning": "비방하다",
+    "hint": "해치다"
+  },
+  {
+    "word": "meager",
+    "meaning": "빈약한",
+    "hint": "불충분한"
+  },
+  {
+    "word": "meddle",
+    "meaning": "간섭하다",
+    "hint": "참견하다"
+  },
+  {
+    "word": "mellow",
+    "meaning": "원숙한",
+    "hint": "부드러운"
+  },
+  {
+    "word": "menace",
+    "meaning": "위협",
+    "hint": "골칫거리"
+  },
+  {
+    "word": "modify",
+    "meaning": "수정하다",
+    "hint": "변경하다"
+  },
+  {
+    "word": "morass",
+    "meaning": "수렁",
+    "hint": "빠져나오기힘든상황"
+  },
+  {
+    "word": "morose",
+    "meaning": "시무룩한",
+    "hint": "뚱한"
+  },
+  {
+    "word": "myriad",
+    "meaning": "무수한",
+    "hint": "엄청난"
+  },
+  {
+    "word": "novice",
+    "meaning": "초보자",
+    "hint": "풋내기"
+  },
+  {
+    "word": "nuance",
+    "meaning": "미묘한차이",
+    "hint": "뉘앙스"
+  },
+  {
+    "word": "opaque",
+    "meaning": "불투명한",
+    "hint": "애매한"
+  },
+  {
+    "word": "ossify",
+    "meaning": "경직되다",
+    "hint": "굳어져굳음"
+  },
+  {
+    "word": "pacify",
+    "meaning": "진정시키다",
+    "hint": "달래다"
+  },
+  {
+    "word": "pariah",
+    "meaning": "버림받은자",
+    "hint": "사회적천덕꾸러기"
+  },
+  {
+    "word": "penury",
+    "meaning": "극빈",
+    "hint": "심한가난"
+  },
+  {
+    "word": "peruse",
+    "meaning": "정독하다",
+    "hint": "숙독하다"
+  },
+  {
+    "word": "placid",
+    "meaning": "평온한",
+    "hint": "차분한"
+  },
+  {
+    "word": "ponder",
+    "meaning": "숙고하다",
+    "hint": "곰곰생각"
+  },
+  {
+    "word": "potent",
+    "meaning": "강력한",
+    "hint": "효력있는"
+  },
+  {
+    "word": "abstain",
+    "meaning": "삼가다",
+    "hint": "자제하다"
+  },
+  {
+    "word": "assuage",
+    "meaning": "완화하다",
+    "hint": "달래다"
+  },
+  {
+    "word": "augment",
+    "meaning": "증대하다",
+    "hint": "늘리다"
+  },
+  {
+    "word": "austere",
+    "meaning": "엄격한",
+    "hint": "검소한"
+  },
+  {
+    "word": "beguile",
+    "meaning": "현혹하다",
+    "hint": "속여꾀어냄"
+  },
+  {
+    "word": "bolster",
+    "meaning": "강화하다",
+    "hint": "북돋우다"
+  },
+  {
+    "word": "brevity",
+    "meaning": "간결함",
+    "hint": "짧음"
+  },
+  {
+    "word": "censure",
+    "meaning": "비난하다",
+    "hint": "견책하다"
+  },
+  {
+    "word": "concede",
+    "meaning": "인정하다",
+    "hint": "양보하다"
+  },
+  {
+    "word": "conform",
+    "meaning": "순응하다",
+    "hint": "따르다"
+  },
+  {
+    "word": "convene",
+    "meaning": "소집하다",
+    "hint": "모이다"
+  },
+  {
+    "word": "cordial",
+    "meaning": "다정한",
+    "hint": "친절한"
+  },
+  {
+    "word": "cryptic",
+    "meaning": "수수께끼같은",
+    "hint": "뜻이모호함"
+  },
+  {
+    "word": "cursory",
+    "meaning": "대충하는",
+    "hint": "성급한"
+  },
+  {
+    "word": "curtail",
+    "meaning": "축소하다",
+    "hint": "줄이다"
+  },
+  {
+    "word": "defunct",
+    "meaning": "소멸한",
+    "hint": "더이상없는"
+  },
+  {
+    "word": "deplete",
+    "meaning": "고갈시키다",
+    "hint": "소진하다"
+  },
+  {
+    "word": "deplore",
+    "meaning": "개탄하다",
+    "hint": "한탄하다"
+  },
+  {
+    "word": "discern",
+    "meaning": "식별하다",
+    "hint": "알아차림"
+  },
+  {
+    "word": "dissent",
+    "meaning": "반대하다",
+    "hint": "이의제기"
+  },
+  {
+    "word": "divulge",
+    "meaning": "누설하다",
+    "hint": "폭로하다"
+  },
+  {
+    "word": "dormant",
+    "meaning": "휴면중인",
+    "hint": "잠자는"
+  },
+  {
+    "word": "dwindle",
+    "meaning": "줄어들다",
+    "hint": "쇠퇴하다"
+  },
+  {
+    "word": "emanate",
+    "meaning": "발산하다",
+    "hint": "뿜어나옴"
+  },
+  {
+    "word": "embroil",
+    "meaning": "휘말리게하다",
+    "hint": "분쟁에끌어들임"
+  },
+  {
+    "word": "epitome",
+    "meaning": "전형",
+    "hint": "축약판"
+  },
+  {
+    "word": "erudite",
+    "meaning": "박식한",
+    "hint": "학식깊은"
+  },
+  {
+    "word": "espouse",
+    "meaning": "지지하다",
+    "hint": "신념을받아들임"
+  },
+  {
+    "word": "expound",
+    "meaning": "상술하다",
+    "hint": "설명하다"
+  },
+  {
+    "word": "fatuous",
+    "meaning": "어리석은",
+    "hint": "바보같은"
+  },
+  {
+    "word": "fervent",
+    "meaning": "열렬한",
+    "hint": "뜨거운"
+  },
+  {
+    "word": "forsake",
+    "meaning": "저버리다",
+    "hint": "포기하다"
+  },
+  {
+    "word": "fortify",
+    "meaning": "강화하다",
+    "hint": "요새화"
+  },
+  {
+    "word": "fulsome",
+    "meaning": "지나친",
+    "hint": "과한칭찬"
+  },
+  {
+    "word": "furtive",
+    "meaning": "은밀한",
+    "hint": "몰래하는"
+  },
+  {
+    "word": "gainsay",
+    "meaning": "부인하다",
+    "hint": "반박하여거부함"
+  },
+  {
+    "word": "generic",
+    "meaning": "일반적인",
+    "hint": "총칭의"
+  },
+  {
+    "word": "germane",
+    "meaning": "관련있는",
+    "hint": "적절한"
+  },
+  {
+    "word": "gratify",
+    "meaning": "만족시키다",
+    "hint": "충족하다"
+  },
+  {
+    "word": "halcyon",
+    "meaning": "평온한",
+    "hint": "평화로운시절"
+  },
+  {
+    "word": "hapless",
+    "meaning": "불운한",
+    "hint": "운없는"
+  },
+  {
+    "word": "harness",
+    "meaning": "이용하다",
+    "hint": "활용하다"
+  },
+  {
+    "word": "haughty",
+    "meaning": "오만한",
+    "hint": "거만한"
+  },
+  {
+    "word": "heinous",
+    "meaning": "극악한",
+    "hint": "흉악한"
+  },
+  {
+    "word": "illicit",
+    "meaning": "불법의",
+    "hint": "부정한"
+  },
+  {
+    "word": "impinge",
+    "meaning": "침해하다",
+    "hint": "권리를건드림"
+  },
+  {
+    "word": "indulge",
+    "meaning": "탐닉하다",
+    "hint": "빠지다"
+  },
+  {
+    "word": "inhibit",
+    "meaning": "억제하다",
+    "hint": "방해하다"
+  },
+  {
+    "word": "insipid",
+    "meaning": "맛없는",
+    "hint": "밋밋하고지루함"
+  },
+  {
+    "word": "interim",
+    "meaning": "임시의",
+    "hint": "잠정의"
+  },
+  {
+    "word": "jocular",
+    "meaning": "익살스러운",
+    "hint": "농담을즐김"
+  },
+  {
+    "word": "laconic",
+    "meaning": "간결한",
+    "hint": "말이적음"
+  },
+  {
+    "word": "languid",
+    "meaning": "나른한",
+    "hint": "활기없는"
+  },
+  {
+    "word": "lenient",
+    "meaning": "관대한",
+    "hint": "너그러운"
+  },
+  {
+    "word": "mandate",
+    "meaning": "명령하다",
+    "hint": "위임하다"
+  },
+  {
+    "word": "maudlin",
+    "meaning": "감상적인",
+    "hint": "질질짜는"
+  },
+  {
+    "word": "mawkish",
+    "meaning": "감상적인",
+    "hint": "역겨울만큼애틋함"
+  },
+  {
+    "word": "miserly",
+    "meaning": "인색한",
+    "hint": "몹시아끼는"
+  },
+  {
+    "word": "mollify",
+    "meaning": "달래다",
+    "hint": "진정시킴"
+  },
+  {
+    "word": "mordant",
+    "meaning": "신랄한",
+    "hint": "날카롭게비꼼"
+  },
+  {
+    "word": "mundane",
+    "meaning": "평범한",
+    "hint": "세속적인"
+  },
+  {
+    "word": "nascent",
+    "meaning": "초기의",
+    "hint": "막생겨난"
+  },
+  {
+    "word": "noxious",
+    "meaning": "유독한",
+    "hint": "해로운"
+  },
+  {
+    "word": "obloquy",
+    "meaning": "오명",
+    "hint": "심한비난"
+  },
+  {
+    "word": "obviate",
+    "meaning": "미연에방지",
+    "hint": "없애다"
+  },
+  {
+    "word": "occlude",
+    "meaning": "막다",
+    "hint": "폐색하다"
+  },
+  {
+    "word": "onerous",
+    "meaning": "부담스러운",
+    "hint": "번거로운"
+  },
+  {
+    "word": "opulent",
+    "meaning": "호화로운",
+    "hint": "부유한"
+  },
+  {
+    "word": "panacea",
+    "meaning": "만병통치약",
+    "hint": "모든것을해결함"
+  },
+  {
+    "word": "paradox",
+    "meaning": "역설",
+    "hint": "모순된말"
+  },
+  {
+    "word": "paragon",
+    "meaning": "모범",
+    "hint": "완벽한본보기"
+  },
+  {
+    "word": "paucity",
+    "meaning": "부족",
+    "hint": "결핍"
+  },
+  {
+    "word": "perplex",
+    "meaning": "당혹케하다",
+    "hint": "혼란시킴"
+  },
+  {
+    "word": "perturb",
+    "meaning": "불안케하다",
+    "hint": "교란하다"
+  },
+  {
+    "word": "pervade",
+    "meaning": "만연하다",
+    "hint": "퍼지다"
+  },
+  {
+    "word": "pivotal",
+    "meaning": "중추적인",
+    "hint": "핵심의"
+  },
+  {
+    "word": "portend",
+    "meaning": "예고하다",
+    "hint": "전조되다"
+  },
+  {
+    "word": "puerile",
+    "meaning": "유치한",
+    "hint": "어린애같은"
+  },
+  {
+    "word": "salient",
+    "meaning": "두드러진",
+    "hint": "가장눈에띄는"
+  },
+  {
+    "word": "tedious",
+    "meaning": "지루한",
+    "hint": "따분한"
+  },
+  {
+    "word": "tenuous",
+    "meaning": "미약한",
+    "hint": "근거가약함"
+  },
+  {
+    "word": "abrogate",
+    "meaning": "폐지하다",
+    "hint": "없애다"
+  },
+  {
+    "word": "acrimony",
+    "meaning": "독설",
+    "hint": "신랄함"
+  },
+  {
+    "word": "admonish",
+    "meaning": "훈계하다",
+    "hint": "타이르다"
+  },
+  {
+    "word": "affluent",
+    "meaning": "부유한",
+    "hint": "풍족한"
+  },
+  {
+    "word": "apostate",
+    "meaning": "배교자",
+    "hint": "신념을버린자"
+  },
+  {
+    "word": "artifice",
+    "meaning": "술책",
+    "hint": "교묘한속임"
+  },
+  {
+    "word": "belittle",
+    "meaning": "깎아내리다",
+    "hint": "얕보다"
+  },
+  {
+    "word": "bequeath",
+    "meaning": "물려주다",
+    "hint": "유산을남김"
+  },
+  {
+    "word": "coalesce",
+    "meaning": "합치다",
+    "hint": "연합하다"
+  },
+  {
+    "word": "culpable",
+    "meaning": "책임있는",
+    "hint": "유죄의"
+  },
+  {
+    "word": "decipher",
+    "meaning": "해독하다",
+    "hint": "풀어내다"
+  },
+  {
+    "word": "defiance",
+    "meaning": "반항",
+    "hint": "저항"
+  },
+  {
+    "word": "derelict",
+    "meaning": "버려진",
+    "hint": "방치된상태"
+  },
+  {
+    "word": "didactic",
+    "meaning": "교훈적인",
+    "hint": "설교조의"
+  },
+  {
+    "word": "dogmatic",
+    "meaning": "독단적인",
+    "hint": "고집센"
+  },
+  {
+    "word": "effusive",
+    "meaning": "과장된",
+    "hint": "넘쳐흐르는"
+  },
+  {
+    "word": "enduring",
+    "meaning": "지속되는",
+    "hint": "오래가는"
+  },
+  {
+    "word": "enervate",
+    "meaning": "기력빼앗다",
+    "hint": "약화시킴"
+  },
+  {
+    "word": "envisage",
+    "meaning": "마음에그림",
+    "hint": "상상하다"
+  },
+  {
+    "word": "ephemera",
+    "meaning": "덧없는것",
+    "hint": "일시적것"
+  },
+  {
+    "word": "esoteric",
+    "meaning": "난해한",
+    "hint": "비밀스러운"
+  },
+  {
+    "word": "estrange",
+    "meaning": "멀어지게",
+    "hint": "소원하게"
+  },
+  {
+    "word": "exacting",
+    "meaning": "까다로운",
+    "hint": "엄격한"
+  },
+  {
+    "word": "expedite",
+    "meaning": "신속처리",
+    "hint": "앞당기다"
+  },
+  {
+    "word": "fastness",
+    "meaning": "요새",
+    "hint": "견고한피난처"
+  },
+  {
+    "word": "flagrant",
+    "meaning": "노골적인",
+    "hint": "뻔뻔한"
+  },
+  {
+    "word": "flippant",
+    "meaning": "경솔한",
+    "hint": "진지함없음"
+  },
+  {
+    "word": "gossamer",
+    "meaning": "섬세한",
+    "hint": "거미줄처럼얇음"
+  },
+  {
+    "word": "grievous",
+    "meaning": "비통한",
+    "hint": "심각한"
+  },
+  {
+    "word": "grueling",
+    "meaning": "녹초되는",
+    "hint": "고된"
+  },
+  {
+    "word": "gullible",
+    "meaning": "잘속는",
+    "hint": "순진한"
+  },
+  {
+    "word": "harangue",
+    "meaning": "장광설",
+    "hint": "열변을토함"
+  },
+  {
+    "word": "hegemony",
+    "meaning": "패권",
+    "hint": "지배적영향력"
+  },
+  {
+    "word": "humility",
+    "meaning": "겸손",
+    "hint": "겸허"
+  },
+  {
+    "word": "idolatry",
+    "meaning": "우상숭배",
+    "hint": "맹목적숭배"
+  },
+  {
+    "word": "illusory",
+    "meaning": "착각의",
+    "hint": "환상의"
+  },
+  {
+    "word": "imminent",
+    "meaning": "임박한",
+    "hint": "곧닥칠"
+  },
+  {
+    "word": "immolate",
+    "meaning": "희생하다",
+    "hint": "제물로바침"
+  },
+  {
+    "word": "implicit",
+    "meaning": "암시적인",
+    "hint": "내포된"
+  },
+  {
+    "word": "impudent",
+    "meaning": "뻔뻔한",
+    "hint": "무례한"
+  },
+  {
+    "word": "inchoate",
+    "meaning": "초기의",
+    "hint": "미완성의"
+  },
+  {
+    "word": "incisive",
+    "meaning": "예리한",
+    "hint": "날카로운분석"
+  },
+  {
+    "word": "indolent",
+    "meaning": "게으른",
+    "hint": "나태한"
+  },
+  {
+    "word": "inherent",
+    "meaning": "내재된",
+    "hint": "본질적인"
+  },
+  {
+    "word": "inimical",
+    "meaning": "적대적인",
+    "hint": "해로운"
+  },
+  {
+    "word": "insolent",
+    "meaning": "무례한",
+    "hint": "오만한"
+  },
+  {
+    "word": "integral",
+    "meaning": "필수적인",
+    "hint": "불가결한"
+  },
+  {
+    "word": "intrepid",
+    "meaning": "용감한",
+    "hint": "대담한"
+  },
+  {
+    "word": "inundate",
+    "meaning": "쇄도하다",
+    "hint": "범람시킴"
+  },
+  {
+    "word": "inveigle",
+    "meaning": "꾀어내다",
+    "hint": "감언으로유혹"
+  },
+  {
+    "word": "jingoism",
+    "meaning": "맹목적애국주의",
+    "hint": "호전적국수주의"
+  },
+  {
+    "word": "jubilant",
+    "meaning": "환호하는",
+    "hint": "기뻐하는"
+  },
+  {
+    "word": "largesse",
+    "meaning": "후한베풂",
+    "hint": "관대한선심"
+  },
+  {
+    "word": "latitude",
+    "meaning": "재량",
+    "hint": "행동의자유"
+  },
+  {
+    "word": "laudable",
+    "meaning": "칭찬할만한",
+    "hint": "갸륵한"
+  },
+  {
+    "word": "manifest",
+    "meaning": "명백한",
+    "hint": "드러내다"
+  },
+  {
+    "word": "maverick",
+    "meaning": "독불장군",
+    "hint": "독자노선자"
+  },
+  {
+    "word": "mediocre",
+    "meaning": "평범한",
+    "hint": "그저그런"
+  },
+  {
+    "word": "mobilize",
+    "meaning": "동원하다",
+    "hint": "집결시킴"
+  },
+  {
+    "word": "nebulous",
+    "meaning": "흐릿한",
+    "hint": "애매한"
+  },
+  {
+    "word": "obdurate",
+    "meaning": "완고한",
+    "hint": "고집센"
+  },
+  {
+    "word": "obsolete",
+    "meaning": "구식의",
+    "hint": "쓸모없는"
+  },
+  {
+    "word": "palliate",
+    "meaning": "완화하다",
+    "hint": "고통을덜어줌"
+  },
+  {
+    "word": "palpable",
+    "meaning": "뚜렷한",
+    "hint": "만져질듯"
+  },
+  {
+    "word": "paradigm",
+    "meaning": "패러다임",
+    "hint": "사고틀"
+  },
+  {
+    "word": "partisan",
+    "meaning": "당파적인",
+    "hint": "편파적인"
+  },
+  {
+    "word": "pastiche",
+    "meaning": "혼성모방",
+    "hint": "여러양식을섞음"
+  },
+  {
+    "word": "peculiar",
+    "meaning": "독특한",
+    "hint": "기이한"
+  },
+  {
+    "word": "pedantic",
+    "meaning": "현학적인",
+    "hint": "지식을과시함"
+  },
+  {
+    "word": "pellucid",
+    "meaning": "투명한",
+    "hint": "명료한"
+  },
+  {
+    "word": "penchant",
+    "meaning": "애호",
+    "hint": "경향"
+  },
+  {
+    "word": "permeate",
+    "meaning": "스며들다",
+    "hint": "침투하다"
+  },
+  {
+    "word": "petulant",
+    "meaning": "성마른",
+    "hint": "짜증내는"
+  },
+  {
+    "word": "pinnacle",
+    "meaning": "정점",
+    "hint": "꼭대기"
+  },
+  {
+    "word": "plethora",
+    "meaning": "과다",
+    "hint": "넘침"
+  },
+  {
+    "word": "poignant",
+    "meaning": "가슴아픈",
+    "hint": "통렬한"
+  },
+  {
+    "word": "preclude",
+    "meaning": "막다",
+    "hint": "배제하다"
+  },
+  {
+    "word": "redolent",
+    "meaning": "연상시키는",
+    "hint": "향기를풍김"
+  },
+  {
+    "word": "sanguine",
+    "meaning": "낙관적인",
+    "hint": "희망에찬"
+  },
+  {
+    "word": "stagnant",
+    "meaning": "정체된",
+    "hint": "고여있는"
+  },
+  {
+    "word": "venerate",
+    "meaning": "숭배하다",
+    "hint": "깊이존경"
+  },
+  {
+    "word": "vigilant",
+    "meaning": "경계하는",
+    "hint": "빈틈없는"
+  },
+  {
+    "word": "analogous",
+    "meaning": "유사한",
+    "hint": "비슷한"
+  },
+  {
+    "word": "assertive",
+    "meaning": "적극적인",
+    "hint": "당당한"
+  },
+  {
+    "word": "bombastic",
+    "meaning": "과장된",
+    "hint": "허풍떠는"
+  },
+  {
+    "word": "castigate",
+    "meaning": "혹평하다",
+    "hint": "질책하다"
+  },
+  {
+    "word": "cognizant",
+    "meaning": "인식하는",
+    "hint": "알고있는"
+  },
+  {
+    "word": "congenial",
+    "meaning": "마음맞는",
+    "hint": "쾌적한"
+  },
+  {
+    "word": "constrain",
+    "meaning": "제약하다",
+    "hint": "억제하다"
+  },
+  {
+    "word": "conundrum",
+    "meaning": "난제",
+    "hint": "수수께끼"
+  },
+  {
+    "word": "corollary",
+    "meaning": "필연적결과",
+    "hint": "따라오는결론"
+  },
+  {
+    "word": "culminate",
+    "meaning": "정점에달함",
+    "hint": "끝맺다"
+  },
+  {
+    "word": "dauntless",
+    "meaning": "겁없는",
+    "hint": "대담한"
+  },
+  {
+    "word": "delineate",
+    "meaning": "묘사하다",
+    "hint": "윤곽그림"
+  },
+  {
+    "word": "demagogue",
+    "meaning": "선동가",
+    "hint": "대중을부추김"
+  },
+  {
+    "word": "destitute",
+    "meaning": "빈곤한",
+    "hint": "결핍된"
+  },
+  {
+    "word": "desultory",
+    "meaning": "산만한",
+    "hint": "두서없는"
+  },
+  {
+    "word": "dexterity",
+    "meaning": "손재주",
+    "hint": "민첩함"
+  },
+  {
+    "word": "dichotomy",
+    "meaning": "이분법",
+    "hint": "양분"
+  },
+  {
+    "word": "diffident",
+    "meaning": "자신없는",
+    "hint": "수줍은"
+  },
+  {
+    "word": "disparage",
+    "meaning": "폄하하다",
+    "hint": "깎아내림"
+  },
+  {
+    "word": "divergent",
+    "meaning": "갈라지는",
+    "hint": "상이한"
+  },
+  {
+    "word": "dogmatism",
+    "meaning": "독단주의",
+    "hint": "고집스런믿음"
+  },
+  {
+    "word": "elucidate",
+    "meaning": "설명하다",
+    "hint": "밝히다"
+  },
+  {
+    "word": "embellish",
+    "meaning": "장식하다",
+    "hint": "꾸미다"
+  },
+  {
+    "word": "enigmatic",
+    "meaning": "수수께끼의",
+    "hint": "불가사의"
+  },
+  {
+    "word": "enumerate",
+    "meaning": "열거하다",
+    "hint": "나열하다"
+  },
+  {
+    "word": "equivocal",
+    "meaning": "애매한",
+    "hint": "불분명한"
+  },
+  {
+    "word": "erroneous",
+    "meaning": "잘못된",
+    "hint": "틀린"
+  },
+  {
+    "word": "exemplary",
+    "meaning": "모범적인",
+    "hint": "본보기의"
+  },
+  {
+    "word": "exonerate",
+    "meaning": "무죄로하다",
+    "hint": "면제하다"
+  },
+  {
+    "word": "expedient",
+    "meaning": "편의적인",
+    "hint": "방편의"
+  },
+  {
+    "word": "explicate",
+    "meaning": "상술하다",
+    "hint": "설명하다"
+  },
+  {
+    "word": "extirpate",
+    "meaning": "근절하다",
+    "hint": "뿌리뽑음"
+  },
+  {
+    "word": "extricate",
+    "meaning": "구해내다",
+    "hint": "빼내다"
+  },
+  {
+    "word": "exuberant",
+    "meaning": "활기넘치는",
+    "hint": "열광적인"
+  },
+  {
+    "word": "fabricate",
+    "meaning": "날조하다",
+    "hint": "조작하다"
+  },
+  {
+    "word": "fractious",
+    "meaning": "다루기힘든",
+    "hint": "걸핏하면화냄"
+  },
+  {
+    "word": "frivolous",
+    "meaning": "경솔한",
+    "hint": "하찮은"
+  },
+  {
+    "word": "fulminate",
+    "meaning": "맹비난하다",
+    "hint": "격렬히규탄함"
+  },
+  {
+    "word": "garrulous",
+    "meaning": "수다스러운",
+    "hint": "말많은"
+  },
+  {
+    "word": "germinate",
+    "meaning": "발아하다",
+    "hint": "싹이트다"
+  },
+  {
+    "word": "glamorous",
+    "meaning": "화려한",
+    "hint": "매혹적인"
+  },
+  {
+    "word": "grandiose",
+    "meaning": "웅장한",
+    "hint": "거창한"
+  },
+  {
+    "word": "guileless",
+    "meaning": "순진한",
+    "hint": "꾸밈없음"
+  },
+  {
+    "word": "hackneyed",
+    "meaning": "진부한",
+    "hint": "상투적인"
+  },
+  {
+    "word": "haphazard",
+    "meaning": "무계획적",
+    "hint": "되는대로"
+  },
+  {
+    "word": "harbinger",
+    "meaning": "전조",
+    "hint": "선구자"
+  },
+  {
+    "word": "hazardous",
+    "meaning": "위험한",
+    "hint": "해로운"
+  },
+  {
+    "word": "hierarchy",
+    "meaning": "위계질서",
+    "hint": "계층구조"
+  },
+  {
+    "word": "hindrance",
+    "meaning": "방해",
+    "hint": "장애물"
+  },
+  {
+    "word": "hypocrisy",
+    "meaning": "위선",
+    "hint": "겉다르고"
+  },
+  {
+    "word": "imbroglio",
+    "meaning": "분규",
+    "hint": "복잡한갈등"
+  },
+  {
+    "word": "immutable",
+    "meaning": "불변의",
+    "hint": "변치않는"
+  },
+  {
+    "word": "impartial",
+    "meaning": "공정한",
+    "hint": "치우치지않음"
+  },
+  {
+    "word": "impending",
+    "meaning": "임박한",
+    "hint": "다가오는"
+  },
+  {
+    "word": "imperious",
+    "meaning": "거만한",
+    "hint": "위압적인"
+  },
+  {
+    "word": "impetuous",
+    "meaning": "충동적인",
+    "hint": "성급한"
+  },
+  {
+    "word": "implicate",
+    "meaning": "연루시키다",
+    "hint": "관련시킴"
+  },
+  {
+    "word": "importune",
+    "meaning": "조르다",
+    "hint": "끈질기게요구"
+  },
+  {
+    "word": "impromptu",
+    "meaning": "즉흥의",
+    "hint": "준비없는"
+  },
+  {
+    "word": "improvise",
+    "meaning": "즉흥하다",
+    "hint": "임시변통"
+  },
+  {
+    "word": "inanimate",
+    "meaning": "무생물의",
+    "hint": "생명없는"
+  },
+  {
+    "word": "incessant",
+    "meaning": "끊임없는",
+    "hint": "쉴새없는"
+  },
+  {
+    "word": "incipient",
+    "meaning": "초기의",
+    "hint": "시작단계"
+  },
+  {
+    "word": "inculcate",
+    "meaning": "주입하다",
+    "hint": "되풀이가르침"
+  },
+  {
+    "word": "incumbent",
+    "meaning": "현직의",
+    "hint": "의무인"
+  },
+  {
+    "word": "indelible",
+    "meaning": "지울수없는",
+    "hint": "잊지못할"
+  },
+  {
+    "word": "indolence",
+    "meaning": "나태",
+    "hint": "게으름"
+  },
+  {
+    "word": "ineffable",
+    "meaning": "말로못할",
+    "hint": "형언못할"
+  },
+  {
+    "word": "ingenious",
+    "meaning": "독창적인",
+    "hint": "기발한"
+  },
+  {
+    "word": "ingenuity",
+    "meaning": "독창성",
+    "hint": "창의력"
+  },
+  {
+    "word": "insidious",
+    "meaning": "서서히퍼지는",
+    "hint": "음흉한"
+  },
+  {
+    "word": "insinuate",
+    "meaning": "넌지시말함",
+    "hint": "암시하다"
+  },
+  {
+    "word": "insolvent",
+    "meaning": "파산한",
+    "hint": "지급불능"
+  },
+  {
+    "word": "instigate",
+    "meaning": "선동하다",
+    "hint": "부추기다"
+  },
+  {
+    "word": "insurgent",
+    "meaning": "반란의",
+    "hint": "폭동의"
+  },
+  {
+    "word": "intercede",
+    "meaning": "중재하다",
+    "hint": "탄원하다"
+  },
+  {
+    "word": "invective",
+    "meaning": "독설",
+    "hint": "심한욕설비난"
+  },
+  {
+    "word": "irascible",
+    "meaning": "화잘내는",
+    "hint": "성마른"
+  },
+  {
+    "word": "judicious",
+    "meaning": "현명한",
+    "hint": "분별있는"
+  },
+  {
+    "word": "juxtapose",
+    "meaning": "나란히놓다",
+    "hint": "병치하다"
+  },
+  {
+    "word": "lassitude",
+    "meaning": "나른함",
+    "hint": "심한피로감"
+  },
+  {
+    "word": "lethargic",
+    "meaning": "무기력한",
+    "hint": "나른한"
+  },
+  {
+    "word": "liability",
+    "meaning": "책임",
+    "hint": "부채"
+  },
+  {
+    "word": "libertine",
+    "meaning": "방탕한사람",
+    "hint": "도덕을무시함"
+  },
+  {
+    "word": "ludicrous",
+    "meaning": "터무니없는",
+    "hint": "우스꽝스런"
+  },
+  {
+    "word": "maelstrom",
+    "meaning": "대혼란",
+    "hint": "소용돌이상황"
+  },
+  {
+    "word": "maladroit",
+    "meaning": "서투른",
+    "hint": "솜씨가없음"
+  },
+  {
+    "word": "malleable",
+    "meaning": "유연한",
+    "hint": "잘구부러짐"
+  },
+  {
+    "word": "mendacity",
+    "meaning": "허위",
+    "hint": "거짓말하는버릇"
+  },
+  {
+    "word": "mercenary",
+    "meaning": "돈만아는",
+    "hint": "이익만추구함"
+  },
+  {
+    "word": "mercurial",
+    "meaning": "변덕스러운",
+    "hint": "활발한"
+  },
+  {
+    "word": "momentous",
+    "meaning": "중대한",
+    "hint": "중요한"
+  },
+  {
+    "word": "multitude",
+    "meaning": "다수",
+    "hint": "군중"
+  },
+  {
+    "word": "nefarious",
+    "meaning": "사악한",
+    "hint": "극악한"
+  },
+  {
+    "word": "negligent",
+    "meaning": "태만한",
+    "hint": "부주의한"
+  },
+  {
+    "word": "nostalgia",
+    "meaning": "향수",
+    "hint": "그리움"
+  },
+  {
+    "word": "notorious",
+    "meaning": "악명높은",
+    "hint": "나쁜소문"
+  },
+  {
+    "word": "obeisance",
+    "meaning": "경의",
+    "hint": "공손한절"
+  },
+  {
+    "word": "obfuscate",
+    "meaning": "흐리게하다",
+    "hint": "혼란시킴"
+  },
+  {
+    "word": "objective",
+    "meaning": "객관적인",
+    "hint": "목표"
+  },
+  {
+    "word": "oblivious",
+    "meaning": "의식못하는",
+    "hint": "망각한"
+  },
+  {
+    "word": "obstinacy",
+    "meaning": "완고함",
+    "hint": "고집셈"
+  },
+  {
+    "word": "obstinate",
+    "meaning": "고집센",
+    "hint": "완강한"
+  },
+  {
+    "word": "obtrusive",
+    "meaning": "주제넘은",
+    "hint": "눈에거슬림"
+  },
+  {
+    "word": "occlusion",
+    "meaning": "폐색",
+    "hint": "막혀서닫힘"
+  },
+  {
+    "word": "officious",
+    "meaning": "참견하는",
+    "hint": "쓸데없이나섬"
+  },
+  {
+    "word": "opportune",
+    "meaning": "시기적절한",
+    "hint": "알맞은"
+  },
+  {
+    "word": "ostracize",
+    "meaning": "따돌리다",
+    "hint": "배척하다"
+  },
+  {
+    "word": "palatable",
+    "meaning": "입에맞는",
+    "hint": "받아들일만"
+  },
+  {
+    "word": "paramount",
+    "meaning": "최고의",
+    "hint": "가장중요한"
+  },
+  {
+    "word": "perennial",
+    "meaning": "영속하는",
+    "hint": "끊임없는"
+  },
+  {
+    "word": "perpetual",
+    "meaning": "영원한",
+    "hint": "끊임없는"
+  },
+  {
+    "word": "persevere",
+    "meaning": "인내하다",
+    "hint": "버티다"
+  },
+  {
+    "word": "pertinent",
+    "meaning": "적절한",
+    "hint": "관련있는"
+  },
+  {
+    "word": "pervasive",
+    "meaning": "만연한",
+    "hint": "널리퍼진"
+  },
+  {
+    "word": "platitude",
+    "meaning": "상투적인말",
+    "hint": "진부한말"
+  },
+  {
+    "word": "pragmatic",
+    "meaning": "실용적인",
+    "hint": "현실적인"
+  },
+  {
+    "word": "proponent",
+    "meaning": "지지자",
+    "hint": "찬성자"
+  },
+  {
+    "word": "querulous",
+    "meaning": "불평하는",
+    "hint": "투덜대는"
+  },
+  {
+    "word": "quiescent",
+    "meaning": "정지한",
+    "hint": "활동멈춤"
+  },
+  {
+    "word": "recondite",
+    "meaning": "심오한",
+    "hint": "난해한지식"
+  },
+  {
+    "word": "redundant",
+    "meaning": "불필요한",
+    "hint": "과잉의"
+  },
+  {
+    "word": "sagacious",
+    "meaning": "현명한",
+    "hint": "슬기로운"
+  },
+  {
+    "word": "skeptical",
+    "meaning": "회의적인",
+    "hint": "의심하는"
+  },
+  {
+    "word": "soporific",
+    "meaning": "졸리게하는",
+    "hint": "최면의"
+  },
+  {
+    "word": "tentative",
+    "meaning": "잠정적인",
+    "hint": "임시의"
+  },
+  {
+    "word": "transient",
+    "meaning": "일시적인",
+    "hint": "덧없는"
+  },
+  {
+    "word": "trenchant",
+    "meaning": "신랄한",
+    "hint": "예리한말"
+  },
+  {
+    "word": "truculent",
+    "meaning": "호전적인",
+    "hint": "사나운"
+  },
+  {
+    "word": "unanimous",
+    "meaning": "만장일치의",
+    "hint": "모두찬성"
+  },
+  {
+    "word": "untenable",
+    "meaning": "옹호못할",
+    "hint": "유지불가"
+  },
+  {
+    "word": "vindicate",
+    "meaning": "정당함입증",
+    "hint": "결백증명"
+  },
+  {
+    "word": "altruistic",
+    "meaning": "이타적인",
+    "hint": "남위하는"
+  },
+  {
+    "word": "assimilate",
+    "meaning": "동화되다",
+    "hint": "흡수하다"
+  },
+  {
+    "word": "capricious",
+    "meaning": "변덕스러운",
+    "hint": "제멋대로"
+  },
+  {
+    "word": "censorious",
+    "meaning": "비판적인",
+    "hint": "흠을잘잡음"
+  },
+  {
+    "word": "circumvent",
+    "meaning": "우회하다",
+    "hint": "회피하다"
+  },
+  {
+    "word": "conciliate",
+    "meaning": "달래다",
+    "hint": "화해시킴"
+  },
+  {
+    "word": "condescend",
+    "meaning": "겸손한척",
+    "hint": "거들먹"
+  },
+  {
+    "word": "contingent",
+    "meaning": "조건부의",
+    "hint": "우발적인"
+  },
+  {
+    "word": "counteract",
+    "meaning": "대응하다",
+    "hint": "상쇄하다"
+  },
+  {
+    "word": "cumulative",
+    "meaning": "누적되는",
+    "hint": "쌓이는"
+  },
+  {
+    "word": "debilitate",
+    "meaning": "쇠약하게",
+    "hint": "약화시킴"
+  },
+  {
+    "word": "despondent",
+    "meaning": "낙담한",
+    "hint": "의기소침"
+  },
+  {
+    "word": "diaphanous",
+    "meaning": "비치는",
+    "hint": "투명한"
+  },
+  {
+    "word": "disconcert",
+    "meaning": "당황시키다",
+    "hint": "어지럽힘"
+  },
+  {
+    "word": "effrontery",
+    "meaning": "뻔뻔함",
+    "hint": "철면피"
+  },
+  {
+    "word": "empiricism",
+    "meaning": "경험주의",
+    "hint": "관찰중시사상"
+  },
+  {
+    "word": "equanimity",
+    "meaning": "평정심",
+    "hint": "침착함"
+  },
+  {
+    "word": "exhaustive",
+    "meaning": "철저한",
+    "hint": "빠짐없는"
+  },
+  {
+    "word": "exhilarate",
+    "meaning": "들뜨게하다",
+    "hint": "신나게함"
+  },
+  {
+    "word": "expendable",
+    "meaning": "소모성의",
+    "hint": "희생가능"
+  },
+  {
+    "word": "extraneous",
+    "meaning": "관련없는",
+    "hint": "불필요한"
+  },
+  {
+    "word": "fallacious",
+    "meaning": "그릇된",
+    "hint": "오류의"
+  },
+  {
+    "word": "felicitous",
+    "meaning": "적절한",
+    "hint": "매우알맞은"
+  },
+  {
+    "word": "forbearing",
+    "meaning": "참을성있는",
+    "hint": "너그러이견딤"
+  },
+  {
+    "word": "fortuitous",
+    "meaning": "우연한",
+    "hint": "뜻밖의행운"
+  },
+  {
+    "word": "gratuitous",
+    "meaning": "불필요한",
+    "hint": "이유없는"
+  },
+  {
+    "word": "hospitable",
+    "meaning": "환대하는",
+    "hint": "친절한"
+  },
+  {
+    "word": "hypothesis",
+    "meaning": "가설",
+    "hint": "추측이론"
+  },
+  {
+    "word": "iconoclast",
+    "meaning": "인습타파자",
+    "hint": "관습을깨는자"
+  },
+  {
+    "word": "illuminate",
+    "meaning": "밝히다",
+    "hint": "비추다"
+  },
+  {
+    "word": "immaculate",
+    "meaning": "흠없는",
+    "hint": "완벽한"
+  },
+  {
+    "word": "impeccable",
+    "meaning": "나무랄데없는",
+    "hint": "완벽한"
+  },
+  {
+    "word": "imperative",
+    "meaning": "필수적인",
+    "hint": "반드시할"
+  },
+  {
+    "word": "impervious",
+    "meaning": "영향안받는",
+    "hint": "불침투의"
+  },
+  {
+    "word": "incipience",
+    "meaning": "발단",
+    "hint": "시초"
+  },
+  {
+    "word": "incoherent",
+    "meaning": "앞뒤안맞는",
+    "hint": "두서없는"
+  },
+  {
+    "word": "indictment",
+    "meaning": "기소",
+    "hint": "고발"
+  },
+  {
+    "word": "indigenous",
+    "meaning": "토착의",
+    "hint": "원주민의"
+  },
+  {
+    "word": "ineptitude",
+    "meaning": "서투름",
+    "hint": "무능함"
+  },
+  {
+    "word": "inexorable",
+    "meaning": "멈출수없는",
+    "hint": "가차없는"
+  },
+  {
+    "word": "infallible",
+    "meaning": "틀림없는",
+    "hint": "오류없는"
+  },
+  {
+    "word": "infiltrate",
+    "meaning": "잠입하다",
+    "hint": "침투하다"
+  },
+  {
+    "word": "ingratiate",
+    "meaning": "환심사다",
+    "hint": "비위를맞춤"
+  },
+  {
+    "word": "innovative",
+    "meaning": "혁신적인",
+    "hint": "새로운"
+  },
+  {
+    "word": "insatiable",
+    "meaning": "만족모르는",
+    "hint": "끝없는"
+  },
+  {
+    "word": "insightful",
+    "meaning": "통찰력있는",
+    "hint": "꿰뚫는"
+  },
+  {
+    "word": "insouciant",
+    "meaning": "무관심한",
+    "hint": "태평한"
+  },
+  {
+    "word": "intangible",
+    "meaning": "무형의",
+    "hint": "손에안잡혀"
+  },
+  {
+    "word": "intimidate",
+    "meaning": "위협하다",
+    "hint": "겁주다"
+  },
+  {
+    "word": "invariable",
+    "meaning": "불변의",
+    "hint": "변함없는"
+  },
+  {
+    "word": "inveterate",
+    "meaning": "뿌리깊은",
+    "hint": "습관이굳어진"
+  },
+  {
+    "word": "invigorate",
+    "meaning": "활기를주다",
+    "hint": "기운나게"
+  },
+  {
+    "word": "invincible",
+    "meaning": "무적의",
+    "hint": "천하무적"
+  },
+  {
+    "word": "irrational",
+    "meaning": "비이성적인",
+    "hint": "불합리한"
+  },
+  {
+    "word": "irrelevant",
+    "meaning": "무관한",
+    "hint": "상관없는"
+  },
+  {
+    "word": "irreverent",
+    "meaning": "불경한",
+    "hint": "무례한"
+  },
+  {
+    "word": "jeopardize",
+    "meaning": "위태롭게",
+    "hint": "위험에빠뜨림"
+  },
+  {
+    "word": "lachrymose",
+    "meaning": "눈물잘흘리는",
+    "hint": "슬픈"
+  },
+  {
+    "word": "legitimate",
+    "meaning": "정당한",
+    "hint": "합법적인"
+  },
+  {
+    "word": "loquacious",
+    "meaning": "말많은",
+    "hint": "수다스러운"
+  },
+  {
+    "word": "malevolent",
+    "meaning": "악의적인",
+    "hint": "해치려는"
+  },
+  {
+    "word": "melancholy",
+    "meaning": "우울",
+    "hint": "서글픔"
+  },
+  {
+    "word": "mendacious",
+    "meaning": "거짓의",
+    "hint": "허위의"
+  },
+  {
+    "word": "mitigation",
+    "meaning": "완화",
+    "hint": "경감"
+  },
+  {
+    "word": "monotonous",
+    "meaning": "단조로운",
+    "hint": "지루한"
+  },
+  {
+    "word": "munificent",
+    "meaning": "후한",
+    "hint": "아낌없는"
+  },
+  {
+    "word": "negligible",
+    "meaning": "무시할만한",
+    "hint": "사소한"
+  },
+  {
+    "word": "nettlesome",
+    "meaning": "성가신",
+    "hint": "애를먹이는"
+  },
+  {
+    "word": "nonchalant",
+    "meaning": "무심한",
+    "hint": "태연한"
+  },
+  {
+    "word": "obliterate",
+    "meaning": "말살하다",
+    "hint": "지우다"
+  },
+  {
+    "word": "obsequious",
+    "meaning": "아첨하는",
+    "hint": "굽실대는"
+  },
+  {
+    "word": "opprobrium",
+    "meaning": "치욕",
+    "hint": "공개적비난"
+  },
+  {
+    "word": "ostensible",
+    "meaning": "표면상의",
+    "hint": "겉으로보이는"
+  },
+  {
+    "word": "pejorative",
+    "meaning": "경멸적인",
+    "hint": "깎아내리는"
+  },
+  {
+    "word": "perceptive",
+    "meaning": "통찰력있는",
+    "hint": "예리한"
+  },
+  {
+    "word": "perfidious",
+    "meaning": "배신하는",
+    "hint": "불충한"
+  },
+  {
+    "word": "peripheral",
+    "meaning": "주변의",
+    "hint": "부차적인"
+  },
+  {
+    "word": "pernicious",
+    "meaning": "해로운",
+    "hint": "유해한"
+  },
+  {
+    "word": "perpetuate",
+    "meaning": "영속시키다",
+    "hint": "지속하다"
+  },
+  {
+    "word": "phlegmatic",
+    "meaning": "침착한",
+    "hint": "무덤덤한"
+  },
+  {
+    "word": "plagiarize",
+    "meaning": "표절하다",
+    "hint": "베끼다"
+  },
+  {
+    "word": "precarious",
+    "meaning": "불안정한",
+    "hint": "위태로운"
+  },
+  {
+    "word": "precocious",
+    "meaning": "조숙한",
+    "hint": "발육빠른"
+  },
+  {
+    "word": "predispose",
+    "meaning": "경향지우다",
+    "hint": "미리기울임"
+  },
+  {
+    "word": "proficient",
+    "meaning": "능숙한",
+    "hint": "숙달된"
+  },
+  {
+    "word": "reciprocal",
+    "meaning": "상호간의",
+    "hint": "서로주고받는"
+  },
+  {
+    "word": "relentless",
+    "meaning": "가차없는",
+    "hint": "끈질긴"
+  },
+  {
+    "word": "scrupulous",
+    "meaning": "양심적인",
+    "hint": "꼼꼼한"
+  },
+  {
+    "word": "subsequent",
+    "meaning": "그다음의",
+    "hint": "뒤이은"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning": "어디에나있는",
+    "hint": "널린"
+  },
+  {
+    "word": "vituperate",
+    "meaning": "욕하다",
+    "hint": "매도하다"
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "취약한",
+    "hint": "상처입기쉬운"
+  },
+  {
+    "word": "connoisseur",
+    "meaning": "감정가",
+    "hint": "안목있는전문가"
+  },
+  {
+    "word": "connotation",
+    "meaning": "함축의미",
+    "hint": "속뜻"
+  },
+  {
+    "word": "copiousness",
+    "meaning": "풍부함",
+    "hint": "넘치는양"
+  },
+  {
+    "word": "corroborate",
+    "meaning": "입증하다",
+    "hint": "뒷받침"
+  },
+  {
+    "word": "deteriorate",
+    "meaning": "악화되다",
+    "hint": "나빠지다"
+  },
+  {
+    "word": "discrepancy",
+    "meaning": "불일치",
+    "hint": "차이"
+  },
+  {
+    "word": "disseminate",
+    "meaning": "퍼뜨리다",
+    "hint": "유포하다"
+  },
+  {
+    "word": "dissolution",
+    "meaning": "해체",
+    "hint": "무너져없어짐"
+  },
+  {
+    "word": "forbearance",
+    "meaning": "인내",
+    "hint": "관용"
+  },
+  {
+    "word": "fragmentary",
+    "meaning": "단편적인",
+    "hint": "조각난"
+  },
+  {
+    "word": "homogeneous",
+    "meaning": "동질적인",
+    "hint": "균일한"
+  },
+  {
+    "word": "ignominious",
+    "meaning": "수치스러운",
+    "hint": "불명예의"
+  },
+  {
+    "word": "impecunious",
+    "meaning": "가난한",
+    "hint": "돈이없는"
+  },
+  {
+    "word": "implausible",
+    "meaning": "믿기힘든",
+    "hint": "그럴듯치않음"
+  },
+  {
+    "word": "incarcerate",
+    "meaning": "투옥하다",
+    "hint": "가두다"
+  },
+  {
+    "word": "incessantly",
+    "meaning": "끊임없이",
+    "hint": "쉴새없이"
+  },
+  {
+    "word": "incongruous",
+    "meaning": "어울리지않는",
+    "hint": "부조화의"
+  },
+  {
+    "word": "incremental",
+    "meaning": "점진적인",
+    "hint": "증가하는"
+  },
+  {
+    "word": "incriminate",
+    "meaning": "죄를씌우다",
+    "hint": "고발하다"
+  },
+  {
+    "word": "indifferent",
+    "meaning": "무관심한",
+    "hint": "냉담한"
+  },
+  {
+    "word": "ineffectual",
+    "meaning": "효과없는",
+    "hint": "소용없는"
+  },
+  {
+    "word": "ineluctable",
+    "meaning": "불가피한",
+    "hint": "피할수없는"
+  },
+  {
+    "word": "innumerable",
+    "meaning": "무수한",
+    "hint": "셀수없는"
+  },
+  {
+    "word": "inquisitive",
+    "meaning": "호기심많은",
+    "hint": "캐묻는"
+  },
+  {
+    "word": "inscrutable",
+    "meaning": "헤아릴수없는",
+    "hint": "속을알수없음"
+  },
+  {
+    "word": "interrogate",
+    "meaning": "심문하다",
+    "hint": "캐묻다"
+  },
+  {
+    "word": "intractable",
+    "meaning": "다루기힘든",
+    "hint": "고집센"
+  },
+  {
+    "word": "irrefutable",
+    "meaning": "반박불가",
+    "hint": "확실한"
+  },
+  {
+    "word": "irreparable",
+    "meaning": "돌이킬수없는",
+    "hint": "회복불능"
+  },
+  {
+    "word": "machination",
+    "meaning": "음모",
+    "hint": "교활한책략"
+  },
+  {
+    "word": "magnanimous",
+    "meaning": "관대한",
+    "hint": "도량넓은"
+  },
+  {
+    "word": "mellifluous",
+    "meaning": "감미로운",
+    "hint": "듣기에달콤함"
+  },
+  {
+    "word": "meritorious",
+    "meaning": "공로있는",
+    "hint": "칭찬받을"
+  },
+  {
+    "word": "misconstrue",
+    "meaning": "오해하다",
+    "hint": "잘못해석"
+  },
+  {
+    "word": "nondescript",
+    "meaning": "특징없는",
+    "hint": "평범해눈에안띔"
+  },
+  {
+    "word": "obfuscation",
+    "meaning": "혼란시킴",
+    "hint": "일부러모호하게함"
+  },
+  {
+    "word": "perfunctory",
+    "meaning": "형식적인",
+    "hint": "건성의"
+  },
+  {
+    "word": "pessimistic",
+    "meaning": "비관적인",
+    "hint": "부정적인"
+  },
+  {
+    "word": "predicament",
+    "meaning": "곤경",
+    "hint": "궁지"
+  },
+  {
+    "word": "predominant",
+    "meaning": "우세한",
+    "hint": "주된"
+  },
+  {
+    "word": "preliminary",
+    "meaning": "예비의",
+    "hint": "사전의"
+  },
+  {
+    "word": "prevaricate",
+    "meaning": "얼버무리다",
+    "hint": "둘러대다"
+  },
+  {
+    "word": "proliferate",
+    "meaning": "급증하다",
+    "hint": "확산되다"
+  },
+  {
+    "word": "propinquity",
+    "meaning": "근접",
+    "hint": "가까움"
+  },
+  {
+    "word": "reminiscent",
+    "meaning": "연상시키는",
+    "hint": "떠올리는"
+  },
+  {
+    "word": "spontaneous",
+    "meaning": "자발적인",
+    "hint": "즉흥적인"
+  },
+  {
+    "word": "substantial",
+    "meaning": "상당한",
+    "hint": "실질적인"
+  },
+  {
+    "word": "superficial",
+    "meaning": "피상적인",
+    "hint": "겉만의"
+  },
+  {
+    "word": "susceptible",
+    "meaning": "영향받기쉬운",
+    "hint": "민감한"
+  },
+  {
+    "word": "vicissitude",
+    "meaning": "변천",
+    "hint": "흥망성쇠"
+  },
+  {
+    "word": "abstruseness",
+    "meaning": "난해함",
+    "hint": "이해하기어려움"
+  },
+  {
+    "word": "ephemerality",
+    "meaning": "덧없음",
+    "hint": "순간적속성"
+  },
+  {
+    "word": "idiosyncrasy",
+    "meaning": "특이성",
+    "hint": "별난버릇"
+  },
+  {
+    "word": "inadvertence",
+    "meaning": "부주의",
+    "hint": "무심코한실수"
+  },
+  {
+    "word": "incompatible",
+    "meaning": "양립불가",
+    "hint": "안맞는"
+  },
+  {
+    "word": "insurrection",
+    "meaning": "반란",
+    "hint": "폭력적봉기"
+  },
+  {
+    "word": "intelligible",
+    "meaning": "이해가능한",
+    "hint": "알아들을"
+  },
+  {
+    "word": "interlocutor",
+    "meaning": "대화상대",
+    "hint": "대담자"
+  },
+  {
+    "word": "intermittent",
+    "meaning": "간헐적인",
+    "hint": "띄엄띄엄"
+  },
+  {
+    "word": "intransigent",
+    "meaning": "비타협적인",
+    "hint": "고집을꺾지않음"
+  },
+  {
+    "word": "obstreperous",
+    "meaning": "시끄러운",
+    "hint": "통제가안됨"
+  },
+  {
+    "word": "ostentatious",
+    "meaning": "과시하는",
+    "hint": "허세부리는"
+  },
+  {
+    "word": "parsimonious",
+    "meaning": "인색한",
+    "hint": "쩨쩨한"
+  },
+  {
+    "word": "pertinacious",
+    "meaning": "집요한",
+    "hint": "끈질긴"
+  },
+  {
+    "word": "philanthropy",
+    "meaning": "자선",
+    "hint": "박애"
+  },
+  {
+    "word": "prerequisite",
+    "meaning": "전제조건",
+    "hint": "필수요건"
+  },
+  {
+    "word": "recalcitrant",
+    "meaning": "반항하는",
+    "hint": "고집센"
+  },
+  {
+    "word": "comprehensive",
+    "meaning": "포괄적인",
+    "hint": "종합적인"
+  },
+  {
+    "word": "controversial",
+    "meaning": "논쟁적인",
+    "hint": "말많은"
+  },
+  {
+    "word": "grandiloquent",
+    "meaning": "호언장담의",
+    "hint": "과장된말투"
+  },
+  {
+    "word": "heterogeneous",
+    "meaning": "이질적인",
+    "hint": "잡다한"
+  },
+  {
+    "word": "imperceptible",
+    "meaning": "감지못할",
+    "hint": "미세한"
+  },
+  {
+    "word": "imperturbable",
+    "meaning": "침착한",
+    "hint": "동요없는"
+  },
+  {
+    "word": "inconceivable",
+    "meaning": "상상도못할",
+    "hint": "믿기어려운"
+  },
+  {
+    "word": "indefatigable",
+    "meaning": "지칠줄모르는",
+    "hint": "끈기있는"
+  },
+  {
+    "word": "indefatigably",
+    "meaning": "지칠줄모르게",
+    "hint": "꾸준히끈기있게"
+  },
+  {
+    "word": "indispensable",
+    "meaning": "필수불가결",
+    "hint": "없어선안돼"
+  },
+  {
+    "word": "mollification",
+    "meaning": "진정",
+    "hint": "화를누그러뜨림"
+  },
+  {
+    "word": "perspicacious",
+    "meaning": "통찰력있는",
+    "hint": "꿰뚫어봄"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": "정교한",
+    "hint": "세련된"
+  },
+  {
+    "word": "unprecedented",
+    "meaning": "전례없는",
+    "hint": "처음있는"
+  },
+  {
+    "word": "extemporaneous",
+    "meaning": "즉흥적인",
+    "hint": "준비없이함"
+  },
+  {
+    "word": "gregariousness",
+    "meaning": "사교성",
+    "hint": "무리짓기"
+  },
+  {
+    "word": "irreconcilable",
+    "meaning": "화해불가",
+    "hint": "양립못할"
+  },
+  {
+    "word": "incontrovertible",
+    "meaning": "논쟁의여지없는",
+    "hint": "명백히확실함"
+  }
+]

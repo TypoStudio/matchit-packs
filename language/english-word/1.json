@@ -1,0 +1,2752 @@
+[
+  {
+    "word": "go",
+    "meaning": "가다",
+    "hint": "동작"
+  },
+  {
+    "word": "ant",
+    "meaning": "개미",
+    "hint": "곤충"
+  },
+  {
+    "word": "arm",
+    "meaning": "팔",
+    "hint": "신체"
+  },
+  {
+    "word": "art",
+    "meaning": "미술",
+    "hint": "과목"
+  },
+  {
+    "word": "ask",
+    "meaning": "묻다",
+    "hint": "동작"
+  },
+  {
+    "word": "bad",
+    "meaning": "나쁜",
+    "hint": "형용사"
+  },
+  {
+    "word": "bag",
+    "meaning": "가방",
+    "hint": "학교"
+  },
+  {
+    "word": "bed",
+    "meaning": "침대",
+    "hint": "집"
+  },
+  {
+    "word": "bee",
+    "meaning": "벌",
+    "hint": "곤충"
+  },
+  {
+    "word": "big",
+    "meaning": "큰",
+    "hint": "형용사"
+  },
+  {
+    "word": "box",
+    "meaning": "상자",
+    "hint": "집"
+  },
+  {
+    "word": "boy",
+    "meaning": "소년",
+    "hint": "사람"
+  },
+  {
+    "word": "bug",
+    "meaning": "벌레",
+    "hint": "곤충"
+  },
+  {
+    "word": "buy",
+    "meaning": "사다",
+    "hint": "동작"
+  },
+  {
+    "word": "cap",
+    "meaning": "모자",
+    "hint": "옷"
+  },
+  {
+    "word": "cat",
+    "meaning": "고양이",
+    "hint": "동물"
+  },
+  {
+    "word": "cow",
+    "meaning": "소",
+    "hint": "동물"
+  },
+  {
+    "word": "cry",
+    "meaning": "울다",
+    "hint": "동작"
+  },
+  {
+    "word": "cup",
+    "meaning": "컵",
+    "hint": "집"
+  },
+  {
+    "word": "cut",
+    "meaning": "자르다",
+    "hint": "동작"
+  },
+  {
+    "word": "day",
+    "meaning": "날",
+    "hint": "시간"
+  },
+  {
+    "word": "die",
+    "meaning": "죽다",
+    "hint": "동작"
+  },
+  {
+    "word": "dog",
+    "meaning": "개",
+    "hint": "동물"
+  },
+  {
+    "word": "ear",
+    "meaning": "귀",
+    "hint": "신체"
+  },
+  {
+    "word": "eat",
+    "meaning": "먹다",
+    "hint": "동작"
+  },
+  {
+    "word": "egg",
+    "meaning": "계란",
+    "hint": "음식"
+  },
+  {
+    "word": "eye",
+    "meaning": "눈",
+    "hint": "신체"
+  },
+  {
+    "word": "fan",
+    "meaning": "선풍기",
+    "hint": "집"
+  },
+  {
+    "word": "fix",
+    "meaning": "고치다",
+    "hint": "동작"
+  },
+  {
+    "word": "fly",
+    "meaning": "파리",
+    "hint": "곤충"
+  },
+  {
+    "word": "fog",
+    "meaning": "안개",
+    "hint": "날씨"
+  },
+  {
+    "word": "fox",
+    "meaning": "여우",
+    "hint": "동물"
+  },
+  {
+    "word": "hat",
+    "meaning": "모자",
+    "hint": "옷"
+  },
+  {
+    "word": "hen",
+    "meaning": "암탉",
+    "hint": "동물"
+  },
+  {
+    "word": "hit",
+    "meaning": "치다",
+    "hint": "동작"
+  },
+  {
+    "word": "hot",
+    "meaning": "뜨거운",
+    "hint": "형용사"
+  },
+  {
+    "word": "ice",
+    "meaning": "얼음",
+    "hint": "자연"
+  },
+  {
+    "word": "jam",
+    "meaning": "잼",
+    "hint": "음식"
+  },
+  {
+    "word": "key",
+    "meaning": "열쇠",
+    "hint": "집"
+  },
+  {
+    "word": "leg",
+    "meaning": "다리",
+    "hint": "신체"
+  },
+  {
+    "word": "lip",
+    "meaning": "입술",
+    "hint": "신체"
+  },
+  {
+    "word": "low",
+    "meaning": "낮은",
+    "hint": "형용사"
+  },
+  {
+    "word": "man",
+    "meaning": "남자",
+    "hint": "사람"
+  },
+  {
+    "word": "new",
+    "meaning": "새로운",
+    "hint": "형용사"
+  },
+  {
+    "word": "nut",
+    "meaning": "견과",
+    "hint": "음식"
+  },
+  {
+    "word": "oil",
+    "meaning": "기름",
+    "hint": "음식"
+  },
+  {
+    "word": "old",
+    "meaning": "낡은",
+    "hint": "형용사"
+  },
+  {
+    "word": "one",
+    "meaning": "하나",
+    "hint": "숫자"
+  },
+  {
+    "word": "pay",
+    "meaning": "지불하다",
+    "hint": "동작"
+  },
+  {
+    "word": "pea",
+    "meaning": "완두",
+    "hint": "채소"
+  },
+  {
+    "word": "pen",
+    "meaning": "펜",
+    "hint": "학교"
+  },
+  {
+    "word": "pig",
+    "meaning": "돼지",
+    "hint": "동물"
+  },
+  {
+    "word": "red",
+    "meaning": "빨강",
+    "hint": "색깔"
+  },
+  {
+    "word": "run",
+    "meaning": "달리다",
+    "hint": "동작"
+  },
+  {
+    "word": "sad",
+    "meaning": "슬픈",
+    "hint": "감정"
+  },
+  {
+    "word": "say",
+    "meaning": "말하다",
+    "hint": "동작"
+  },
+  {
+    "word": "sea",
+    "meaning": "바다",
+    "hint": "자연"
+  },
+  {
+    "word": "see",
+    "meaning": "보다",
+    "hint": "동작"
+  },
+  {
+    "word": "sit",
+    "meaning": "앉다",
+    "hint": "동작"
+  },
+  {
+    "word": "six",
+    "meaning": "여섯",
+    "hint": "숫자"
+  },
+  {
+    "word": "sky",
+    "meaning": "하늘",
+    "hint": "자연"
+  },
+  {
+    "word": "sun",
+    "meaning": "해",
+    "hint": "자연"
+  },
+  {
+    "word": "tea",
+    "meaning": "차",
+    "hint": "음료"
+  },
+  {
+    "word": "ten",
+    "meaning": "열",
+    "hint": "숫자"
+  },
+  {
+    "word": "toe",
+    "meaning": "발가락",
+    "hint": "신체"
+  },
+  {
+    "word": "two",
+    "meaning": "둘",
+    "hint": "숫자"
+  },
+  {
+    "word": "use",
+    "meaning": "사용하다",
+    "hint": "동작"
+  },
+  {
+    "word": "aunt",
+    "meaning": "이모",
+    "hint": "가족"
+  },
+  {
+    "word": "baby",
+    "meaning": "아기",
+    "hint": "가족"
+  },
+  {
+    "word": "back",
+    "meaning": "등",
+    "hint": "신체"
+  },
+  {
+    "word": "bake",
+    "meaning": "굽다",
+    "hint": "동작"
+  },
+  {
+    "word": "bean",
+    "meaning": "콩",
+    "hint": "채소"
+  },
+  {
+    "word": "bear",
+    "meaning": "곰",
+    "hint": "동물"
+  },
+  {
+    "word": "beef",
+    "meaning": "쇠고기",
+    "hint": "음식"
+  },
+  {
+    "word": "belt",
+    "meaning": "벨트",
+    "hint": "옷"
+  },
+  {
+    "word": "bird",
+    "meaning": "새",
+    "hint": "동물"
+  },
+  {
+    "word": "blue",
+    "meaning": "파랑",
+    "hint": "색깔"
+  },
+  {
+    "word": "body",
+    "meaning": "몸",
+    "hint": "신체"
+  },
+  {
+    "word": "bone",
+    "meaning": "뼈",
+    "hint": "신체"
+  },
+  {
+    "word": "book",
+    "meaning": "책",
+    "hint": "학교"
+  },
+  {
+    "word": "boot",
+    "meaning": "장화",
+    "hint": "옷"
+  },
+  {
+    "word": "bowl",
+    "meaning": "그릇",
+    "hint": "집"
+  },
+  {
+    "word": "cake",
+    "meaning": "케이크",
+    "hint": "음식"
+  },
+  {
+    "word": "call",
+    "meaning": "부르다",
+    "hint": "동작"
+  },
+  {
+    "word": "coat",
+    "meaning": "외투",
+    "hint": "옷"
+  },
+  {
+    "word": "cold",
+    "meaning": "차가운",
+    "hint": "형용사"
+  },
+  {
+    "word": "come",
+    "meaning": "오다",
+    "hint": "동작"
+  },
+  {
+    "word": "cook",
+    "meaning": "요리사",
+    "hint": "직업"
+  },
+  {
+    "word": "cool",
+    "meaning": "시원한",
+    "hint": "형용사"
+  },
+  {
+    "word": "corn",
+    "meaning": "옥수수",
+    "hint": "채소"
+  },
+  {
+    "word": "crab",
+    "meaning": "게",
+    "hint": "동물"
+  },
+  {
+    "word": "deer",
+    "meaning": "사슴",
+    "hint": "동물"
+  },
+  {
+    "word": "desk",
+    "meaning": "책상",
+    "hint": "학교"
+  },
+  {
+    "word": "dish",
+    "meaning": "접시",
+    "hint": "집"
+  },
+  {
+    "word": "door",
+    "meaning": "문",
+    "hint": "집"
+  },
+  {
+    "word": "draw",
+    "meaning": "그리다",
+    "hint": "학교"
+  },
+  {
+    "word": "duck",
+    "meaning": "오리",
+    "hint": "동물"
+  },
+  {
+    "word": "easy",
+    "meaning": "쉬운",
+    "hint": "형용사"
+  },
+  {
+    "word": "face",
+    "meaning": "얼굴",
+    "hint": "신체"
+  },
+  {
+    "word": "fall",
+    "meaning": "떨어지다",
+    "hint": "동작"
+  },
+  {
+    "word": "fast",
+    "meaning": "빠른",
+    "hint": "형용사"
+  },
+  {
+    "word": "feel",
+    "meaning": "느끼다",
+    "hint": "동작"
+  },
+  {
+    "word": "find",
+    "meaning": "찾다",
+    "hint": "동작"
+  },
+  {
+    "word": "fire",
+    "meaning": "불",
+    "hint": "자연"
+  },
+  {
+    "word": "fish",
+    "meaning": "물고기",
+    "hint": "동물"
+  },
+  {
+    "word": "five",
+    "meaning": "다섯",
+    "hint": "숫자"
+  },
+  {
+    "word": "foot",
+    "meaning": "발",
+    "hint": "신체"
+  },
+  {
+    "word": "fork",
+    "meaning": "포크",
+    "hint": "집"
+  },
+  {
+    "word": "four",
+    "meaning": "넷",
+    "hint": "숫자"
+  },
+  {
+    "word": "frog",
+    "meaning": "개구리",
+    "hint": "동물"
+  },
+  {
+    "word": "gate",
+    "meaning": "대문",
+    "hint": "집"
+  },
+  {
+    "word": "girl",
+    "meaning": "소녀",
+    "hint": "사람"
+  },
+  {
+    "word": "give",
+    "meaning": "주다",
+    "hint": "동작"
+  },
+  {
+    "word": "glad",
+    "meaning": "기쁜",
+    "hint": "감정"
+  },
+  {
+    "word": "goat",
+    "meaning": "염소",
+    "hint": "동물"
+  },
+  {
+    "word": "gold",
+    "meaning": "금색",
+    "hint": "색깔"
+  },
+  {
+    "word": "good",
+    "meaning": "좋은",
+    "hint": "형용사"
+  },
+  {
+    "word": "gray",
+    "meaning": "회색",
+    "hint": "색깔"
+  },
+  {
+    "word": "grow",
+    "meaning": "자라다",
+    "hint": "동작"
+  },
+  {
+    "word": "hair",
+    "meaning": "머리카락",
+    "hint": "신체"
+  },
+  {
+    "word": "half",
+    "meaning": "절반",
+    "hint": "숫자"
+  },
+  {
+    "word": "hand",
+    "meaning": "손",
+    "hint": "신체"
+  },
+  {
+    "word": "hard",
+    "meaning": "어려운",
+    "hint": "형용사"
+  },
+  {
+    "word": "hate",
+    "meaning": "미워하다",
+    "hint": "감정"
+  },
+  {
+    "word": "head",
+    "meaning": "머리",
+    "hint": "신체"
+  },
+  {
+    "word": "hear",
+    "meaning": "듣다",
+    "hint": "동작"
+  },
+  {
+    "word": "help",
+    "meaning": "돕다",
+    "hint": "동작"
+  },
+  {
+    "word": "hero",
+    "meaning": "영웅",
+    "hint": "사람"
+  },
+  {
+    "word": "high",
+    "meaning": "높은",
+    "hint": "형용사"
+  },
+  {
+    "word": "hill",
+    "meaning": "언덕",
+    "hint": "자연"
+  },
+  {
+    "word": "hold",
+    "meaning": "잡다",
+    "hint": "동작"
+  },
+  {
+    "word": "home",
+    "meaning": "집",
+    "hint": "집"
+  },
+  {
+    "word": "hope",
+    "meaning": "바라다",
+    "hint": "동작"
+  },
+  {
+    "word": "hour",
+    "meaning": "시간",
+    "hint": "시간"
+  },
+  {
+    "word": "join",
+    "meaning": "합치다",
+    "hint": "동작"
+  },
+  {
+    "word": "jump",
+    "meaning": "뛰다",
+    "hint": "동작"
+  },
+  {
+    "word": "keep",
+    "meaning": "지키다",
+    "hint": "동작"
+  },
+  {
+    "word": "kick",
+    "meaning": "차다",
+    "hint": "동작"
+  },
+  {
+    "word": "kind",
+    "meaning": "친절한",
+    "hint": "형용사"
+  },
+  {
+    "word": "king",
+    "meaning": "왕",
+    "hint": "사람"
+  },
+  {
+    "word": "knee",
+    "meaning": "무릎",
+    "hint": "신체"
+  },
+  {
+    "word": "know",
+    "meaning": "알다",
+    "hint": "동작"
+  },
+  {
+    "word": "lake",
+    "meaning": "호수",
+    "hint": "자연"
+  },
+  {
+    "word": "lamp",
+    "meaning": "등",
+    "hint": "집"
+  },
+  {
+    "word": "last",
+    "meaning": "마지막",
+    "hint": "순서"
+  },
+  {
+    "word": "lead",
+    "meaning": "이끌다",
+    "hint": "동작"
+  },
+  {
+    "word": "leaf",
+    "meaning": "잎",
+    "hint": "자연"
+  },
+  {
+    "word": "like",
+    "meaning": "좋아하다",
+    "hint": "감정"
+  },
+  {
+    "word": "lion",
+    "meaning": "사자",
+    "hint": "동물"
+  },
+  {
+    "word": "live",
+    "meaning": "살다",
+    "hint": "동작"
+  },
+  {
+    "word": "long",
+    "meaning": "긴",
+    "hint": "형용사"
+  },
+  {
+    "word": "look",
+    "meaning": "보다",
+    "hint": "동작"
+  },
+  {
+    "word": "lose",
+    "meaning": "잃다",
+    "hint": "동작"
+  },
+  {
+    "word": "love",
+    "meaning": "사랑하다",
+    "hint": "감정"
+  },
+  {
+    "word": "make",
+    "meaning": "만들다",
+    "hint": "동작"
+  },
+  {
+    "word": "math",
+    "meaning": "수학",
+    "hint": "과목"
+  },
+  {
+    "word": "meal",
+    "meaning": "식사",
+    "hint": "음식"
+  },
+  {
+    "word": "meat",
+    "meaning": "고기",
+    "hint": "음식"
+  },
+  {
+    "word": "meet",
+    "meaning": "만나다",
+    "hint": "동작"
+  },
+  {
+    "word": "milk",
+    "meaning": "우유",
+    "hint": "음료"
+  },
+  {
+    "word": "mole",
+    "meaning": "두더지",
+    "hint": "동물"
+  },
+  {
+    "word": "moon",
+    "meaning": "달",
+    "hint": "자연"
+  },
+  {
+    "word": "move",
+    "meaning": "움직이다",
+    "hint": "동작"
+  },
+  {
+    "word": "neck",
+    "meaning": "목",
+    "hint": "신체"
+  },
+  {
+    "word": "need",
+    "meaning": "필요하다",
+    "hint": "동작"
+  },
+  {
+    "word": "nice",
+    "meaning": "멋진",
+    "hint": "형용사"
+  },
+  {
+    "word": "nine",
+    "meaning": "아홉",
+    "hint": "숫자"
+  },
+  {
+    "word": "noon",
+    "meaning": "정오",
+    "hint": "시간"
+  },
+  {
+    "word": "nose",
+    "meaning": "코",
+    "hint": "신체"
+  },
+  {
+    "word": "note",
+    "meaning": "공책",
+    "hint": "학교"
+  },
+  {
+    "word": "open",
+    "meaning": "열다",
+    "hint": "동작"
+  },
+  {
+    "word": "page",
+    "meaning": "쪽",
+    "hint": "학교"
+  },
+  {
+    "word": "pear",
+    "meaning": "배",
+    "hint": "과일"
+  },
+  {
+    "word": "pink",
+    "meaning": "분홍",
+    "hint": "색깔"
+  },
+  {
+    "word": "play",
+    "meaning": "놀다",
+    "hint": "동작"
+  },
+  {
+    "word": "plum",
+    "meaning": "자두",
+    "hint": "과일"
+  },
+  {
+    "word": "pond",
+    "meaning": "연못",
+    "hint": "자연"
+  },
+  {
+    "word": "pork",
+    "meaning": "돼지고기",
+    "hint": "음식"
+  },
+  {
+    "word": "pull",
+    "meaning": "당기다",
+    "hint": "동작"
+  },
+  {
+    "word": "push",
+    "meaning": "밀다",
+    "hint": "동작"
+  },
+  {
+    "word": "rain",
+    "meaning": "비",
+    "hint": "날씨"
+  },
+  {
+    "word": "read",
+    "meaning": "읽다",
+    "hint": "학교"
+  },
+  {
+    "word": "rice",
+    "meaning": "쌀",
+    "hint": "음식"
+  },
+  {
+    "word": "ride",
+    "meaning": "타다",
+    "hint": "동작"
+  },
+  {
+    "word": "ring",
+    "meaning": "반지",
+    "hint": "옷"
+  },
+  {
+    "word": "rock",
+    "meaning": "바위",
+    "hint": "자연"
+  },
+  {
+    "word": "roof",
+    "meaning": "지붕",
+    "hint": "집"
+  },
+  {
+    "word": "room",
+    "meaning": "방",
+    "hint": "집"
+  },
+  {
+    "word": "root",
+    "meaning": "뿌리",
+    "hint": "자연"
+  },
+  {
+    "word": "salt",
+    "meaning": "소금",
+    "hint": "음식"
+  },
+  {
+    "word": "sand",
+    "meaning": "모래",
+    "hint": "자연"
+  },
+  {
+    "word": "save",
+    "meaning": "저장하다",
+    "hint": "동작"
+  },
+  {
+    "word": "seed",
+    "meaning": "씨앗",
+    "hint": "자연"
+  },
+  {
+    "word": "sell",
+    "meaning": "팔다",
+    "hint": "동작"
+  },
+  {
+    "word": "shoe",
+    "meaning": "신발",
+    "hint": "옷"
+  },
+  {
+    "word": "show",
+    "meaning": "보여주다",
+    "hint": "동작"
+  },
+  {
+    "word": "sing",
+    "meaning": "노래하다",
+    "hint": "동작"
+  },
+  {
+    "word": "skin",
+    "meaning": "피부",
+    "hint": "신체"
+  },
+  {
+    "word": "slow",
+    "meaning": "느린",
+    "hint": "형용사"
+  },
+  {
+    "word": "snow",
+    "meaning": "눈",
+    "hint": "날씨"
+  },
+  {
+    "word": "soap",
+    "meaning": "비누",
+    "hint": "집"
+  },
+  {
+    "word": "sock",
+    "meaning": "양말",
+    "hint": "옷"
+  },
+  {
+    "word": "sofa",
+    "meaning": "소파",
+    "hint": "집"
+  },
+  {
+    "word": "soft",
+    "meaning": "부드러운",
+    "hint": "형용사"
+  },
+  {
+    "word": "soup",
+    "meaning": "수프",
+    "hint": "음식"
+  },
+  {
+    "word": "star",
+    "meaning": "별",
+    "hint": "자연"
+  },
+  {
+    "word": "stop",
+    "meaning": "멈추다",
+    "hint": "동작"
+  },
+  {
+    "word": "swim",
+    "meaning": "수영하다",
+    "hint": "동작"
+  },
+  {
+    "word": "take",
+    "meaning": "가지다",
+    "hint": "동작"
+  },
+  {
+    "word": "talk",
+    "meaning": "말하다",
+    "hint": "동작"
+  },
+  {
+    "word": "tall",
+    "meaning": "키큰",
+    "hint": "형용사"
+  },
+  {
+    "word": "tell",
+    "meaning": "말하다",
+    "hint": "동작"
+  },
+  {
+    "word": "test",
+    "meaning": "시험",
+    "hint": "학교"
+  },
+  {
+    "word": "time",
+    "meaning": "시간",
+    "hint": "시간"
+  },
+  {
+    "word": "tree",
+    "meaning": "나무",
+    "hint": "자연"
+  },
+  {
+    "word": "turn",
+    "meaning": "돌다",
+    "hint": "동작"
+  },
+  {
+    "word": "ugly",
+    "meaning": "못생긴",
+    "hint": "형용사"
+  },
+  {
+    "word": "wait",
+    "meaning": "기다리다",
+    "hint": "동작"
+  },
+  {
+    "word": "walk",
+    "meaning": "걷다",
+    "hint": "동작"
+  },
+  {
+    "word": "wall",
+    "meaning": "벽",
+    "hint": "집"
+  },
+  {
+    "word": "want",
+    "meaning": "원하다",
+    "hint": "동작"
+  },
+  {
+    "word": "warm",
+    "meaning": "따뜻한",
+    "hint": "형용사"
+  },
+  {
+    "word": "wash",
+    "meaning": "씻다",
+    "hint": "동작"
+  },
+  {
+    "word": "weak",
+    "meaning": "약한",
+    "hint": "형용사"
+  },
+  {
+    "word": "wear",
+    "meaning": "입다",
+    "hint": "동작"
+  },
+  {
+    "word": "week",
+    "meaning": "주",
+    "hint": "시간"
+  },
+  {
+    "word": "wind",
+    "meaning": "바람",
+    "hint": "날씨"
+  },
+  {
+    "word": "wish",
+    "meaning": "바라다",
+    "hint": "동작"
+  },
+  {
+    "word": "wolf",
+    "meaning": "늑대",
+    "hint": "동물"
+  },
+  {
+    "word": "wood",
+    "meaning": "나무",
+    "hint": "자연"
+  },
+  {
+    "word": "word",
+    "meaning": "단어",
+    "hint": "학교"
+  },
+  {
+    "word": "work",
+    "meaning": "일하다",
+    "hint": "동작"
+  },
+  {
+    "word": "worm",
+    "meaning": "벌레",
+    "hint": "동물"
+  },
+  {
+    "word": "year",
+    "meaning": "년",
+    "hint": "시간"
+  },
+  {
+    "word": "zero",
+    "meaning": "영",
+    "hint": "숫자"
+  },
+  {
+    "word": "actor",
+    "meaning": "배우",
+    "hint": "직업"
+  },
+  {
+    "word": "angry",
+    "meaning": "화난",
+    "hint": "감정"
+  },
+  {
+    "word": "apple",
+    "meaning": "사과",
+    "hint": "과일"
+  },
+  {
+    "word": "baker",
+    "meaning": "제빵사",
+    "hint": "직업"
+  },
+  {
+    "word": "beach",
+    "meaning": "해변",
+    "hint": "자연"
+  },
+  {
+    "word": "begin",
+    "meaning": "시작하다",
+    "hint": "동작"
+  },
+  {
+    "word": "belly",
+    "meaning": "배",
+    "hint": "신체"
+  },
+  {
+    "word": "black",
+    "meaning": "검정",
+    "hint": "색깔"
+  },
+  {
+    "word": "blood",
+    "meaning": "피",
+    "hint": "신체"
+  },
+  {
+    "word": "board",
+    "meaning": "칠판",
+    "hint": "학교"
+  },
+  {
+    "word": "brain",
+    "meaning": "뇌",
+    "hint": "신체"
+  },
+  {
+    "word": "bread",
+    "meaning": "빵",
+    "hint": "음식"
+  },
+  {
+    "word": "break",
+    "meaning": "깨다",
+    "hint": "동작"
+  },
+  {
+    "word": "bring",
+    "meaning": "가져오다",
+    "hint": "동작"
+  },
+  {
+    "word": "brown",
+    "meaning": "갈색",
+    "hint": "색깔"
+  },
+  {
+    "word": "brush",
+    "meaning": "빗",
+    "hint": "집"
+  },
+  {
+    "word": "build",
+    "meaning": "짓다",
+    "hint": "동작"
+  },
+  {
+    "word": "camel",
+    "meaning": "낙타",
+    "hint": "동물"
+  },
+  {
+    "word": "candy",
+    "meaning": "사탕",
+    "hint": "음식"
+  },
+  {
+    "word": "carry",
+    "meaning": "나르다",
+    "hint": "동작"
+  },
+  {
+    "word": "catch",
+    "meaning": "잡다",
+    "hint": "동작"
+  },
+  {
+    "word": "chair",
+    "meaning": "의자",
+    "hint": "학교"
+  },
+  {
+    "word": "cheek",
+    "meaning": "뺨",
+    "hint": "신체"
+  },
+  {
+    "word": "chest",
+    "meaning": "가슴",
+    "hint": "신체"
+  },
+  {
+    "word": "child",
+    "meaning": "아이",
+    "hint": "사람"
+  },
+  {
+    "word": "class",
+    "meaning": "수업",
+    "hint": "학교"
+  },
+  {
+    "word": "clean",
+    "meaning": "청소하다",
+    "hint": "동작"
+  },
+  {
+    "word": "climb",
+    "meaning": "오르다",
+    "hint": "동작"
+  },
+  {
+    "word": "clock",
+    "meaning": "시계",
+    "hint": "집"
+  },
+  {
+    "word": "close",
+    "meaning": "닫다",
+    "hint": "동작"
+  },
+  {
+    "word": "cloud",
+    "meaning": "구름",
+    "hint": "자연"
+  },
+  {
+    "word": "color",
+    "meaning": "색",
+    "hint": "색깔"
+  },
+  {
+    "word": "count",
+    "meaning": "세다",
+    "hint": "학교"
+  },
+  {
+    "word": "dance",
+    "meaning": "춤추다",
+    "hint": "동작"
+  },
+  {
+    "word": "dirty",
+    "meaning": "더러운",
+    "hint": "형용사"
+  },
+  {
+    "word": "dress",
+    "meaning": "드레스",
+    "hint": "옷"
+  },
+  {
+    "word": "drink",
+    "meaning": "마시다",
+    "hint": "동작"
+  },
+  {
+    "word": "drive",
+    "meaning": "운전하다",
+    "hint": "동작"
+  },
+  {
+    "word": "earth",
+    "meaning": "지구",
+    "hint": "자연"
+  },
+  {
+    "word": "eight",
+    "meaning": "여덟",
+    "hint": "숫자"
+  },
+  {
+    "word": "enter",
+    "meaning": "들어가다",
+    "hint": "동작"
+  },
+  {
+    "word": "fence",
+    "meaning": "울타리",
+    "hint": "집"
+  },
+  {
+    "word": "field",
+    "meaning": "들판",
+    "hint": "자연"
+  },
+  {
+    "word": "fifty",
+    "meaning": "쉰",
+    "hint": "숫자"
+  },
+  {
+    "word": "first",
+    "meaning": "첫째",
+    "hint": "순서"
+  },
+  {
+    "word": "floor",
+    "meaning": "바닥",
+    "hint": "집"
+  },
+  {
+    "word": "flour",
+    "meaning": "밀가루",
+    "hint": "음식"
+  },
+  {
+    "word": "forty",
+    "meaning": "마흔",
+    "hint": "숫자"
+  },
+  {
+    "word": "fruit",
+    "meaning": "과일",
+    "hint": "음식"
+  },
+  {
+    "word": "glove",
+    "meaning": "장갑",
+    "hint": "옷"
+  },
+  {
+    "word": "grade",
+    "meaning": "학년",
+    "hint": "학교"
+  },
+  {
+    "word": "grape",
+    "meaning": "포도",
+    "hint": "과일"
+  },
+  {
+    "word": "grass",
+    "meaning": "풀",
+    "hint": "자연"
+  },
+  {
+    "word": "green",
+    "meaning": "초록",
+    "hint": "색깔"
+  },
+  {
+    "word": "guest",
+    "meaning": "손님",
+    "hint": "사람"
+  },
+  {
+    "word": "happy",
+    "meaning": "행복한",
+    "hint": "감정"
+  },
+  {
+    "word": "heart",
+    "meaning": "심장",
+    "hint": "신체"
+  },
+  {
+    "word": "heavy",
+    "meaning": "무거운",
+    "hint": "형용사"
+  },
+  {
+    "word": "honey",
+    "meaning": "꿀",
+    "hint": "음식"
+  },
+  {
+    "word": "horse",
+    "meaning": "말",
+    "hint": "동물"
+  },
+  {
+    "word": "house",
+    "meaning": "집",
+    "hint": "집"
+  },
+  {
+    "word": "juice",
+    "meaning": "주스",
+    "hint": "음료"
+  },
+  {
+    "word": "knife",
+    "meaning": "칼",
+    "hint": "집"
+  },
+  {
+    "word": "laugh",
+    "meaning": "웃다",
+    "hint": "동작"
+  },
+  {
+    "word": "learn",
+    "meaning": "배우다",
+    "hint": "학교"
+  },
+  {
+    "word": "leave",
+    "meaning": "떠나다",
+    "hint": "동작"
+  },
+  {
+    "word": "lemon",
+    "meaning": "레몬",
+    "hint": "과일"
+  },
+  {
+    "word": "light",
+    "meaning": "가벼운",
+    "hint": "형용사"
+  },
+  {
+    "word": "lunch",
+    "meaning": "점심",
+    "hint": "음식"
+  },
+  {
+    "word": "mango",
+    "meaning": "망고",
+    "hint": "과일"
+  },
+  {
+    "word": "melon",
+    "meaning": "멜론",
+    "hint": "과일"
+  },
+  {
+    "word": "month",
+    "meaning": "달",
+    "hint": "시간"
+  },
+  {
+    "word": "mouse",
+    "meaning": "쥐",
+    "hint": "동물"
+  },
+  {
+    "word": "mouth",
+    "meaning": "입",
+    "hint": "신체"
+  },
+  {
+    "word": "music",
+    "meaning": "음악",
+    "hint": "과목"
+  },
+  {
+    "word": "night",
+    "meaning": "밤",
+    "hint": "시간"
+  },
+  {
+    "word": "nurse",
+    "meaning": "간호사",
+    "hint": "직업"
+  },
+  {
+    "word": "ocean",
+    "meaning": "대양",
+    "hint": "자연"
+  },
+  {
+    "word": "onion",
+    "meaning": "양파",
+    "hint": "채소"
+  },
+  {
+    "word": "paint",
+    "meaning": "칠하다",
+    "hint": "동작"
+  },
+  {
+    "word": "panda",
+    "meaning": "판다",
+    "hint": "동물"
+  },
+  {
+    "word": "pants",
+    "meaning": "바지",
+    "hint": "옷"
+  },
+  {
+    "word": "paper",
+    "meaning": "종이",
+    "hint": "학교"
+  },
+  {
+    "word": "peach",
+    "meaning": "복숭아",
+    "hint": "과일"
+  },
+  {
+    "word": "pilot",
+    "meaning": "조종사",
+    "hint": "직업"
+  },
+  {
+    "word": "pizza",
+    "meaning": "피자",
+    "hint": "음식"
+  },
+  {
+    "word": "plant",
+    "meaning": "심다",
+    "hint": "동작"
+  },
+  {
+    "word": "plate",
+    "meaning": "접시",
+    "hint": "집"
+  },
+  {
+    "word": "puppy",
+    "meaning": "강아지",
+    "hint": "동물"
+  },
+  {
+    "word": "queen",
+    "meaning": "여왕",
+    "hint": "사람"
+  },
+  {
+    "word": "river",
+    "meaning": "강",
+    "hint": "자연"
+  },
+  {
+    "word": "ruler",
+    "meaning": "자",
+    "hint": "학교"
+  },
+  {
+    "word": "salad",
+    "meaning": "샐러드",
+    "hint": "음식"
+  },
+  {
+    "word": "scarf",
+    "meaning": "목도리",
+    "hint": "옷"
+  },
+  {
+    "word": "seven",
+    "meaning": "일곱",
+    "hint": "숫자"
+  },
+  {
+    "word": "share",
+    "meaning": "나누다",
+    "hint": "동작"
+  },
+  {
+    "word": "shark",
+    "meaning": "상어",
+    "hint": "동물"
+  },
+  {
+    "word": "sheep",
+    "meaning": "양",
+    "hint": "동물"
+  },
+  {
+    "word": "shelf",
+    "meaning": "선반",
+    "hint": "집"
+  },
+  {
+    "word": "shirt",
+    "meaning": "셔츠",
+    "hint": "옷"
+  },
+  {
+    "word": "short",
+    "meaning": "짧은",
+    "hint": "형용사"
+  },
+  {
+    "word": "skirt",
+    "meaning": "치마",
+    "hint": "옷"
+  },
+  {
+    "word": "sleep",
+    "meaning": "자다",
+    "hint": "동작"
+  },
+  {
+    "word": "small",
+    "meaning": "작은",
+    "hint": "형용사"
+  },
+  {
+    "word": "smile",
+    "meaning": "미소짓다",
+    "hint": "동작"
+  },
+  {
+    "word": "snack",
+    "meaning": "간식",
+    "hint": "음식"
+  },
+  {
+    "word": "snail",
+    "meaning": "달팽이",
+    "hint": "동물"
+  },
+  {
+    "word": "snake",
+    "meaning": "뱀",
+    "hint": "동물"
+  },
+  {
+    "word": "speak",
+    "meaning": "말하다",
+    "hint": "동작"
+  },
+  {
+    "word": "spell",
+    "meaning": "철자하다",
+    "hint": "학교"
+  },
+  {
+    "word": "spend",
+    "meaning": "쓰다",
+    "hint": "동작"
+  },
+  {
+    "word": "spoon",
+    "meaning": "숟가락",
+    "hint": "집"
+  },
+  {
+    "word": "stand",
+    "meaning": "서다",
+    "hint": "동작"
+  },
+  {
+    "word": "start",
+    "meaning": "시작하다",
+    "hint": "동작"
+  },
+  {
+    "word": "stone",
+    "meaning": "돌",
+    "hint": "자연"
+  },
+  {
+    "word": "storm",
+    "meaning": "폭풍",
+    "hint": "날씨"
+  },
+  {
+    "word": "story",
+    "meaning": "이야기",
+    "hint": "학교"
+  },
+  {
+    "word": "study",
+    "meaning": "공부하다",
+    "hint": "학교"
+  },
+  {
+    "word": "sugar",
+    "meaning": "설탕",
+    "hint": "음식"
+  },
+  {
+    "word": "table",
+    "meaning": "탁자",
+    "hint": "집"
+  },
+  {
+    "word": "teach",
+    "meaning": "가르치다",
+    "hint": "학교"
+  },
+  {
+    "word": "think",
+    "meaning": "생각하다",
+    "hint": "동작"
+  },
+  {
+    "word": "third",
+    "meaning": "셋째",
+    "hint": "순서"
+  },
+  {
+    "word": "three",
+    "meaning": "셋",
+    "hint": "숫자"
+  },
+  {
+    "word": "throw",
+    "meaning": "던지다",
+    "hint": "동작"
+  },
+  {
+    "word": "thumb",
+    "meaning": "엄지",
+    "hint": "신체"
+  },
+  {
+    "word": "tiger",
+    "meaning": "호랑이",
+    "hint": "동물"
+  },
+  {
+    "word": "today",
+    "meaning": "오늘",
+    "hint": "시간"
+  },
+  {
+    "word": "tooth",
+    "meaning": "이",
+    "hint": "신체"
+  },
+  {
+    "word": "touch",
+    "meaning": "만지다",
+    "hint": "동작"
+  },
+  {
+    "word": "towel",
+    "meaning": "수건",
+    "hint": "집"
+  },
+  {
+    "word": "uncle",
+    "meaning": "삼촌",
+    "hint": "가족"
+  },
+  {
+    "word": "visit",
+    "meaning": "방문하다",
+    "hint": "동작"
+  },
+  {
+    "word": "watch",
+    "meaning": "손목시계",
+    "hint": "옷"
+  },
+  {
+    "word": "water",
+    "meaning": "물",
+    "hint": "음료"
+  },
+  {
+    "word": "whale",
+    "meaning": "고래",
+    "hint": "동물"
+  },
+  {
+    "word": "white",
+    "meaning": "하양",
+    "hint": "색깔"
+  },
+  {
+    "word": "woman",
+    "meaning": "여자",
+    "hint": "사람"
+  },
+  {
+    "word": "world",
+    "meaning": "세계",
+    "hint": "자연"
+  },
+  {
+    "word": "write",
+    "meaning": "쓰다",
+    "hint": "학교"
+  },
+  {
+    "word": "young",
+    "meaning": "젊은",
+    "hint": "형용사"
+  },
+  {
+    "word": "zebra",
+    "meaning": "얼룩말",
+    "hint": "동물"
+  },
+  {
+    "word": "afraid",
+    "meaning": "두려운",
+    "hint": "감정"
+  },
+  {
+    "word": "answer",
+    "meaning": "대답",
+    "hint": "학교"
+  },
+  {
+    "word": "appear",
+    "meaning": "나타나다",
+    "hint": "동작"
+  },
+  {
+    "word": "arrive",
+    "meaning": "도착하다",
+    "hint": "동작"
+  },
+  {
+    "word": "artist",
+    "meaning": "예술가",
+    "hint": "직업"
+  },
+  {
+    "word": "autumn",
+    "meaning": "가을",
+    "hint": "계절"
+  },
+  {
+    "word": "banana",
+    "meaning": "바나나",
+    "hint": "과일"
+  },
+  {
+    "word": "basket",
+    "meaning": "바구니",
+    "hint": "집"
+  },
+  {
+    "word": "borrow",
+    "meaning": "빌리다",
+    "hint": "동작"
+  },
+  {
+    "word": "bottle",
+    "meaning": "병",
+    "hint": "집"
+  },
+  {
+    "word": "bridge",
+    "meaning": "다리",
+    "hint": "건축물"
+  },
+  {
+    "word": "bright",
+    "meaning": "밝은",
+    "hint": "형용사"
+  },
+  {
+    "word": "butter",
+    "meaning": "버터",
+    "hint": "음식"
+  },
+  {
+    "word": "button",
+    "meaning": "단추",
+    "hint": "옷"
+  },
+  {
+    "word": "candle",
+    "meaning": "양초",
+    "hint": "집"
+  },
+  {
+    "word": "carrot",
+    "meaning": "당근",
+    "hint": "채소"
+  },
+  {
+    "word": "change",
+    "meaning": "바꾸다",
+    "hint": "동작"
+  },
+  {
+    "word": "cheese",
+    "meaning": "치즈",
+    "hint": "음식"
+  },
+  {
+    "word": "cherry",
+    "meaning": "체리",
+    "hint": "과일"
+  },
+  {
+    "word": "choose",
+    "meaning": "고르다",
+    "hint": "동작"
+  },
+  {
+    "word": "coffee",
+    "meaning": "커피",
+    "hint": "음료"
+  },
+  {
+    "word": "corner",
+    "meaning": "모퉁이",
+    "hint": "장소"
+  },
+  {
+    "word": "cousin",
+    "meaning": "사촌",
+    "hint": "가족"
+  },
+  {
+    "word": "dancer",
+    "meaning": "무용수",
+    "hint": "직업"
+  },
+  {
+    "word": "decide",
+    "meaning": "결정하다",
+    "hint": "동작"
+  },
+  {
+    "word": "dinner",
+    "meaning": "저녁식사",
+    "hint": "음식"
+  },
+  {
+    "word": "doctor",
+    "meaning": "의사",
+    "hint": "직업"
+  },
+  {
+    "word": "drawer",
+    "meaning": "서랍",
+    "hint": "집"
+  },
+  {
+    "word": "driver",
+    "meaning": "운전사",
+    "hint": "직업"
+  },
+  {
+    "word": "eleven",
+    "meaning": "열하나",
+    "hint": "숫자"
+  },
+  {
+    "word": "eraser",
+    "meaning": "지우개",
+    "hint": "학교"
+  },
+  {
+    "word": "expect",
+    "meaning": "기대하다",
+    "hint": "동작"
+  },
+  {
+    "word": "family",
+    "meaning": "가족",
+    "hint": "사람"
+  },
+  {
+    "word": "famous",
+    "meaning": "유명한",
+    "hint": "형용사"
+  },
+  {
+    "word": "farmer",
+    "meaning": "농부",
+    "hint": "직업"
+  },
+  {
+    "word": "father",
+    "meaning": "아버지",
+    "hint": "가족"
+  },
+  {
+    "word": "finger",
+    "meaning": "손가락",
+    "hint": "신체"
+  },
+  {
+    "word": "finish",
+    "meaning": "끝내다",
+    "hint": "동작"
+  },
+  {
+    "word": "flower",
+    "meaning": "꽃",
+    "hint": "자연"
+  },
+  {
+    "word": "follow",
+    "meaning": "따르다",
+    "hint": "동작"
+  },
+  {
+    "word": "forest",
+    "meaning": "숲",
+    "hint": "자연"
+  },
+  {
+    "word": "forget",
+    "meaning": "잊다",
+    "hint": "동작"
+  },
+  {
+    "word": "friend",
+    "meaning": "친구",
+    "hint": "사람"
+  },
+  {
+    "word": "future",
+    "meaning": "미래",
+    "hint": "시간"
+  },
+  {
+    "word": "garden",
+    "meaning": "정원",
+    "hint": "집"
+  },
+  {
+    "word": "happen",
+    "meaning": "일어나다",
+    "hint": "동작"
+  },
+  {
+    "word": "insect",
+    "meaning": "곤충",
+    "hint": "동물"
+  },
+  {
+    "word": "invite",
+    "meaning": "초대하다",
+    "hint": "동작"
+  },
+  {
+    "word": "island",
+    "meaning": "섬",
+    "hint": "자연"
+  },
+  {
+    "word": "jacket",
+    "meaning": "재킷",
+    "hint": "옷"
+  },
+  {
+    "word": "kitten",
+    "meaning": "새끼고양이",
+    "hint": "동물"
+  },
+  {
+    "word": "lesson",
+    "meaning": "수업",
+    "hint": "학교"
+  },
+  {
+    "word": "letter",
+    "meaning": "글자",
+    "hint": "학교"
+  },
+  {
+    "word": "listen",
+    "meaning": "듣다",
+    "hint": "동작"
+  },
+  {
+    "word": "market",
+    "meaning": "시장",
+    "hint": "장소"
+  },
+  {
+    "word": "minute",
+    "meaning": "분",
+    "hint": "시간"
+  },
+  {
+    "word": "mirror",
+    "meaning": "거울",
+    "hint": "집"
+  },
+  {
+    "word": "moment",
+    "meaning": "순간",
+    "hint": "시간"
+  },
+  {
+    "word": "monday",
+    "meaning": "월요일",
+    "hint": "요일"
+  },
+  {
+    "word": "monkey",
+    "meaning": "원숭이",
+    "hint": "동물"
+  },
+  {
+    "word": "mother",
+    "meaning": "어머니",
+    "hint": "가족"
+  },
+  {
+    "word": "narrow",
+    "meaning": "좁은",
+    "hint": "형용사"
+  },
+  {
+    "word": "nature",
+    "meaning": "자연",
+    "hint": "자연"
+  },
+  {
+    "word": "noodle",
+    "meaning": "국수",
+    "hint": "음식"
+  },
+  {
+    "word": "number",
+    "meaning": "숫자",
+    "hint": "숫자"
+  },
+  {
+    "word": "office",
+    "meaning": "사무실",
+    "hint": "장소"
+  },
+  {
+    "word": "orange",
+    "meaning": "주황",
+    "hint": "색깔"
+  },
+  {
+    "word": "parent",
+    "meaning": "부모",
+    "hint": "가족"
+  },
+  {
+    "word": "pencil",
+    "meaning": "연필",
+    "hint": "학교"
+  },
+  {
+    "word": "people",
+    "meaning": "사람들",
+    "hint": "사람"
+  },
+  {
+    "word": "pepper",
+    "meaning": "후추",
+    "hint": "음식"
+  },
+  {
+    "word": "person",
+    "meaning": "사람",
+    "hint": "사람"
+  },
+  {
+    "word": "pillow",
+    "meaning": "베개",
+    "hint": "집"
+  },
+  {
+    "word": "pocket",
+    "meaning": "주머니",
+    "hint": "옷"
+  },
+  {
+    "word": "police",
+    "meaning": "경찰",
+    "hint": "직업"
+  },
+  {
+    "word": "potato",
+    "meaning": "감자",
+    "hint": "채소"
+  },
+  {
+    "word": "pretty",
+    "meaning": "예쁜",
+    "hint": "형용사"
+  },
+  {
+    "word": "purple",
+    "meaning": "보라",
+    "hint": "색깔"
+  },
+  {
+    "word": "rabbit",
+    "meaning": "토끼",
+    "hint": "동물"
+  },
+  {
+    "word": "repeat",
+    "meaning": "반복하다",
+    "hint": "동작"
+  },
+  {
+    "word": "return",
+    "meaning": "돌아오다",
+    "hint": "동작"
+  },
+  {
+    "word": "school",
+    "meaning": "학교",
+    "hint": "학교"
+  },
+  {
+    "word": "season",
+    "meaning": "계절",
+    "hint": "시간"
+  },
+  {
+    "word": "second",
+    "meaning": "둘째",
+    "hint": "순서"
+  },
+  {
+    "word": "silver",
+    "meaning": "은색",
+    "hint": "색깔"
+  },
+  {
+    "word": "simple",
+    "meaning": "간단한",
+    "hint": "형용사"
+  },
+  {
+    "word": "singer",
+    "meaning": "가수",
+    "hint": "직업"
+  },
+  {
+    "word": "sister",
+    "meaning": "누나",
+    "hint": "가족"
+  },
+  {
+    "word": "spider",
+    "meaning": "거미",
+    "hint": "곤충"
+  },
+  {
+    "word": "spring",
+    "meaning": "봄",
+    "hint": "계절"
+  },
+  {
+    "word": "stairs",
+    "meaning": "계단",
+    "hint": "집"
+  },
+  {
+    "word": "street",
+    "meaning": "거리",
+    "hint": "장소"
+  },
+  {
+    "word": "strong",
+    "meaning": "강한",
+    "hint": "형용사"
+  },
+  {
+    "word": "summer",
+    "meaning": "여름",
+    "hint": "계절"
+  },
+  {
+    "word": "sunday",
+    "meaning": "일요일",
+    "hint": "요일"
+  },
+  {
+    "word": "thirty",
+    "meaning": "서른",
+    "hint": "숫자"
+  },
+  {
+    "word": "tomato",
+    "meaning": "토마토",
+    "hint": "채소"
+  },
+  {
+    "word": "tongue",
+    "meaning": "혀",
+    "hint": "신체"
+  },
+  {
+    "word": "travel",
+    "meaning": "여행하다",
+    "hint": "동작"
+  },
+  {
+    "word": "turtle",
+    "meaning": "거북이",
+    "hint": "동물"
+  },
+  {
+    "word": "twelve",
+    "meaning": "열둘",
+    "hint": "숫자"
+  },
+  {
+    "word": "twenty",
+    "meaning": "스물",
+    "hint": "숫자"
+  },
+  {
+    "word": "useful",
+    "meaning": "유용한",
+    "hint": "형용사"
+  },
+  {
+    "word": "valley",
+    "meaning": "계곡",
+    "hint": "자연"
+  },
+  {
+    "word": "window",
+    "meaning": "창문",
+    "hint": "집"
+  },
+  {
+    "word": "winter",
+    "meaning": "겨울",
+    "hint": "계절"
+  },
+  {
+    "word": "writer",
+    "meaning": "작가",
+    "hint": "직업"
+  },
+  {
+    "word": "yellow",
+    "meaning": "노랑",
+    "hint": "색깔"
+  },
+  {
+    "word": "airport",
+    "meaning": "공항",
+    "hint": "장소"
+  },
+  {
+    "word": "believe",
+    "meaning": "믿다",
+    "hint": "동작"
+  },
+  {
+    "word": "blanket",
+    "meaning": "담요",
+    "hint": "집"
+  },
+  {
+    "word": "brother",
+    "meaning": "형",
+    "hint": "가족"
+  },
+  {
+    "word": "careful",
+    "meaning": "조심하는",
+    "hint": "형용사"
+  },
+  {
+    "word": "chicken",
+    "meaning": "닭",
+    "hint": "동물"
+  },
+  {
+    "word": "clothes",
+    "meaning": "옷",
+    "hint": "옷"
+  },
+  {
+    "word": "collect",
+    "meaning": "모으다",
+    "hint": "동작"
+  },
+  {
+    "word": "college",
+    "meaning": "대학",
+    "hint": "학교"
+  },
+  {
+    "word": "curtain",
+    "meaning": "커튼",
+    "hint": "집"
+  },
+  {
+    "word": "dolphin",
+    "meaning": "돌고래",
+    "hint": "동물"
+  },
+  {
+    "word": "english",
+    "meaning": "영어",
+    "hint": "과목"
+  },
+  {
+    "word": "evening",
+    "meaning": "저녁",
+    "hint": "시간"
+  },
+  {
+    "word": "explain",
+    "meaning": "설명하다",
+    "hint": "동작"
+  },
+  {
+    "word": "history",
+    "meaning": "역사",
+    "hint": "과목"
+  },
+  {
+    "word": "holiday",
+    "meaning": "휴일",
+    "hint": "시간"
+  },
+  {
+    "word": "hundred",
+    "meaning": "백",
+    "hint": "숫자"
+  },
+  {
+    "word": "kitchen",
+    "meaning": "부엌",
+    "hint": "집"
+  },
+  {
+    "word": "library",
+    "meaning": "도서관",
+    "hint": "학교"
+  },
+  {
+    "word": "machine",
+    "meaning": "기계",
+    "hint": "사물"
+  },
+  {
+    "word": "morning",
+    "meaning": "아침",
+    "hint": "시간"
+  },
+  {
+    "word": "painter",
+    "meaning": "화가",
+    "hint": "직업"
+  },
+  {
+    "word": "penguin",
+    "meaning": "펭귄",
+    "hint": "동물"
+  },
+  {
+    "word": "prepare",
+    "meaning": "준비하다",
+    "hint": "동작"
+  },
+  {
+    "word": "present",
+    "meaning": "선물",
+    "hint": "사물"
+  },
+  {
+    "word": "problem",
+    "meaning": "문제",
+    "hint": "학교"
+  },
+  {
+    "word": "promise",
+    "meaning": "약속하다",
+    "hint": "동작"
+  },
+  {
+    "word": "protect",
+    "meaning": "보호하다",
+    "hint": "동작"
+  },
+  {
+    "word": "rainbow",
+    "meaning": "무지개",
+    "hint": "날씨"
+  },
+  {
+    "word": "receive",
+    "meaning": "받다",
+    "hint": "동작"
+  },
+  {
+    "word": "science",
+    "meaning": "과학",
+    "hint": "과목"
+  },
+  {
+    "word": "soldier",
+    "meaning": "군인",
+    "hint": "직업"
+  },
+  {
+    "word": "special",
+    "meaning": "특별한",
+    "hint": "형용사"
+  },
+  {
+    "word": "station",
+    "meaning": "역",
+    "hint": "장소"
+  },
+  {
+    "word": "student",
+    "meaning": "학생",
+    "hint": "사람"
+  },
+  {
+    "word": "sweater",
+    "meaning": "스웨터",
+    "hint": "옷"
+  },
+  {
+    "word": "teacher",
+    "meaning": "선생님",
+    "hint": "직업"
+  },
+  {
+    "word": "thunder",
+    "meaning": "천둥",
+    "hint": "날씨"
+  },
+  {
+    "word": "tuesday",
+    "meaning": "화요일",
+    "hint": "요일"
+  },
+  {
+    "word": "village",
+    "meaning": "마을",
+    "hint": "장소"
+  },
+  {
+    "word": "weather",
+    "meaning": "날씨",
+    "hint": "날씨"
+  },
+  {
+    "word": "weekend",
+    "meaning": "주말",
+    "hint": "시간"
+  },
+  {
+    "word": "birthday",
+    "meaning": "생일",
+    "hint": "시간"
+  },
+  {
+    "word": "elephant",
+    "meaning": "코끼리",
+    "hint": "동물"
+  },
+  {
+    "word": "engineer",
+    "meaning": "기술자",
+    "hint": "직업"
+  },
+  {
+    "word": "homework",
+    "meaning": "숙제",
+    "hint": "학교"
+  },
+  {
+    "word": "hospital",
+    "meaning": "병원",
+    "hint": "장소"
+  },
+  {
+    "word": "mountain",
+    "meaning": "산",
+    "hint": "자연"
+  },
+  {
+    "word": "neighbor",
+    "meaning": "이웃",
+    "hint": "사람"
+  },
+  {
+    "word": "question",
+    "meaning": "질문",
+    "hint": "학교"
+  },
+  {
+    "word": "remember",
+    "meaning": "기억하다",
+    "hint": "동작"
+  },
+  {
+    "word": "reporter",
+    "meaning": "기자",
+    "hint": "직업"
+  },
+  {
+    "word": "shoulder",
+    "meaning": "어깨",
+    "hint": "신체"
+  },
+  {
+    "word": "thousand",
+    "meaning": "천",
+    "hint": "숫자"
+  },
+  {
+    "word": "tomorrow",
+    "meaning": "내일",
+    "hint": "시간"
+  },
+  {
+    "word": "beautiful",
+    "meaning": "아름다운",
+    "hint": "형용사"
+  },
+  {
+    "word": "breakfast",
+    "meaning": "아침식사",
+    "hint": "음식"
+  },
+  {
+    "word": "butterfly",
+    "meaning": "나비",
+    "hint": "곤충"
+  },
+  {
+    "word": "clockwise",
+    "meaning": "시계방향",
+    "hint": "시간"
+  },
+  {
+    "word": "dangerous",
+    "meaning": "위험한",
+    "hint": "형용사"
+  },
+  {
+    "word": "delicious",
+    "meaning": "맛있는",
+    "hint": "형용사"
+  },
+  {
+    "word": "vegetable",
+    "meaning": "채소",
+    "hint": "음식"
+  },
+  {
+    "word": "yesterday",
+    "meaning": "어제",
+    "hint": "시간"
+  },
+  {
+    "word": "dictionary",
+    "meaning": "사전",
+    "hint": "학교"
+  },
+  {
+    "word": "comfortable",
+    "meaning": "편안한",
+    "hint": "형용사"
+  }
+]

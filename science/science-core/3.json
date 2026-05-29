@@ -1,0 +1,302 @@
+[
+  {
+    "id": "lithium-hydride",
+    "label": "LiH",
+    "prompt": "수소화리튬 만들기",
+    "tokens": [
+      "Li",
+      "H"
+    ],
+    "hint": "LiH — 리튬 1개, 수소 1개"
+  },
+  {
+    "id": "boron-nitride",
+    "label": "BN",
+    "prompt": "질화붕소 만들기",
+    "tokens": [
+      "B",
+      "N"
+    ],
+    "hint": "BN — 붕소 1개, 질소 1개"
+  },
+  {
+    "id": "silicon-carbide",
+    "label": "SiC",
+    "prompt": "탄화규소 만들기",
+    "tokens": [
+      "Si",
+      "C"
+    ],
+    "hint": "SiC — 규소 1개, 탄소 1개"
+  },
+  {
+    "id": "calcium-sulfide",
+    "label": "CaS",
+    "prompt": "황화칼슘 만들기",
+    "tokens": [
+      "Ca",
+      "S"
+    ],
+    "hint": "CaS — 칼슘 1개, 황 1개"
+  },
+  {
+    "id": "barium-oxide",
+    "label": "BaO",
+    "prompt": "산화바륨 만들기",
+    "tokens": [
+      "Ba",
+      "O"
+    ],
+    "hint": "BaO — 바륨 1개, 산소 1개"
+  },
+  {
+    "id": "nickel-oxide",
+    "label": "NiO",
+    "prompt": "산화니켈 만들기",
+    "tokens": [
+      "Ni",
+      "O"
+    ],
+    "hint": "NiO — 니켈 1개, 산소 1개"
+  },
+  {
+    "id": "manganese-oxide",
+    "label": "MnO",
+    "prompt": "산화망가니즈 만들기",
+    "tokens": [
+      "Mn",
+      "O"
+    ],
+    "hint": "MnO — 망가니즈 1개, 산소 1개"
+  },
+  {
+    "id": "hydrogen-astatide",
+    "label": "HAt",
+    "prompt": "아스타틴화수소 만들기",
+    "tokens": [
+      "H",
+      "At"
+    ],
+    "hint": "HAt — 수소 1개, 아스타틴 1개"
+  },
+  {
+    "id": "cesium-chloride",
+    "label": "CsCl",
+    "prompt": "염화세슘 만들기",
+    "tokens": [
+      "Cs",
+      "Cl"
+    ],
+    "hint": "CsCl — 세슘 1개, 염소 1개"
+  },
+  {
+    "id": "rubidium-chloride",
+    "label": "RbCl",
+    "prompt": "염화루비듐 만들기",
+    "tokens": [
+      "Rb",
+      "Cl"
+    ],
+    "hint": "RbCl — 루비듐 1개, 염소 1개"
+  },
+  {
+    "id": "cesium-fluoride",
+    "label": "CsF",
+    "prompt": "플루오린화세슘 만들기",
+    "tokens": [
+      "Cs",
+      "F"
+    ],
+    "hint": "CsF — 세슘 1개, 플루오린 1개"
+  },
+  {
+    "id": "rubidium-fluoride",
+    "label": "RbF",
+    "prompt": "플루오린화루비듐 만들기",
+    "tokens": [
+      "Rb",
+      "F"
+    ],
+    "hint": "RbF — 루비듐 1개, 플루오린 1개"
+  },
+  {
+    "id": "potassium-fluoride",
+    "label": "KF",
+    "prompt": "플루오린화칼륨 만들기",
+    "tokens": [
+      "K",
+      "F"
+    ],
+    "hint": "KF — 칼륨 1개, 플루오린 1개"
+  },
+  {
+    "id": "lithium-chloride",
+    "label": "LiCl",
+    "prompt": "염화리튬 만들기",
+    "tokens": [
+      "Li",
+      "Cl"
+    ],
+    "hint": "LiCl — 리튬 1개, 염소 1개"
+  },
+  {
+    "id": "lithium-bromide",
+    "label": "LiBr",
+    "prompt": "브로민화리튬 만들기",
+    "tokens": [
+      "Li",
+      "Br"
+    ],
+    "hint": "LiBr — 리튬 1개, 브로민 1개"
+  },
+  {
+    "id": "lithium-iodide",
+    "label": "LiI",
+    "prompt": "아이오딘화리튬 만들기",
+    "tokens": [
+      "Li",
+      "I"
+    ],
+    "hint": "LiI — 리튬 1개, 아이오딘 1개"
+  },
+  {
+    "id": "silver-fluoride",
+    "label": "AgF",
+    "prompt": "플루오린화은 만들기",
+    "tokens": [
+      "Ag",
+      "F"
+    ],
+    "hint": "AgF — 은 1개, 플루오린 1개"
+  },
+  {
+    "id": "silver-bromide",
+    "label": "AgBr",
+    "prompt": "브로민화은 만들기",
+    "tokens": [
+      "Ag",
+      "Br"
+    ],
+    "hint": "AgBr — 은 1개, 브로민 1개"
+  },
+  {
+    "id": "silver-iodide",
+    "label": "AgI",
+    "prompt": "아이오딘화은 만들기",
+    "tokens": [
+      "Ag",
+      "I"
+    ],
+    "hint": "AgI — 은 1개, 아이오딘 1개"
+  },
+  {
+    "id": "copper-sulfide",
+    "label": "CuS",
+    "prompt": "황화구리 만들기",
+    "tokens": [
+      "Cu",
+      "S"
+    ],
+    "hint": "CuS — 구리 1개, 황 1개"
+  },
+  {
+    "id": "tin-oxide",
+    "label": "SnO",
+    "prompt": "산화주석 만들기",
+    "tokens": [
+      "Sn",
+      "O"
+    ],
+    "hint": "SnO — 주석 1개, 산소 1개"
+  },
+  {
+    "id": "iron-oxide-2",
+    "label": "FeO",
+    "prompt": "산화철(II) 만들기",
+    "tokens": [
+      "Fe",
+      "O"
+    ],
+    "hint": "FeO — 철 1개, 산소 1개"
+  },
+  {
+    "id": "cobalt-oxide",
+    "label": "CoO",
+    "prompt": "산화코발트 만들기",
+    "tokens": [
+      "Co",
+      "O"
+    ],
+    "hint": "CoO — 코발트 1개, 산소 1개"
+  },
+  {
+    "id": "strontium-oxide",
+    "label": "SrO",
+    "prompt": "산화스트론튬 만들기",
+    "tokens": [
+      "Sr",
+      "O"
+    ],
+    "hint": "SrO — 스트론튬 1개, 산소 1개"
+  },
+  {
+    "id": "cadmium-oxide",
+    "label": "CdO",
+    "prompt": "산화카드뮴 만들기",
+    "tokens": [
+      "Cd",
+      "O"
+    ],
+    "hint": "CdO — 카드뮴 1개, 산소 1개"
+  },
+  {
+    "id": "cadmium-sulfide",
+    "label": "CdS",
+    "prompt": "황화카드뮴 만들기",
+    "tokens": [
+      "Cd",
+      "S"
+    ],
+    "hint": "CdS — 카드뮴 1개, 황 1개"
+  },
+  {
+    "id": "mercury-sulfide",
+    "label": "HgS",
+    "prompt": "황화수은 만들기",
+    "tokens": [
+      "Hg",
+      "S"
+    ],
+    "hint": "HgS — 수은 1개, 황 1개"
+  },
+  {
+    "id": "barium-sulfide",
+    "label": "BaS",
+    "prompt": "황화바륨 만들기",
+    "tokens": [
+      "Ba",
+      "S"
+    ],
+    "hint": "BaS — 바륨 1개, 황 1개"
+  },
+  {
+    "id": "strontium-sulfide",
+    "label": "SrS",
+    "prompt": "황화스트론튬 만들기",
+    "tokens": [
+      "Sr",
+      "S"
+    ],
+    "hint": "SrS — 스트론튬 1개, 황 1개"
+  },
+  {
+    "id": "phosphorus-monoxide",
+    "label": "PO",
+    "prompt": "일산화인 만들기",
+    "tokens": [
+      "P",
+      "O"
+    ],
+    "hint": "PO — 인 1개, 산소 1개"
+  }
+]

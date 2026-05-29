@@ -1,0 +1,242 @@
+[
+  {
+    "id": "jeonhwawibok",
+    "label": "전화위복",
+    "prompt": "화가 바뀌어 오히려 복이 됨",
+    "tokens": [
+      "전",
+      "화",
+      "위",
+      "복"
+    ],
+    "hint": "轉禍爲福"
+  },
+  {
+    "id": "gyeonmulsaengsim",
+    "label": "견물생심",
+    "prompt": "물건을 보면 욕심이 생김",
+    "tokens": [
+      "견",
+      "물",
+      "생",
+      "심"
+    ],
+    "hint": "見物生心"
+  },
+  {
+    "id": "samgochorye",
+    "label": "삼고초려",
+    "prompt": "인재를 정성껏 맞이함",
+    "tokens": [
+      "삼",
+      "고",
+      "초",
+      "려"
+    ],
+    "hint": "三顧草廬"
+  },
+  {
+    "id": "gyeonggeomangdong",
+    "label": "경거망동",
+    "prompt": "가볍고 망령된 행동",
+    "tokens": [
+      "경",
+      "거",
+      "망",
+      "동"
+    ],
+    "hint": "輕擧妄動"
+  },
+  {
+    "id": "iyeolchiyeol",
+    "label": "이열치열",
+    "prompt": "열은 열로써 다스림",
+    "tokens": [
+      "이",
+      "열",
+      "치",
+      "열"
+    ],
+    "hint": "以熱治熱"
+  },
+  {
+    "id": "samansamsa",
+    "label": "삼삼오오",
+    "prompt": "서너 사람씩 떼를 지어 다니는 모양",
+    "tokens": [
+      "삼",
+      "삼",
+      "오",
+      "오"
+    ],
+    "hint": "三三五五"
+  },
+  {
+    "id": "iposampyeon",
+    "label": "일거양득",
+    "prompt": "한 가지 일로 두 가지 이익을 얻음",
+    "tokens": [
+      "일",
+      "거",
+      "양",
+      "득"
+    ],
+    "hint": "一擧兩得"
+  },
+  {
+    "id": "iliirim",
+    "label": "일일삼성",
+    "prompt": "하루에 세 번 자신을 반성함",
+    "tokens": [
+      "일",
+      "일",
+      "삼",
+      "성"
+    ],
+    "hint": "一日三省"
+  },
+  {
+    "id": "donggamutdap",
+    "label": "동문서답",
+    "prompt": "묻는 말에 엉뚱한 대답을 함",
+    "tokens": [
+      "동",
+      "문",
+      "서",
+      "답"
+    ],
+    "hint": "東問西答"
+  },
+  {
+    "id": "wirobyeoljang",
+    "label": "우왕좌왕",
+    "prompt": "이리저리 왔다 갔다 하며 갈팡질팡함",
+    "tokens": [
+      "우",
+      "왕",
+      "좌",
+      "왕"
+    ],
+    "hint": "右往左往"
+  },
+  {
+    "id": "gosajiseong",
+    "label": "구사일생",
+    "prompt": "여러 차례 죽을 고비를 넘기고 살아남",
+    "tokens": [
+      "구",
+      "사",
+      "일",
+      "생"
+    ],
+    "hint": "九死一生"
+  },
+  {
+    "id": "geumsigeumsi",
+    "label": "금시초문",
+    "prompt": "이제야 비로소 처음 들음",
+    "tokens": [
+      "금",
+      "시",
+      "초",
+      "문"
+    ],
+    "hint": "今時初聞"
+  },
+  {
+    "id": "namnyeonosso",
+    "label": "남녀노소",
+    "prompt": "남자와 여자, 늙은이와 젊은이 모든 사람",
+    "tokens": [
+      "남",
+      "녀",
+      "노",
+      "소"
+    ],
+    "hint": "男女老少"
+  },
+  {
+    "id": "dongseonambuk",
+    "label": "동서남북",
+    "prompt": "동쪽 서쪽 남쪽 북쪽, 모든 방향",
+    "tokens": [
+      "동",
+      "서",
+      "남",
+      "북"
+    ],
+    "hint": "東西南北"
+  },
+  {
+    "id": "chunhachudong",
+    "label": "춘하추동",
+    "prompt": "봄 여름 가을 겨울 네 계절",
+    "tokens": [
+      "춘",
+      "하",
+      "추",
+      "동"
+    ],
+    "hint": "春夏秋冬"
+  },
+  {
+    "id": "sasipalsi",
+    "label": "사방팔방",
+    "prompt": "여러 방향과 모든 방면",
+    "tokens": [
+      "사",
+      "방",
+      "팔",
+      "방"
+    ],
+    "hint": "四方八方"
+  },
+  {
+    "id": "sipjungpalgu",
+    "label": "십중팔구",
+    "prompt": "열 가운데 여덟이나 아홉, 거의 대부분",
+    "tokens": [
+      "십",
+      "중",
+      "팔",
+      "구"
+    ],
+    "hint": "十中八九"
+  },
+  {
+    "id": "iksisamsa",
+    "label": "일사천리",
+    "prompt": "일이 거침없이 빨리 진행됨",
+    "tokens": [
+      "일",
+      "사",
+      "천",
+      "리"
+    ],
+    "hint": "一瀉千里"
+  },
+  {
+    "id": "joryeomosan",
+    "label": "조삼모사",
+    "prompt": "눈앞의 차이만 알고 결과가 같음을 모름",
+    "tokens": [
+      "조",
+      "삼",
+      "모",
+      "사"
+    ],
+    "hint": "朝三暮四"
+  },
+  {
+    "id": "uijaeoltae",
+    "label": "유유상종",
+    "prompt": "같은 무리끼리 서로 사귐",
+    "tokens": [
+      "유",
+      "유",
+      "상",
+      "종"
+    ],
+    "hint": "類類相從"
+  }
+]

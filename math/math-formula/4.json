@@ -1,0 +1,131 @@
+[
+  {
+    "id": "const-deriv",
+    "label": "d/dx c=0",
+    "prompt": "d/dx c=○",
+    "tokens": [
+      "0"
+    ],
+    "name": "상수함수 미분",
+    "vars": "c 상수",
+    "hint": "값이 변하지 않는 상수를 미분하면 0이 된다"
+  },
+  {
+    "id": "deriv-scalar",
+    "label": "(cf)'=cf'",
+    "prompt": "(cf)'=○",
+    "tokens": [
+      "cf'"
+    ],
+    "name": "상수배 미분",
+    "vars": "c 상수, f 함수",
+    "hint": "상수배 함수의 미분은 상수를 그대로 두고 함수만 미분한다"
+  },
+  {
+    "id": "int-const",
+    "label": "∫kdx=kx+C",
+    "prompt": "∫kdx=○+C",
+    "tokens": [
+      "kx"
+    ],
+    "name": "상수 적분",
+    "vars": "k 상수, C 적분상수",
+    "hint": "상수를 적분하면 그 상수에 x를 곱한 값이 된다"
+  },
+  {
+    "id": "second-deriv",
+    "label": "f''=d²y/dx²",
+    "prompt": "f''=○○",
+    "tokens": [
+      "d²y",
+      "/dx²"
+    ],
+    "name": "이계도함수",
+    "vars": "y 함수",
+    "hint": "함수를 두 번 미분해 변화율의 변화를 나타낸다"
+  },
+  {
+    "id": "area-curve",
+    "label": "S=∫ₐᵇf(x)dx",
+    "prompt": "S=∫ₐᵇ○dx",
+    "tokens": [
+      "f(x)"
+    ],
+    "name": "곡선 아래 넓이",
+    "vars": "S 넓이",
+    "hint": "함수를 적분해 곡선과 x축 사이의 넓이를 구한다"
+  },
+  {
+    "id": "deriv-sum",
+    "label": "(f+g)'=f'+g'",
+    "prompt": "(f+g)'=○○",
+    "tokens": [
+      "f'",
+      "+g'"
+    ],
+    "name": "합의 미분",
+    "vars": "f g 함수",
+    "hint": "두 함수의 합은 각각 미분해서 더하면 된다"
+  },
+  {
+    "id": "product-rule",
+    "label": "(fg)'=f'g+fg'",
+    "prompt": "(fg)'=○○○",
+    "tokens": [
+      "f'g",
+      "+",
+      "fg'"
+    ],
+    "name": "곱의 미분",
+    "vars": "f g 함수",
+    "hint": "한쪽을 미분해 다른 쪽을 곱한 것을 서로 더한다"
+  },
+  {
+    "id": "power-rule",
+    "label": "d/dx xⁿ=nxⁿ⁻¹",
+    "prompt": "d/dx xⁿ=○○",
+    "tokens": [
+      "nx",
+      "ⁿ⁻¹"
+    ],
+    "name": "멱함수 미분",
+    "vars": "n 지수",
+    "hint": "지수를 앞으로 내리고 지수를 하나 줄여 미분한다"
+  },
+  {
+    "id": "int-power",
+    "label": "∫xⁿdx=xⁿ⁺¹/(n+1)+C",
+    "prompt": "∫xⁿdx=xⁿ⁺¹/○○+C",
+    "tokens": [
+      "(n+",
+      "1)"
+    ],
+    "name": "멱함수 적분",
+    "vars": "n 지수(n≠-1)",
+    "hint": "지수를 하나 올리고 그 값으로 나눠 적분한다"
+  },
+  {
+    "id": "quotient-rule",
+    "label": "(f/g)'=(f'g-fg')/g²",
+    "prompt": "(f/g)'=(f'g-fg')/○",
+    "tokens": [
+      "g²"
+    ],
+    "name": "몫의 미분",
+    "vars": "f g 함수(g≠0)",
+    "hint": "분자분모를 각각 미분해 빼고 분모 제곱으로 나눈다"
+  },
+  {
+    "id": "ftc",
+    "label": "∫ₐᵇf(x)dx=F(b)-F(a)",
+    "prompt": "∫ₐᵇf(x)dx=○○○",
+    "tokens": [
+      "F(b)",
+      "-",
+      "F(a)"
+    ],
+    "name": "미적분 기본정리",
+    "vars": "F 원시함수",
+    "hint": "정적분은 원시함수의 양 끝값의 차로 계산할 수 있다"
+  }
+]

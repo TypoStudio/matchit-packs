@@ -1,0 +1,52 @@
+[
+  {
+    "name": "과일 모으기",
+    "url": "arcade/fruit-emoji/pack.json",
+    "levels": 2
+  },
+  {
+    "name": "국사",
+    "url": "history/korean-history/pack.json",
+    "levels": 10
+  },
+  {
+    "name": "사자성어",
+    "url": "korean/korean-idiom/pack.json",
+    "levels": 10
+  },
+  {
+    "name": "세계사",
+    "url": "history/world-history/pack.json",
+    "levels": 10
+  },
+  {
+    "name": "속담",
+    "url": "korean/korean-proverb/pack.json",
+    "levels": 6
+  },
+  {
+    "name": "수학 공식",
+    "url": "math/math-formula/pack.json",
+    "levels": 7
+  },
+  {
+    "name": "영문법",
+    "url": "language/english-grammar/pack.json",
+    "levels": 10
+  },
+  {
+    "name": "영어단어",
+    "url": "language/english-word/pack.json",
+    "levels": 6
+  },
+  {
+    "name": "한자능력시험",
+    "url": "language/hanja-grade/pack.json",
+    "levels": 16
+  },
+  {
+    "name": "화학식",
+    "url": "science/science-core/pack.json",
+    "levels": 10
+  }
+]

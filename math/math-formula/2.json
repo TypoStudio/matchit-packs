@@ -1,0 +1,259 @@
+[
+  {
+    "id": "slope",
+    "label": "m=(y₂-y₁)/(x₂-x₁)",
+    "prompt": "m=○○/(x₂-x₁)",
+    "tokens": [
+      "(y₂",
+      "-y₁)"
+    ],
+    "name": "직선의 기울기",
+    "vars": "(x,y) 두 점 좌표",
+    "hint": "y의 변화량을 x의 변화량으로 나눠 기울기를 구한다"
+  },
+  {
+    "id": "vieta-product",
+    "label": "αβ=c/a",
+    "prompt": "αβ=○○○",
+    "tokens": [
+      "c",
+      "/",
+      "a"
+    ],
+    "name": "근과 계수 곱",
+    "vars": "α,β 두 근, a,c 계수",
+    "hint": "두 근의 곱은 상수항을 이차항 계수로 나눈 값과 같다"
+  },
+  {
+    "id": "circle-equation-origin",
+    "label": "x²+y²=r²",
+    "prompt": "x²+y²=○",
+    "tokens": [
+      "r²"
+    ],
+    "name": "원의 방정식",
+    "vars": "r 반지름, (x,y) 원 위 점",
+    "hint": "원점에서 거리가 반지름인 점들이 모여 원을 이룬다"
+  },
+  {
+    "id": "vieta-sum",
+    "label": "α+β=-b/a",
+    "prompt": "α+β=○○○",
+    "tokens": [
+      "-b",
+      "/",
+      "a"
+    ],
+    "name": "근과 계수 합",
+    "vars": "α,β 두 근, a,b 계수",
+    "hint": "두 근의 합은 일차항 계수에 부호를 바꿔 이차항으로 나눈 값이다"
+  },
+  {
+    "id": "distance-1d",
+    "label": "d=|x₂-x₁|",
+    "prompt": "d=|○○○|",
+    "tokens": [
+      "x₂",
+      "-",
+      "x₁"
+    ],
+    "name": "수직선 두 점 거리",
+    "vars": "d 거리, x₁,x₂ 좌표",
+    "hint": "두 좌표의 차이에 절댓값을 씌우면 두 점 사이 거리가 된다"
+  },
+  {
+    "id": "comb-symmetry",
+    "label": "nCr=nCₙ₋ᵣ",
+    "prompt": "nCr=○○",
+    "tokens": [
+      "nC",
+      "ₙ₋ᵣ"
+    ],
+    "name": "조합 대칭성",
+    "vars": "n 전체, r 택한 수",
+    "hint": "r개를 뽑는 경우의 수는 나머지를 뽑는 경우의 수와 같다"
+  },
+  {
+    "id": "perm-comb-rel",
+    "label": "nPr=nCr·r!",
+    "prompt": "nPr=○·r!",
+    "tokens": [
+      "nCr"
+    ],
+    "name": "순열과 조합 관계",
+    "vars": "r! 순서수",
+    "hint": "조합에 뽑은 것의 순서 수를 곱하면 순열이 된다"
+  },
+  {
+    "id": "midpoint-x",
+    "label": "x=(x₁+x₂)/2",
+    "prompt": "x=(○○○)/2",
+    "tokens": [
+      "x₁",
+      "+",
+      "x₂"
+    ],
+    "name": "중점의 x좌표",
+    "vars": "x₁ x₂ 두 점의 x",
+    "hint": "두 점의 x좌표를 더해 반으로 나눈 중점 좌표"
+  },
+  {
+    "id": "midpoint-y",
+    "label": "y=(y₁+y₂)/2",
+    "prompt": "y=(○○○)/2",
+    "tokens": [
+      "y₁",
+      "+",
+      "y₂"
+    ],
+    "name": "중점의 y좌표",
+    "vars": "y₁ y₂ 두 점의 y",
+    "hint": "두 점의 y좌표를 더해 반으로 나눈 중점 좌표"
+  },
+  {
+    "id": "line-point-slope",
+    "label": "y-y₁=m(x-x₁)",
+    "prompt": "y-y₁=m(○○○)",
+    "tokens": [
+      "x",
+      "-",
+      "x₁"
+    ],
+    "name": "점기울기 직선식",
+    "vars": "m 기울기, (x₁,y₁) 점",
+    "hint": "기울기와 지나는 한 점으로 직선의 방정식을 세운다"
+  },
+  {
+    "id": "factorial",
+    "label": "n!=n(n-1)···1",
+    "prompt": "n!=○(n-1)···1",
+    "tokens": [
+      "n"
+    ],
+    "name": "계승(팩토리얼)",
+    "vars": "n 자연수",
+    "hint": "1부터 n까지 자연수를 모두 곱한 값을 나타낸다"
+  },
+  {
+    "id": "permutation",
+    "label": "nPr=n!/(n-r)!",
+    "prompt": "nPr=n!/○○",
+    "tokens": [
+      "(n-",
+      "r)!"
+    ],
+    "name": "순열",
+    "vars": "n 전체, r 택한 수",
+    "hint": "n개 중 r개를 순서대로 뽑아 나열하는 경우의 수"
+  },
+  {
+    "id": "circle-equation",
+    "label": "(x-a)²+(y-b)²=r²",
+    "prompt": "(x-a)²+(y-b)²=○",
+    "tokens": [
+      "r²"
+    ],
+    "name": "원의 방정식",
+    "vars": "(a,b) 중심, r 반지름",
+    "hint": "중심과 반지름으로 원 위 점이 만족하는 방정식"
+  },
+  {
+    "id": "combination",
+    "label": "nCr=n!/(r!(n-r)!)",
+    "prompt": "nCr=n!/(○○○)",
+    "tokens": [
+      "r!",
+      "(n-",
+      "r)!"
+    ],
+    "name": "조합",
+    "vars": "n 전체, r 택한 수",
+    "hint": "n개 중 r개를 순서 없이 뽑는 경우의 수"
+  },
+  {
+    "id": "comb-pascal",
+    "label": "nCr=ₙ₋₁Cᵣ₋₁+ₙ₋₁Cᵣ",
+    "prompt": "nCr=○○+ₙ₋₁Cᵣ",
+    "tokens": [
+      "ₙ₋₁",
+      "Cᵣ₋₁"
+    ],
+    "name": "파스칼 법칙",
+    "vars": "n 전체, r 택한 수",
+    "hint": "조합을 바로 위 두 조합의 합으로 나타내는 법칙"
+  },
+  {
+    "id": "factor-diff-cubes",
+    "label": "a³-b³=(a-b)(a²+ab+b²)",
+    "prompt": "a³-b³=(a-b)(○○○)",
+    "tokens": [
+      "a²",
+      "+ab",
+      "+b²"
+    ],
+    "name": "세제곱 차 인수분해",
+    "vars": "a b 임의의 수",
+    "hint": "세제곱의 차를 두 수 차와 이차식의 곱으로 인수분해한다"
+  },
+  {
+    "id": "factor-sum-cubes",
+    "label": "a³+b³=(a+b)(a²-ab+b²)",
+    "prompt": "a³+b³=(a+b)(○○○)",
+    "tokens": [
+      "a²",
+      "-ab",
+      "+b²"
+    ],
+    "name": "세제곱 합 인수분해",
+    "vars": "a b 임의의 수",
+    "hint": "세제곱의 합을 두 수 합과 이차식의 곱으로 인수분해한다"
+  },
+  {
+    "id": "mult-cube-minus",
+    "label": "(a-b)³=a³-3a²b+3ab²-b³",
+    "prompt": "(a-b)³=a³-3a²b+○○-b³",
+    "tokens": [
+      "3",
+      "ab²"
+    ],
+    "name": "차의 세제곱",
+    "vars": "a b 임의의 수",
+    "hint": "두 수 차의 세제곱을 전개한 곱셈 공식"
+  },
+  {
+    "id": "mult-cube-plus",
+    "label": "(a+b)³=a³+3a²b+3ab²+b³",
+    "prompt": "(a+b)³=a³+○○○+3ab²+b³",
+    "tokens": [
+      "3",
+      "a²",
+      "b"
+    ],
+    "name": "합의 세제곱",
+    "vars": "a b 임의의 수",
+    "hint": "두 수 합의 세제곱을 전개한 곱셈 공식"
+  },
+  {
+    "id": "perm-all",
+    "label": "nPn=n!",
+    "prompt": "nPn=○",
+    "tokens": [
+      "n!"
+    ],
+    "name": "전순열",
+    "vars": "n 전체 개수",
+    "hint": "n개를 모두 일렬로 나열하는 경우의 수는 n 팩토리얼이다"
+  },
+  {
+    "id": "vec-internal",
+    "label": "P=(mb+na)/(m+n)",
+    "prompt": "P=(mb+na)/○○",
+    "tokens": [
+      "(m+",
+      "n)"
+    ],
+    "name": "선분의 내분점",
+    "vars": "m:n 내분 비율",
+    "hint": "선분을 m:n으로 나누는 내분점의 위치를 구한다"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "english-word",
+  "title": "영어단어",
+  "accent": "#0ea5e9",
+  "format": "word",
+  "levels": [
+    {
+      "level": 1,
+      "label": "중1",
+      "file": "./1.json"
+    },
+    {
+      "level": 2,
+      "label": "중2",
+      "file": "./2.json"
+    },
+    {
+      "level": 3,
+      "label": "중3",
+      "file": "./3.json"
+    },
+    {
+      "level": 4,
+      "label": "고1",
+      "file": "./4.json"
+    },
+    {
+      "level": 5,
+      "label": "고2",
+      "file": "./5.json"
+    },
+    {
+      "level": 6,
+      "label": "고3",
+      "file": "./6.json"
+    }
+  ]
+}

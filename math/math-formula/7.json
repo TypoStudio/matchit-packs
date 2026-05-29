@@ -1,0 +1,329 @@
+[
+  {
+    "id": "cv",
+    "label": "CV=σ/m",
+    "prompt": "CV=○○",
+    "tokens": [
+      "σ",
+      "/m"
+    ],
+    "name": "변동계수",
+    "vars": "σ 표준편차, m 평균",
+    "hint": "표준편차를 평균으로 나누어 상대적 흩어짐을 나타낸다"
+  },
+  {
+    "id": "poisson-mean",
+    "label": "E(X)=λ",
+    "prompt": "E(X)=○",
+    "tokens": [
+      "λ"
+    ],
+    "name": "푸아송 평균",
+    "vars": "λ 단위당 발생률",
+    "hint": "푸아송 분포에서는 발생률 람다가 그대로 평균이 된다"
+  },
+  {
+    "id": "perm-repeat",
+    "label": "nΠr=nʳ",
+    "prompt": "nΠr=○",
+    "tokens": [
+      "nʳ"
+    ],
+    "name": "중복순열",
+    "vars": "n 종류, r 택한 수",
+    "hint": "중복을 허용해 r개를 뽑아 나열하면 n의 r제곱이 된다"
+  },
+  {
+    "id": "binomial-mean",
+    "label": "E(X)=np",
+    "prompt": "E(X)=○",
+    "tokens": [
+      "np"
+    ],
+    "name": "이항분포 평균",
+    "vars": "n 시행 횟수, p 성공 확률",
+    "hint": "시행 횟수에 성공 확률을 곱하면 기댓값이 된다"
+  },
+  {
+    "id": "binomial-var",
+    "label": "V(X)=npq",
+    "prompt": "V(X)=○",
+    "tokens": [
+      "npq"
+    ],
+    "name": "이항분포 분산",
+    "vars": "n 시행, p 성공, q=1-p",
+    "hint": "시행 횟수에 성공 확률과 실패 확률을 모두 곱한다"
+  },
+  {
+    "id": "binomial-std",
+    "label": "σ=√(npq)",
+    "prompt": "σ=√(○)",
+    "tokens": [
+      "npq"
+    ],
+    "name": "이항분포 표준편차",
+    "vars": "n 시행, p 성공, q=1-p",
+    "hint": "이항분포 분산 npq에 제곱근을 씌우면 표준편차가 된다"
+  },
+  {
+    "id": "zscore",
+    "label": "Z=(X-m)/σ",
+    "prompt": "Z=(X-m)/○",
+    "tokens": [
+      "σ"
+    ],
+    "name": "표준화",
+    "vars": "X 관측값, m 평균, σ 표준편차",
+    "hint": "관측값에서 평균을 뺀 뒤 표준편차로 나눠 표준화한다"
+  },
+  {
+    "id": "expectation",
+    "label": "E(X)=Σxᵢpᵢ",
+    "prompt": "E(X)=○○",
+    "tokens": [
+      "Σ",
+      "xᵢpᵢ"
+    ],
+    "name": "기댓값",
+    "vars": "xᵢ 값, pᵢ 확률",
+    "hint": "각 값에 그 확률을 곱해 모두 더한 평균적 기댓값"
+  },
+  {
+    "id": "sample-mean-var",
+    "label": "V(X̄)=σ²/n",
+    "prompt": "V(X̄)=○/n",
+    "tokens": [
+      "σ²"
+    ],
+    "name": "표본평균 분산",
+    "vars": "σ² 모분산, n 표본크기",
+    "hint": "표본 크기가 클수록 표본평균의 분산은 작아진다"
+  },
+  {
+    "id": "circular-perm",
+    "label": "원순열=(n-1)!",
+    "prompt": "원순열=○○",
+    "tokens": [
+      "(n-",
+      "1)!"
+    ],
+    "name": "원순열",
+    "vars": "n 전체 개수",
+    "hint": "회전해서 같은 배열을 하나로 보아 원형 배열을 센다"
+  },
+  {
+    "id": "comb-repeat",
+    "label": "nHr=ₙ₊ᵣ₋₁Cᵣ",
+    "prompt": "nHr=○○",
+    "tokens": [
+      "ₙ₊ᵣ",
+      "₋₁Cᵣ"
+    ],
+    "name": "중복조합",
+    "vars": "n 종류, r 택한 수",
+    "hint": "중복을 허용해 뽑는 경우의 수를 조합으로 바꿔 센다"
+  },
+  {
+    "id": "normal-prob",
+    "label": "P(0≤Z≤z)=Φ(z)",
+    "prompt": "P(0≤Z≤z)=○○",
+    "tokens": [
+      "Φ(z",
+      ")"
+    ],
+    "name": "표준정규분포 확률",
+    "vars": "Φ 누적분포함수",
+    "hint": "표준정규분포에서 0부터 z까지의 넓이를 나타낸다"
+  },
+  {
+    "id": "linear-var",
+    "label": "V(aX+b)=a²V(X)",
+    "prompt": "V(aX+b)=○V(X)",
+    "tokens": [
+      "a²"
+    ],
+    "name": "분산의 변환",
+    "vars": "a b 상수",
+    "hint": "확률변수에 상수를 곱하면 분산은 그 제곱배가 된다"
+  },
+  {
+    "id": "linear-exp",
+    "label": "E(aX+b)=aE(X)+b",
+    "prompt": "E(aX+b)=○○+b",
+    "tokens": [
+      "a",
+      "E(X)"
+    ],
+    "name": "기댓값의 선형성",
+    "vars": "a b 상수",
+    "hint": "확률변수를 일차 변환하면 기댓값도 같은 식으로 변한다"
+  },
+  {
+    "id": "prob-indep",
+    "label": "P(A∩B)=P(A)P(B)",
+    "prompt": "P(A∩B)=○○",
+    "tokens": [
+      "P(A)",
+      "P(B)"
+    ],
+    "name": "독립사건의 곱",
+    "vars": "A B 독립사건",
+    "hint": "두 사건이 독립이면 동시에 일어날 확률은 곱과 같다"
+  },
+  {
+    "id": "poisson-prob",
+    "label": "P(X=k)=e⁻ᵠλᵏ/k!",
+    "prompt": "P(X=k)=e⁻ᵠλᵏ/○",
+    "tokens": [
+      "k!"
+    ],
+    "name": "푸아송 분포",
+    "vars": "λ 평균 발생 수, k 횟수",
+    "hint": "드물게 일어나는 사건의 발생 횟수에 대한 확률분포"
+  },
+  {
+    "id": "geometric-prob",
+    "label": "P(X=k)=q^(k-1)p",
+    "prompt": "P(X=k)=○○p",
+    "tokens": [
+      "q^(",
+      "k-1)"
+    ],
+    "name": "기하분포",
+    "vars": "p 성공확률, q=1-p",
+    "hint": "처음 성공이 나올 때까지 걸린 시행 횟수의 확률분포"
+  },
+  {
+    "id": "variance-disc",
+    "label": "V(X)=Σ(xᵢ-m)²pᵢ",
+    "prompt": "V(X)=Σ(xᵢ-m)²○",
+    "tokens": [
+      "pᵢ"
+    ],
+    "name": "이산확률변수 분산",
+    "vars": "m 평균, pᵢ 확률",
+    "hint": "평균에서 벗어난 정도의 제곱을 확률로 가중평균한다"
+  },
+  {
+    "id": "sum-exp",
+    "label": "E(X+Y)=E(X)+E(Y)",
+    "prompt": "E(X+Y)=○○○",
+    "tokens": [
+      "E(X)",
+      "+",
+      "E(Y)"
+    ],
+    "name": "기댓값의 합",
+    "vars": "X Y 확률변수",
+    "hint": "두 확률변수 합의 기댓값은 각 기댓값의 합과 같다"
+  },
+  {
+    "id": "prob-add-excl",
+    "label": "P(A∪B)=P(A)+P(B)",
+    "prompt": "P(A∪B)=○○○",
+    "tokens": [
+      "P(A)",
+      "+",
+      "P(B)"
+    ],
+    "name": "배반사건의 합",
+    "vars": "A B 배반사건",
+    "hint": "서로 배반인 두 사건의 합사건 확률은 확률의 합이다"
+  },
+  {
+    "id": "binomial-prob",
+    "label": "P(X=k)=nCkpᵏqⁿ⁻ᵏ",
+    "prompt": "P(X=k)=nCk○qⁿ⁻ᵏ",
+    "tokens": [
+      "pᵏ"
+    ],
+    "name": "이항분포",
+    "vars": "p 성공확률, q=1-p",
+    "hint": "n번 시행에서 성공이 k번 나올 확률을 나타낸다"
+  },
+  {
+    "id": "var-sum-indep",
+    "label": "V(X+Y)=V(X)+V(Y)",
+    "prompt": "V(X+Y)=○○○",
+    "tokens": [
+      "V(X)",
+      "+",
+      "V(Y)"
+    ],
+    "name": "독립합의 분산",
+    "vars": "X Y 독립 확률변수",
+    "hint": "독립인 두 확률변수 합의 분산은 분산의 합과 같다"
+  },
+  {
+    "id": "prob-mult",
+    "label": "P(A∩B)=P(A)P(B|A)",
+    "prompt": "P(A∩B)=P(A)○○",
+    "tokens": [
+      "P(B",
+      "|A)"
+    ],
+    "name": "확률의 곱셈정리",
+    "vars": "∩ 교집합",
+    "hint": "두 사건이 함께 일어날 확률은 조건부확률을 곱해 구한다"
+  },
+  {
+    "id": "correlation",
+    "label": "ρ=Cov(X,Y)/(σₓσy)",
+    "prompt": "ρ=Cov(X,Y)/○○",
+    "tokens": [
+      "(σₓ",
+      "σy)"
+    ],
+    "name": "상관계수",
+    "vars": "σ 표준편차, Cov 공분산",
+    "hint": "공분산을 표준편차 곱으로 나눠 관계 강도를 나타낸다"
+  },
+  {
+    "id": "total-prob",
+    "label": "P(B)=ΣP(Aᵢ)P(B|Aᵢ)",
+    "prompt": "P(B)=Σ○○P(B|Aᵢ)",
+    "tokens": [
+      "P(",
+      "Aᵢ)"
+    ],
+    "name": "전확률 정리",
+    "vars": "Aᵢ 분할사건",
+    "hint": "여러 경우로 나눠 각 확률을 더해 전체 확률을 구한다"
+  },
+  {
+    "id": "cond-prob",
+    "label": "P(B|A)=P(A∩B)/P(A)",
+    "prompt": "P(B|A)=P(A∩B)/○",
+    "tokens": [
+      "P(A)"
+    ],
+    "name": "조건부확률",
+    "vars": "A 조건사건",
+    "hint": "한 사건이 일어났을 때 다른 사건이 일어날 확률"
+  },
+  {
+    "id": "variance-identity",
+    "label": "V(X)=E(X²)-(E(X))²",
+    "prompt": "V(X)=○○-(E(X))²",
+    "tokens": [
+      "E(",
+      "X²)"
+    ],
+    "name": "분산 항등식",
+    "vars": "E 기댓값",
+    "hint": "제곱의 기댓값에서 기댓값의 제곱을 빼면 분산이 된다"
+  },
+  {
+    "id": "variance-sample",
+    "label": "s²=(1/(n-1))Σ(xᵢ-x̄)²",
+    "prompt": "s²=(1/○○)Σ(xᵢ-x̄)²",
+    "tokens": [
+      "(n-",
+      "1)"
+    ],
+    "name": "표본분산",
+    "vars": "n-1 자유도, x̄ 평균",
+    "hint": "편차 제곱의 합을 자유도 n-1로 나눈 표본의 분산"
+  }
+]

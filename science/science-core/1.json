@@ -1,0 +1,102 @@
+[
+  {
+    "id": "hydrogen",
+    "label": "H₂",
+    "prompt": "수소 만들기",
+    "tokens": [
+      "H",
+      "H"
+    ],
+    "hint": "H2 — 수소 2개"
+  },
+  {
+    "id": "oxygen",
+    "label": "O₂",
+    "prompt": "산소 만들기",
+    "tokens": [
+      "O",
+      "O"
+    ],
+    "hint": "O2 — 산소 2개"
+  },
+  {
+    "id": "nitrogen",
+    "label": "N₂",
+    "prompt": "질소 만들기",
+    "tokens": [
+      "N",
+      "N"
+    ],
+    "hint": "N2 — 질소 2개"
+  },
+  {
+    "id": "fluorine",
+    "label": "F₂",
+    "prompt": "플루오린 만들기",
+    "tokens": [
+      "F",
+      "F"
+    ],
+    "hint": "F2 — 플루오린 2개"
+  },
+  {
+    "id": "chlorine",
+    "label": "Cl₂",
+    "prompt": "염소 만들기",
+    "tokens": [
+      "Cl",
+      "Cl"
+    ],
+    "hint": "Cl2 — 염소 2개"
+  },
+  {
+    "id": "bromine",
+    "label": "Br₂",
+    "prompt": "브로민 만들기",
+    "tokens": [
+      "Br",
+      "Br"
+    ],
+    "hint": "Br2 — 브로민 2개"
+  },
+  {
+    "id": "iodine",
+    "label": "I₂",
+    "prompt": "아이오딘 만들기",
+    "tokens": [
+      "I",
+      "I"
+    ],
+    "hint": "I2 — 아이오딘 2개"
+  },
+  {
+    "id": "carbon-monoxide",
+    "label": "CO",
+    "prompt": "일산화탄소 만들기",
+    "tokens": [
+      "C",
+      "O"
+    ],
+    "hint": "CO — 탄소 1개, 산소 1개"
+  },
+  {
+    "id": "nitric-oxide",
+    "label": "NO",
+    "prompt": "일산화질소 만들기",
+    "tokens": [
+      "N",
+      "O"
+    ],
+    "hint": "NO — 질소 1개, 산소 1개"
+  },
+  {
+    "id": "hydrogen-chloride",
+    "label": "HCl",
+    "prompt": "염화수소 만들기",
+    "tokens": [
+      "H",
+      "Cl"
+    ],
+    "hint": "HCl — 수소 1개, 염소 1개"
+  }
+]

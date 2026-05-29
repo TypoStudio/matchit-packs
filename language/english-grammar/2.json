@@ -1,0 +1,221 @@
+[
+  {
+    "id": "second-conditional",
+    "label": "가정법 2형식",
+    "prompt": "현재 사실과 반대인 가정",
+    "tokens": [
+      "If",
+      "past",
+      "would",
+      "V"
+    ],
+    "hint": "If + 과거시제, 주어 + would + 동사원형. 현재 비현실 가정"
+  },
+  {
+    "id": "reported-speech",
+    "label": "화법 전환",
+    "prompt": "남의 말을 옮겨 전달",
+    "tokens": [
+      "S",
+      "said",
+      "that"
+    ],
+    "hint": "주어 + said that + 문장. 직접화법을 간접화법으로 전환"
+  },
+  {
+    "id": "relative-pronoun",
+    "label": "관계대명사",
+    "prompt": "명사를 뒤에서 꾸미기",
+    "tokens": [
+      "who",
+      "which",
+      "that"
+    ],
+    "hint": "who/which/that. 두 문장을 이어 앞 명사를 수식"
+  },
+  {
+    "id": "phrasal-verb",
+    "label": "구동사",
+    "prompt": "동사+부사로 새 뜻 만들기",
+    "tokens": [
+      "look",
+      "up",
+      "to"
+    ],
+    "hint": "동사 + 부사/전치사. 합쳐져 새로운 의미 (예: look up)"
+  },
+  {
+    "id": "present-simple",
+    "label": "단순현재",
+    "prompt": "습관이나 일반적 사실",
+    "tokens": [
+      "S",
+      "V",
+      "(s/es)"
+    ],
+    "hint": "주어 + 동사(s/es). 반복되는 습관·변치 않는 사실"
+  },
+  {
+    "id": "past-simple",
+    "label": "단순과거",
+    "prompt": "과거에 끝난 일",
+    "tokens": [
+      "S",
+      "V",
+      "~ed"
+    ],
+    "hint": "주어 + 동사 + ed. 과거에 일어나 끝난 일을 나타냄"
+  },
+  {
+    "id": "be-verb-present",
+    "label": "be동사 현재",
+    "prompt": "주어의 현재 상태를 표현",
+    "tokens": [
+      "am",
+      "is",
+      "are"
+    ],
+    "hint": "am/is/are. 주어 인칭과 수에 따라 형태가 달라짐"
+  },
+  {
+    "id": "be-verb-past",
+    "label": "be동사 과거",
+    "prompt": "주어의 과거 상태를 표현",
+    "tokens": [
+      "was",
+      "were"
+    ],
+    "hint": "was/were. 과거의 상태나 신분을 나타냄"
+  },
+  {
+    "id": "there-is-are",
+    "label": "there is/are",
+    "prompt": "무언가 존재함을 표현",
+    "tokens": [
+      "there",
+      "is",
+      "are"
+    ],
+    "hint": "There is/are + 명사. ~이 있다라는 존재를 나타냄"
+  },
+  {
+    "id": "negative-present",
+    "label": "현재 부정문",
+    "prompt": "현재 일반동사 부정",
+    "tokens": [
+      "do",
+      "not",
+      "V"
+    ],
+    "hint": "주어 + do/does not + 동사원형. ~하지 않는다"
+  },
+  {
+    "id": "negative-past",
+    "label": "과거 부정문",
+    "prompt": "과거 일반동사 부정",
+    "tokens": [
+      "did",
+      "not",
+      "V"
+    ],
+    "hint": "주어 + did not + 동사원형. ~하지 않았다"
+  },
+  {
+    "id": "question-present",
+    "label": "현재 의문문",
+    "prompt": "현재 일반동사 의문",
+    "tokens": [
+      "Do",
+      "S",
+      "V"
+    ],
+    "hint": "Do/Does + 주어 + 동사원형? ~하나요라고 물음"
+  },
+  {
+    "id": "question-past",
+    "label": "과거 의문문",
+    "prompt": "과거 일반동사 의문",
+    "tokens": [
+      "Did",
+      "S",
+      "V"
+    ],
+    "hint": "Did + 주어 + 동사원형? ~했나요라고 물음"
+  },
+  {
+    "id": "be-going-to",
+    "label": "be going to",
+    "prompt": "예정되거나 계획된 미래",
+    "tokens": [
+      "be",
+      "going",
+      "to",
+      "V"
+    ],
+    "hint": "be going to + 동사원형. 계획·조짐 있는 미래를 표현"
+  },
+  {
+    "id": "can-ability",
+    "label": "can 능력",
+    "prompt": "할 수 있는 능력 표현",
+    "tokens": [
+      "can",
+      "V"
+    ],
+    "hint": "can + 동사원형. ~할 수 있다는 능력·가능을 나타냄"
+  },
+  {
+    "id": "cannot",
+    "label": "cannot",
+    "prompt": "할 수 없음을 표현",
+    "tokens": [
+      "cannot",
+      "V"
+    ],
+    "hint": "cannot + 동사원형. ~할 수 없다는 불가능을 나타냄"
+  },
+  {
+    "id": "have-to",
+    "label": "have to",
+    "prompt": "해야 하는 의무 표현",
+    "tokens": [
+      "have",
+      "to",
+      "V"
+    ],
+    "hint": "have/has to + 동사원형. ~해야 한다는 의무를 나타냄"
+  },
+  {
+    "id": "would-like-to",
+    "label": "would like to",
+    "prompt": "정중하게 바라는 표현",
+    "tokens": [
+      "would",
+      "like",
+      "to",
+      "V"
+    ],
+    "hint": "would like to + 동사원형. ~하고 싶다는 공손한 희망"
+  },
+  {
+    "id": "imperative",
+    "label": "명령문",
+    "prompt": "명령이나 지시를 표현",
+    "tokens": [
+      "V",
+      "object"
+    ],
+    "hint": "동사원형으로 시작. 상대에게 ~하라고 명령·요청"
+  },
+  {
+    "id": "do-not-imperative",
+    "label": "부정 명령문",
+    "prompt": "하지 말라는 금지 명령",
+    "tokens": [
+      "Do",
+      "not",
+      "V"
+    ],
+    "hint": "Do not + 동사원형. ~하지 마라라는 부정 명령"
+  }
+]

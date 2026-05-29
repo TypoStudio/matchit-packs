@@ -1,0 +1,47 @@
+{
+  "id": "math-formula",
+  "title": "수학 공식",
+  "accent": "#6366f1",
+  "wide": true,
+  "board": {
+    "cols": 5,
+    "rows": 7
+  },
+  "levels": [
+    {
+      "level": 1,
+      "label": "중등",
+      "file": "./1.json"
+    },
+    {
+      "level": 2,
+      "label": "공통수학",
+      "file": "./2.json"
+    },
+    {
+      "level": 3,
+      "label": "수학Ⅰ",
+      "file": "./3.json"
+    },
+    {
+      "level": 4,
+      "label": "수학Ⅱ",
+      "file": "./4.json"
+    },
+    {
+      "level": 5,
+      "label": "미적분",
+      "file": "./5.json"
+    },
+    {
+      "level": 6,
+      "label": "기하",
+      "file": "./6.json"
+    },
+    {
+      "level": 7,
+      "label": "확률과통계",
+      "file": "./7.json"
+    }
+  ]
+}

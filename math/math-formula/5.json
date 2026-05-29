@@ -1,0 +1,487 @@
+[
+  {
+    "id": "int-exp",
+    "label": "∫eˣdx=eˣ+C",
+    "prompt": "∫eˣdx=○+C",
+    "tokens": [
+      "eˣ"
+    ],
+    "name": "지수함수 적분",
+    "vars": "e 자연상수, C 적분상수",
+    "hint": "자연지수함수는 적분해도 자기 자신 그대로 나온다"
+  },
+  {
+    "id": "deriv-exp",
+    "label": "d/dx eˣ=eˣ",
+    "prompt": "d/dx eˣ=○",
+    "tokens": [
+      "eˣ"
+    ],
+    "name": "지수함수 미분",
+    "vars": "e 자연상수",
+    "hint": "자연지수함수는 미분해도 자기 자신과 같다"
+  },
+  {
+    "id": "geo-infinite",
+    "label": "S=a₁/(1-r)",
+    "prompt": "S=a₁/(1-○)",
+    "tokens": [
+      "r"
+    ],
+    "name": "무한등비급수 합",
+    "vars": "a₁ 첫항, r 공비",
+    "hint": "공비가 1보다 작을 때 무한등비급수가 수렴하는 값"
+  },
+  {
+    "id": "int-byparts",
+    "label": "∫udv=uv-∫vdu",
+    "prompt": "∫udv=○-∫vdu",
+    "tokens": [
+      "uv"
+    ],
+    "name": "부분적분",
+    "vars": "u v 함수",
+    "hint": "두 함수 곱의 적분을 미분과 적분으로 나눠 계산한다"
+  },
+  {
+    "id": "deriv-ln",
+    "label": "d/dx lnx=1/x",
+    "prompt": "d/dx lnx=○",
+    "tokens": [
+      "1/x"
+    ],
+    "name": "자연로그 미분",
+    "vars": "x 변수(x>0)",
+    "hint": "자연로그를 미분하면 x의 역수가 된다"
+  },
+  {
+    "id": "deriv-ax",
+    "label": "d/dx aˣ=aˣlna",
+    "prompt": "d/dx aˣ=○○",
+    "tokens": [
+      "aˣ",
+      "lna"
+    ],
+    "name": "지수함수 미분",
+    "vars": "a 밑",
+    "hint": "밑이 a인 지수함수는 미분하면 자연로그 a가 곱해진다"
+  },
+  {
+    "id": "int-recip-x2",
+    "label": "∫1/x²dx=-1/x+C",
+    "prompt": "∫1/x²dx=○○+C",
+    "tokens": [
+      "-1/",
+      "x"
+    ],
+    "name": "역제곱 함수 적분",
+    "vars": "x 변수(x≠0)",
+    "hint": "x의 역제곱을 적분하면 음의 x 역수가 된다"
+  },
+  {
+    "id": "int-recip",
+    "label": "∫1/xdx=ln|x|+C",
+    "prompt": "∫1/xdx=○○+C",
+    "tokens": [
+      "ln",
+      "|x|"
+    ],
+    "name": "역수 함수 적분",
+    "vars": "x 변수(x≠0)",
+    "hint": "x의 역수를 적분하면 절댓값의 자연로그가 된다"
+  },
+  {
+    "id": "int-ax",
+    "label": "∫aˣdx=aˣ/lna+C",
+    "prompt": "∫aˣdx=aˣ/○+C",
+    "tokens": [
+      "lna"
+    ],
+    "name": "지수함수 적분",
+    "vars": "a 밑(a>0,≠1)",
+    "hint": "지수함수를 적분하면 자연로그 a로 나눈 형태가 된다"
+  },
+  {
+    "id": "int-cos",
+    "label": "∫cosxdx=sinx+C",
+    "prompt": "∫cosxdx=○+C",
+    "tokens": [
+      "sinx"
+    ],
+    "name": "코사인 적분",
+    "vars": "x 각",
+    "hint": "코사인을 적분하면 사인이 된다"
+  },
+  {
+    "id": "deriv-recip",
+    "label": "d/dx 1/x=-1/x²",
+    "prompt": "d/dx 1/x=○○",
+    "tokens": [
+      "-1/",
+      "x²"
+    ],
+    "name": "역수함수 미분",
+    "vars": "x 변수(x≠0)",
+    "hint": "x의 역수를 미분하면 음의 x 제곱 역수가 된다"
+  },
+  {
+    "id": "deriv-sin",
+    "label": "d/dx sinx=cosx",
+    "prompt": "d/dx sinx=○",
+    "tokens": [
+      "cosx"
+    ],
+    "name": "사인 미분",
+    "vars": "x 각",
+    "hint": "사인을 미분하면 코사인이 된다"
+  },
+  {
+    "id": "int-sec2",
+    "label": "∫sec²xdx=tanx+C",
+    "prompt": "∫sec²xdx=○+C",
+    "tokens": [
+      "tanx"
+    ],
+    "name": "제곱시컨트 적분",
+    "vars": "x 각",
+    "hint": "시컨트 제곱을 적분하면 탄젠트가 된다"
+  },
+  {
+    "id": "int-sin",
+    "label": "∫sinxdx=-cosx+C",
+    "prompt": "∫sinxdx=○○+C",
+    "tokens": [
+      "-cos",
+      "x"
+    ],
+    "name": "사인 적분",
+    "vars": "x 각",
+    "hint": "사인을 적분하면 음의 코사인이 된다"
+  },
+  {
+    "id": "cos-double-3",
+    "label": "cos 2x=1-2sin²x",
+    "prompt": "cos 2x=1-○○○",
+    "tokens": [
+      "2",
+      "sin²",
+      "x"
+    ],
+    "name": "코사인 배각공식",
+    "vars": "x 각",
+    "hint": "코사인 배각을 사인 제곱만으로 나타낸 변형식"
+  },
+  {
+    "id": "cos-double-2",
+    "label": "cos 2x=2cos²x-1",
+    "prompt": "cos 2x=○○○-1",
+    "tokens": [
+      "2",
+      "cos²",
+      "x"
+    ],
+    "name": "코사인 배각공식",
+    "vars": "x 각",
+    "hint": "코사인 배각을 코사인 제곱만으로 나타낸 변형식"
+  },
+  {
+    "id": "deriv-sqrt",
+    "label": "d/dx √x=1/(2√x)",
+    "prompt": "d/dx √x=1/○○",
+    "tokens": [
+      "(2",
+      "√x)"
+    ],
+    "name": "제곱근 미분",
+    "vars": "x 변수(x>0)",
+    "hint": "제곱근을 미분하면 2배 제곱근의 역수가 된다"
+  },
+  {
+    "id": "deriv-cos",
+    "label": "d/dx cosx=-sinx",
+    "prompt": "d/dx cosx=○○",
+    "tokens": [
+      "-si",
+      "nx"
+    ],
+    "name": "코사인 미분",
+    "vars": "x 각",
+    "hint": "코사인을 미분하면 음의 사인이 된다"
+  },
+  {
+    "id": "deriv-tan",
+    "label": "d/dx tanx=sec²x",
+    "prompt": "d/dx tanx=○○",
+    "tokens": [
+      "sec",
+      "²x"
+    ],
+    "name": "탄젠트 미분",
+    "vars": "x 각",
+    "hint": "탄젠트를 미분하면 시컨트 제곱이 된다"
+  },
+  {
+    "id": "deriv-xlnx",
+    "label": "d/dx xlnx=lnx+1",
+    "prompt": "d/dx xlnx=○○",
+    "tokens": [
+      "lnx",
+      "+1"
+    ],
+    "name": "xlnx의 미분",
+    "vars": "x 변수(x>0)",
+    "hint": "곱의 미분을 적용해 자연로그에 1을 더한 값이 된다"
+  },
+  {
+    "id": "int-sqrt",
+    "label": "∫√xdx=⅔x^(3/2)+C",
+    "prompt": "∫√xdx=○x^(3/2)+C",
+    "tokens": [
+      "⅔"
+    ],
+    "name": "제곱근 적분",
+    "vars": "x 변수(x≥0)",
+    "hint": "제곱근을 적분하면 3분의 2배의 1.5제곱이 된다"
+  },
+  {
+    "id": "int-csc2",
+    "label": "∫csc²xdx=-cotx+C",
+    "prompt": "∫csc²xdx=○○+C",
+    "tokens": [
+      "-cot",
+      "x"
+    ],
+    "name": "제곱코시컨트 적분",
+    "vars": "x 각",
+    "hint": "코시컨트 제곱을 적분하면 음의 코탄젠트가 된다"
+  },
+  {
+    "id": "deriv-cosh",
+    "label": "d/dx coshx=sinhx",
+    "prompt": "d/dx coshx=○○",
+    "tokens": [
+      "sinh",
+      "x"
+    ],
+    "name": "쌍곡코사인 미분",
+    "vars": "x 실수",
+    "hint": "쌍곡코사인을 미분하면 쌍곡사인이 된다"
+  },
+  {
+    "id": "deriv-cot",
+    "label": "d/dx cotx=-csc²x",
+    "prompt": "d/dx cotx=○○",
+    "tokens": [
+      "-csc",
+      "²x"
+    ],
+    "name": "코탄젠트 미분",
+    "vars": "x 각",
+    "hint": "코탄젠트를 미분하면 음의 코시컨트 제곱이 된다"
+  },
+  {
+    "id": "deriv-sinh",
+    "label": "d/dx sinhx=coshx",
+    "prompt": "d/dx sinhx=○○",
+    "tokens": [
+      "cosh",
+      "x"
+    ],
+    "name": "쌍곡사인 미분",
+    "vars": "x 실수",
+    "hint": "쌍곡사인을 미분하면 쌍곡코사인이 된다"
+  },
+  {
+    "id": "chain-rule",
+    "label": "dy/dx=dy/du·du/dx",
+    "prompt": "dy/dx=○○·du/dx",
+    "tokens": [
+      "dy/",
+      "du"
+    ],
+    "name": "연쇄법칙",
+    "vars": "u 중간변수",
+    "hint": "합성함수는 바깥과 안쪽 도함수를 차례로 곱해 미분한다"
+  },
+  {
+    "id": "int-sec",
+    "label": "∫secxtanxdx=secx+C",
+    "prompt": "∫secxtanxdx=○+C",
+    "tokens": [
+      "secx"
+    ],
+    "name": "시컨트·탄젠트 적분",
+    "vars": "x 각",
+    "hint": "시컨트와 탄젠트의 곱을 적분하면 시컨트가 된다"
+  },
+  {
+    "id": "cos-double-1",
+    "label": "cos 2x=cos²x-sin²x",
+    "prompt": "cos 2x=cos²x-○○",
+    "tokens": [
+      "sin²",
+      "x"
+    ],
+    "name": "코사인 배각공식",
+    "vars": "x 각",
+    "hint": "두 배 각의 코사인을 코사인·사인 제곱의 차로 나타낸다"
+  },
+  {
+    "id": "power-cos2",
+    "label": "cos²x=(1+cos 2x)/2",
+    "prompt": "cos²x=(1+○○)/2",
+    "tokens": [
+      "cos ",
+      "2x"
+    ],
+    "name": "코사인 차수내림",
+    "vars": "x 각",
+    "hint": "코사인 제곱을 배각 코사인으로 차수를 낮춰 나타낸다"
+  },
+  {
+    "id": "deriv-sec",
+    "label": "d/dx secx=secxtanx",
+    "prompt": "d/dx secx=○○",
+    "tokens": [
+      "secx",
+      "tanx"
+    ],
+    "name": "시컨트 미분",
+    "vars": "x 각",
+    "hint": "시컨트를 미분하면 시컨트와 탄젠트의 곱이 된다"
+  },
+  {
+    "id": "power-sin2",
+    "label": "sin²x=(1-cos 2x)/2",
+    "prompt": "sin²x=(1-○○)/2",
+    "tokens": [
+      "cos ",
+      "2x"
+    ],
+    "name": "사인 차수내림",
+    "vars": "x 각",
+    "hint": "사인 제곱을 배각 코사인으로 차수를 낮춰 나타낸다"
+  },
+  {
+    "id": "int-tan",
+    "label": "∫tanxdx=-ln|cosx|+C",
+    "prompt": "∫tanxdx=○|cosx|+C",
+    "tokens": [
+      "-ln"
+    ],
+    "name": "탄젠트 적분",
+    "vars": "x 각",
+    "hint": "탄젠트를 적분하면 음의 코사인 절댓값 자연로그가 된다"
+  },
+  {
+    "id": "deriv-csc",
+    "label": "d/dx cscx=-cscxcotx",
+    "prompt": "d/dx cscx=○○○",
+    "tokens": [
+      "-csc",
+      "x",
+      "cotx"
+    ],
+    "name": "코시컨트 미분",
+    "vars": "x 각",
+    "hint": "코시컨트를 미분하면 음의 코시컨트와 코탄젠트 곱이다"
+  },
+  {
+    "id": "deriv-logax",
+    "label": "d/dx logₐx=1/(xlna)",
+    "prompt": "d/dx logₐx=1/○○",
+    "tokens": [
+      "(x",
+      "lna)"
+    ],
+    "name": "로그함수 미분",
+    "vars": "a 밑, x 변수(x>0)",
+    "hint": "밑이 a인 로그를 미분하면 x와 자연로그 a의 곱의 역수"
+  },
+  {
+    "id": "sin-double",
+    "label": "sin 2x=2 sin x cos x",
+    "prompt": "sin 2x=2 ○○○○",
+    "tokens": [
+      "sin ",
+      "x ",
+      "cos ",
+      "x"
+    ],
+    "name": "사인 배각공식",
+    "vars": "x 각",
+    "hint": "두 배 각의 사인을 사인과 코사인의 곱으로 나타낸다"
+  },
+  {
+    "id": "int-arctan",
+    "label": "∫1/(1+x²)dx=arctanx+C",
+    "prompt": "∫1/(1+x²)dx=○○+C",
+    "tokens": [
+      "arc",
+      "tanx"
+    ],
+    "name": "역탄젠트 적분",
+    "vars": "x 실수",
+    "hint": "1과 x 제곱 합의 역수를 적분하면 역탄젠트가 된다"
+  },
+  {
+    "id": "cos-half",
+    "label": "cos²(x/2)=(1+cos x)/2",
+    "prompt": "cos²(x/2)=(1+○○)/2",
+    "tokens": [
+      "cos ",
+      "x"
+    ],
+    "name": "코사인 반각공식",
+    "vars": "x 각",
+    "hint": "절반 각의 코사인 제곱을 원래 각의 코사인으로 나타낸다"
+  },
+  {
+    "id": "deriv-arctan",
+    "label": "d/dx arctanx=1/(1+x²)",
+    "prompt": "d/dx arctanx=1/○○",
+    "tokens": [
+      "(1+",
+      "x²)"
+    ],
+    "name": "역탄젠트 미분",
+    "vars": "x 실수",
+    "hint": "역탄젠트를 미분하면 1과 x 제곱 합의 역수가 된다"
+  },
+  {
+    "id": "sin-half",
+    "label": "sin²(x/2)=(1-cos x)/2",
+    "prompt": "sin²(x/2)=(1-○○)/2",
+    "tokens": [
+      "cos ",
+      "x"
+    ],
+    "name": "사인 반각공식",
+    "vars": "x 각",
+    "hint": "절반 각의 사인 제곱을 원래 각의 코사인으로 나타낸다"
+  },
+  {
+    "id": "int-arcsin",
+    "label": "∫1/√(1-x²)dx=arcsinx+C",
+    "prompt": "∫1/√(1-x²)dx=○○+C",
+    "tokens": [
+      "arc",
+      "sinx"
+    ],
+    "name": "역사인 적분",
+    "vars": "x 변수(|x|<1)",
+    "hint": "1과 x 제곱 차의 제곱근 역수를 적분하면 역사인이 된다"
+  },
+  {
+    "id": "deriv-arcsin",
+    "label": "d/dx arcsinx=1/√(1-x²)",
+    "prompt": "d/dx arcsinx=1/○○",
+    "tokens": [
+      "√(1-",
+      "x²)"
+    ],
+    "name": "역사인 미분",
+    "vars": "x 변수(|x|<1)",
+    "hint": "역사인을 미분하면 1과 x 제곱 차의 제곱근 역수가 된다"
+  }
+]
