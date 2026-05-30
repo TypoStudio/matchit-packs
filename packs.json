@@ -1,10 +1,5 @@
 [
   {
-    "name": "과일 모으기",
-    "url": "arcade/fruit-emoji/pack.json",
-    "levels": 2
-  },
-  {
     "name": "국사",
     "url": "history/korean-history/pack.json",
     "levels": 10
