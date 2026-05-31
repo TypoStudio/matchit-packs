@@ -28,10 +28,5 @@
     "name": "화학식",
     "url": "science/science-core/pack.json",
     "levels": 10
-  },
-  {
-    "name": "과일 모으기",
-    "url": "arcade/fruit-emoji/pack.json",
-    "levels": 1
   }
 ]
